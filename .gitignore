@@ -1,0 +1,16 @@
+# secret APi key
+.env
+
+# Python environment
+venv/
+__pycache__/
+
+# Mac
+.DS_Store
+
+# database files (rebuilt by the pipeline)
+*.duckdb
+*.duckdb.wal
+
+# test leftovers
+.pytest_cache/
