@@ -1,0 +1,167 @@
+{
+  "locationId": "1-10330299332",
+  "providerId": "1-126775024",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Haringey Alcohol Service",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2021-04-22",
+  "dormancy": "N",
+  "onspdLatitude": 51.5772921,
+  "onspdLongitude": -0.0827433,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "590 Seven Sisters Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N15 6HR",
+  "uprn": "100023154288",
+  "mainPhoneNumber": "02088013999",
+  "website": "www.humankindcharity.org.uk/service/haga-alcohol-service/",
+  "numberOfBeds": 0,
+  "constituency": "Tottenham",
+  "localAuthority": "Haringey",
+  "lastInspection": {
+    "date": "2022-09-12"
+  },
+  "lastReport": {
+    "publicationDate": "2022-11-11"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Joanna",
+          "personFamilyName": "Choi",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Danny",
+          "personFamilyName": "Heckman",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-11-11",
+      "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-11-11",
+          "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-11-11",
+          "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-11-11",
+          "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-11-11",
+          "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-11-11",
+          "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17"
+        }
+      ]
+    },
+    "reportDate": "2022-11-11",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Good",
+        "reportDate": "2022-11-11",
+        "reportLinkId": "80830064-0bab-4a51-81e3-5ddff6977a17",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "80830064-0bab-4a51-81e3-5ddff6977a17",
+      "reportDate": "2022-11-11",
+      "firstVisitDate": "2022-09-12",
+      "reportUri": "/reports/80830064-0bab-4a51-81e3-5ddff6977a17?20221111080130",
+      "reportType": "Location"
+    }
+  ]
+}

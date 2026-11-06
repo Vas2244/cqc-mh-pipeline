@@ -1,0 +1,299 @@
+{
+  "locationId": "TAF72",
+  "providerId": "G6V2S",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Highgate Mental Health Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.566612,
+  "onspdLongitude": -0.142348,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Dartmouth Park Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N19 5NX",
+  "mainPhoneNumber": "02075303500",
+  "website": "www.candi.nhs.uk",
+  "constituency": "Hampstead and Highgate",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2022-11-23"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P4",
+      "name": "Prison Healthcare"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcommunityautism",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2369985472",
+          "reportLinkId": "2461e7b0-f69e-44d3-b00f-4cd39d448e07",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "7bb084a7-d385-4945-9d88-2d20b7792b45",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "938fc0aa-eece-488c-a392-ccb177c1c1ea",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-6345779511",
+          "reportLinkId": "f723e8bc-b553-4539-be57-4dae50a1288b",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "SPL1-2369985472",
+          "reportLinkId": "beb898b2-0ff0-4e6a-a0af-b608ce85b539",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "01b9d638-e905-4740-a015-531afb3ec152",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-6345779511",
+          "reportLinkId": "81a37cc2-48b7-4558-b708-c5d035a66073",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "SPL1-2369985472",
+          "reportLinkId": "99e6f343-5b2d-4826-9a55-e0dbf8e32c41",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "e805862c-ebc4-403e-85c5-2fa0d6187c92",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2369985472",
+          "reportLinkId": "c7822ab0-c7f3-4d94-8411-71966473be0c",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "9229015f-6d79-4f2a-9d1a-d1b7def329ba",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS1-2148571522",
+          "reportLinkId": "4e63ba47-e86e-4a0e-9bdb-c9e0edc061e0",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-14631163321",
+          "reportLinkId": "bbd92f89-c3ef-4451-8379-63a6f2cb2bb4",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-6345779511",
+          "reportLinkId": "84c1b03e-0757-490a-a4fd-0d4a647b8bbd",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "SPL1-2369985472",
+          "reportLinkId": "56ccd868-6686-44f3-9d8c-d9e9172e2ba3",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "8182e5e1-3686-4dd6-89fa-bcca39749440",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "reports": [
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "24775e8a-a59b-4787-95e3-e1b3b85da3b0",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2369985472",
+          "reportLinkId": "7df52b11-9c35-4c0d-9a12-67b9963e3ad8",
+          "providerId": "G6V2S",
+          "locationId": "TAF72"
+        },
+        {
+          "inspectionId": "INS2-4441219921",
+          "reportLinkId": "36b34303-8a7d-47e8-9c9f-9ec84fa9abdb",
+          "providerId": "TAF",
+          "locationId": "TAF72"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2015-08-03"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "c7f6cdcf-c347-486b-a15f-d4bd2d7d059b",
+      "reportDate": "2012-10-28",
+      "firstVisitDate": "2012-09-17",
+      "reportUri": "/reports/c7f6cdcf-c347-486b-a15f-d4bd2d7d059b?20200430120000"
+    },
+    {
+      "linkId": "68748ffb-8767-459e-b46e-d7522815d64f",
+      "reportDate": "2012-10-25",
+      "firstVisitDate": "2012-08-15",
+      "reportUri": "/reports/68748ffb-8767-459e-b46e-d7522815d64f?20200430120000"
+    }
+  ]
+}

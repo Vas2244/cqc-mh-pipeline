@@ -1,0 +1,1288 @@
+{
+  "locationId": "RKL53",
+  "providerId": "RKL",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "St Bernard\u0027s Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.506667,
+  "onspdLongitude": -0.349737,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Uxbridge Road",
+  "postalAddressTownCity": "Southall",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "UB1 3EU",
+  "mainPhoneNumber": "02083548354",
+  "website": "www.westlondon.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ealing Southall",
+  "localAuthority": "Ealing",
+  "lastInspection": {
+    "date": "2023-11-30"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospital",
+      "description": "Acute services with overnight beds"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Prison healthcare",
+      "description": "Prison Healthcare Services"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H1",
+      "name": "Acute hospital - NHS non-specialist"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "6df60055-70c2-4d72-a1bb-8c037ff3fd95",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "INS2-5962748161",
+          "reportLinkId": "36a61346-a448-43bc-96e4-9d61506da9be",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "3522d5be-84fe-48be-87cc-a0325b7ff661",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "829aa10d-944b-4949-8897-41bbd11fc007",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "058fb296-4de3-418f-a25c-c176262bd74e",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "ffe10bbd-2263-46cc-87f3-1e36ce24f4e5",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "a615c89b-6f2b-4389-85e9-081c15636474",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "c1d2a974-32f8-4e38-9c74-087b1bf3f08e",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-18837063913",
+          "reportLinkId": "0b1bfc7a-63c4-446c-8955-b84d0ba4594d",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "fb434a4a-43c1-47d6-9eaf-4c8d269daa36",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "INS1-2652581994",
+          "reportLinkId": "ba4ff830-929f-41e3-9719-f0914f280636",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "INS2-14758649451",
+          "reportLinkId": "dce8ff3f-4965-4993-94e3-a7006ef1ab0c",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "80ef89ff-ba75-41bf-806a-2fbf26054d82",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "2b215fe0-9f2b-4193-b3df-ee8343f3f499",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "f4cb535f-87a9-4895-9c15-f8094de660f3",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "1fd4a95e-7800-4226-b0a0-eded316d6bf4",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "bcd8ceab-88bf-437f-82ba-435c83af68a3",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "5a05ac30-9cb3-4fa6-9222-d3ae15b4421d",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "330e46ef-93ac-4e11-9667-32ed3481d71c",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "2cbf5b14-47d4-43c3-ae87-a4ed5dcf94ad",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "7724167a-47c3-4b9e-8e1a-abdca59de296",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-4376295457",
+          "reportLinkId": "6fc741ce-4a5b-413f-8e52-7d61ad51804e",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "INS2-5962748161",
+          "reportLinkId": "4661e44e-fa86-488d-98f1-b63d3b25a8bb",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "44bcefa9-5b89-4695-90d3-b776d52027ee",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "1bc99255-2426-41d3-aaba-6e2d3cfcec15",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "7805123e-7612-46e8-995f-ab5a8396eac4",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2041119505",
+          "reportLinkId": "05159337-2159-4ec2-9779-60b76d7754c6",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        },
+        {
+          "inspectionId": "SPL1-2793363546",
+          "reportLinkId": "6b81a7a1-5719-4304-a675-66462e5c2015",
+          "providerId": "RKL",
+          "locationId": "RKL53"
+        }
+      ]
+    }
+  ],
+  "historicRatings": [
+    {
+      "overall": {
+        "rating": "No published rating",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "No published rating"
+          },
+          {
+            "name": "Well-led",
+            "rating": "No published rating"
+          },
+          {
+            "name": "Caring",
+            "rating": "No published rating"
+          },
+          {
+            "name": "Responsive",
+            "rating": "No published rating"
+          },
+          {
+            "name": "Effective",
+            "rating": "No published rating"
+          }
+        ]
+      }
+    }
+  ],
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2016-08-16"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "7c5e7054-fc95-4561-abac-22aa8a81e2c4",
+      "reportDate": "2013-11-14",
+      "firstVisitDate": "2013-10-14",
+      "reportUri": "/reports/7c5e7054-fc95-4561-abac-22aa8a81e2c4?20200129163919"
+    },
+    {
+      "linkId": "b5d0f30d-0f52-4ba8-b705-3c80cb501e2e",
+      "reportDate": "2012-11-01",
+      "firstVisitDate": "2012-10-03",
+      "reportUri": "/reports/b5d0f30d-0f52-4ba8-b705-3c80cb501e2e?20200430120000"
+    },
+    {
+      "linkId": "b891f571-6072-4fd0-87db-5c4bbf5f8bcc",
+      "reportDate": "2011-11-22",
+      "firstVisitDate": "2011-08-01",
+      "reportUri": "/reports/b891f571-6072-4fd0-87db-5c4bbf5f8bcc?20200430120000"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "269",
+      "assessmentServiceName": "Wards for older people with mental health problems",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-09-17 09:00:00",
+      "ratings": {
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP24213",
+            "title": "Ongoing Assessment for St Bernard\u0027s Hospital",
+            "assessmentDate": "2026-04-07",
+            "assessmentPlanStatus": "Active",
+            "name": "Wards for older people with mental health problems",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EWe carried out a short notice announced assessment of all mental health wards for older adults delivered by West London NHS Trust. We inspected 3 wards across 3 sites between 7 -9 July 2026. We assessed 34 quality statements across Safe, Effective, Caring, Responsive and Well Led key questions.\u003C/p\u003E\u003Cp\u003EDuring this assessment, the inspection team:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003Evisited 3 wards\u003C/li\u003E\u003Cli\u003Ereviewed the environment on each ward and observed staff supporting patients\u003C/li\u003E\u003Cli\u003Espoke with a range of staff including ward managers, registered nurses, consultant psychiatrists, ward doctors, activity co-ordinators, psychologists, healthcare assistants, physiotherapists, discharge co-ordinators, safeguarding leads, pharmacist leads, matrons and occupational therapists.\u003C/li\u003E\u003Cli\u003Espoke with the Clinical Director, Deputy Director of Nursing, service directors,\u003C/li\u003E\u003Cli\u003Espoke with 9 patients and 9 carers\u003C/li\u003E\u003Cli\u003Ereviewed the care and treatment records for 10 patients\u003C/li\u003E\u003Cli\u003Ecarried out a Mental Health Act monitoring visit\u003C/li\u003E\u003Cli\u003Ereviewed medicine management on all three wards, including checking prescription charts, medication records and associated Mental Health Act documentation\u003C/li\u003E\u003Cli\u003Eattended 3 safety huddle meetings and 1 ward round\u003C/li\u003E\u003Cli\u003Ereviewed other documents, performance data and policies relating to the running of the service\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EThe inspection team comprised of 2 CQC inspectors, 1 specialist advisor, 1 CQC Pharmacy Specialist and 1 Mental Health Act Reviewer.\u003C/p\u003E\u003Cp\u003EThe wards we visited were:\u003C/p\u003E\u003Cp\u003EMeridian ward - 18 beds for male and female patients and is located on the ground floor of Hammersmith and Fulham Mental Health Unit. The ward offers an assessment and treatment inpatient service to older adults who have functional and organic mental health disorders.\u003C/p\u003E\u003Cp\u003EJubilee ward - 18 beds for male and female patients and is located on the ground floor of an old Victorian building at St Bernard\u2019s Hospital. The ward offers an assessment and treatment inpatient service to patients with a mixture of functional and organic mental health disorders.\u003C/p\u003E\u003Cp\u003EThe Limes - 10 beds for male and female patients and is a ground floor stand-alone unit in Southall. This service provides a step down from the other 2 wards in the trust and provides a service for patients with functional and organic mental health disorders who require more time in an inpatient environment.\u003C/p\u003E\u003Cp\u003EWe carried out this comprehensive assessment due to the aged rating for this service. The service was last inspected in 2018. At that inspection safe was rated as requires improvement and effective, caring, responsive and well-led were rated as good. Our overall rating was good.\u003C/p\u003E\u003Cp\u003EAt our last inspection we found one breach of regulation on Meridian ward relating to the identification and recording of restraint incidents. At this inspection, we found that the service had made improvements and the service was no longer in breach of regulation in this area.\u003C/p\u003E\u003Cp\u003EThe scores from the quality statements covered during this inspection have been combined and calculated. These calculate the new key question ratings. At this inspection we rated this service as good in each domain, and good overall.\u003C/p\u003E\u003Cp\u003EPatients were protected from avoidable harm. Staff recognised and managed risks well, including risks associated with falls, malnutrition, pressure care, deterioration and safeguarding. Care records supported safe practice, and systems for reporting, learning from and responding to incidents were well embedded.\u003C/p\u003E\u003Cp\u003ECare and treatment was effective. Staff assessed people\u2019s needs thoroughly and worked well together across teams and with partner organisations to deliver joined-up care. Staff developed holistic, recovery-orientated care plans informed by a comprehensive assessment. They provided a range of treatments suitable to the needs of the patients and in line with national guidance about best practice. Staff engaged in clinical audits to evaluate the quality of care they provided.\u003C/p\u003E\u003Cp\u003EThe multidisciplinary team included or had access to a range of specialists required to meet the needs of patients. Managers ensured that these staff received training, supervision and appraisal.\u003C/p\u003E\u003Cp\u003EStaff mostly treated patients with care and kindness, respected their privacy and dignity, and understood their individual needs. Patients and carers were involved in care decisions where appropriate.\u003C/p\u003E\u003Cp\u003EServices were responsive to people\u2019s needs. Care was person-centred, and staff acted promptly when people\u2019s condition changed. Staff had introduced improvements in response to feedback from patient\u2019s and carers.\u003C/p\u003E\u003Cp\u003EThe service was well-led. Leaders were visible, approachable, and had a good understanding of the challenges facing the older people\u0027s wards. They were aware of areas requiring improvement and where additional support was needed, and they took appropriate action to provide this support. Governance processes mostly operated effectively, and performance and risk were managed well. Staff reported feeling valued and supported.\u003C/p\u003E\u003Cp\u003EDuring this inspection we found 1 breach of the regulations in relation to safe care and treatment relating to medicines management.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Health Act and Mental Capacity Act Compliance Summary\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Health Act\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EOver 92% of staff had received training in the Mental Health Act.\u003C/p\u003E\u003Cp\u003EStaff were trained in and had a good understanding of the Mental Health Act, the Code of Practice and the guiding principles.\u003C/p\u003E\u003Cp\u003EStaff had easy access to administrative support and legal advice on implementation of the Mental Health Act and its Code of Practice. Staff knew who their Mental Health Act administrators were.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Capacity Act\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EMost staff had completed their training in the Mental Capacity Act. Over 94% of staff had completed this training.\u003C/p\u003E\u003Cp\u003EStaff appropriately assessed and documented patients\u2019 capacity to consent on a decision-specific basis; we saw clear evidence of these in patients\u2019 care records.\u003C/p\u003E\u003Cp\u003EStaff had a good understanding of the Mental Capacity Act.\u003C/p\u003E\u003Cp\u003EStaff knew where to get advice from within the provider regarding the Mental Capacity Act.\u003C/p\u003E\u003Cp\u003EStaff took all practical steps to enable patients to make their own decisions.\u003C/p\u003E\u003Cp\u003EFor patients who might have impaired mental capacity, staff assessed and recorded capacity to consent appropriately. They did this on a decision-specific basis with regard to significant decisions.\u003C/p\u003E\u003Cp\u003EWhen patients lacked capacity, staff made decisions in their best interests, recognising the importance of the person\u2019s wishes, feelings, culture and history.\u003C/p\u003E\u003Cp style=\u0022margin-left:48px\u0022\u003E\u00A0\u003C/p\u003E",
+            "commentaryDate": "2026-09-16",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EDuring this inspection we spoke with 9 patients and 9 relatives/carers of patients across all 3 wards. Patient feedback overall was positive. They told us that staff treated them well and they felt safe. We observed activities taking place on Meridian and The Limes. Patients were observed to be positive and happy with the activity provided. Patients at The Limes were overwhelmingly positive about their care experience. Two patients on Jubilee ward reported that they wanted to be more involved in their care.\u003C/p\u003E\u003Cp\u003ECarer feedback was mixed across the wards visited. Three carers told us that communication between them and the ward staff could be improved. They did not always feel involved in their relative\u2019s care. Two carers commented that the culture on Jubilee ward needed to improve. Other carers told us they were involved and had attended care programme approach meetings.\u003C/p\u003E\u003Cp\u003EOn Meridian ward a carer told us that they \u2018would be happy and confident in their relative returning to the ward in the future\u2019. Another carer told us ward staff were \u201Creally nice people\u201D and that they were \u201Ckind and helpful\u201D. At the Limes a carer commented \u201CIt is like heaven here. The manager is particularly good, and staff are willing and helpful. They are so friendly and support me.\u201D\u003C/p\u003E\u003Cp\u003EThroughout the inspection we mostly saw positive interactions between staff and patients. We observed staff communicate in a way that was suitable for the person\u2019s communication needs.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-09-13",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated caring as good. At this assessment the rating has remained good. Staff respected and valued patients as individuals; and supported them to be involved in decisions about their care.\u003C/p\u003E\u003Cp\u003EStaff treated patients with compassion and kindness. They mostly respected patients\u2019 privacy and dignity. They understood the individual needs of patients and supported patients to understand and manage their care, treatment or condition. Staff involved patients in care planning and risk assessment and actively sought their feedback on the quality of care provided. Staff informed and involved families and carers appropriately.\u003C/p\u003E",
+                "commentaryDate": "2026-08-20",
+                "narrative": "This service is caring",
+                "percentageScore": "70",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service promoted people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EStaff supported patients to maintain contact with their families where possible. Patients were supported to keep in touch with their families through face-to-face visits or remotely on the phone or video calls. The service supported families to keep in touch with their relatives, visit the service when possible, and attend care programme approach meetings either in person or remotely. \u003C/p\u003E\u003Cp\u003EWe saw that carers were involved in patients\u0027 care and were invited to attend meetings and events. Staff routinely sought feedback from carers about the service provided. Carers reported that clearer communication regarding ward routines would be beneficial, particularly in relation to visiting times, ward round arrangements, and how to contact the nurse in charge. Carers were also able to provide feedback through the Trust\u0027s Friends and Family Test questionnaire.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe evidence showed some shortfalls. The service did not always respect people\u2019s privacy and dignity. However, staff mostly treated people with kindness, empathy and compassion.\u003C/p\u003E\u003Cp\u003EWe spoke with 9 patients and 9 relatives/carers of patients across all 3 wards. Patient feedback overall was positive. They said staff treated them well and behaved appropriately towards them. We heard comments included that the staff were \u201Cgood\u201D and that they \u201Cworked hard\u201D. Two patients on Jubilee ward reported that they wanted to be more involved in their care and treatment. All the patients at The Limes were very positive about their care. Comments included \u201Cstaff are very nice and helpful\u201D, \u201Cphysical care is given with kindness\u201D and that they \u201Cfeel safe\u201D.\u003C/p\u003E\u003Cp\u003ECarer feedback was mixed across the wards visited. A consistent theme identified on both Jubilee and Meridian wards was the quality and consistency of communication with carers. On Jubilee ward, carers raised concerns about staff attitudes and reported that nurses were frequently in the office rather than visible on the ward. In contrast, feedback from carers on The Limes was overwhelmingly positive, with carers expressing satisfaction with the care provided and their interactions with staff.\u003C/p\u003E\u003Cp\u003EDuring our site visit we undertook 3 short observational framework for inspection (SOFI) observations during our inspection on each ward. These observations demonstrated that most staff interactions with people were discreet, respectful, and responsive, with support provided in a timely manner when needed. However, on Meridian Ward, we observed one patient having their blood glucose monitored at the dining table, which did not fully promote privacy and dignity. We also observed a member of staff abruptly removing a piece of cutlery from a patient, which did not reflect the respectful approach expected in patient care. We saw other observations on all three wards where patients were laughing, on Meridian ward patients engaged in an art activity, on The Limes patients playing skittles. We saw some one-to-one activities on Jubilee ward as a group activity was abandoned due to the acuity levels.\u003C/p\u003E\u003Cp\u003EWe observed staff knocking on bathroom and bedroom doors. However, on Jubilee ward the bathroom and toilet doors opened outwards and patients were visible using the toilet to people in the corridor. This compromised patient\u2019s privacy. The concerns regarding the door design and opening were already identified in the ward environmental improvement plan.\u003C/p\u003E\u003Cp\u003EStaff supported people to understand and manage their care, treatment or condition. This was through regular one-to-one session, ward rounds, CPA meetings, meeting with psychologists, social workers and discharge co-ordinators. Staff provided assistance with aspects of daily living, activities, medicines and access to the community and external services.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good understanding of patients\u2019 individual needs and provided care that was respectful of their personal, cultural, social, and religious preferences. Care was delivered in a person-centred manner, recognising and valuing diversity and promoting equality. We saw that continence management aids, personal care items such as toothbrushes, denture pots and batteries for hearing aids were provided as required by individual patients. During the inspection, we observed that patients were supported to wear their own clothing and footwear, including examples of culturally sensitive practice. At The Limes, 2 patients were supported to wear culturally appropriate clothing that reflected their identity and beliefs. This demonstrated that staff respected patients\u2019 cultural backgrounds and supported them to express their individuality while maintaining their dignity and wellbeing.\u003C/p\u003E\u003Cp\u003EPatients we spoke with felt able to raise concerns or complaints and felt that they were listened to.\u003C/p\u003E\u003Cp\u003EStaff maintained the confidentiality of information about patients. Staff maintained confidentiality and only shared information with other agencies when it was necessary to keep people safe.\u003C/p\u003E\u003Cp\u003EStaff also said they felt empowered to raise concerns about disrespectful, discriminatory or abusive behaviour, and were confident that managers would listen and take action.\u003C/p\u003E\u003Cp\u003EStaff we spoke to told us they felt safe to raise any concerns about care if they had them. They were also aware of the freedom to speak up guardian and knew how to access this, should they need to.\u003C/p\u003E\u003Cp\u003EMeridian Ward facilitated a monthly carers\u0027 group, while Jubilee ward was exploring the reintroduction of a similar forum. During our review of carers\u0027 group meeting minutes from Meridian Ward, we found evidence that staff offered and explained carers\u0027 assessments, outlining how these could identify and provide appropriate support for individuals in their caring role.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-16"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service listened to and understood people\u2019s needs, views, and wishes, ensuring care remained person-centred and responsive to individual circumstances. Staff identified, assessed, and responded appropriately to changing risks to patients and risks posed by patients. Comprehensive risk assessments were completed for all patients on admission and were routinely reviewed and updated through multidisciplinary team discussions to ensure care remained safe and effective.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good understanding of patients\u2019 physical and mental health needs and were knowledgeable about how to respond promptly to healthcare emergencies, helping to minimise the risk of patients becoming distressed or unwell, both emotionally and physically. Staff consistently used de-escalation techniques and therapeutic engagement to reduce the need for restrictive practices when patients became distressed or their behaviours escalated.\u003C/p\u003E\u003Cp\u003EWhere required, patients had positive behavioural support plans in place. These plans clearly identified potential triggers, early warning signs of distress, and personalised strategies for staff to use in supporting patients safely and effectively. \u003C/p\u003E\u003Cp\u003EAppropriate systems and guidance were available to support staff in responding to patients\u2019 immediate needs. Bedrooms were equipped with nurse call alarms, and staff carried personal alarms to enable them to summon urgent assistance quickly when required, supporting a safe environment for both patients and staff.\u003C/p\u003E\u003Cp\u003EStaff were aware of specific individual risks, including falls, poor nutrition, and pressure ulcer risks, and these were appropriately assessed, monitored, and reflected within care plans. Risk management strategies were tailored to patients\u2019 needs and regularly reviewed to promote safety while supporting independence wherever possible. \u003C/p\u003E\u003Cp\u003EWe observed staff to be present in the communal areas engaging with patients and responding to patients\u2019 requests promptly.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service treated people as individuals and made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. They took account of people\u2019s strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics. Records showed that staff involved families and carers appropriately in patients\u2019 care and treatment. \u003C/p\u003E\u003Cp\u003EStaff within the service had a good understanding of people\u2019s mental health, their risk history and their social circumstances outside of the service. The service made adjustments for disabled patients. All three wards were on the ground floor and were accessible to disabled people. The service assessed and responded to patients\u2019 specific communication needs. \u003C/p\u003E\u003Cp\u003EStaff ensured that patients and their families could obtain information on treatments, local services, patients\u2019 rights, how to complain and so on. All 3 wards had clear patient information displayed. The information provided was in a form accessible to the patient group. Staff made information leaflets available in languages spoken by patients when required. \u003C/p\u003E\u003Cp\u003EStaff arranged interpreters for patients and carers and provided information in accessible formats if required.\u003C/p\u003E\u003Cp\u003EPatients had access to a choice of meals that met a range of dietary requirements, including those relating to religious and cultural preferences, allergies, and intolerances. In the dining area, specialist equipment such as adapted cutlery and cups was available to support patients with additional needs to eat and drink independently. Where specialist equipment was purchased for an individual patient, it was allocated solely to that person for their exclusive use.\u003C/p\u003E\u003Cp\u003EStaff ensured that patients had access to appropriate spiritual support, for example at The Limes the local chaplain visited weekly. On Jubilee ward we heard of staff creating a dedicated space for a patient\u2019s prayer mat so that they could pray in line with their faith throughout the day.\u003C/p\u003E\u003Cp\u003EStaff understood and respected the individual needs of each patient. They adapted their approach to each individual and worked with patients\u2019 individual preferences. For example, at The Limes, a patient chose to sleep in a recliner chair rather than in their bed. Staff worked closely with the patient\u0027s family to understand their preferences and ensure their comfort and wellbeing. A person-centred approach was followed, with appropriate risk assessments and monitoring in place to support the patient\u0027s choice while maintaining their safety.\u003C/p\u003E\u003Cp\u003EThe staff and management team spoke respectfully about the patients they cared for and talked of valuing people and respecting their human rights. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service cared about and promoted the wellbeing of their staff. Adjustments were made for staff to support them in their roles. This included reasonable adjustments to working patterns, implementing a flexible working pattern alongside adjusting staff duties if there were any changes to their physical health.\u003C/p\u003E\u003Cp\u003EStaff said they felt respected, mostly supported and valued. Staff said they felt positive and proud about working for the provider and their team.\u003C/p\u003E\u003Cp\u003EStaff had access to support for their own physical and emotional health needs through an occupational health service that included access to counselling.\u003C/p\u003E\u003Cp\u003EThe provider recognised staff success within the service, including through staff awards. The ward manager on Jubilee ward had won the Trust Unsung Hero in Nursing Award in the 2026 Nursing Conference\u200B. The Allied Health Professionals physical health team for the service were the overall winners of Team of the Year at the Trust AHP Conference\u200B 2026.\u003C/p\u003E\u003Cp\u003EStaff appraisal and supervision sessions included conversations about wellbeing and personal development.\u003C/p\u003E\u003Cp\u003EIn February 2026, Jubilee ward was placed under a Level 2 Support and Intervention Procedure following concerns identified across a range of quality, safety, workforce, governance and leadership indicators. Prior to the implementation of the improvement plan, senior leaders met with ward staff to explain the reasons for the intervention and its intended purpose. The Trust\u0027s Freedom to Speak Up Guardian was also involved in the consultation process. This demonstrated a commitment from senior leaders to engage openly and transparently with staff, ensuring they were informed and given opportunities to raise questions and concerns regarding the planned improvements. Staff we spoke with on Jubilee ward confirmed that they were aware of the plan and the reasons for it.\u003C/p\u003E\u003Cp\u003EAt The Limes, staff were consulted and actively engaged regarding the proposed change in the ward\u0027s function and the associated reduction in bed numbers. This demonstrated that leaders sought staff views and involved them in the change process, helping to ensure that those affected were informed, able to contribute feedback, and supported to understand the rationale for the changes being implemented.\u003C/p\u003E\u003Cp\u003E\u200BWe reviewed each ward\u2019s action plan developed in response to the 2026 staff survey results. These plans identified areas for improvement based on feedback provided by staff and demonstrated how leaders had responded to concerns. On Jubilee ward, changes had been made to shift patterns to reduce the length of the working day and improve staff wellbeing. At The Limes, the staffing model had been reviewed in response to concerns about staff regularly working beyond their contracted hours. On Meridian Ward, plans were also in place to strengthen staff engagement and involvement in decision-making processes, particularly when changes to the service were being considered or implemented.\u003C/p\u003E\u003Cp\u003EStaff appraisals included conversations about career development and how it could be supported. We heard of many examples where staff had been able to progress. For example, at The Limes a healthcare facilitator completed the Trust apprenticeship programme and was now working as a nurse on the ward.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-16"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E",
+                "commentaryDate": "2026-08-20",
+                "narrative": "This service is effective",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/p\u003E\u003Cp\u003EWe reviewed 10 patient care and risk management plans.\u003C/p\u003E\u003Cp\u003EStaff completed a comprehensive physical and mental health assessment of the patient in a timely manner at, or soon after, admission.\u003C/p\u003E\u003Cp\u003EPatients\u0027 assessments considered mental health risk history, physical health risks, and dysphagia. A range of assessment tools were used, including the Malnutrition Universal Screening Tool (MUST), Waterlow pressure ulcer risk assessment, body mapping, continence assessments, venous thromboembolism (VTE) assessments, moving and handling assessments, swallowing assessments, and multifactorial falls risk assessments. As part of the admission process, staff assessed patients for any issues with dentition, vision, and hearing to identify additional needs and support effective care planning.\u003C/p\u003E\u003Cp\u003ECare plans were personalised, holistic and recovery orientated. They reflected the assessed needs of the patient. Staff regularly reviewed and updated care plans when patients\u0027 needs changed. Care plans mostly reflected patient views and involvement about their care and treatment.\u003C/p\u003E\u003Cp\u003EPatients\u2019 physical health needs were routinely identified, assessed, and clearly documented within their care plans.\u003C/p\u003E\u003Cp\u003EStaff assessed and met patients\u2019 nutritional and hydration needs, ensuring they had access to sufficient food and drink to support their well-being.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-13"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service told people about their rights around consent and respected these when delivering person-centred care and treatment. One carer told us that when their family member initially refused to consent to personal care, staff respected their decision. Staff subsequently approached the patient at a later time, and the patient then provided consent to the care. This demonstrated that staff respected patients\u0027 choices and sought consent before providing care.\u003C/p\u003E\u003Cp\u003EStaff took all practical steps to enable patients to make their own decisions as much as possible. For patients who might have impaired mental capacity, staff assessed and recorded capacity to consent appropriately. We saw that this was clearly recorded in all 10 records we viewed. They did this on a decision-specific basis with regard to significant decisions.\u003C/p\u003E\u003Cp\u003EWhen patients lacked capacity, staff made decisions in their best interests, recognising the importance of the person\u2019s wishes, feelings, culture, traditions and history. Staff assessed and recorded capacity to consent clearly each time a patient needed to make a decision. We saw capacity assessments that were time and decision specific for the patient based on their care and treatment. For one person, we saw that a best interest meeting had been undertaken where a patient required medicines covertly and involved the person\u0027s family and advocate.\u003C/p\u003E\u003Cp\u003EManagers monitored through regular audits how well the service followed the Mental Capacity Act and made changes to practice when necessary.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards. Staff understood their roles and responsibilities under the Mental Health Act 1983 and the Mental Health Act Code of Practice and discharged these well\u003C/p\u003E\u003Cp\u003EStaff provided a range of care and treatment interventions suitable for the older adults patient group. The interventions were those recommended by, and were delivered in line with, guidance from the National Institute for Health and Care Excellence. These included medication and psychological therapies and activities intended to help patients retain or improve living skills.\u003C/p\u003E\u003Cp\u003EStaff ensured that patients had timely access to physical healthcare services, including specialist support when required. Throughout their admission, staff supported and facilitated access to appropriate physical healthcare, including referrals to specialist services where necessary, for example cardiologists and neurologists. Staff maintained positive and effective working relationships with professionals from local acute hospitals and psychiatric liaison teams promoting coordinated and holistic care for patients. We observed physiotherapists supporting patients with mobility needs at The Limes.\u003C/p\u003E\u003Cp\u003EWhere required, staff used food and fluid charts for those patients who were vulnerable to poor nutrition to effectively monitor nutritional intake and hydration levels. Individual weight monitoring was carried out. Staff had access to thickener to aid swallowing, and dietary supplements as prescribed by the dietician. We observed on all 3 wards that staff offered regular drinks and ice lollies to patients due to excessive heat temperatures. Patients received timely access to specialist support, including dietetic and speech and language therapy services, when additional assessment or intervention was needed to support nutrition, hydration, or swallowing difficulties. Staff worked collaboratively with multidisciplinary professionals to provide safe, person-centred care and promote positive health outcomes.\u003C/p\u003E\u003Cp\u003EWard activities promoted healthy lifestyles for patients in line with their individual needs and preferences. Patients had access to garden facilities on each ward. Staff supported both group and one-to-one activities that generally reflected patients\u0027 interests. For example, we observed patients participating in skittles and board games at The Limes, while on Meridian Ward 4 patients were engaged in an art group. At The Limes the occupational therapist ran a weekly Cognitive Stimulation Therapy (CST) Group. This was an evidence-based intervention to support patients with dementia to maintain and enhance their cognitive skills and engagement.\u200B\u003C/p\u003E\u003Cp\u003EOn Jubilee ward we observed limited activities taking place. The activity coordinator attempted to facilitate the community meeting but was unable to continue due to the acuity levels of patients on the ward.\u003C/p\u003E\u003Cp\u003EStaff took part in clinical audits, benchmarking and quality improvement initiatives. Managers ensured staff carried out a range of audits to check that staff followed best practice guidance. These included audits of care plans, physical health, risk assessments, falls prevention, therapeutic observations and infection prevention and control. Managers reviewed the performance of the wards at monthly ward clinical improvement group meetings. Audit results were used to identify where improvements were needed.\u003C/p\u003E\u003Cp\u003EThe team included or had access to the full range of specialists required to meet the needs of patients in the service. As well as doctors and nurses, there were occupational therapists (OT), clinical psychologists, social workers, discharge co-ordinators, pharmacists, physiotherapists, speech and language therapists, dieticians, administrators and activity co-ordinators. Staff regularly met as a team. The care records we reviewed evidenced consistent input from the OT and psychology teams, reflecting the scope of therapeutic interventions offered. The clinical director for Jubilee ward and The Limes was an experienced Old Age Consultant Psychiatrist.\u003C/p\u003E\u003Cp\u003EStaff were experienced and qualified and had the right skills and knowledge to meet the needs of the patient group. Staff had undertaken specialist training in caring for older adults and specialist training in dementia care and working with behaviour that challenges.\u003C/p\u003E\u003Cp\u003EEach ward had registered general nurse on the staff team to provide support with patient\u2019s physical health needs. The care records we reviewed evidenced input from the OT and psychology teams.\u003C/p\u003E\u003Cp\u003EManagers provided all new staff with a structured and comprehensive induction programme, ensuring they were supported to understand both the Trust and ward-specific procedures and expectations. Staff reported that their induction was thorough and enabled them to develop the knowledge and skills required to undertake their roles effectively. The service supported student nurse placements and newly qualified nurses were supported through a comprehensive preceptorship programme.\u003C/p\u003E\u003Cp\u003EManagers provided staff with supervision (meetings to discuss case management, to reflect on and learn from practice, and for personal support and professional development) and appraisal of their work performance.\u003C/p\u003E\u003Cp\u003EStaff held regular and effective multidisciplinary meetings. Staff attended monthly team meetings where they discussed topics such as incidents, safeguarding, lessons learnt and training. Meeting minutes for each ward were reviewed.\u003C/p\u003E\u003Cp\u003EThe percentage of staff that had had an appraisal in the last 12 months was above 90%.\u003C/p\u003E\u003Cp\u003EThe percentage of staff that received regular supervision was above 92%.\u003C/p\u003E\u003Cp\u003EManagers identified the learning needs of staff and provided them with opportunities to develop their skills and knowledge. Managers ensured that staff received the necessary specialist training for their roles.\u003C/p\u003E\u003Cp\u003EManagers dealt with poor staff performance promptly and effectively.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Health Act\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EA Mental Health Act (MHA) monitoring visit was carried out at the same time as this assessment. A separate visit report has been issued to the service.\u003C/p\u003E\u003Cp\u003EOver 92% of staff had received training in the Mental Health Act.\u003C/p\u003E\u003Cp\u003EStaff were trained in and had a good understanding of the Mental Health Act, the Code of Practice and the guiding principles.\u003C/p\u003E\u003Cp\u003EStaff had easy access to administrative support and legal advice on implementation of the Mental Health Act and its Code of Practice. Staff knew who their Mental Health Act administrators were.\u003C/p\u003E\u003Cp\u003EStaff had easy access to local Mental Health Act policies and procedures and to the Code of Practice.\u003C/p\u003E\u003Cp\u003EPatients had easy access to information about independent mental health advocacy. On all 3 wards information about the independent mental health advocacy service was clearly displayed on the noticeboards and included in the welcome pack that all patients received on admission. Patients who lacked capacity were automatically referred to the service. The advocates supported patients with tribunal hearings, ward rounds, care programme approach (CPA) meetings, community meetings and complaints.\u003C/p\u003E\u003Cp\u003EStaff explained to patients their rights under the Mental Health Act in a way that they could understand, repeated it as required and recorded that they had done it. Patient records we looked at showed staff were discussing patient rights with them on a regular basis.\u003C/p\u003E\u003Cp\u003EStaff ensured that patients were able to take Section 17 leave (permission for patients to leave hospital) when this has been granted. All section 17 leave was risk assessed beforehand by the multidisciplinary team.\u003C/p\u003E\u003Cp\u003EStaff requested an opinion from a second opinion appointed doctor when necessary.\u003C/p\u003E\u003Cp\u003EStaff stored copies of patients\u0027 detention papers and associated records (for example, Section 17 leave forms) correctly and so that they were available to all staff that needed access to them.\u003C/p\u003E\u003Cp\u003EThe service displayed a notice to tell informal patients that they could leave the ward freely. Informal patients were regularly reminded about their informal status and rights.\u003C/p\u003E\u003Cp\u003EStaff did regular audits to ensure that the Mental Health Act was being applied correctly and there was evidence of learning from those audits.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-13"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service worked well across teams and services to support people. They made sure people only needed to tell their story once by sharing their assessment of needs when people moved between different services.\u003C/p\u003E\u003Cp\u003EStaff held regular and effective multidisciplinary meetings to discuss patients and improve their care. All members of the multidisciplinary team and staff worked together to understand and meet the range and complexity of patient\u2019s needs. Patients were invited in to discuss their care and treatment and where patients had given consent family members could also attend the meeting either in person or virtually. Staff said the multidisciplinary team worked very well together and valued each other\u2019s input.\u003C/p\u003E\u003Cp\u003EStaff made sure they shared clear information about patients and any changes in their care, including during handover meetings. Each shift held a handover where incidents, patient care and risk were discussed.\u003C/p\u003E\u003Cp\u003EThe teams had effective working relationships, including good handovers, with other relevant teams within the organisation, such as care co-ordinators and community mental health teams. \u003C/p\u003E\u003Cp\u003EStaff teams on each ward confirmed they had effective working relationships with teams outside the organisation. For example, acute hospitals, housing departments, local authority social services, safeguarding teams and GPs. Care records evidenced regular contact with these teams.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service routinely monitored people\u2019s care and treatment to continuously improve it. They ensured that outcomes were positive and consistent, and that they met both clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EAt daily handover meetings, staff noted details of people\u2019s sleep, food and fluid intake, personal hygiene, compliance with medication and engagement in activities. Any changes in a person\u2019s presentation were recorded and discussed at the multidisciplinary meetings.\u003C/p\u003E\u003Cp\u003EStaff used recognised rating scales to assess and record severity and outcomes, The service used the DIALOG\u002B outcome measure to support person-centred care planning. Staff used other evidence-based tools to monitor people\u2019s mental and physical health, risk, and other aspects of their care as required. The psychology and occupational therapy teams used various rating scales with patients to monitor their mental health and progress over time.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service supported people to manage their health and wellbeing to maximise their independence, choice and control. The service supported people to live healthier lives and where possible, reduced their future needs for care and support.\u003C/p\u003E\u003Cp\u003EStaff supported patients to live healthier lives. For example, through participation in smoking cessation schemes, giving healthy eating advice, managing cardiovascular risks, screening for cancer, and dealing with issues relating to substance misuse. The service provided relevant information promoting healthy lifestyles and support. The occupational therapists worked with patients who were close to discharge to carry out functional home assessments, to ensure they had the correct mobility aids to prevent falls at home. They also completed activities of daily living skills assessments, such as washing and dressing and preparing drinks. \u003C/p\u003E\u003Cp\u003EStaff used a nationally recognised screening tool to monitor patients at risk of malnutrition. Staff used the malnutrition universal screening tool (MUST) to monitor patients at risk of malnutrition and obesity. \u003C/p\u003E\u003Cp\u003ESpecialist support from staff such as dietitians and speech and language therapists were available for patients who needed it. Staff supported patients to eat and drink well and were knowledgeable about guidance promoting good nutrition and hydration in later life, for example we observed some patients having a soft or pureed diet. Hot and cold drinks were offered throughout the day. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EWe looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated responsive as good. At this assessment the rating has remained good. This meant people\u2019s needs were met through good organisation and delivery. \u003C/p\u003E",
+                "commentaryDate": "2026-08-20",
+                "narrative": "This service is responsive",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service understood the diverse health and care needs of older people and local communities and aimed for joined-up, flexible care that supported choice and continuity. Staff had a good understanding of the health and social care needs of the patient group, enabling them to deliver tailored support for age-related conditions such as dementia and mobility limitations. Discharge coordinators contacted family members within 3 days of their relative being admitted to the ward. This helped to ensure families were involved at an early stage, received relevant information about the person\u0027s care and treatment, and were able to contribute to planning for discharge from the outset.\u003C/p\u003E\u003Cp\u003EStaff supported patients to maintain contact with their families and carers. We observed carers and family members visiting their relatives on the wards. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service provided patients with access to care, treatment and support that was tailored to their individual needs. \u003C/p\u003E\u003Cp\u003EEach ward accepted patients after conducting a thorough assessment, to determine if their needs could be met. Staff made reasonable adjustments to meet patients\u0027 individual needs. For example, occupational therapists completed comprehensive assessments and recommended environmental adaptations and equipment, which wards implemented to support patients\u0027 independence, safety and wellbeing. \u003C/p\u003E\u003Cp\u003EThe service was responsive and made adjustments to the complex needs of patients. On Jubilee ward, there was one patient being nursed with a member of staff present at all times. The patient was not subject to seclusion but required intensive physical healthcare due to being bed-bound. The volume of specialist equipment required meant that the patient was being cared for in a lounge area rather than a bedroom. To maintain the patient\u0027s privacy and dignity, the two adjacent bedrooms in that area were taken out of use. These care arrangements supported their health, safety and dignity. \u003C/p\u003E\u003Cp\u003EStaff ensured the needs of patients with mobility issues were met. All wards were on the ground floor and could be accessed by wheelchair users. Each ward provided shower chairs, walking aids, recliner chairs and a variety of hoists to support mobility needs. Due to the limitations of the ward environment on Jubilee ward, all patients were assessed prior to admission for frailty and mobility using the Rockwood Clinical Frailty Scale. This enabled staff to identify patients who may be at increased risk of falls, deterioration, or reduced mobility, and to ensure that appropriate care, support, and discharge planning arrangements were put in place to meet the individual needs of the patient. \u003C/p\u003E\u003Cp\u003EStaff ensured patients had access to post-discharge care, including section 117 aftercare, community mental health services, crisis services and community health teams, depending on their needs. \u003C/p\u003E\u003Cp\u003EStaff planned discharge collaboratively with patients and their families, ensuring people were fully involved in decisions about their ongoing care. Staff teams worked closely with social workers, occupational therapists, care co-ordinators and discharge co-ordinators. Ward managers attended monthly Multi-Agency Discharge Events (MADE) with partners from health, social care, commissioning, and community services to collaboratively support patients with complex discharge needs. Leaders reported that Multi-Agency Discharge Events (MADE) had enabled quicker resolution of complex discharge issues, reduced delays, strengthened multi-agency collaboration, and improved patient flow. Two patients had been discharged within two weeks of a MADE meeting after lengths of stay over 150 days. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EStaff and leaders actively listened to information about people who are most likely to experience inequality in experience or outcomes and tailored their care, support and treatment in response to this.\u003C/p\u003E\u003Cp\u003EStaff told us how adjustments were made to accommodate patients with diverse needs. Information was also made available in various formats to ensure accessibility. For instance, patients with dementia benefited from accessible information appropriate to support them such as easy read information, communication cards and pictorial cards.\u003C/p\u003E\u003Cp\u003EStaff within the service and the wider organisation promoted a culture in which the people using the service felt empowered to give their views. Each ward held weekly community meetings. \u003C/p\u003E\u003Cp\u003EOver 97% of staff were trained in equality, diversity, inclusion and human rights.\u003C/p\u003E\u003Cp\u003EThe service trust was committed to advancing race equity and improving outcomes for racialised communities in line with the Patient and Carer Race Equality Framework (PCREF). The trust had developed a comprehensive delivery plan and had established a PCREF steering group that met regularly to oversee progress and drive improvement. We saw that the trust\u0027s PCREF delivery plan was aligned with the Northwest London inequalities plan, helping to ensure a coordinated approach to reducing health inequalities and improving the experiences and outcomes of people from racialised communities. Listening events had taken place for Older People\u2019s Mental Health Services, to gather information about what improvements were needed and what people\u2019s experiences were. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service made it easy for people to share feedback and ideas, or raise complaints about their care, treatment and support. They involved people in decisions about their care and told them what had changed as a result. \u003C/p\u003E\u003Cp\u003EStaff enabled patients to provide feedback on the service they received. Wards held regular community meetings where patients could share their experiences and suggest improvements. We reviewed community meeting minutes from all 3 wards, which documented patient feedback and identified areas for improvement. On The Limes ward, we saw patients requested access to Asian music, and this was subsequently provided on an individual basis. On Jubilee ward, patients commented on the ward culture and reported that staff could occasionally be abrupt in their manner. This feedback was being addressed through the ward\u0027s support and intervention plan. On Jubilee ward, we saw that new armchairs had been ordered following patient feedback to replace the existing chairs, which were low and no longer met the needs of some patients. On Meridian ward, community meeting minutes recorded patient feedback; however, they did not clearly detail the actions to be taken in response to the issues raised.\u003C/p\u003E\u003Cp\u003EOne carer with a relative on Jubilee ward told us they did not feel as involved in their loved one\u2019s care as they would have liked. They felt they had valuable information that could support staff in providing care and treatment but did not feel sufficiently included in care planning and decision-making. Other carers told us they were involved as appropriate. \u003C/p\u003E\u003Cp\u003EPatients, relatives and carers knew how to complain or raise concerns. Patients and carers we spoke with understood how to make a complaint and told us they would feel comfortable doing so. Complaints were regularly discussed at community meetings. Patients were also able to raise complaints through the ward advocates.\u003C/p\u003E\u003Cp\u003EThe service clearly displayed information about how to raise a concern in patient areas. The patient information pack also contained information about how to make a complaint. \u003C/p\u003E\u003Cp\u003EStaff understood the policy on complaints and knew how to handle them. \u003C/p\u003E\u003Cp\u003EThe service had received a total of six complaints in the previous six months. Managers investigated all complaints and identified any recurring themes and trends. Complaints were reviewed and discussed at monthly clinical improvement meetings, with learning shared across the wider service. For example, communication with carers was identified as a theme, resulting in staff receiving additional guidance and reminders regarding the importance of timely, clear and consistent communication.\u003C/p\u003E\u003Cp\u003EStaff protected patients who raised concerns or complaints from discrimination, harassment or disadvantage. Staff demonstrated an understanding of how to acknowledge and respond to complaints appropriately, and patients received feedback from managers following the investigation of their concerns.\u003C/p\u003E\u003Cp\u003EManagers shared feedback and learning from complaints with staff, using this information to drive service improvement. Staff told us that complaints and associated learning were discussed during handovers, clinical improvement meetings, senior leadership meetings and team meetings, helping to inform and improve patient care. Action plans arising from complaints were monitored, completed and followed up at the appropriate level to ensure lessons were embedded within practice. Following a complaint on Jubilee ward, leaders developed a frequently asked questions (FAQ) information pack for patients and carers. The pack included details about key meetings, ward processes and explanations of commonly used terms and abbreviations, helping to improve understanding, engagement and communication between staff, patients and carers. Team meeting minutes we reviewed showed that complaints and compliments were standing agenda items. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service made sure people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond to any relevant changes in people\u2019s needs. \u003C/p\u003E\u003Cp\u003ECare plans were individualised. Staff involved patients and family members to understand people\u2019s preferences, needs and circumstances as appropriate. We observed a ward round on Meridian Ward and saw staff providing clear explanations to support patients to make informed choices about their care and treatment, promoting independence and self\u2011management wherever possible.\u003C/p\u003E\u003Cp\u003EThe service had occupational therapists that were responsible for offering and organising leisure-based activities and was also responsible for ensuring people had the resources and equipment for activities.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EPeople were supported to plan for important life changes and given sufficient time and information to make informed decisions about their future care and treatment, including end-of-life care where appropriate. At The Limes, we saw evidence of advance care planning in practice, with one patient having a Do Not Attempt Cardiopulmonary Resuscitation (DNACPR) decision in place, demonstrating that their wishes and clinical needs had been considered and documented.\u003C/p\u003E\u003Cp\u003EStaff developed personalised care plans that reflected each patient\u2019s specific needs, preferences and emotional wellbeing. Care and treatment planning followed a multidisciplinary approach, with all relevant healthcare professionals and external agencies contributing to ensure plans were safe, coordinated and holistic. At The Limes we saw that a carer had been provided with psychoeducation support to help them understand the decisions being made regarding their relative\u0027s move to a care home. This support enabled the carer to better understand the person\u0027s needs, the rationale for the decision, and how the move would help to meet those needs.\u003C/p\u003E\u003Cp\u003EStaff ensure all relevant healthcare professionals and other relevant bodies were involved in planning the care and treatment of people with complex needs. \u003C/p\u003E\u003Cp\u003EStaff planned for patients\u2019 discharge upon admission. The wards had weekly discharge planning meetings to ensure that the appropriate support was in place before a patient was discharged. \u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service provided appropriate, accurate, and up-to-date information in formats tailored to meet individual needs of patients and the client group. \u003C/p\u003E\u003Cp\u003EInformation governance systems ensured the confidentiality and security of patient records. \u003C/p\u003E\u003Cp\u003EStaff made the necessary notifications to external bodies, including the Care Quality Commission (CQC), when required. Clear policies and procedures were in place to support staff in managing incidents and reporting requirements. The service safeguarding leads submitted safeguarding referrals to the local authority when required. \u003C/p\u003E\u003Cp\u003EPatients were able to access information about their treatment, local services, their rights, and how to raise concerns or make a complaint. Information was available through a range of sources, including the trust\u0027s website, brochures, and leaflets displayed on the wards. Each ward had a welcome pack which provided patients and carers with essential information. \u003C/p\u003E\u003Cp\u003EStaff ensured that information was provided in accessible formats to meet the needs of the patient population, including easy-read versions of complaints information and translated materials where appropriate. Staff also ensured that carers, family members, and commissioners received regular updates regarding patients\u0027 progress, helping to maintain effective communication and involvement in care.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question as requires improvement. At this assessment the rating has changed to good. \u003C/p\u003E\u003Cp\u003EThis meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cp\u003EThe service was in breach of regulation for people\u2019s safe care and treatment in the ways that people\u2019s medicines were managed safely and oversight of medicines.\u003C/p\u003E",
+                "commentaryDate": "2026-08-20",
+                "narrative": "This service is safe",
+                "percentageScore": "72",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service assessed and managed the risk of infection. They detected and controlled the risk of it spreading and shared concerns with appropriate agencies promptly.\u003C/p\u003E\u003Cp\u003EStaff maintained equipment well and kept it clean. Any \u2018clean\u2019 stickers were visible and in date. \u003C/p\u003E\u003Cp\u003EAll ward areas were clean, had good furnishings and were well-maintained. Each ward had an infection prevention and control board which detailed results of hand hygiene audits. \u003C/p\u003E\u003Cp\u003ECleaning records were up to date and demonstrated that the wards were cleaned regularly. \u003C/p\u003E\u003Cp\u003EStaff followed infection control principles including the use of personal protective equipment (PPE) such as gloves, masks and aprons. Staff had received training in infection control and disposed of clinical waste safely. The service carried out infection prevention and control audits, which included checks on personal, protective equipment (PPE), handwashing, equipment, cleanliness and mattresses. Staff could access advice and guidance from the service infection, prevention and control lead.\u003C/p\u003E\u003Cp\u003EStaff completed infection, prevention and control training. Compliance at the time of our inspection for Infection, Prevention and Control was 100% on all three wards. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EStaff assessed and managed risks to patients and themselves well and followed best practice in anticipating, de-escalating and managing needs and challenging behaviour. Staff used restraint only after attempts at de-escalation had failed. The ward staff participated in the provider\u2019s restrictive interventions reduction programme. They provided care to meet people\u2019s needs that was safe, supportive and enabled people to do the things that mattered to them.\u003C/p\u003E\u003Cp\u003EWe reviewed 10 risk assessments and risk management plans during the assessment. Staff completed risk assessments for patients on admission using recognised tools and reviewed these regularly, including following incidents. Risk assessments included patients\u2019 risk history, physical health risks and dysphagia. Tools used included malnutrition universal screening tool (MUST), skin and pressure ulcer and multi factorial falls risk assessments. Patients received timely access to specialist assessments for nutrition, hydration, or swallowing difficulties.\u003C/p\u003E\u003Cp\u003EStaff responded promptly to signs of deterioration in patient\u2019s health. They used nationally recognised tools to identify deteriorating patients and escalated concerns appropriately. These included the national early warning score tool (NEWS2) to assess and manage physical deterioration. Staff referred promptly to external professionals or contacted emergency services when appropriate. Shift handovers and team meetings included all relevant information to keep people safe. A carer we spoke with told us the staff at The Limes were very responsive in contacting the emergency services when their family member was unwell.\u003C/p\u003E\u003Cp\u003ESome patients using the service had Positive Behaviour Support (PBS) plans in place that reflected their preferences for care and provided guidance on managing any identified risks. For example, on Jubilee Ward, staff had effectively implemented a PBS plan to support a patient with behaviours that challenged, helping to promote their safety and wellbeing while reducing the risk of incidents.\u003C/p\u003E\u003Cp\u003EStaff we spoke with showed a good understanding of the management of risk and reducing restrictive interventions. Staff spoke about using restraint and seclusion as a last resort and examples of interventions they would use to manage and de-escalate situations. Each of the wards used a tailored risk management approach so that they could provide person-centred care. All staff across the service completed bespoke Prevention and Management of Violence and Aggression (PMVA) training. The training excluded the use of floor restraints and enforced treatments. The training focused on least restrictive approaches and interventions, helping to reduce the risk of harm to patients while promoting their dignity, safety, and wellbeing.\u003C/p\u003E\u003Cp\u003EThe trust reported 32 restraints via the incident reporting system in the 6 months leading up to inspection, none of these were in the prone position. Twelve of the episodes of restraint resulted in rapid tranquilisation being used. The service had robust oversight of restraint incidents. These were reviewed at ward clinical improvement meetings and at the service restrictive interventions group.\u003C/p\u003E\u003Cp\u003EStaff carried out different levels of observations, determined by assessed need. The trust had identified an area of improvement in whether staff carried out intermittent observations at predictable time intervals, or unpredictable, which was trust policy. We saw this reflected in different practice across the wards. We found intermittent observations being carried out at regular intervals on Meridian ward for two patients. On The Limes we saw that they were being completed intermittently within the hour and not at a predictable time. The trust had plans in place to ensure staff understood the reasons for carrying these out at unpredictable time scales and consistently adhered to trust policy around this.\u003C/p\u003E\u003Cp\u003EStaff involved patients in care planning and risk assessment processes, care records detailed discussions with patients and where appropriate, their families. Patients were encouraged to attend weekly multidisciplinary team (MDT) review meetings and were actively involved in their Care Programme Approach (CPA) meetings.\u003C/p\u003E\u003Cp\u003EPatients had access to an Independent Mental Health Advocates (IMHA). Information about how to access the advocate was displayed on each ward and given to patients and their families as part of the admission process.\u003C/p\u003E\u003Cp\u003EThere were processes in places for patients and family members to give feedback on the service they received. This included directly to staff, surveys and feedback forms.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-13"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service had a proactive and positive culture of safety, based on openness and honesty. They listened to concerns about safety and investigated and reported safety events. Lessons were learnt to continually identify and embed good practice.\u003C/p\u003E\u003Cp\u003EThe service had 8 serious incidents in the last 12 months. 6 of these were on Meridian ward, 1 on The Limes and 1 on Jubilee ward.\u003C/p\u003E\u003Cp\u003EAt our previous inspection we found one breach of regulation in relation to the identification and recording of restraint incidents. The trust had made improvements. All restraint incidents were recorded appropriately and reviewed at the clinical improvement group meetings.\u003C/p\u003E\u003Cp\u003EThe service had effective processes, policies and procedures to monitor and learn from incidents and near misses, and this learning was shared with staff. The trust followed the NHS England Patient Safety Incident Response Framework (PSIRF) which set out the service\u2019s approach to developing and maintaining effective systems and processes for responding to patient safety incidents and issues for the purpose of learning and improving patient safety.\u003C/p\u003E\u003Cp\u003EAll staff knew what incidents to report and how to report them on the trust electronic incident reporting system. Staff were aware of adverse events that were specific to their patient group, such as falls and pressure ulcers. When incidents, such as episodes of aggression or falls occurred, staff responded promptly, documented incidents accurately, and updated care plans and risk assessments. Incidents were discussed daily at the patient safety huddle to ensure that any immediate support, learning and or actions were addressed and implemented. We reviewed three after-action reviews following incidents and found that each incident had been subject to a comprehensive investigation, with immediate learning identified and actions taken to support ongoing improvement and reduce the risk of recurrence.\u003C/p\u003E\u003Cp\u003EStaff understood the duty of candour. They were open and transparent and gave patients and families a full explanation if and when things went wrong. For example, on Jubilee ward staff, had apologised to a patient following a medicine error.\u003C/p\u003E\u003Cp\u003EThe service continually identified lessons learnt and embedded good practice. Managers and leaders discussed incidents during team meetings, safety huddles, supervision and through the trust patient safety newsletters and patient safety learning vignettes. Following a choking incident in another service staff, had undertaken refresher dysphagia training.\u003C/p\u003E\u003Cp\u003EStaff received feedback from investigation of incidents, both internal and external to the service. Staff confirmed they received a debrief and were supported by managers after deaths in the service and serious incidents. Staff told us that there was a positive and inclusive learning culture within the service.\u003C/p\u003E\u003Cp\u003EThere was evidence that changes had been made because of learning or feedback. Staff we spoke with were able to tell us about recent incidents and the learning that came from those incidents. For example, staff on The Limes told us following a falls incident, all admission assessments were now reviewed for falls risks when patients transferred from the other two wards.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-16"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed some shortfalls.\u003C/p\u003E\u003Cp\u003EWe found several areas of good practice. Patients usually received their medicines safely and as prescribed. Medicines, including controlled drugs (medicines that require additional legal controls relating to their storage, prescribing, administration and record keeping) and prescription stationary, were stored securely, and met legal requirements.\u003C/p\u003E\u003Cp\u003EWe saw appropriate and well-documented arrangements for giving medicines covertly where this had been agreed.\u003C/p\u003E\u003Cp\u003EMedicines used to manage behaviours that challenge were prescribed infrequently and were rarely needed.\u003C/p\u003E\u003Cp\u003EWe also identified several areas where improvements were needed.\u003C/p\u003E\u003Cp\u003EThe service used an electronic system to monitor medicine storage temperatures, but oversight was not always effective. Staff were not always clear about who was responsible for checking temperatures. On Meridian Ward, temperatures were not recorded for 3 days by the electronic system, but staff did not appear aware of this and there was no evidence of manual checks being completed in line with local policy. Although medicines were reviewed when this was raised during the inspection, we could not be assured that temperature monitoring processes were consistently followed or that medicines had been stored within recommended temperature ranges.\u003C/p\u003E\u003Cp\u003EWhilst medicines audits were undertaken, they did not consistently identify concerns or provide assurance that identified actions were followed up and completed. For example, on Meridian Ward a weekly crash trolley audit identified that an adrenaline syringe was missing. Staff had ordered a replacement but had not responded to a follow-up email regarding the order. Although the item was replaced during the inspection, records showed it had been unavailable for approximately 10 days.This meant there was a risk that emergency medicines may not have been immediately available via the crash trolley when needed. The service did inform us that staff had access to alternative emergency medicine arrangements by way of the grab bag.We also found on The Limes that audits of an emergency grab bag were not completed daily as per the providers policy. This meant we could not be assured that emergency equipment was consistently available and fit for use. In addition, on The Limes expired and obsolete prescription stationery stored within a medicine\u2019s cupboard had not been identified during the annual pharmacy audit.\u003C/p\u003E\u003Cp\u003EPharmacy staff attended the ward at least once a week between Monday to Friday. The pharmacist told us they were providing advice to support medicines optimisation and prescribing decisions. However, clinical interventions, including those relating to physical health conditions, were not always actioned promptly or consistently by the clinical team. We were told that reviews of physical health medicines were occasionally deferred to GPs following discharge. This may result in people remaining on medicines for longer than necessary and delays in optimising treatment.\u003C/p\u003E\u003Cp\u003EClinical records did not always contain enough information to support safe medicines management. For example, antimicrobial prescriptions did not consistently include documented review dates. This may result in antimicrobial treatment continuing for longer than necessary. Risk assessments for Venous Thromboembolism (VTE, clots in the blood that can occur due to reduced mobility during hospital stays) prevention were not always completed for patients, increasing the risk of possible clots. Trust data showed compliance of 80% VTE recorded during the admission and 70% within the first 24 hours. Oversight of VTE was held through the local clinical governance meetings and the Borough Community Health Quality Governance Meetings. The trust reported that further work would be undertaken through induction for junior doctors and primary nursing supervision.\u003C/p\u003E\u003Cp\u003EMonitoring of medicines used for both physical and mental health conditions was not always completed or recorded. For example, a patient newly started on lithium treatment did not have their lithium levels monitored within the required timeframe in line with local and national guidelines. This could have delayed the identification of low or toxic lithium levels. We also saw a type 2 diabetic patient prescribed rapid-acting insulin without written guidance for staff on when to administer it. During their admission their blood sugar levels were reading high. This increased the risk of inconsistent management of people with physical health conditions and delays in recognising deterioration. We saw 1 example where a clozapine level had been undertaken but the result had not been clearly documented in the clinical record. As a result, we could not be assured that levels were acknowledged and acted upon as needed.\u003C/p\u003E\u003Cp\u003EThe service did not record where skin patches, such as rivastigmine patches, had been applied. This meant we could not be assured that patches were being rotated correctly to reduce the risk of skin irritation in line with manufactures instructions.\u003C/p\u003E\u003Cp\u003EAcross all 3 wards, we found excess stock medicines stored in cupboards. Patient-own medicines were not always kept separate from ward stock, and on one occasion a patient-own medicine was being used as ward stock. This increased the risk of medicines errors.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-16"
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/p\u003E\u003Cp\u003EPatients and carers we spoke with said there were always staff visible on the wards. We observed sufficient numbers of staff with the appropriate skill mix to meet people\u0027s needs. We observed staff present in communal areas of the wards at all times.\u003C/p\u003E\u003Cp\u003EManagers had calculated the number and grade of nurses and healthcare assistants required on the wards. Staffing fills rates were at 100% on Meridian and Jubilee wards for the previous six months. The Limes had 8 unfilled shifts during the same six-month period.\u003C/p\u003E\u003Cp\u003EJubilee Ward had a vacancy for an activity co-ordinator and clinical psychologist at the time of inspection. To maintain the provision of therapeutic activities, the ward was being supported by the activity co-ordinator from The Limes while recruitment was underway. The matron was also providing leadership support by acting as the ward manager during this period. A locum psychologist was in post and supported both Jubilee ward and The Limes.Meridian ward had a vacancy for a discharge co-ordinator (who supports with social needs) and Jubilee ward had a vacancy for an activity co-ordinator. The occupational therapist was supporting staff to undertake activities. All vacancies had been advertised and were being recruited into. The physiotherapist, dietician and speech and language therapist worked across all three wards.\u003C/p\u003E\u003Cp\u003EThe ward managers could adjust staffing levels daily to take account of patient needs, for example if patients required one to one observations or additional physical health complexity. On Jubilee ward additional staff were on duty to support a patient with complex physical and mental health needs.\u003C/p\u003E\u003Cp\u003EThe service leads met monthly with the Chief Nurse to look at safer staffing across the service.\u003C/p\u003E\u003Cp\u003EWhen necessary, managers deployed bank nursing staff to maintain safe staffing levels. When bank nursing staff were used, those staff received an induction and were familiar with the ward. The service very rarely used agency staff.\u003C/p\u003E\u003Cp\u003EThe service had low turnover rates. The average staff turnover rate for the service was 6.1%.\u003C/p\u003E\u003Cp\u003EStaffing levels allowed patients to have regular one-to-one time with their named nurse. This was confirmed with the patients we spoke with.\u003C/p\u003E\u003Cp\u003EStaff shortages rarely resulted in staff cancelling escorted leave or ward activities.\u003C/p\u003E\u003Cp\u003EThere were enough staff to carry out physical interventions such as observations and restraint safely and staff had been trained to do so. Staff shared key information to keep patients safe when handing over their care to others. Handover meetings took place between shifts. Site and ward safety huddles were held daily. Staff told us they used these meetings to discuss any incidents that had occurred and update patient risk information.\u003C/p\u003E\u003Cp\u003EThere was adequate medical cover day and night and a doctor could attend the wards quickly in an emergency. Jubilee ward had a vacancy for a staff grade doctor. This role was being covered by a locum doctor. A GP visited each of the wards weekly to support with the management of physical health conditions.\u003C/p\u003E\u003Cp\u003EThere was adequate medical cover day and night. On Meridian and Jubilee wards medical cover was provided by the duty doctor for each site. At The Limes, staff were required to contact emergency services and out of hours GP services. All staff were aware of these processes.\u003C/p\u003E\u003Cp\u003EStaff had received and were up to date with appropriate mandatory training. The training was appropriate for the patient group using the service. Meridian ward overall compliance rate was 93%, Jubilee ward 94% and The Limes 96%. Mandatory training covered areas including safeguarding, medicines administration, basic life support, therapeutic engagement and observations, clinical risk training and moving and handling. Staff also received and were up to date with training in learning disability and autism.\u003C/p\u003E\u003Cp\u003EOver 92% of staff were up to date with supervision and 100% with appraisal. Staff had access to additional supervision formats, such as clinical supervision and reflective practice sessions.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-16"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service detected and controlled potential risks in the care environment. They made sure equipment, facilities and technology supported the delivery of safe care.\u003C/p\u003E\u003Cp\u003EStaff completed regular risk assessments of the care environment to ensure it remained safe for patients, staff and visitors. This included areas of risk related to the patient group, such as trip hazards and accessibility. Staff and leaders described how facilities and equipment were maintained to ensure the delivery of safe care. Staff on each ward told us they carried out daily environmental and security checks to identify and address any potential risks.\u003C/p\u003E\u003Cp\u003EStaff on each of the wards took part in monthly emergency simulation exercises, such as responding to a collapsed patient or managing a ligature incident, to ensure staff were confident and prepared for real-life scenarios. Records we reviewed showed that any shortfalls identified during these exercises were followed up promptly, ensuring that learning was embedded and staff developed the skills and knowledge required to respond effectively in practice.\u003C/p\u003E\u003Cp\u003EManagers ensured risk assessments for fire safety, water monitoring, and calibration of equipment were up to date. All staff had undertaken fire safety training and desktop fire drills.\u003C/p\u003E\u003Cp\u003EAll of the wards met national guidance on same-sex accommodation. Wards had separate bedroom areas,bathrooms and lounges for male and female patients.\u003C/p\u003E\u003Cp\u003EJubilee Ward presented with the most environmental limitations, such as numerous corridors, blind spots, narrow bedroom doors, lack of bariatric capacity and toilet doors that opened outwards onto the corridor. We also found that some toilets lacked adequate grab rails to support patients with mobility needs. Several toilet doors did not have vision panels, limiting staff\u0027s ability to check on patients\u0027 safety without opening the door and potentially compromising their privacy and dignity while the facilities were in use. The senior leadership team had developed and implemented a comprehensive environmental improvement plan to address identified concerns while working within the financial constraints and budgets set by the trust. This demonstrated a proactive approach to improving the care environment and maintaining patient safety and experience despite resource limitations.\u003C/p\u003E\u003Cp\u003EEach ward had a ligature risk assessment and where there were blind spots a blind spot audit had been undertaken. Staff knew the locations of ligature cutters and had been trained in their correct use. Blind spot risks were mitigated using regular staff observations and convex mirrors. The Limes and Meridian wards had closed-circuit television in place. Plans were in place to install CCTV on Jubilee ward. Staff were aware of potential psychological, physical, or sexual harm and used the environment to manage this such as by caring for people in different parts of the service.\u003C/p\u003E\u003Cp\u003EManagers spoke about the use of closed-circuit television to review any incidents of harm so that this could be learned from and prevented.\u003C/p\u003E\u003Cp\u003EStaff had easy access to personal alarms, and patients had access to nurse call systems. However, on Jubilee ward call bells in some bedrooms and bathrooms were poorly positioned, making them potentially inaccessible to patients when needed. The service had identified these concerns through their environmental review and sought to mitigate it by ensuring portable call alarms were available and accessible to those patients. Meridian and The Limes had accessible nurse call systems.\u003C/p\u003E\u003Cp\u003EFire safety arrangements were in place. Of eligible staff, 100% were up to date with fire safety training. Fire escapes were clearly signposted throughout the wards. Fire equipment was regularly checked to ensure it was fit for purpose. For patients with mobility difficulties fire evacuation chairs were available. Where required, staff completed personal emergency evacuation plan (PEEP) for patients who had mobility difficulties. The service conducted regular desk top fire drills and there were enough staff on each shift with fire safety training.\u003C/p\u003E\u003Cp\u003EClinic rooms were fully equipped with accessible resuscitation equipment.\u003C/p\u003E\u003Cp\u003EDining areas were appropriate to enable older patients to eat in comfort and to encourage social interaction. We observed staff engaging and supporting patients at mealtimes, for example at The Limes staff where possible enabled patients to eat independently.\u003C/p\u003E\u003Cp\u003EStaff had access to all appropriate equipment, for example, moving and handling equipment, sensor mats, and hoists with different size slings.\u003C/p\u003E\u003Cp\u003EStaff had access to pressure-relieving equipment including appropriate beds and pressure-relieving mattresses.\u003C/p\u003E\u003Cp\u003EClear, dementia-friendly signage with both words and pictorial cues were used throughout the wards to help patients navigate key areas such as bedrooms, toilets, bathrooms, and communal spaces. On The Limes we saw that contrasting colours were used on doors, handrails, and important features to assist patients with visual perception.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-16"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service worked with people and healthcare partners to establish and maintain safe systems of care, in which safety was managed or monitored. They made sure there was continuity of care, including when people moved between different services.\u003C/p\u003E\u003Cp\u003EThe service\u0027s referral and admission processes ensured that all essential information relating to patients was obtained to assess whether their needs could be safely met. Continuity of care was maintained through effective patient handovers, ensuring that individual needs and risks were communicated appropriately.\u003C/p\u003E\u003Cp\u003EStaff worked with other health and social care services to ensure continuity of safe care, both within the service and when patients moved between services or were discharged. \u003C/p\u003E\u003Cp\u003EThe service had good working links with the local emergency department at Ealing and Charing Cross Hospitals so physical health issues could be addressed promptly for older patients. The service had good working links with palliative care services for older patients. \u003C/p\u003E\u003Cp\u003EStaff at all levels attended regular safety huddles throughout their shifts, providing opportunities to share important safety information, discuss risks, and coordinate care effectively.\u003C/p\u003E\u003Cp\u003EThe service also held daily bed flow meetings to monitor and manage patient movement across the wards. Since the previous inspection, the function of The Limes had been changed to a step-down unit. Patients from Meridian and Jubilee wards were referred there once their conditions had stabilised. Leaders reported that this change had improved patient flow across the two admission wards, supporting more timely admissions and discharges while maintaining safe and effective care.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service worked with people and healthcare partners to understand what being safe meant to them and the best way to achieve that. They concentrated on improving people\u2019s lives while protecting their right to live in safety, free from bullying, harassment, abuse, discrimination, avoidable harm and neglect. The service shared concerns quickly and appropriately.\u003C/p\u003E\u003Cp\u003EThe provider\u2019s processes promoted people being cared for in safety, free from abuse, neglect, and avoidable harm. We saw evidence that there were effective systems, processes, and practices to make sure people were protected from abuse and neglect. Managers ensured the service had a comprehensive local safeguarding procedure in place, supported by effective partnership working with external agencies, including the local authority. For example, the safeguarding lead for Hammersmith and Fulham participated in a joint audit alongside the local authority safeguarding team and other partner organisations, demonstrating a collaborative approach to safeguarding and continuous service improvement.\u003C/p\u003E\u003Cp\u003EThe staff we spoke with knew how to make a safeguarding referral and who to inform if they had concerns.\u003C/p\u003E\u003Cp\u003EStaff received training on how to recognise and report abuse, appropriate for their role. Staff completed training in safeguarding adults, safeguarding children and PREVENT radicalisation training. Compliance figures were over 88% for these training modules. On Jubilee ward compliance rates were 71% for safeguarding level 3 training. The manager showed us that staff had been booked to undertake this face-to-face training.\u003C/p\u003E\u003Cp\u003EStaff we spoke with could give examples of how to protect patients from harassment and discrimination, including those with protected characteristics under the Equality Act.\u003C/p\u003E\u003Cp\u003EEach ward had a designated safeguarding lead with oversight of safeguarding activity across all three wards. Safeguarding leads maintained comprehensive safeguarding trackers for both adults and children, ensuring effective monitoring and follow-up of all concerns. The service had robust governance arrangements in place to oversee safeguarding activity, including regular review through the monthly Safeguarding Clinical Improvement Group and Clinical Governance Meetings. Learning from safeguarding incidents and best practice was actively shared across the service through a range of initiatives, including seven-minute learning briefings, safeguarding webinars, and a dedicated safeguarding drop-in clinic. These processes supported a strong safeguarding culture and promoted continuous learning and improvement.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Capacity Act\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EOver 94% of staff had had training in the Mental Capacity Act.\u003C/p\u003E\u003Cp\u003EStaff had a good understanding of the Mental Capacity Act, in particular the five statutory principles.\u003C/p\u003E\u003Cp\u003EThe provider had a policy on the Mental Capacity Act, including deprivation of liberty safeguards. Staff were aware of the policy and had access to it.\u003C/p\u003E\u003Cp\u003EStaff took all practical steps to enable patients to make their own decisions. For patients who might have impaired mental capacity, we saw that staff assessed and recorded capacity to consent appropriately. They did this on a decision-specific basis with regard to significant decisions.\u003C/p\u003E\u003Cp\u003EWhen patients lacked capacity, staff made decisions in their best interests, recognising the importance of the person\u2019s wishes, feelings, culture and history.\u003C/p\u003E\u003Cp\u003EAll children\u0027s visits to the ward were risk assessed by the multidisciplinary team prior to them taking place. There were appropriate spaces on and off wards for visits to take place.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-13"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated well-led as good. At this assessment the rating has remained good. Leaders had the skills, knowledge and experience to perform their roles. Staff knew and understood the provider\u2019s vision and values and how they applied to the work of their team. Staff felt respected, supported and valued. Governance processes mostly operated effectively. Performance and risk were managed well. Teams had access to the information they needed to provide safe and effective care. Staff collected analysed data about outcomes and performance. They used this to identify improvements.\u003C/p\u003E",
+                "commentaryDate": "2026-08-20",
+                "narrative": "This service is well-led",
+                "percentageScore": "71",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation. Leaders had the skills, knowledge, experience and credibility to lead effectively. They did so with integrity, openness and honesty.\u003C/p\u003E\u003Cp\u003ESince our last inspection, the older people\u0027s wards had been removed from the service line structure and integrated within the trust\u0027s borough-based community health/mental health service structures. Senior leaders had extensive experience of working with older people, including those with physical and mental health needs and cognitive impairment. Leaders demonstrated the skills, knowledge and experience required to carry out their roles effectively and provide appropriate oversight of the service.\u003C/p\u003E\u003Cp\u003EWe spoke to managers and leaders from each ward. Leaders had a good understanding of the services they managed and the needs and demands of the service. They could explain clearly how the teams were working to provide high quality care, including through leadership governance meetings, regular audits and listening to patients, carer and staff feedback. They spoke about the challenges and priorities relating to the quality of the service, for example the environmental challenges on Jubilee ward and delays in funding when patients were ready for discharge.\u003C/p\u003E\u003Cp\u003ELeaders were visible in the service and approachable for patients and staff. Staff on all wards said leaders visited the wards regularly. Staff reported that ward managers were supportive and provided inclusive leadership.\u003C/p\u003E\u003Cp\u003ELeadership development opportunities were available for staff at different levels. Staff had access to training and development to support their career progression. Staff spoke positively about development opportunities available for colleagues from underrepresented groups. The trust had established programmes to support professional development for staff from Black and ethnically and culturally diverse backgrounds.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-14"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service fostered a positive culture where people felt they could speak up and their voice would be heard, both patients and staff. \u003C/p\u003E\u003Cp\u003EManagers and staff had access to the feedback from patients, carers and staff and used it to make improvements.\u003C/p\u003E\u003Cp\u003EPatients and carers had opportunities to give feedback on the service they received in a manner that reflected their individual needs. The service used a range of feedback mechanisms, including surveys, CPA meetings and individual meetings with the ward managers. Advocates were easily accessible and could be involved in these discussions. \u003C/p\u003E\u003Cp\u003EPatients and carers were involved in decision-making about changes to the service.\u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EOverall, we found that appropriate governance and management systems were in place and these systems were effective in supporting the delivery of safe care. However, during our inspection we identified a small number of areas relating to medicines management and documentation where risks had not been fully recognised or addressed by the service. This was fed back to the provider for their attention and action. \u003C/p\u003E\u003Cp\u003EWe found other areas of good practice in relation to governance, management and sustainability. There was a clear framework of what must be discussed at a ward, team or directorate level in team meetings to ensure that essential information, such as learning from incidents and complaints, was shared and discussed. Wards held monthly team meetings to ensure essential information was shared amongst the staff.\u003C/p\u003E\u003Cp\u003EThe service managers and clinical leads attended regular clinical governance meetings. Managers fed information from these meetings back to their teams. Staff discussed recommendations from reviews of deaths, incidents, complaints and safeguarding alerts at these meetings. Following a death at The Limes the service revised its policy on ward transfers, information sharing and risk assessments. We saw incidents and learning being discussed in meeting minutes.\u003C/p\u003E\u003Cp\u003EStaff undertook or participated in local clinical audits. The audits were sufficient to provide assurance and staff acted on the results when needed. Leaders monitored services where performance was below what was expected and took actions to address this. Jubilee ward had been put on a support and intervention plan that was reviewed fortnightly and progress on actions reviewed. \u003C/p\u003E\u003Cp\u003EStaff understood the arrangements for working with other teams, both within the provider and external, to meet the needs of the patients. \u003C/p\u003E\u003Cp\u003EStaff maintained and had access to the risk register at team and directorate level. Staff at team level could escalate concerns when required. Staff concerns matched those on the risk registers for each of the wards. Risk registers were reviewed monthly at senior leadership meetings and discussed at each ward clinical improvement meeting, ensuring risks were effectively monitored, managed, and escalated where necessary.\u003C/p\u003E\u003Cp\u003EThe service had plans for emergencies such as adverse weather or a flu outbreak. \u003C/p\u003E\u003Cp\u003EWhere cost improvements were taking place, they did not compromise patient care. \u003C/p\u003E\u003Cp\u003EThe service used systems to collect data from teams that were not over-burdensome for frontline staff. Managers and leaders had access to information to support their roles, including data on service performance, staffing and patient care. They could review key performance information through the various trust dashboards.\u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology needed to do their work. The information technology infrastructure, including the telephone system, mostly worked well and helped to improve the quality of care. \u003C/p\u003E\u003Cp\u003EInformation governance systems included confidentiality of patient records. Information was in an accessible format, and was timely, accurate and identified areas for improvement. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service focused on continuous learning, innovation and improvement across the organisation and local system. They encouraged creative ways of delivering equality of experience, outcome and quality of life for people. They actively contribute to safe, effective practice and research\u003Cstrong\u003E.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff were given the time and support needed to make improvements. For example, senior leaders had placed Jubilee ward within a Level 2 Support and Intervention Plan following a period of concerns relating to quality, safety, workforce, and leadership indicators. We saw evidence that improvements were being made, although progress was gradual. The leadership team demonstrated a clear understanding of the ward\u0027s challenges and had identified the areas requiring improvement, with actions in place to address these concerns. Areas identified included environmental risk management, patient supervision, staff support, workforce morale and leadership development.\u003C/p\u003E\u003Cp\u003EConcerns relating to environmental risks, including ligature risks, blind spots and patient supervision, had led to the commissioning of a comprehensive safety and environmental review. Key recommendations were being implemented under the oversight of the Executive leadership team, including strengthened risk management processes and enhanced oversight of patient care. A clearer and more auditable clinical pathway had also been introduced on Jubilee ward to support the consistent delivery of evidence-based care. We saw that treatment pathways were being reviewed and monitored to ensure compliance and clinical effectiveness. Concerns had also been identified regarding staff support, induction arrangements and supervision. Staff on Jubilee Ward told us they were now receiving regular monthly supervision and attending team meetings. The team was also receiving dedicated workforce and human resources support to improve staff wellbeing, engagement and morale.\u003C/p\u003E\u003Cp\u003EStaff used quality improvement methods and knew how to apply them. Meridian ward was taking part in the national Culture of Care programme, delivered in partnership with the Royal College of Psychiatrists. Through co-production with staff, patients and carers the ward had embedded three improvement initiatives, such as the sensory garden, one-to-one activities and dining with dignity.\u003C/p\u003E\u003Cp\u003EAll 3 wards were piloting Uber Health for patient related journeys for time-critical tasks which\u200B could delay patient care or discharge. For example, reducing the length of time patients wait for hospital transport to attend external appointments.\u003C/p\u003E\u003Cp\u003EThe service was committed to reducing restrictive practices. The Reducing Restrictive Practice Team within the service had devised a Use of Force Guide that was Specific to Older Adults\u200B and provided bespoke seclusion of older people\u2019s training.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-14"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service understood their duty to collaborate and work in partnership, so services work seamlessly for people. They share information and learning with partners and collaborate for improvement.\u003C/p\u003E\u003Cp\u003EThe service had strong and effective partnerships with acute hospitals and a wide range of external stakeholders, including commissioners, voluntary services, primary care providers, social care services, the Integrated Care Board (ICB), Healthwatch, and third-sector organisations. These partnerships strengthened governance and oversight, supported continuous improvement, and aimed to deliver seamless, well-coordinated care throughout a care pathway.\u003C/p\u003E\u003Cp\u003ETeams worked closely with social services and primary care to jointly manage risks, support complex discharges and ensure continuity of care for people with ongoing needs. The service had regular interface meetings with the Community Teams-Specialist Older Adults Mental Health Services (SOAMHS), Cognitive Impairment and Dementia Services (CIDS) and the Care Home In-reach Liaison Service (CHILS) to support continuity ofcare for patients moving on from the wards. \u003C/p\u003E\u003Cp\u003EPatients and staff could meet with members of the provider\u2019s senior leadership team to give feedback. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and understanding challenges and the needs of people and their communities.\u003C/p\u003E\u003Cp\u003EThe trust\u2019s 4 values were Togetherness, Responsibility, Excellence and Caring. The provider\u2019s senior leadership team had successfully communicated the provider\u2019s vision and values to the frontline staff in this service. \u003C/p\u003E\u003Cp\u003EStaff knew and understood the trust\u2019s vision and values and how they applied to the work of their team and promoted good outcomes for patients. Staff demonstrated the values in their responses to patients, carers and their approach to delivering care and treatment. Staff spoke about respecting each other, working together and caring for patients and other staff members. \u003C/p\u003E\u003Cp\u003EStaff had the opportunity to contribute to discussions about the strategy for their service, especially where the service was changing. \u003C/p\u003E\u003Cp\u003ELeaders and staff described a positive, respectful and open culture, where learning was embedded through regular supervision, team meetings and reflective practice. These forums supported continuous learning, development and the maintenance of high standards of care. Staff told us they felt listened to, valued and supported in their roles. The service actively promoted a culture of psychological safety, encouraging staff to speak up, share concerns and contribute to service development. Staff also described effective team working and collaborative relationships within and across wards and external partners.\u003C/p\u003E\u003Cp\u003EStaff understood the model of the service being provided. They were clear about delivering services for patients with organic needs (like dementia) and functional needs (a diagnosed mental illness). Where services did both, they could describe how they manage the needs of both groups of patients.\u003C/p\u003E\u003Cp\u003ESenior leaders could explain how they were working to deliver high quality care within the budgets available. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe trust valued diversity in their workforce. They worked towards an inclusive and fair culture by improving equality and equity for people who worked at the trust. The trust had an equality, diversity and inclusion policy and over 96% of staff had completed the Equality, Diversity and Dignity at Work training.\u003C/p\u003E\u003Cp\u003EStaff reported that the trust promoted equality and diversity in its day-to-day work. The trust monitored workforce equality data to understand the diversity of its staff group and to support a workforce that was reflective of the communities and patient populations it served. The trust managed its approach to diversity and inclusion through a central Equality, Diversity and Inclusion (EDI) Strategy, which aligned with the London Workforce Race Strategy. \u003C/p\u003E\u003Cp\u003EStaff could apply to work flexibly. For example, flexible working agreements to account for personal circumstances such as caring responsibilities and health issues. Managers put reasonable adjustments in place for staff members to help them carry out their role. \u003C/p\u003E\u003Cp\u003EStaff had access to a range of staff networks, which provided support, fostered inclusion and offered opportunities for staff to share their experiences and contribute to service development. The trust actively promoted equality, diversity and inclusion through participation in a range of national and cultural awareness events, including Pride Month, LGBTQIA\u002B History Month, Black History Month etc. \u003C/p\u003E",
+                        "commentaryDate": "2026-08-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

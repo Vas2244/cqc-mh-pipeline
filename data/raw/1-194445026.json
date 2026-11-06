@@ -1,0 +1,55 @@
+{
+  "locationId": "1-194445026",
+  "providerId": "1-149412601",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "PTP Havering",
+  "brandId": "BD273",
+  "brandName": "BRAND KCA (UK)",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-06-10",
+  "deregistrationDate": "2012-07-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.605822,
+  "onspdLongitude": 0.226028,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "CAB Building, Gooshays Drive",
+  "postalAddressLine2": "Harold Hill",
+  "postalAddressTownCity": "Romford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "RM3 9LB",
+  "mainPhoneNumber": "01708331514",
+  "website": "www.kca.org.uk",
+  "constituency": "Hornchurch and Upminster",
+  "localAuthority": "Havering",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,103 @@
+{
+  "locationId": "RATW3",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Head Office",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-10-29",
+  "deregistrationDate": "2017-06-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.5779939,
+  "onspdLongitude": 0.1105138,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "157 Barley Lane",
+  "postalAddressTownCity": "Ilford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG3 8XJ",
+  "uprn": "10034932271",
+  "mainPhoneNumber": "03005551200",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ilford South",
+  "localAuthority": "Redbridge",
+  "relationships": [
+    {
+      "relatedLocationId": "RATX8",
+      "relatedLocationName": "Trust Head Office, CEME",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "RATGM",
+      "relatedLocationName": "Goodmayes Hospital",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    },
+    {
+      "name": "Urgent care centres",
+      "description": "Urgent care services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    }
+  ],
+  "inspectionAreas": []
+}

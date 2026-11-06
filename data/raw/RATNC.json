@@ -1,0 +1,64 @@
+{
+  "locationId": "RATNC",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Naseberry Court",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2013-05-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.611182,
+  "onspdLongitude": -0.003899,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "2 Merriam Close",
+  "postalAddressLine2": "Larkshall Road, Chingford",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E4 9JQ",
+  "mainPhoneNumber": "08446001201",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Chingford and Woodford Green",
+  "localAuthority": "Waltham Forest",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

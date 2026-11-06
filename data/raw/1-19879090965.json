@@ -1,0 +1,1078 @@
+{
+  "locationId": "1-19879090965",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Change Grow Live Barnet",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2024-08-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.5869927,
+  "onspdLongitude": -0.2305319,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Breasy Place",
+  "postalAddressLine2": "9 Burroughs Gardens",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW4 4AU",
+  "uprn": "200018386",
+  "mainPhoneNumber": "03003032866",
+  "registeredManagerAbsentDate": "2026-01-06",
+  "numberOfBeds": 0,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "lastReport": {
+    "publicationDate": "2022-03-03"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-8360491446",
+      "relatedLocationName": "Change Grow Live - Barnet",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2021-03-11",
+      "reportLinkId": "b0b0a267-cc84-4797-b2be-ca64655695b7",
+      "organisationId": "1-8360491446",
+      "serviceRatings": [
+        {
+          "name": "mhsubstance",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2022-03-03",
+      "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6",
+      "serviceRatings": [
+        {
+          "name": "mhsubstance",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "264",
+      "assessmentServiceName": "Substance misuse services",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-02-19 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02227",
+            "commentary": "\u003Cp\u003EChange Grow Live \u2013 Barnet is part of the larger Change Grow Live provider who deliver a not-for-profit drug and alcohol treatment service nationally. The service provides specialist community treatment and support for adults and young people affected by substance misuse who live in Barnet.\u003C/p\u003E\u003Cp\u003EThey offer a range of services including initial advice; assessment and harm reduction services including needle exchange; prescribed medicines for alcohol and opiate detoxification and stabilisation; naloxone dispensing; group recovery programmes; one-to-one key working sessions and doctor and nurse clinics which include health checks, blood borne virus and hepatitis C testing.\u003C/p\u003E\u003Cp\u003EThe service works in partnership across Barnet with other agencies, including NHS services, social services, probation services, GPs and pharmacies.\u003C/p\u003E\u003Cp\u003EThe service is registered for the following regulated activity: Treatment of disease, disorder or injury. There was a registered manager at the service. The service had moved premises since we last inspected in December 2021. \u003C/p\u003E\u003Cp\u003EImprovements had been made to ensure that people received safe care and treatment. Staff completed life support training and regular prescribing reviews took place and were monitored. Governance procedures had also been strengthened and the risks associated with delivering the service were identified with appropriate mitigations put in place. In addition, safeguarding responsibilities were understood, medicines were managed safely, and prescribing decisions showed multidisciplinary input. People were treated with kindness and respect, and care planning reflected individual needs and preferences. Recovery-focused activities helped reduce isolation and promote healthier lifestyles. Information was clear and accessible, and feedback was gathered through multiple routes with actions taken in response. Leaders described a clear vision and values, and staff recognised these in practice.\u003C/p\u003E\u003Cp\u003EStaff adapted communication for language and literacy needs and considered cultural factors. People were supported to make informed choices through flexible appointments and practical help, such as assistance with GP visits. Recovery plans were person\u2011centred and regularly updated, reflecting individual goals like reconnecting with family or accessing housing support \u003C/p\u003E\u003Cp\u003EHowever, further improvements were needed. Some staff held high caseloads as measures to address this had not yet impacted. There was some fluctuations in timely triage and whilst measures to address this had also been implemented their efficacy could not yet be established. Some physical health checks had not been completed. Some specialist assessment tools to support treatment had also not been completed. Clearly documented exit plans were not always available, which could result in delays to timely action if keyworkers were not available. This was a breach of Regulation 12 Safe care and treatment.\u003C/p\u003E\u003Cp\u003EWe also found that further strengthening and embedding of governance systems was needed. Some environmental checks had not been carried out. There were low supervision rates for volunteers. Some incident records did not have completion dates or checks that actions had been completed. Monitoring of outcomes was in place, but compliance with key indicators such as risk reviews and Treatment Outcomes Profile returns was below target, and whilst improvement actions were recently introduced, the impact of these could not yet be demonstrated. The provider had recently introduced dashboards to monitor compliance across a range of performance targets and at the time of our inspection their efficacy could not yet be demonstrated. Improvements were needed in ensuring continuity of treatment for prison leavers. This was a breach of Regulation 17 Good governance. \u003C/p\u003E\u003Cp\u003EWe have asked the provider to submit an action plan. \u003Cbr\u003E \u003C/p\u003E",
+            "commentaryDate": "2026-02-19",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good. This meant people were supported and treated with dignity and respect; and involved as partners in their care.\u003C/p\u003E\u003Cp\u003EAt the last inspection, the provider was asked to ensure staff consistently demonstrated dignity and respect and to strengthen training in this area. At this inspection, people continued to tell us staff treated them with kindness and respect, and we observed calm, private interactions where staff gave people time to speak and checked understanding before moving on. Leaders had reinforced expectations following an isolated incident where behaviour did not fully meet standards, including asking all staff to read the \u2018Behaviour that Challenges\u2019 policy and prioritising a workshop on responding to challenging situations. These actions reduced the risk of similar events affecting people\u2019s experience. However, not all staff had completed dignity and respect training.\u003C/p\u003E\u003Cp\u003ELeaders also took steps to support staff wellbeing, introducing staff achievement awards to recognise commitment and hard work. These actions aimed to promote a positive culture and sustain compassionate care despite workforce pressures.\u003C/p\u003E\u003Cp\u003ECare planning reflected individual needs and preferences, and all records reviewed contained personalised goals set by the person. Staff adapted communication for language and literacy needs and considered cultural factors. People were supported to make informed choices, with flexible appointments and practical help such as assistance with GP appointments. Access to communal computers enabled people to use online resources and self-management tools.\u003C/p\u003E\u003Cp\u003ESystems were in place to respond to immediate needs, including daily allocation of first-responder roles and use of panic alarms. Incidents of aggression were discussed in daily meetings. However, some staff reported delays in response and gaps in confidence or training for first-responder duties and device use. Staff also noted variable management visibility during incidents. Leaders were aware of these concerns and had begun addressing them.\u003C/p\u003E\u003Cp\u003EStaff told us they had access to wellbeing initiatives such as supervision and debriefing after challenging situations, and volunteers described feeling valued and supported. Survey results reflected mixed views: staff reported strengths in trust and skill development but lower scores for involvement in decision-making, recognition and managing change. Some staff reported work-related stress and occasions of working while unwell, which could affect their ability to maintain compassionate interactions if not addressed.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EAt the last inspection, the provider was required to ensure all clients received a medical or non-medical prescriber review annually. At this inspection, compliance had improved to 90%, supported by clear mitigation plans for missed reviews. These included holding prescriptions at the hub, enhanced communication with pharmacies, and scheduling follow-ups. Additional prescribing capacity had been introduced, and audits confirmed overdue reviews were tracked with actions taken to maintain safety. This demonstrated measurable progress since the last inspection.\u003C/p\u003E\u003Cp\u003EPeople generally received care and treatment aligned with national guidance. Prescribing decisions were clearly documented and shared with GPs, and recovery plans reflected individual goals such as reducing alcohol use, reconnecting with family, or accessing housing support. Multidisciplinary meetings and prescriber forums provided structured oversight and supported consistency in clinical decision-making. Staff worked collaboratively with GPs, pharmacies, housing and criminal-justice partners, which helped maintain continuity of care. People were offered harm-reduction advice and opportunities to engage in recovery-focused activities such as allotments, creative sessions and recovery walks, which they told us helped reduce isolation and promote healthier lifestyles.\u003C/p\u003E\u003Cp\u003EHowever, physical-health assessments were not consistently completed to the required standard. While most records included some physical health information, four of the ten records reviewed lacked key checks such as blood pressure, ECG or liver function tests. In addition, validated alcohol assessment tools such as AUDIT or SADQ were missing or incomplete in four records. Staff told us tool use varied depending on confidence and time pressures, and governance meeting notes confirmed inconsistent application of alcohol screening tools as an area for improvement. These gaps meant the service could not be assured that withdrawal risks and co-existing health conditions were consistently identified and managed. \u003C/p\u003E\u003Cp\u003ETrauma-informed care training was recognised as a development priority; however, it had not yet been delivered. Staff told us they aimed to work in a trauma-informed way, but confidence and consistency in applying this approach varied. \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good. This meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E\u003Cp\u003ECare and treatment were planned with people and adapted to their individual needs. Care plans were personalised and updated, and staff provided interpreting or other communication adjustments where required. People told us they were involved in their care planning and understood what care and treatment to expect, which supported choice and control. Information was clear, accessible and tailored to needs, and staff obtained consent for information sharing. Feedback was gathered through multiple routes, and actions were taken in response, such as reallocating staff and improving communication pathways.\u003C/p\u003E\u003Cp\u003EThe service understood local needs and worked to support continuity of care, including for prison leavers, and adapted approaches to improve engagement with specific community groups. Staff and leaders considered equity and inclusion in planning and delivery, and outreach supported people not accessing treatment.\u003C/p\u003E\u003Cp\u003EHowever, records did not always confirm that people had received a copy of their recovery plan, reducing assurance that people could review their care independently. Planning for future care was consistent, and recruitment for a permanent aftercare practitioner was underway, with agency staff providing cover. \u003C/p\u003E\u003Cp\u003EThe service was looking at how it could improve continuity of treatment for prison leavers returning to its geography. \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question requires improvement. At this assessment the rating has changed to good. This meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cp\u003EAt the last inspection, the provider was required to ensure staff completed mandatory training in basic life support. Training records now confirmed compliance, and all relevant staff had completed this training. Leaders had also taken steps to strengthen learning from incidents by using flash meetings and governance forums, which had been updated to include an incident section. However, during our inspection the flash meeting we observed was brief and did not record or discuss incidents, so the incident\u2011review function was not demonstrably embedded.\u003C/p\u003E\u003Cp\u003EThe service continued to demonstrate strengths in several areas. Staff understood safeguarding responsibilities and escalation routes, and training compliance was high. Clinical leads held Level 3 safeguarding and refresher plans were in place. Risk assessments and recovery plans were present in care records and regularly reviewed, and prescribing decisions showed multidisciplinary input. Medicines were managed safely, with standard operating procedures aligned to national guidance and consistently applied in practice. Records confirmed physical health monitoring for higher-dose methadone prescriptions, and naloxone and emergency medicines were available. The environment was clean and well maintained, with infection prevention measures in place. Incident reporting was embedded, and staff acted promptly to manage risks, including de-escalation and liaison with emergency services when required. Governance forums supported learning from incidents, and staff described structured discharge pathways and joint working with other agencies to maintain continuity of care.\u003C/p\u003E\u003Cp\u003EHowever, areas for further improvement were identified. Some of the incidents we reviewed, identified actions that did not have completion dates and there had been no checks to confirm whether actions were completed or effective. Plans for unexpected exit from treatment were not documented in care records, meaning staff may not act quickly or consistently if the key worker was unavailable. Accessibility for people with mobility needs remained limited, and some staff reported uncertainty about panic-alarm use in group sessions, although leaders had reiterated procedures. Caseloads remained high, with recovery workers managing 80\u2013100 cases, although an action plan to address this was in progress. Supervision compliance for volunteers was low, and administrative support was limited.\u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question requires improvement. At this assessment the rating has remained requires improvement. This meant leadership and governance did not consistently provide assurance or support the delivery of high-quality care.\u003C/p\u003E\u003Cp\u003ELeaders described a clear vision and values, bold, open and compassionate, which they said guided decision-making and service delivery. Staff recognised these values in practice, and leaders planned a facilitated session to refresh understanding and align objectives. A transformation plan set out strategic actions, including introducing a training and partnerships lead and a structured 12-week programme.\u003C/p\u003E\u003Cp\u003EHowever, governance processes did not consistently provide assurance or ensure follow-through. Incident records showed gaps in oversight: for three of the ten incidents reviewed, actions lacked completion dates and there was no evidence checks had been carried out to confirm effectiveness. Plans for unexpected exit from treatment were not documented in care records, reducing assurance that staff could respond quickly if the key worker was unavailable. Supervision compliance for volunteers was low, and inspectors did not see emergency protocols or staff guidance for managing out-of-hours situations. Vacancies and sickness led to raised caseloads, and staff raised concerns about workload distribution and limited administrative support.\u003C/p\u003E\u003Cp\u003ELeadership capability and culture were variable. Some staff described leaders as approachable and supportive, while others reported inconsistent visibility and perceived micromanagement during high-demand periods. Freedom to speak up processes were in place, but staff experiences were mixed, and further work was needed to embed a consistently open and safe environment for raising concerns. Workforce equality and inclusion were not fully embedded, with staff reporting limited involvement in decision-making and inconsistent approaches to adjustments.\u003C/p\u003E\u003Cp\u003EWhile leaders acknowledged recurring issues such as missed reviews and delays in prescribing, they stated that sustained monitoring and follow-through were being prioritised to prevent recurrence. \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "rating": "Requires Improvement",
+                "status": "Assessed",
+                "narrative": "This service is not always well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP19313",
+            "title": "Ongoing Assessment for Change Grow Live Barnet",
+            "assessmentDate": "2025-11-28",
+            "assessmentPlanStatus": "Active",
+            "name": "Substance misuse services",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EChange Grow Live \u2013 Barnet is part of the larger Change Grow Live provider who deliver a not-for-profit drug and alcohol treatment service nationally. The service provides specialist community treatment and support for adults and young people affected by substance misuse who live in Barnet.\u003C/p\u003E\u003Cp\u003EThey offer a range of services including initial advice; assessment and harm reduction services including needle exchange; prescribed medicines for alcohol and opiate detoxification and stabilisation; naloxone dispensing; group recovery programmes; one-to-one key working sessions and doctor and nurse clinics which include health checks, blood borne virus and hepatitis C testing.\u003C/p\u003E\u003Cp\u003EThe service works in partnership across Barnet with other agencies, including NHS services, social services, probation services, GPs and pharmacies.\u003C/p\u003E\u003Cp\u003EThe service is registered for the following regulated activity: Treatment of disease, disorder or injury. There was a registered manager at the service. The service had moved premises since we last inspected in December 2021. \u003C/p\u003E\u003Cp\u003EImprovements had been made to ensure that people received safe care and treatment. Staff completed life support training and regular prescribing reviews took place and were monitored. Governance procedures had also been strengthened and the risks associated with delivering the service were identified with appropriate mitigations put in place. In addition, safeguarding responsibilities were understood, medicines were managed safely, and prescribing decisions showed multidisciplinary input. People were treated with kindness and respect, and care planning reflected individual needs and preferences. Recovery-focused activities helped reduce isolation and promote healthier lifestyles. Information was clear and accessible, and feedback was gathered through multiple routes with actions taken in response. Leaders described a clear vision and values, and staff recognised these in practice.\u003C/p\u003E\u003Cp\u003EStaff adapted communication for language and literacy needs and considered cultural factors. People were supported to make informed choices through flexible appointments and practical help, such as assistance with GP visits. Recovery plans were person\u2011centred and regularly updated, reflecting individual goals like reconnecting with family or accessing housing support \u003C/p\u003E\u003Cp\u003EHowever, further improvements were needed. Some staff held high caseloads as measures to address this had not yet impacted. There was some fluctuations in timely triage and whilst measures to address this had also been implemented their efficacy could not yet be established. Some physical health checks had not been completed. Some specialist assessment tools to support treatment had also not been completed. Clearly documented exit plans were not always available, which could result in delays to timely action if keyworkers were not available. This was a breach of Regulation 12 Safe care and treatment.\u003C/p\u003E\u003Cp\u003EWe also found that further strengthening and embedding of governance systems was needed. Some environmental checks had not been carried out. There were low supervision rates for volunteers. Some incident records did not have completion dates or checks that actions had been completed. Monitoring of outcomes was in place, but compliance with key indicators such as risk reviews and Treatment Outcomes Profile returns was below target, and whilst improvement actions were recently introduced, the impact of these could not yet be demonstrated. The provider had recently introduced dashboards to monitor compliance across a range of performance targets and at the time of our inspection their efficacy could not yet be demonstrated. Improvements were needed in ensuring continuity of treatment for prison leavers. This was a breach of Regulation 17 Good governance. \u003C/p\u003E\u003Cp\u003EWe have asked the provider to submit an action plan. \u003C/p\u003E",
+            "commentaryDate": "2026-02-19",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with ten people who used the service and four carers. People told us staff treated them with kindness and respect. We observed calm, private interactions where staff gave people time to speak and checked understanding before moving on. Care planning reflected individual needs and preferences, and all records reviewed contained personalised goals set by the person.\u003C/p\u003E\u003Cp\u003EStaff adapted communication for language and literacy needs and considered cultural factors. People were supported to make informed choices, with flexible appointments and practical help such as assistance with GP appointments.\u003C/p\u003E\u003Cp\u003EPeople valued opportunities to engage in recovery\u2011focused activities such as allotments, creative sessions and recovery walks, which they said helped reduce isolation and promote healthier lifestyles. Feedback was gathered through surveys, suggestion boxes and \u201CYou Said, We Did\u201D boards. Most people described positive relationships with staff and felt involved in decisions about their care.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-02-19",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good. This meant people were supported and treated with dignity and respect; and involved as partners in their care.\u003C/p\u003E\u003Cp\u003EAt the last inspection, the provider was asked to ensure staff consistently demonstrated dignity and respect and to strengthen training in this area. At this inspection, people continued to tell us staff treated them with kindness and respect, and we observed calm, private interactions where staff gave people time to speak and checked understanding before moving on. Leaders had reinforced expectations following an isolated incident where behaviour did not fully meet standards, including asking all staff to read the \u2018Behaviour that Challenges\u2019 policy and prioritising a workshop on responding to challenging situations. These actions reduced the risk of similar events affecting people\u2019s experience. However, not all staff had completed dignity and respect training.\u003C/p\u003E\u003Cp\u003ELeaders also took steps to support staff wellbeing, introducing staff achievement awards to recognise commitment and hard work. These actions aimed to promote a positive culture and sustain compassionate care despite workforce pressures.\u003C/p\u003E\u003Cp\u003ECare planning reflected individual needs and preferences, and all records reviewed contained personalised goals set by the person. Staff adapted communication for language and literacy needs and considered cultural factors. People were supported to make informed choices, with flexible appointments and practical help such as assistance with GP appointments. Access to communal computers enabled people to use online resources and self-management tools.\u003C/p\u003E\u003Cp\u003ESystems were in place to respond to immediate needs, including daily allocation of first-responder roles and use of panic alarms. Incidents of aggression were discussed in daily meetings. However, some staff reported delays in response and gaps in confidence or training for first-responder duties and device use. Staff also noted variable management visibility during incidents. Leaders were aware of these concerns and had begun addressing them.\u003C/p\u003E\u003Cp\u003EStaff told us they had access to wellbeing initiatives such as supervision and debriefing after challenging situations, and volunteers described feeling valued and supported. Survey results reflected mixed views: staff reported strengths in trust and skill development but lower scores for involvement in decision-making, recognition and managing change. Some staff reported work-related stress and occasions of working while unwell, which could affect their ability to maintain compassionate interactions if not addressed.\u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service promoted people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EPeople were supported to make informed choices and to access practical support that maintained independence. Staff explained options, adapted contact to need and offered flexible appointments. Practical support included help with GP appointments. Three communal computers supported access to online resources and self-management tools.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service always treated people with kindness, empathy and compassion and respected their privacy and dignity. Staff treated colleagues from other organisations with kindness and respect.\u003C/p\u003E\u003Cp\u003EPeople told us staff were kind and respectful. During our visit we observed calm, private interactions, with staff giving people time to speak and checking understanding before moving on. This helped people feel comfortable discussing sensitive or complex issues.\u003C/p\u003E\u003Cp\u003EStaff described one isolated incident where care did not fully meet expected standards of respectful behaviour. Records and CCTV review showed staff used verbal direction and, at points, guiding contact to prevent entry into a restricted area. Evidence confirmed the incident was investigated promptly. Leaders identified learning on de\u2011escalation, consistent staff messaging, and use of alarms and first\u2011responder protocols. \u003C/p\u003E\u003Cp\u003EWe observed caring day\u2011to\u2011day practice and saw that leaders had reinforced expectations following the incident (for example, asking all staff to read the \u2018Behaviour that Challenges\u2019 policy and prioritising a \u2018Challenging Situations: Safe Response\u2019 workshop).\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always listen to and understand people\u2019s needs, views and wishes. Staff did not always respond to people\u2019s needs in the moment or act to minimise any discomfort, concern or distress.\u003C/p\u003E\u003Cp\u003ESystems were in place to respond to immediate needs. Policy emphasised de-escalation and use of panic alarms, and daily first-responder roles were allocated. Incidents of aggression were discussed in daily meetings.\u003C/p\u003E\u003Cp\u003EHowever, some staff reported delays in response and gaps in training or confidence in first-responder duties and device use. Staff also noted variable management visibility during incidents. An increase in incidents of aggression was highlighted in daily meetings. Leaders were aware of and addressing these needs. \u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service treated people as individuals and made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. They took account of people\u2019s strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics.\u003C/p\u003E\u003Cp\u003ECare planning reflected people\u2019s views and needs. All 10 care and treatment records contained personalised plans with goals set by the person. Staff used interpreters and adapted communication for language and literacy needs and considered cultural factors.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always care about and promote the wellbeing of their staff. They did not always support or enable staff to deliver person\u2011centred care.\u003C/p\u003E\u003Cp\u003EStaff told us they had access to wellbeing initiatives such as supervision, induction check\u2011ins and debriefing after challenging situations. Volunteers described positive experiences of support and said they felt valued in their roles. \u003C/p\u003E\u003Cp\u003EHowever, survey results reflected a mixed picture. The 2024 staff survey (18 responses; average score 6.0) showed strengths in trust and opportunities for skill development but lower scores for involvement in decision\u2011making, recognition and managing change. The volunteer survey (10 responses; average score 8.3) was broadly positive but raised similar concerns about recognition and involvement. Some staff reported work\u2011related stress and occasions of working while unwell, which could affect their ability to maintain compassionate interactions if not addressed.\u003C/p\u003E\u003Cp\u003ELeaders had introduced staff achievement awards to celebrate hard work, commitment and passion, as noted in governance meeting minutes. While these initiatives promote positive recognition, they were not explicitly linked to survey feedback and therefore may not fully address staff concerns about involvement and recognition.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EAt the last inspection, the provider was required to ensure all clients received a medical or non-medical prescriber review annually. At this inspection, compliance had improved to 90%, supported by clear mitigation plans for missed reviews. These included holding prescriptions at the hub, enhanced communication with pharmacies, and scheduling follow-ups. Additional prescribing capacity had been introduced, and audits confirmed overdue reviews were tracked with actions taken to maintain safety. This demonstrated measurable progress since the last inspection.\u003C/p\u003E\u003Cp\u003EPeople generally received care and treatment aligned with national guidance. Prescribing decisions were clearly documented and shared with GPs, and recovery plans reflected individual goals such as reducing alcohol use, reconnecting with family, or accessing housing support. Multidisciplinary meetings and prescriber forums provided structured oversight and supported consistency in clinical decision-making. Staff worked collaboratively with GPs, pharmacies, housing and criminal-justice partners, which helped maintain continuity of care. People were offered harm-reduction advice and opportunities to engage in recovery-focused activities such as allotments, creative sessions and recovery walks, which they told us helped reduce isolation and promote healthier lifestyles.\u003C/p\u003E\u003Cp\u003EHowever, physical-health assessments were not consistently completed to the required standard. While most records included some physical health information, four of the ten records reviewed lacked key checks such as blood pressure, ECG or liver function tests. In addition, validated alcohol assessment tools such as AUDIT or SADQ were missing or incomplete in four records. Staff told us tool use varied depending on confidence and time pressures, and governance meeting notes confirmed inconsistent application of alcohol screening tools as an area for improvement. These gaps meant the service could not be assured that withdrawal risks and co-existing health conditions were consistently identified and managed. \u003C/p\u003E\u003Cp\u003ETrauma-informed care training was recognised as a development priority; however, it had not yet been delivered. Staff told us they aimed to work in a trauma-informed way, but confidence and consistency in applying this approach varied. \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always make sure people\u2019s care and treatment were effective because they did not always check and discuss people\u2019s health, care, wellbeing and communication needs with them.\u003C/p\u003E\u003Cp\u003EPeople received comprehensive assessments covering substance use, mental and physical health, safeguarding and social needs. All 10 care and treatment records reviewed included a full assessment.\u003C/p\u003E\u003Cp\u003EPhysical\u2011health assessments were present in most records but varied in quality. In four records, key physical-health checks such as blood pressure, ECG or liver function tests were incomplete or unclear. This reduced assurance that staff had the information needed to make timely and safe decisions about care and treatment. In four of the ten records reviewed, validated alcohol assessment tools such as AUDIT or SADQ were either missing or incomplete. Staff told us tool use varied depending on practitioner confidence and time pressures. Governance meeting notes also identified inconsistent use of alcohol screening tools as an area for improvement. Without these assessments, the service may be unable to accurately assess withdrawal risk or determine the appropriate level of monitoring and support.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/p\u003E\u003Cp\u003EPeople told us they understood their treatment and how consent applied. In our review of 10 care and treatment records, consent to treatment, information-sharing and confidentiality agreements were present in all cases. Training compliance for the Mental Capacity Act (MCA) and Deprivation of Liberty Safeguards was high at 98%. Decision-specific mental-capacity assessments were documented in two records. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards. Staff understood their roles and responsibilities under the Mental Health Act 1983 and the Mental Health Act Code of Practice and discharged these well.\u003C/p\u003E\u003Cp\u003ECare and treatment followed national guidance. Prescribing decisions were clearly documented and routinely shared with GPs. Safeguards were in place for higher-dose opioid substitution therapy, and clinical reviews were structured with multidisciplinary input. In the care and treatment records reviewed, prescribing rationale was consistently recorded, and letters to GPs outlined treatment plans.\u003C/p\u003E\u003Cp\u003ERecovery plans were person-centred and regularly updated. Records showed that goals were reviewed in keywork sessions and adjusted in line with progress. In several cases, plans reflected individual priorities such as reconnecting with family, reducing alcohol use, or accessing housing support.\u003C/p\u003E\u003Cp\u003EClinical quality was monitored through regular multidisciplinary meetings and prescriber forums. These were used to review complex cases, prioritise risk, and ensure treatment remained aligned with national guidance. Staff reported that these forums supported shared decision-making and helped maintain consistency in care.\u003C/p\u003E\u003Cp\u003EThe service had a structured framework to ensure all clients received a medical or non-medical prescriber review annually, in line with policy. Compliance was reported at 90% at the time of inspection, with mitigation plans in place for missed reviews. These included conducting reviews in absence, holding prescriptions at the hub, and enhanced communication with pharmacies. The provider\u2019s audit confirmed that overdue reviews were tracked, risks assessed, and actions taken to ensure safety, such as issuing naloxone, scheduling follow-ups, and reviewing dispensing regimes. Additional prescribing capacity had been introduced to support delivery. \u003C/p\u003E\u003Cp\u003ETrauma-informed care training had been identified as a development priority. At the time of inspection, training had been planned but not yet delivered. Staff said they aimed to work in a trauma-informed way, but confidence and consistency varied. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked well across teams and services to support people. They made sure people only needed to tell their story once by sharing their assessment of needs when people moved between different services.\u003C/p\u003E\u003Cp\u003ETeams coordinated care through routine forums, including daily flash meetings, safeguarding surgeries, multidisciplinary meetings (including a dedicated alcohol MDT) and prescriber forums. Staff described joint working with GPs, pharmacies, social care, housing and criminal\u2011justice partners. In the care and treatment records we reviewed, information sharing with primary care was routine (e.g. letters outlining prescribing rationale and any dose changes), which helped maintain continuity when people attended shared appointments.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service routinely monitored people\u2019s care and treatment to support continuous improvement. Outcomes were tracked against clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EThe service monitored key indicators including treatment outcome profiles. A drop in completion of these had been noted and monitoring of completion was subsequently being monitored through a dashboard. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service supported people to manage their health and wellbeing to maximise their independence, choice and control. The service supported people to live healthier lives and where possible, reduce their future needs for care and support.\u003C/p\u003E\u003Cp\u003EPeople were offered harm\u2011reduction advice and health checks relevant to their treatment, such as blood pressure measurement, ECGs and liver scans where indicated. Recovery\u2011focused activities included allotments, creative sessions, recovery walks and a twice\u2011weekly brunch club, which people told us helped add routine and reduce isolation.\u003C/p\u003E\u003Cp\u003ERecovery plans referenced smoking\u2011cessation and healthy\u2011eating support. Where needs extended beyond the core substance\u2011misuse offer, staff signposted or referred to other services (e.g. sexual health) in line with local pathways.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good. This meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E\u003Cp\u003ECare and treatment were planned with people and adapted to their individual needs. Care plans were personalised and updated, and staff provided interpreting or other communication adjustments where required. People told us they were involved in their care planning and understood what care and treatment to expect, which supported choice and control. Information was clear, accessible and tailored to needs, and staff obtained consent for information sharing. Feedback was gathered through multiple routes, and actions were taken in response, such as reallocating staff and improving communication pathways.\u003C/p\u003E\u003Cp\u003EThe service understood local needs and worked to support continuity of care, including for prison leavers, and adapted approaches to improve engagement with specific community groups. Staff and leaders considered equity and inclusion in planning and delivery, and outreach supported people not accessing treatment.\u003C/p\u003E\u003Cp\u003EHowever, records did not always confirm that people had received a copy of their recovery plan, reducing assurance that people could review their care independently. Planning for future care was consistent, and recruitment for a permanent aftercare practitioner was underway, with agency staff providing cover. \u003C/p\u003E\u003Cp\u003EThe service was looking at how it could improve continuity of treatment for prison leavers returning to its geography. \u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThere were some shortfalls in how the service understood the diverse health and care needs of people and their local communities, so care was not always joined-up, flexible or supportive of choice and continuity.\u003C/p\u003E\u003Cp\u003EThe service understood local needs and worked to support continuity of care, including for prison leavers. Staff adapted approaches to improve engagement with specific community groups, for example by using tailored materials.\u003C/p\u003E\u003Cp\u003EHowever, between March 2024 and May 2025, 37% of prison leavers with a continued treatment need engaged in community treatment within three weeks against a 47% target. The service was looking at how performance against this target could be improved. \u003C/p\u003E\u003Cp\u003EGovernance meeting minutes showed continuity targets were discussed, and agenda items included \u2018Continuity of Care Data\u2019 and \u2018People in Treatment \u2013 Local Authority Target\u2019. However, these sections were left blank, and staff told us regular meetings with prisons had not taken place recently, despite plans to reintroduce them.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure that people could access the care, support and treatment they needed when they needed it.\u003C/p\u003E\u003Cp\u003EThe service made reasonable adjustments to support access. Staff arranged transport and offered an accessible external venue for groups. Care plans recorded individual needs. The provider recognised that the building was not accessible and had put adjustments in place to address these. \u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff and leaders actively listened to information about people who are most likely to experience inequality in experience or outcomes and tailored their care, support and treatment in response to this.\u003C/p\u003E\u003Cp\u003EStaff and leaders considered equity and inclusion in planning and delivery. The services risk register monitored accessibility and inclusion. The service engaged with local communities, and outreach in community settings supported people not accessing treatment.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made it easy for people to share feedback and ideas, or raise complaints about their care, treatment and support. They involved people in decisions about their care and told them what had changed as a result.\u003C/p\u003E\u003Cp\u003EThe provider gathered feedback through multiple routes, including suggestion boxes, newsletters, \u201CYou Said, We Did\u201D boards and surveys. Between August 2024 and May 2025, six complaints were recorded. Actions documented included reallocating staff, introducing oversight meetings and improving communication pathways.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure people were at the centre of their care and treatment choices and they decided, in partnership with staff, how to respond to any relevant changes in their needs.\u003C/p\u003E\u003Cp\u003ECare and treatment were planned with people and adapted to their individual needs. Care plans were personalised and updated, and staff provided interpreting or other communication adjustments where required. People told us they were involved in their care planning and understood what care and treatment to expect, which supported choice and control.\u003C/p\u003E\u003Cp\u003EHowever, records did not always document that people had received a copy of their recovery plan. Record reviews showed no clear evidence that copies were routinely provided to people, which reduces assurance that they consistently received this information. The service was also looking at how it could improve the provision of continued treatment to prisoners returning to their area after release. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPeople were not always supported to plan for important life changes, so they could have enough time to make informed decisions about their future, including at the end of their life.\u003C/p\u003E\u003Cp\u003EMost records reviewed included recovery goals and future planning aligned to people\u2019s strengths and goals. Guidance for planned endings was available and included an aftercare template and staff training materials. Manager audits had identified the need to improve the consistency of planned work with people.. The service was working to improve consistency in aftercare planning. A vacant aftercare practitioner post was being recruited to, which was covered by agency staff at the time of our inspection. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/p\u003E\u003Cp\u003EInformation was clear, accessible and tailored to needs. Staff obtained consent for information sharing and used plain-English materials. Training compliance with data protection and information security was 98%.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question requires improvement. At this assessment the rating has changed to good. This meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cp\u003EAt the last inspection, the provider was required to ensure staff completed mandatory training in basic life support. Training records now confirmed compliance, and all relevant staff had completed this training. Leaders had also taken steps to strengthen learning from incidents by using flash meetings and governance forums, which had been updated to include an incident section. However, during our inspection the flash meeting we observed was brief and did not record or discuss incidents, so the incident\u2011review function was not demonstrably embedded.\u003C/p\u003E\u003Cp\u003EThe service continued to demonstrate strengths in several areas. Staff understood safeguarding responsibilities and escalation routes, and training compliance was high. Clinical leads held Level 3 safeguarding and refresher plans were in place. Risk assessments and recovery plans were present in care records and regularly reviewed, and prescribing decisions showed multidisciplinary input. Medicines were managed safely, with standard operating procedures aligned to national guidance and consistently applied in practice. Records confirmed physical health monitoring for higher-dose methadone prescriptions, and naloxone and emergency medicines were available. The environment was clean and well maintained, with infection prevention measures in place. Incident reporting was embedded, and staff acted promptly to manage risks, including de-escalation and liaison with emergency services when required. Governance forums supported learning from incidents, and staff described structured discharge pathways and joint working with other agencies to maintain continuity of care.\u003C/p\u003E\u003Cp\u003EHowever, areas for further improvement were identified. Some of the incidents we reviewed, identified actions that did not have completion dates and there had been no checks to confirm whether actions were completed or effective. Plans for unexpected exit from treatment were not documented in care records, meaning staff may not act quickly or consistently if the key worker was unavailable. Accessibility for people with mobility needs remained limited, and some staff reported uncertainty about panic-alarm use in group sessions, although leaders had reiterated procedures. Caseloads remained high, with recovery workers managing 80\u2013100 cases, although an action plan to address this was in progress. Supervision compliance for volunteers was low, and administrative support was limited.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always assess or manage the risk of infection. They did not always detect and control the risk of it spreading or share concerns with appropriate agencies promptly.\u003C/p\u003E\u003Cp\u003EAreas were clean and well-maintained, with in-date consumables. Infection Prevention and Control (IPC) arrangements reflected the service\u2019s risk profile, with appropriate ventilation, sanitising materials, bio-spill kits, and sharps bins in place. However, a health and safety audit identified several issues: an overdue IPC risk assessment review, incomplete electronic records of routine water-temperature checks, and the need to improve cleaning contractor compliance. In response, records showed that the provider updated the IPC risk assessment, implemented recorded water-temperature checks with remedial actions, and escalated contractor-related issues. A subsequent update from the provider after the inspection advised completion of these actions. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with people to understand and manage risks by thinking holistically. Staff assessed and managed risks to patients and themselves well and followed best practice in anticipating, de-escalating and managing challenging behaviour. They provided care to meet people\u2019s needs that was safe, supportive and enabled people to do the things that mattered to them.\u003C/p\u003E\u003Cp\u003ERecords confirmed risk assessments were completed and updated, and incident entries showed appropriate immediate actions (including de\u2011escalation and, where required, liaison with emergency services). People told us they understood group rules and reflected on the impact when someone attended under the influence; care and treatment records showed staff sought to keep people engaged and clarify expectations after incidents. \u003C/p\u003E\u003Cp\u003ERisk plans were updated after changes, and people using the service and their carers confirmed they were involved with and knew about these changes.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had a proactive and positive culture of safety, based on openness and honesty. They listened to concerns about safety and investigated and reported safety events. Lessons were learnt to continually identify and embed good practice. \u003C/p\u003E\u003Cp\u003EThe service promoted an open learning culture with clear routes for reporting and sharing learning through flash meetings, team meetings and governance forums. Incident and near\u2011miss records were structured with action owners and target dates, and changes such as updated induction content, a prescription\u2011change form and bi\u2011weekly case reviews were evident in records and staff accounts.\u003C/p\u003E\u003Cp\u003ELeaders told us the service recorded around 50 incidents in the last 12 months, most commonly violence and aggression, medicines\u2011related issues (such as prescriptions not located or hospital admissions not communicated), and occasional data breaches. They also reported 3\u20134 deaths per quarter, reviewed through governance processes. \u003C/p\u003E\u003Cp\u003EAll staff received incident\u2011reporting training, with refreshers delivered by the governance lead, supporting visibility of risks and timely learning. Staff managed incidents promptly and maintained engagement. For example, de\u2011escalating when a person attended under the influence and arranging safe exit with follow\u2011up, or clarifying plans after a prescription dispute, with an apology recorded. As a result of learning from violence and aggression incidents, sessions in flash meetings aimed to remind and reinforce the procedure staff should follow when faced with this situation.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure that medicines and treatments were safe and met people\u2019s needs, capacities and preferences. They involved people in planning, including when changes happened.\u003C/p\u003E\u003Cp\u003EMedicines were managed safely and in a way that supported person-centred care. People told us they received clear information and were involved in decisions about their medicines. Staff described how they used national and regional forums to discuss complex cases and share good practice, and how supervision supported safe prescribing decisions.\u003C/p\u003E\u003Cp\u003EStandard operating procedures (SOPs) were in place for each prescribing pathway, including opioid substitution therapy, detoxification, and relapse prevention. These SOPs aligned with national guidance such as NICE recommendations. Staff demonstrated awareness of these procedures and described how they applied them in practice.\u003C/p\u003E\u003Cp\u003EWe reviewed five care records across different pathways. Each showed consistent documentation of prescribing decisions, physical health monitoring, and risk assessments. For example, records included Electrocardiogram (ECG) monitoring for higher-dose methadone prescriptions. Staff interviews and a review of care and treatment records confirmed that SOPs were being followed in practice, with evidence of clinical oversight and adherence to safe prescribing protocols.\u003C/p\u003E\u003Cp\u003EMedicines were stored securely and appropriately. Staff checked existing prescriptions during assessments using GP records and confirmed details directly with the person and their pharmacy. They described working collaboratively to reduce risks, including monitoring for signs of misuse or diversion and adjusting treatment accordingly. Naloxone was available in both nasal and injectable forms, and staff were familiar with its use.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe provider was making improvements to ensure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/p\u003E\u003Cp\u003EVacancies and sickness led to raised caseloads, with recovery workers managing 80\u2013100 cases and some team leaders holding significantly more. Staff raised concerns about workload distribution, limited administrative support and frustration with duty cover arrangements. \u003C/p\u003E\u003Cp\u003ETeam Leaders now deliver monthly case management and audit sessions, supported by individualised plans for staff with the highest workload pressures. Weekly case management reviews and audits by senior managers aim to strengthen oversight and support staff in managing caseloads effectively.\u003C/p\u003E\u003Cp\u003EGovernance minutes also showed a significant decline in timely triage completion from 52% in April to 11% in July, although actions had been introduced to address this. Monitoring of outcomes was in place, but compliance with key indicators such as risk reviews and Treatment Outcomes Profile returns was below target, and improvement actions were recently introduced so impact could not yet be demonstrated.\u003C/p\u003E\u003Cp\u003ESafer recruitment checks, structured induction and core training were in place; professional registration was verified. All relevant staff had completed mandatory training in Basic Life Support (BLS), confirmed through training records. People generally experienced continuity of care, with appointments kept or promptly rescheduled.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always detect and control potential risks in the care environment. They did not always make sure equipment, facilities and technology supported the delivery of safe care.\u003C/p\u003E\u003Cp\u003EWhilst the environment supported safe care in most areas, staff told us accessibility for people with mobility needs was limited, entrance visibility was restricted, and some rooms became uncomfortably warm in hot weather. Incident records showed one end\u2011of\u2011day security lapse. A small number of staff reported uncertainty about panic\u2011alarm use in group sessions. Leaders had reiterated the procedure to standardise responses across teams. \u003C/p\u003E\u003Cp\u003EPeople described premises as clean, quiet and private. Staff confirmed naloxone, adrenaline and a defibrillator were available. Environmental risk assessments and daily/weekly/monthly checks were in place; fire safety measures were maintained; and a mock panic\u2011alarm test confirmed an audible alarm with first\u2011responder attendance. \u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with people and healthcare partners to establish and maintain safe systems of care, in which safety was managed or monitored. They made sure there was continuity of care, including when people moved between different services.\u003C/p\u003E\u003Cp\u003EWe reviewed 10 care records. Risk assessments and recovery plans were present, clearly documented and regularly reviewed, and prescribing decisions showed multidisciplinary input. Staff described structured discharge pathways and joint working with hospitals, maternity services, probation and other providers to support continuity.\u003C/p\u003E\u003Cp\u003EStaff consistently described what they would do in practice should a person exit unexpectedly from the service. This included contact with next\u2011of\u2011kin, attempting rapid re\u2011engagement and discussion of risk with them. Although formal plans for unexpected exit were not consistently documented in care records, we saw evidence in some records that staff acted promptly and followed their described approach, including contacting next\u2011of\u2011kin and attempting rapid re\u2011engagement. Routine triage occurred within 7 days of referral. Leaders described an urgent pathway for high\u2011risk referrals. \u003C/p\u003E\u003Cp\u003ESince being awarded a new five\u2011year contract in April, the provider had introduced two new entry into service recovery worker roles to improve access and reduce waiting times. Leaders had highlighted timely access to the service as a potential risk and reviewed it regularly through their service level risk register. Additional actions implemented and regularly reviewed included an updated process guide for reviewing referrals, regular review of performance data and dedicated triage appointments. The service was also reviewing its out of hours provision, to increase the number of appointments available.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with people and healthcare partners to understand what being safe meant to them and the best way to achieve that. They concentrated on improving people\u2019s lives while protecting their right to live in safety, free from bullying, harassment, abuse, discrimination, avoidable harm and neglect. The service shared concerns quickly and appropriately.\u003C/p\u003E\u003Cp\u003EStaff understood safeguarding responsibilities and escalation routes, with access to a safeguarding lead and weekly surgeries. Training compliance was high and clinical leads held Level 3 safeguarding; leaders planned refreshers for roles with older training dates. We saw four safeguarding referrals in the last 12 months with follow\u2011up evidenced in care and treatment records. An internal review prior to inspection identified examples of risks categorised without sufficient context (for example, \u201Crisk of harm to others\u201D without a narrative); refresher guidance on categorisation was shared and discussed in team meetings. \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Requires Improvement",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question requires improvement. At this assessment the rating has remained requires improvement. This meant leadership and governance did not consistently provide assurance or support the delivery of high-quality care.\u003C/p\u003E\u003Cp\u003ELeaders described a clear vision and values, bold, open and compassionate, which they said guided decision-making and service delivery. Staff recognised these values in practice, and leaders planned a facilitated session to refresh understanding and align objectives. A transformation plan set out strategic actions, including introducing a training and partnerships lead and a structured 12-week programme.\u003C/p\u003E\u003Cp\u003EHowever, governance processes did not consistently provide assurance or ensure follow-through. Incident records showed gaps in oversight: for three of the ten incidents reviewed, actions lacked completion dates and there was no evidence checks had been carried out to confirm effectiveness. Plans for unexpected exit from treatment were not documented in care records, reducing assurance that staff could respond quickly if the key worker was unavailable. Supervision compliance for volunteers was low, and inspectors did not see emergency protocols or staff guidance for managing out-of-hours situations. Vacancies and sickness led to raised caseloads, and staff raised concerns about workload distribution and limited administrative support.\u003C/p\u003E\u003Cp\u003ELeadership capability and culture were variable. Some staff described leaders as approachable and supportive, while others reported inconsistent visibility and perceived micromanagement during high-demand periods. Freedom to speak up processes were in place, but staff experiences were mixed, and further work was needed to embed a consistently open and safe environment for raising concerns. Workforce equality and inclusion were not fully embedded, with staff reporting limited involvement in decision-making and inconsistent approaches to adjustments.\u003C/p\u003E\u003Cp\u003EWhile leaders acknowledged recurring issues such as missed reviews and delays in prescribing, they stated that sustained monitoring and follow-through were being prioritised to prevent recurrence. \u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-19",
+                "narrative": "This service is not always well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ENot all leaders understood the context in which the service delivered care, treatment and support. They did not always embody the culture and values of their workforce and organisation. Leaders did not always have the skills, knowledge, experience and credibility to lead effectively, or they did not always do so with integrity, openness and honesty.\u003C/p\u003E\u003Cp\u003ELeaders were in post and described a collaborative approach to leadership, balancing staff input with direction to maintain safe and effective care. They gave examples of how they support staff through HR concerns, including offering the Employee Assistance Programme (EAP), conducting welfare checks, and making reasonable adjustments.\u003C/p\u003E\u003Cp\u003EHowever, staff feedback was mixed. Some described leaders as approachable and supportive, while others reported variable visibility and perceived micromanagement during high-demand periods. Leaders described taking steps to address team dynamics and reset expectations around workplace behaviour. These included facilitated conversations, stress surveys, and increased visibility of leadership to support psychological safety and rebuild trust.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPeople did not always feel they could speak up and that their voice would be heard.\u003C/p\u003E\u003Cp\u003EThe service has a whistleblowing policy that outlined internal and external routes for raising concerns. Leaders described offering staff a range of options for escalation, including informal resolution, formal HR processes, and external reporting. Where concerns involved a manager, staff were signposted to alternative senior contacts.\u003C/p\u003E\u003Cp\u003ELeaders acknowledged that team dynamics had been affected by past concerns and described actions taken to support staff, including welfare checks, and increased visibility of leadership. Leaders confirmed that an external agency had been commissioned to investigate a recent concern raised via commissioners. The provider subsequently told us that the independent review did not uphold these concerns.\u003C/p\u003E\u003Cp\u003EHowever, staff described varied experiences of speaking up. Some felt supported by their line managers and comfortable raising concerns, while others expressed hesitancy due to previous team tensions and perceived lack of accountability. While processes were in place and actions have been taken to strengthen the culture, staff experiences remained inconsistent and further work was needed to embed a consistently open and safe environment for raising concerns.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always have clear responsibilities, roles, systems of accountability or good governance. They did not always act on the best information about risk, performance and outcomes, or share this securely with others when appropriate.\u003C/p\u003E\u003Cp\u003EThe service had structured governance arrangements in place. Leaders described a framework comprising regular governance meetings at daily, weekly and monthly intervals. Meeting minutes confirmed these forums reviewed complaints, incidents, risk registers and progress against the transformation plan, and discussions consistently covered all service areas including clinical quality, safeguarding, workforce and access. The risk register included operational risks and mitigations, which were reviewed regularly. Following the previous inspection, governance processes were strengthened through increased prescriber capacity, the introduction of monthly audits of overdue medical reviews and the establishment of a Prescribers Forum. Between July 2024 and July 2025, 133 manager audits were completed. Medical review audits confirmed that overdue reviews were tracked, risk scores assessed, and actions taken to maintain safety, including issuing naloxone, scheduling follow-ups and reviewing dispensing regimes.\u003C/p\u003E\u003Cp\u003EHowever, governance processes did not consistently provide assurance or ensure follow-through. Incident records showed gaps in oversight: for three of the ten incidents we reviewed, identified actions lacked completion dates, and there was no evidence checks had been carried out to confirm whether actions were completed or effective. Plans for unexpected exit from treatment were not documented in care records, meaning staff may not act quickly or consistently if the key worker was unavailable. Supervision compliance for volunteers was low at around one third over 12 months, despite an action plan to improve this. Vacancies and sickness led to raised caseloads, with recovery workers managing 80\u2013100 cases and some team leaders holding significantly more. Staff raised concerns about workload distribution, limited administrative support and frustration with duty cover arrangements. We also found gaps in staff training and protocols: not all staff had completed dignity and respect training, and inspectors did not see emergency protocols or staff guidance for managing out-of-hours situations. Governance meeting minutes showed continuity targets were discussed, but sections were left blank, and staff told us regular meetings with prisons had not taken place recently, despite plans to reintroduce them. Between March 2024 and May 2025, only 37% of prison leavers with a continued treatment need engaged in community treatment within three weeks against a 47% target. While leaders acknowledged recurring issues such as missed reviews and delays in prescribing, they stated that sustained monitoring and follow-through were being prioritised to prevent recurrence.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service focused on continuous learning, innovation and improvement across the organisation and local system. They encouraged creative ways of delivering equality of experience, outcome and quality of life for people. They actively contribute to safe, effective practice and research.\u003C/p\u003E\u003Cp\u003ELeaders told us the service focused on continuous learning and improvement and described initiatives to share learning and drive change.. Leaders reported changes to improve access and efficiency, such as reducing prescriber assessment times from 90 to 45 minutes, which they said contributed to shorter waiting times. They described collaborative work with commissioners to address caseload distribution and service model challenges.\u003C/p\u003E\u003Cp\u003ELearning from incidents was shared with staff through service-wide communications. For example, following an incident involving lost equipment, the provider issued guidance on securing devices and reporting losses promptly.\u003C/p\u003E\u003Cp\u003EStaff told us they were aware of changes aimed at improving efficiency and safety, including the shorter assessment process and guidance following incidents. They also described opportunities to contribute ideas through peer-led groups and suggestion boxes. Service users told us they valued initiatives such as recovery cards and peer-led groups, which supported engagement and involvement.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service understood their duty to collaborate and work in partnership, so services work seamlessly for people. They share information and learning with partners and collaborate for improvement.\u003C/p\u003E\u003Cp\u003EThe service worked with partners to support care pathways and engagement. The transformation plan included a training and partnerships lead role.. Partnership work included a service-level agreement with a local hospital and weekly drop-ins at homelessness support services. \u003C/p\u003E\u003Cp\u003ESafeguarding policies set out information-sharing processes, and commissioners confirmed engagement. Outreach and community engagement were supported by volunteers and local events. Collaboration supported continuity of care and improved access for underserved groups.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and understanding challenges and the needs of people and their communities.\u003C/p\u003E\u003Cp\u003ELeaders described a clear vision and values bold, open and compassionate which they said underpinned decision-making and team objectives. They explained that these values guided how the service delivered accessible, evidence-based care to people affected by substance misuse, their families, and the wider community. Leaders gave examples of how values are applied in practice, such as responding to incidents with a balance of bold action and compassionate support.\u003C/p\u003E\u003Cp\u003EStaff described the values in practice, even if not all could recall them verbatim. Leaders planned a facilitated session with the team to refresh understanding of the values and align objectives. A service transformation plan set out strategic actions, including introducing a training and partnerships lead and a structured 12-week programme. \u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service did not always value diversity in their workforce. They did not always work towards an inclusive and fair culture by improving equality and equity for people who work for them.\u003C/p\u003E\u003Cp\u003ELeaders described modelling openness about wellbeing and supporting line managers to respond to staff needs.\u003C/p\u003E\u003Cp\u003EHowever, staff told us they wanted clearer communication, better recognition, and more involvement in decision-making. Some staff described feeling supported and able to contribute ideas, while others reported variable experiences of inclusion and inconsistent approaches to adjustments. \u003C/p\u003E\u003Cp\u003ELeaders also planned a values session with an external provider to support a shared culture and improve consistency across teams. \u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-19"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

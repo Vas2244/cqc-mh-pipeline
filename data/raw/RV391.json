@@ -1,0 +1,124 @@
+{
+  "locationId": "RV391",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The Butterworth Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-09-09",
+  "deregistrationDate": "2016-08-25",
+  "dormancy": "N",
+  "onspdLatitude": 51.532409,
+  "onspdLongitude": -0.174696,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "36 Circus Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW8 9SE",
+  "website": "www.cnwl.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2015-02-24"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2827435505",
+      "relatedLocationName": "Butterworth Centre",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "28ea1642-0370-44c6-8577-f9a08c99af37",
+          "providerId": "RV3",
+          "locationId": "RV391"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "ebab4d67-c50b-4857-a25b-de389510785b",
+      "reportDate": "2011-09-29",
+      "firstVisitDate": "2011-09-06",
+      "reportUri": "/reports/ebab4d67-c50b-4857-a25b-de389510785b?20200430120000"
+    },
+    {
+      "linkId": "5458794b-e623-4a6a-87fb-031800f4164b",
+      "reportDate": "2011-06-07",
+      "firstVisitDate": "2011-04-28",
+      "reportUri": "/reports/5458794b-e623-4a6a-87fb-031800f4164b?20200430120000"
+    }
+  ]
+}

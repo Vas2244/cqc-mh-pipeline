@@ -1,0 +1,359 @@
+{
+  "locationId": "1-2781482256",
+  "providerId": "1-2694913637",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The OAD Clinic",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2016-07-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.494757,
+  "onspdLongitude": -0.148858,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "25a Eccleston Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW1W 9NP",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2023-08-15"
+  },
+  "lastReport": {
+    "publicationDate": "2023-09-18"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-112342387",
+      "relatedLocationName": "The Belgravia Clinic",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Professor",
+          "personGivenName": "Oscar Alejandro",
+          "personFamilyName": "Dagnone",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Mark",
+          "personFamilyName": "Kendrick",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Professor",
+          "personGivenName": "Oscar Alejandro",
+          "personFamilyName": "Dagnone",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Mark",
+          "personFamilyName": "Kendrick",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2023-09-18",
+      "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2023-09-18",
+          "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2023-09-18",
+          "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2023-09-18",
+          "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2023-09-18",
+          "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2023-09-18",
+          "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0"
+        }
+      ]
+    },
+    "reportDate": "2023-09-18",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Good",
+        "reportDate": "2019-05-14",
+        "reportLinkId": "0f27d02d-ef04-4863-b29b-11b37cbca3e2",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2023-09-18",
+        "reportLinkId": "788a074f-228d-42b1-8f5a-380826c6f0a0",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-05-14",
+      "reportLinkId": "0f27d02d-ef04-4863-b29b-11b37cbca3e2",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-09-04",
+      "reportLinkId": "04998722-e154-4c66-b0e9-1b8bb6a7de81",
+      "serviceRatings": [
+        {
+          "name": "mhsubstance",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Effective",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Safe",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inspected but not rated"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-07-04",
+      "reportLinkId": "22ca0758-e7ed-4408-bdc0-db91a50ea035",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "788a074f-228d-42b1-8f5a-380826c6f0a0",
+      "reportDate": "2023-09-18",
+      "firstVisitDate": "2023-07-11",
+      "reportUri": "/reports/788a074f-228d-42b1-8f5a-380826c6f0a0?20230918070045",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "0f27d02d-ef04-4863-b29b-11b37cbca3e2",
+      "reportDate": "2019-05-14",
+      "firstVisitDate": "2019-03-12",
+      "reportUri": "/reports/0f27d02d-ef04-4863-b29b-11b37cbca3e2?20210116080838",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "04998722-e154-4c66-b0e9-1b8bb6a7de81",
+      "reportDate": "2017-09-04",
+      "firstVisitDate": "2017-07-20",
+      "reportUri": "/reports/04998722-e154-4c66-b0e9-1b8bb6a7de81?20210122182034",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "22ca0758-e7ed-4408-bdc0-db91a50ea035",
+      "reportDate": "2017-07-04",
+      "firstVisitDate": "2017-03-29",
+      "reportUri": "/reports/22ca0758-e7ed-4408-bdc0-db91a50ea035?20210118235936",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locationId": "1-6118742950",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Greenwich Aspire",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-03-26",
+  "deregistrationDate": "2020-06-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.4924192,
+  "onspdLongitude": 0.0443469,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "821 Woolwich Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE7 8LJ",
+  "uprn": "10010230294",
+  "numberOfBeds": 0,
+  "constituency": "Greenwich and Woolwich",
+  "localAuthority": "Greenwich",
+  "relationships": [
+    {
+      "relatedLocationId": "1-8439933856",
+      "relatedLocationName": "Via - Greenwich",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,327 @@
+{
+  "locationId": "RV3X2",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Headquarters, 350 Euston Road",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2018-07-20",
+  "dormancy": "N",
+  "onspdLatitude": 51.5243359,
+  "onspdLongitude": -0.1421804,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "350 Euston Road",
+  "postalAddressLine2": "Regent\u0027s Place",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 3AX",
+  "uprn": "5145554",
+  "mainPhoneNumber": "02032145700",
+  "website": "www.cnwl.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2024-03-11"
+  },
+  "lastReport": {
+    "publicationDate": "2023-04-25"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RV3EE",
+      "relatedLocationName": "Stephenson House",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Transport services, triage and medical advice provided remotely",
+      "code": "RA10",
+      "contacts": []
+    },
+    {
+      "name": "Nursing care",
+      "code": "RA14",
+      "contacts": []
+    },
+    {
+      "name": "Family planning",
+      "code": "RA15",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Ambulances",
+      "description": "Ambulance service"
+    },
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Dentist",
+      "description": "Dental service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Prison healthcare",
+      "description": "Prison Healthcare Services"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H5",
+      "name": "Ambulance service"
+    },
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P1",
+      "name": "Dentists"
+    },
+    {
+      "code": "P4",
+      "name": "Prison Healthcare"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "INS2-13945152021",
+          "reportLinkId": "8058295a-ca45-43a1-96a3-fd1fcb8d0e2d",
+          "providerId": "RV3",
+          "locationId": "RV3X2"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-5438737561",
+          "reportLinkId": "86e5c6d4-f0e3-4670-8179-5a4382a6bc19",
+          "providerId": "RV3",
+          "locationId": "RV3X2"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2023-04-25",
+      "reportLinkId": "8a1136ff-bd9d-4b67-b513-0d33e5640581",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2023-04-25",
+          "reportLinkId": "8a1136ff-bd9d-4b67-b513-0d33e5640581"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2023-04-25",
+          "reportLinkId": "8a1136ff-bd9d-4b67-b513-0d33e5640581"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2023-04-25",
+          "reportLinkId": "8a1136ff-bd9d-4b67-b513-0d33e5640581"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2023-04-25",
+          "reportLinkId": "8a1136ff-bd9d-4b67-b513-0d33e5640581"
+        }
+      ]
+    },
+    "reportDate": "2023-04-25"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2023-04-13",
+      "reportLinkId": "de43f675-1941-4673-9e82-0266b858b02e",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2023-02-14",
+      "reportLinkId": "d92f446f-c2dd-46ef-b489-315232777f7b",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2024-03-11"
+    },
+    {
+      "firstVisitDate": "2021-07-19"
+    },
+    {
+      "firstVisitDate": "2024-03-11"
+    },
+    {
+      "firstVisitDate": "2023-01-09"
+    },
+    {
+      "firstVisitDate": "2022-01-10"
+    },
+    {
+      "firstVisitDate": "2021-08-09"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "8a1136ff-bd9d-4b67-b513-0d33e5640581",
+      "reportDate": "2023-04-25",
+      "firstVisitDate": "2023-02-23",
+      "reportUri": "/reports/8a1136ff-bd9d-4b67-b513-0d33e5640581?20230425070045",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "de43f675-1941-4673-9e82-0266b858b02e",
+      "reportDate": "2023-04-13",
+      "firstVisitDate": "2023-03-17",
+      "reportUri": "/reports/de43f675-1941-4673-9e82-0266b858b02e?20230413070053",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "d92f446f-c2dd-46ef-b489-315232777f7b",
+      "reportDate": "2023-02-14",
+      "firstVisitDate": "2022-12-07",
+      "reportUri": "/reports/d92f446f-c2dd-46ef-b489-315232777f7b?20230214100039",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "ea2209bf-7ae6-4015-bd79-42cedbdf28e2",
+      "reportDate": "2022-05-12",
+      "firstVisitDate": "2022-01-31",
+      "reportUri": "/reports/ea2209bf-7ae6-4015-bd79-42cedbdf28e2?20220512120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "25781511-70d8-4d81-9c05-4e73abe38ee4",
+      "reportDate": "2019-04-19",
+      "firstVisitDate": "2018-12-17",
+      "reportUri": "/reports/25781511-70d8-4d81-9c05-4e73abe38ee4?20200225130000",
+      "reportType": "Location"
+    }
+  ]
+}

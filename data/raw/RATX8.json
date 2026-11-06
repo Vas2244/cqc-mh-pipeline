@@ -1,0 +1,259 @@
+{
+  "locationId": "RATX8",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Head Office, CEME",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "odsCode": "VNAAV",
+  "registrationStatus": "Registered",
+  "registrationDate": "2017-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.518578,
+  "onspdLongitude": 0.171162,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "C E M E",
+  "postalAddressLine2": "Marsh Way",
+  "postalAddressTownCity": "Rainham",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "RM13 8GQ",
+  "mainPhoneNumber": "03005551200",
+  "numberOfBeds": 0,
+  "constituency": "Dagenham and Rainham",
+  "localAuthority": "Havering",
+  "lastInspection": {
+    "date": "2022-05-18"
+  },
+  "lastReport": {
+    "publicationDate": "2022-07-27"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RATW3",
+      "relatedLocationName": "Trust Head Office",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    },
+    {
+      "name": "Urgent care centres",
+      "description": "Urgent care services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "INS2-12695381601",
+          "reportLinkId": "ce56e6ed-5822-4ece-b495-5ffb185e6d62",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        },
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "32b7d8cb-6d2b-4795-ae81-521bb380a1df",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        },
+        {
+          "inspectionId": "SPL1-246673821",
+          "reportLinkId": "00933287-5ca2-4996-9c43-9944db482719",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        },
+        {
+          "inspectionId": "SPL1-4066397840",
+          "reportLinkId": "4bfca8d1-a426-4b7e-9644-df85e8c8e61b",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityautism",
+      "reports": [
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "697e2915-3ccb-4bcf-a2be-9357bb7a2ce8",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-7842309746",
+          "reportLinkId": "6b6e9712-9103-45f4-b518-0c83722d887f",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "e4377216-514f-4515-afd0-1a5cbea19c1a",
+          "providerId": "RAT",
+          "locationId": "RATX8"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2019-09-06",
+      "reportLinkId": "03ac440a-7ecd-4770-8016-dc05eb2d8d89",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    },
+    "reportDate": "2022-07-27"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2022-07-27",
+      "reportLinkId": "2761304e-de59-488d-9c57-0a25475dd172",
+      "overall": {
+        "rating": "Inspected but not rated"
+      }
+    },
+    {
+      "reportDate": "2019-09-06",
+      "reportLinkId": "03ac440a-7ecd-4770-8016-dc05eb2d8d89",
+      "overall": {
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "2761304e-de59-488d-9c57-0a25475dd172",
+      "reportDate": "2022-07-27",
+      "firstVisitDate": "2022-05-17",
+      "reportUri": "/reports/2761304e-de59-488d-9c57-0a25475dd172?20220727080045",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "03ac440a-7ecd-4770-8016-dc05eb2d8d89",
+      "reportDate": "2019-09-06",
+      "reportUri": "/reports/03ac440a-7ecd-4770-8016-dc05eb2d8d89?20210115205909",
+      "reportType": "Location"
+    }
+  ]
+}

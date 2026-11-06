@@ -1,0 +1,257 @@
+{
+  "locationId": "RPGAE",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Oxleas House",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.478193,
+  "onspdLongitude": 0.050043,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Queen Elizabeth Hospital",
+  "postalAddressLine2": "Stadium Road, Woolwich",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 4QH",
+  "mainPhoneNumber": "02088368543",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Greenwich and Woolwich",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2023-02-23"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsinpatient",
+      "reports": [
+        {
+          "inspectionId": "INS2-5242866581",
+          "reportLinkId": "92fd6629-56fa-4eb1-b66b-87075865bdbc",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityautism",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "daebafa0-f520-407a-9370-ecbbcbac4709",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "INS2-5242866581",
+          "reportLinkId": "2ac33677-c28c-4d9b-b980-bee437d62a29",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-3177018976",
+          "reportLinkId": "8934b8b8-680b-4abe-ae06-cf9ec263079e",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "INS2-5242866581",
+          "reportLinkId": "bb687b89-4f55-4ad0-b606-09c563f40107",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "INS2-7298386951",
+          "reportLinkId": "31385bc3-35a4-482a-b6ed-0fd6c0b34cea",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "ed7cac1d-1646-4ca5-a7a3-e80ca8655c49",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhdisabilities",
+      "reports": [
+        {
+          "inspectionId": "INS2-5242866581",
+          "reportLinkId": "f2c297c9-b821-40b6-ade1-e6bff4042e1d",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-1052992921",
+          "reportLinkId": "05a07edc-fce4-4694-8388-b605410df564",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "INS2-5242866581",
+          "reportLinkId": "0a89c1a2-28b3-4a4c-a2bf-2da1c249a131",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "INS2-9560365361",
+          "reportLinkId": "5fe86cc8-580f-4970-b80d-06a8bc61cc7f",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "62449580-1683-441f-9737-5837ea8fef0e",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-14781877321",
+          "reportLinkId": "2c6baf3e-1073-42a5-b6ae-eb5d35cc4e4f",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "INS2-3177018976",
+          "reportLinkId": "5c268b2e-afa7-4295-a033-7b529e5d3e46",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "INS2-5242866581",
+          "reportLinkId": "b352ffca-450a-475d-b30e-7bac48165c50",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        },
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "1a06f220-3533-40c6-b73e-837fe5fe7b84",
+          "providerId": "RPG",
+          "locationId": "RPGAE"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "9fbeea0b-98ee-4d39-b206-7f31e146cb5d",
+      "reportDate": "2014-10-31",
+      "firstVisitDate": "2014-09-16",
+      "reportUri": "/reports/9fbeea0b-98ee-4d39-b206-7f31e146cb5d?20190829120000"
+    },
+    {
+      "linkId": "7b432465-13ef-46f6-bc41-6910bd27e288",
+      "reportDate": "2013-11-13",
+      "firstVisitDate": "2013-09-26",
+      "reportUri": "/reports/7b432465-13ef-46f6-bc41-6910bd27e288?20200129163919"
+    }
+  ]
+}

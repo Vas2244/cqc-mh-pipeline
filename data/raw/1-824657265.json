@@ -1,0 +1,62 @@
+{
+  "locationId": "1-824657265",
+  "providerId": "1-771051986",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Thames Clinic",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-07-10",
+  "deregistrationDate": "2014-07-17",
+  "dormancy": "N",
+  "onspdLatitude": 51.412131,
+  "onspdLongitude": -0.296996,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "28-33 Cromwell Road",
+  "postalAddressLine2": "Kingston-upon-Thames",
+  "postalAddressTownCity": "Surrey",
+  "region": "London",
+  "postalCode": "KT2 6RN",
+  "numberOfBeds": 0,
+  "constituency": "Kingston and Surbiton",
+  "localAuthority": "Kingston upon Thames",
+  "relationships": [
+    {
+      "relatedLocationId": "1-338834049",
+      "relatedLocationName": "Thames Clinic",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    },
+    {
+      "relatedLocationId": "1-965591649",
+      "relatedLocationName": "The Thames Clinic",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

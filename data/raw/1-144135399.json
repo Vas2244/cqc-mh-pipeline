@@ -1,0 +1,326 @@
+{
+  "locationId": "1-144135399",
+  "providerId": "1-137582621",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Huntercombe Hospital - Roehampton",
+  "brandId": "BD192",
+  "brandName": "BRAND Four Seasons",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "odsCode": "NV202",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-12-22",
+  "deregistrationDate": "2018-08-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.4477883,
+  "onspdLongitude": -0.2422774,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Holybourne Avenue",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW15 4JL",
+  "uprn": "10024086170",
+  "mainPhoneNumber": "02087806155",
+  "website": "www.fshc.co.uk",
+  "numberOfBeds": 39,
+  "constituency": "Putney",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2018-05-08"
+  },
+  "lastReport": {
+    "publicationDate": "2018-07-23"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-5537570253",
+      "relatedLocationName": "The Huntercombe Hospital - Roehampton",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhbraininjury",
+      "inspectionAreaName": "Services for people with acquired brain injury",
+      "status": "Active (Not rated)"
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "inspectionAreaName": "Acute wards for adults of working age and psychiatric intensive care units",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inadequate",
+      "reportDate": "2018-07-23",
+      "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2018-07-23",
+          "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inadequate",
+          "reportDate": "2018-07-23",
+          "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8"
+        },
+        {
+          "name": "Caring",
+          "rating": "Requires improvement",
+          "reportDate": "2018-07-23",
+          "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2018-07-23",
+          "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2018-07-23",
+          "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8"
+        }
+      ]
+    },
+    "reportDate": "2018-07-23",
+    "serviceRatings": [
+      {
+        "name": "mhbraininjury",
+        "rating": "Inspected but not rated",
+        "reportDate": "2015-11-03",
+        "reportLinkId": "4ea17309-f244-4210-8de3-4d1f72d6bfc9"
+      },
+      {
+        "name": "mhpsychintensive",
+        "rating": "Inadequate",
+        "reportDate": "2018-07-23",
+        "reportLinkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-02-17",
+      "reportLinkId": "608ce6c9-b0a3-45ae-bdec-2e73c49f6cdd",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-10-24",
+      "reportLinkId": "fdf36fb8-aa8d-4828-ac85-7cc5b033f399",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2015-11-03",
+      "reportLinkId": "4ea17309-f244-4210-8de3-4d1f72d6bfc9",
+      "serviceRatings": [
+        {
+          "name": "mhpsychintensive",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "b16cb28f-66bd-4917-a2f5-d3298ef5bda8",
+      "reportDate": "2018-07-23",
+      "firstVisitDate": "2018-05-01",
+      "reportUri": "/reports/b16cb28f-66bd-4917-a2f5-d3298ef5bda8?20210117161319",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "608ce6c9-b0a3-45ae-bdec-2e73c49f6cdd",
+      "reportDate": "2017-02-17",
+      "firstVisitDate": "2016-11-30",
+      "reportUri": "/reports/608ce6c9-b0a3-45ae-bdec-2e73c49f6cdd?20210119022007",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "fdf36fb8-aa8d-4828-ac85-7cc5b033f399",
+      "reportDate": "2016-10-24",
+      "firstVisitDate": "2016-08-10",
+      "reportUri": "/reports/fdf36fb8-aa8d-4828-ac85-7cc5b033f399?20210119022036",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "4ea17309-f244-4210-8de3-4d1f72d6bfc9",
+      "reportDate": "2015-11-03",
+      "firstVisitDate": "2015-07-29",
+      "reportUri": "/reports/4ea17309-f244-4210-8de3-4d1f72d6bfc9?20210119022107",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "e10ba809-e19e-455b-936e-877a6076a270",
+      "reportDate": "2014-03-18",
+      "firstVisitDate": "2014-02-14",
+      "reportUri": "/reports/e10ba809-e19e-455b-936e-877a6076a270?20151016191357"
+    },
+    {
+      "linkId": "a0411d89-54a3-4b2f-8e0e-9d0d302609d1",
+      "reportDate": "2014-01-07",
+      "firstVisitDate": "2013-11-19",
+      "reportUri": "/reports/a0411d89-54a3-4b2f-8e0e-9d0d302609d1?20151016191357"
+    },
+    {
+      "linkId": "1b707e3b-ebee-4f55-977b-f5aab78be618",
+      "reportDate": "2013-04-10",
+      "firstVisitDate": "2013-02-27",
+      "reportUri": "/reports/1b707e3b-ebee-4f55-977b-f5aab78be618?20151016191357"
+    },
+    {
+      "linkId": "ad57ae00-41c3-4c1b-b4c5-b9c618c0b0d0",
+      "reportDate": "2012-03-25",
+      "firstVisitDate": "2012-02-03",
+      "reportUri": "/reports/ad57ae00-41c3-4c1b-b4c5-b9c618c0b0d0?20200430120000"
+    }
+  ]
+}

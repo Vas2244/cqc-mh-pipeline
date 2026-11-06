@@ -1,0 +1,208 @@
+{
+  "locationId": "1-545776898",
+  "providerId": "1-102642564",
+  "organisationType": "Location",
+  "type": "Primary Medical Services",
+  "name": "Camden Health Improvement Practice",
+  "brandId": "BD133",
+  "brandName": "BRAND Turning Point",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "odsCcgCode": "93C",
+  "odsCcgName": "NHS North Central London Icb - 93C",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "Y02674",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-12-14",
+  "deregistrationDate": "2020-04-28",
+  "dormancy": "N",
+  "onspdLatitude": 51.528275,
+  "onspdLongitude": -0.138243,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "The Margarete Centre",
+  "postalAddressLine2": "108 Hampstead Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 2LS",
+  "mainPhoneNumber": "02031824200",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2017-01-05"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-9043841510",
+      "relatedLocationName": "Camden Health Improvement Practice",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [
+    {
+      "type": "GP Practice"
+    }
+  ],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "P2",
+      "primary": "true",
+      "name": "GP Practices"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "conditions",
+      "inspectionAreaName": "People with long term conditions",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mothers",
+      "inspectionAreaName": "Families, children and young people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "old",
+      "inspectionAreaName": "Older people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "population",
+      "inspectionAreaName": "Working age people (including those recently retired and students)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "problems",
+      "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "vulnerable",
+      "inspectionAreaName": "People whose circumstances may make them vulnerable",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2017-04-28",
+      "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2017-04-28",
+          "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2017-04-28",
+          "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2017-04-28",
+          "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2017-04-28",
+          "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2017-04-28",
+          "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+        }
+      ]
+    },
+    "reportDate": "2017-04-28",
+    "serviceRatings": [
+      {
+        "name": "conditions",
+        "rating": "Good",
+        "reportDate": "2017-04-28",
+        "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+      },
+      {
+        "name": "mothers",
+        "rating": "Good",
+        "reportDate": "2017-04-28",
+        "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+      },
+      {
+        "name": "old",
+        "rating": "Good",
+        "reportDate": "2017-04-28",
+        "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+      },
+      {
+        "name": "population",
+        "rating": "Good",
+        "reportDate": "2017-04-28",
+        "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+      },
+      {
+        "name": "problems",
+        "rating": "Good",
+        "reportDate": "2017-04-28",
+        "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+      },
+      {
+        "name": "vulnerable",
+        "rating": "Good",
+        "reportDate": "2017-04-28",
+        "reportLinkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815"
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "944f9473-aa6f-42d3-aba5-e58f6a5f2815",
+      "reportDate": "2017-04-28",
+      "firstVisitDate": "2017-01-05",
+      "reportUri": "/reports/944f9473-aa6f-42d3-aba5-e58f6a5f2815?20210210003509",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "2af97192-070b-473c-a11f-15cb787175fe",
+      "reportDate": "2013-06-01",
+      "firstVisitDate": "2013-04-26",
+      "reportUri": "/reports/2af97192-070b-473c-a11f-15cb787175fe?20200129163919"
+    }
+  ]
+}

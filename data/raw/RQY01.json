@@ -1,0 +1,352 @@
+{
+  "locationId": "RQY01",
+  "providerId": "RQY",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Springfield University Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-07-22",
+  "deregistrationDate": "2024-09-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.437358,
+  "onspdLongitude": -0.1723478,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "61 Glenburnie Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW17 7DJ",
+  "uprn": "100023322378",
+  "mainPhoneNumber": "02086826000",
+  "website": "www.swlstg-tr.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Tooting",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2022-10-14"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RQYND",
+      "relatedLocationName": "Springfield University Hospital",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "disorders",
+      "reports": [
+        {
+          "inspectionId": "INS2-13051750811",
+          "reportLinkId": "714951c0-fc7e-481a-917d-b8212cac29cd",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "c037878a-f672-4a0d-85cb-7f2b70b07470",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "INS2-9396670758",
+          "reportLinkId": "e8cc210e-dae9-4e27-9501-7408b1def469",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "558a17ca-3e4c-48fe-834d-3f8e568cc178",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "31302189-0e95-48f3-8683-5760eb5ff224",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "0a8c6286-2bda-4dfa-adcb-82410ab44d3b",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "9efd8cce-0683-4290-960c-7033ca6d2eac",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mheatingdisorders",
+      "reports": [
+        {
+          "inspectionId": "INS2-3175499029",
+          "reportLinkId": "1ee80172-caec-4ee3-898b-9e9fde63c34d",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "f88e284c-1a6c-407c-917d-058f0eb8cfe7",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "7a885756-67c7-4528-9d30-f66ee44cdfea",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "dd10ef9f-8573-494f-86ec-742019f93d99",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-10577373231",
+          "reportLinkId": "98fa9a5b-a20a-4305-8959-61869d276e84",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "INS2-13939113761",
+          "reportLinkId": "7d740e09-0405-45bf-9797-25e258d2b85a",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "e2e42aaa-90b2-42da-a00c-ccafe36f6ab7",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "da5f9b2d-48c1-43e1-9ee8-ed131d61656e",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "c166ec8c-52e1-4cf0-81b8-ce28dc770f61",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2019006821",
+          "reportLinkId": "bac5aba4-f3c6-4052-9c92-0da8088c6885",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "eb86070e-c35a-415f-ad08-d0de6e3cf32f",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2855610912",
+          "reportLinkId": "0d2be49a-fb69-4b3f-a1c2-8771c7e59549",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-11296479601",
+          "reportLinkId": "d2858b34-4c0c-4b75-8c88-a66b9ecd5267",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "ca3dae4d-525f-4a87-98c8-f37a327e38e7",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "26fa532a-8d02-4555-b539-8b6f0a20f53a",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        },
+        {
+          "inspectionId": "SPL1-2019006821",
+          "reportLinkId": "7457e2f6-e003-4988-aa9a-4265e9cac2ae",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "42d5b7ac-a247-4cae-8465-a57e9b8cf2a1",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "other",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2580236421",
+          "reportLinkId": "e8a89ad9-77d5-421a-86b7-b8c2e59b34db",
+          "providerId": "RQY",
+          "locationId": "RQY01"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2017-02-28"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "dfa7595c-38a0-4605-b8ef-9d39c6ed1587",
+      "reportDate": "2013-09-14",
+      "firstVisitDate": "2013-07-11",
+      "reportUri": "/reports/dfa7595c-38a0-4605-b8ef-9d39c6ed1587?20151016191357"
+    },
+    {
+      "linkId": "ade80302-3bec-492d-a493-64809d8ae9af",
+      "reportDate": "2013-04-19",
+      "firstVisitDate": "2013-01-30",
+      "reportUri": "/reports/ade80302-3bec-492d-a493-64809d8ae9af?20151016191357"
+    },
+    {
+      "linkId": "863bd6f2-c06d-4772-bfb4-5e689c255f9e",
+      "reportDate": "2011-10-21",
+      "firstVisitDate": "2011-09-15",
+      "reportUri": "/reports/863bd6f2-c06d-4772-bfb4-5e689c255f9e?20200430120000"
+    },
+    {
+      "linkId": "7a16e6d0-5d79-4dba-8b17-b491aecd9412",
+      "reportDate": "2011-07-25",
+      "firstVisitDate": "2011-05-10",
+      "reportUri": "/reports/7a16e6d0-5d79-4dba-8b17-b491aecd9412?20200430120000"
+    }
+  ]
+}

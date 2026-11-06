@@ -1,0 +1,215 @@
+{
+  "locationId": "RNK01",
+  "providerId": "RNK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The Tavistock Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-05-25",
+  "deregistrationDate": "2026-07-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.5469007,
+  "onspdLongitude": -0.175418,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "120 Belsize Lane",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW3 5BA",
+  "uprn": "5023739",
+  "mainPhoneNumber": "02074357111",
+  "website": "www.tavi-port.org",
+  "numberOfBeds": 0,
+  "constituency": "Hampstead and Highgate",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2023-02-01"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "C3P9A",
+      "relatedLocationName": "The Tavistock Centre",
+      "type": "HSCA Successor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsforensic",
+      "reports": [
+        {
+          "inspectionId": "INS2-15161011401",
+          "reportLinkId": "e4900e26-8a46-4d02-8aa9-46152b2cd2ce",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "genderis",
+      "reports": [
+        {
+          "inspectionId": "INS2-16943491841",
+          "reportLinkId": "8d2de1bf-1c22-4940-912d-73014a8989fb",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        },
+        {
+          "inspectionId": "INS2-5169596950",
+          "reportLinkId": "23c9e542-eb30-4afb-ac72-de5c08db2b84",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        },
+        {
+          "inspectionId": "INS2-9597245071",
+          "reportLinkId": "6e4fbf84-909c-46d7-835c-caf304cdd485",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "INS2-13765471871",
+          "reportLinkId": "9b53dd0b-7cfd-43bb-abe2-88bc2a474af5",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        },
+        {
+          "inspectionId": "INS2-5169596950",
+          "reportLinkId": "cb01feae-e9a2-47c5-ad47-9ae85506cb42",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        },
+        {
+          "inspectionId": "SPL1-2272488966",
+          "reportLinkId": "4f90f632-3b65-451b-9209-a9cbdb24b73d",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychological",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2272488966",
+          "reportLinkId": "48c12e07-0a37-476d-8267-87a5ecdfa438",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        },
+        {
+          "inspectionId": "SPL1-2783651196",
+          "reportLinkId": "47d02bdd-d774-45ce-a8e1-5ce993f1baed",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "other",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2272488966",
+          "reportLinkId": "690c0635-0fae-4602-9c67-40a8ad379aec",
+          "providerId": "RNK",
+          "locationId": "RNK01"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2020-10-14"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "6f416102-a8dd-4496-ae0c-87d2fff91074",
+      "reportDate": "2014-04-15",
+      "firstVisitDate": "2014-03-03",
+      "reportUri": "/reports/6f416102-a8dd-4496-ae0c-87d2fff91074?20200129163919"
+    },
+    {
+      "linkId": "9efbd0a3-46dc-47ff-8ab2-2038cbffe510",
+      "reportDate": "2013-05-01",
+      "firstVisitDate": "2013-03-13",
+      "reportUri": "/reports/9efbd0a3-46dc-47ff-8ab2-2038cbffe510?20200129163919"
+    },
+    {
+      "linkId": "9a89fab0-8186-4660-9ead-a1e69089e8ed",
+      "reportDate": "2012-03-22",
+      "firstVisitDate": "2012-01-20",
+      "reportUri": "/reports/9a89fab0-8186-4660-9ead-a1e69089e8ed?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "locationId": "TAF25",
+  "providerId": "G6V2S",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Clerkenwell Project",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-05-19",
+  "deregistrationDate": "2012-02-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.528976,
+  "onspdLongitude": -0.112884,
+  "careHome": "Y",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "7 Cumberland Gardens",
+  "postalAddressLine2": "Islington",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "WC1X 9AG",
+  "mainPhoneNumber": "02072784421",
+  "website": "www.candi.nhs.uk",
+  "numberOfBeds": 5,
+  "constituency": "Islington South and Finsbury",
+  "localAuthority": "Islington",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

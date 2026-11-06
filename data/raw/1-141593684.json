@@ -1,0 +1,100 @@
+{
+  "locationId": "1-141593684",
+  "providerId": "1-102642624",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Avesbury House",
+  "brandId": "BD122",
+  "brandName": "BRAND Practice Plus Group",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-05",
+  "deregistrationDate": "2014-03-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.615297,
+  "onspdLongitude": -0.075924,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "85 Tanners End Lane",
+  "postalAddressLine2": "Edmonton",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N18 1PQ",
+  "mainPhoneNumber": "02088037316",
+  "website": "www.careuk.com",
+  "numberOfBeds": 25,
+  "constituency": "Edmonton and Winchmore Hill",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2014-01-31"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-1265559130",
+      "relatedLocationName": "Avesbury House",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "e37a6a17-a6d6-4068-bab6-50822db1be9a",
+      "reportDate": "2014-03-01",
+      "firstVisitDate": "2014-01-31",
+      "reportUri": "/reports/e37a6a17-a6d6-4068-bab6-50822db1be9a?20200129163919"
+    },
+    {
+      "linkId": "9491b724-88d1-4ceb-b324-708f5be191d1",
+      "reportDate": "2013-01-11",
+      "firstVisitDate": "2012-12-06",
+      "reportUri": "/reports/9491b724-88d1-4ceb-b324-708f5be191d1?20200129163919"
+    }
+  ]
+}

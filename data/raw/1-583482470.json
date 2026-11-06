@@ -1,0 +1,89 @@
+{
+  "locationId": "1-583482470",
+  "providerId": "1-126775066",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "WDP Recovery Centre",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-01-31",
+  "deregistrationDate": "2016-07-25",
+  "dormancy": "N",
+  "onspdLatitude": 51.598748,
+  "onspdLongitude": -0.199071,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "WDP Barnet",
+  "postalAddressLine2": "42 Hendon Lane",
+  "postalAddressTownCity": "Finchley Central",
+  "region": "London",
+  "postalCode": "N3 1TT",
+  "mainPhoneNumber": "02083718110",
+  "website": "www.wdp-drugs.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Finchley and Golders Green",
+  "localAuthority": "Barnet",
+  "lastInspection": {
+    "date": "2013-10-31"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "dda0ae52-dd65-4ebf-820f-b4e1ed7da6c4",
+      "reportDate": "2013-11-26",
+      "firstVisitDate": "2013-10-31",
+      "reportUri": "/reports/dda0ae52-dd65-4ebf-820f-b4e1ed7da6c4?20200129163919"
+    }
+  ]
+}

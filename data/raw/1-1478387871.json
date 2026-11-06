@@ -1,0 +1,117 @@
+{
+  "locationId": "1-1478387871",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "London Regional Office",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-07-22",
+  "deregistrationDate": "2020-05-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.530247,
+  "onspdLongitude": -0.116435,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "140-142 King Cross Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "WC1X 9DS",
+  "uprn": "10090266085",
+  "numberOfBeds": 0,
+  "constituency": "Islington South and Finsbury",
+  "localAuthority": "Islington",
+  "lastInspection": {
+    "date": "2016-10-03"
+  },
+  "lastReport": {
+    "publicationDate": "2017-02-10"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Prison healthcare",
+      "description": "Prison Healthcare Services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "P4",
+      "name": "Prison Healthcare"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-02-10",
+      "reportLinkId": "abbebd05-9302-4d1a-9d21-7eff701aef09",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-02-10",
+          "reportLinkId": "abbebd05-9302-4d1a-9d21-7eff701aef09"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-02-10",
+          "reportLinkId": "abbebd05-9302-4d1a-9d21-7eff701aef09"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-02-10",
+          "reportLinkId": "abbebd05-9302-4d1a-9d21-7eff701aef09"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-02-10",
+          "reportLinkId": "abbebd05-9302-4d1a-9d21-7eff701aef09"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-02-10",
+          "reportLinkId": "abbebd05-9302-4d1a-9d21-7eff701aef09"
+        }
+      ]
+    },
+    "reportDate": "2017-02-10"
+  },
+  "reports": [
+    {
+      "linkId": "abbebd05-9302-4d1a-9d21-7eff701aef09",
+      "reportDate": "2017-02-10",
+      "firstVisitDate": "2016-10-03",
+      "reportUri": "/reports/abbebd05-9302-4d1a-9d21-7eff701aef09?20210120202941",
+      "reportType": "Location"
+    }
+  ]
+}

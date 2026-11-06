@@ -1,0 +1,64 @@
+{
+  "locationId": "1-12458979461",
+  "providerId": "1-1150689944",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Togetherall Ltd",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2022-01-27",
+  "deregistrationDate": "2023-02-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.513244,
+  "onspdLongitude": -0.1021165,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "71-73 Carter Lane",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "EC4V 5EQ",
+  "uprn": "100022936799",
+  "mainPhoneNumber": "07999552095",
+  "website": "www.togetherall.com/en-gb",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "City of London",
+  "relationships": [
+    {
+      "relatedLocationId": "1-6813867386",
+      "relatedLocationName": "Big White Wall Head Office",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

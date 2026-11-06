@@ -1,0 +1,346 @@
+{
+  "locationId": "1-147462837",
+  "providerId": "1-101613932",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Woodleigh Community Independent Hospital",
+  "brandId": "BD356",
+  "brandName": "BRAND Inmind Healthcare Group",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2011-01-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.3845944,
+  "onspdLongitude": -0.1064299,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "28 Elmwood Road",
+  "postalAddressTownCity": "Croydon",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR0 2SG",
+  "uprn": "100020597893",
+  "mainPhoneNumber": "02082396033",
+  "website": "www.inmind.co.uk",
+  "numberOfBeds": 24,
+  "constituency": "Croydon West",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2022-07-05"
+  },
+  "lastReport": {
+    "publicationDate": "2022-09-07"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Camille Annabelle",
+          "personFamilyName": "Stormont",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Camille Annabelle",
+          "personFamilyName": "Stormont",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H4",
+      "name": "Acute hospital - Independent specialist"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "inspectionAreaName": "Long stay or rehabilitation mental health wards for working age adults",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-09-07",
+      "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-09-07",
+          "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-09-07",
+          "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-09-07",
+          "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-09-07",
+          "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-09-07",
+          "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee"
+        }
+      ]
+    },
+    "reportDate": "2022-09-07",
+    "serviceRatings": [
+      {
+        "name": "mhlongstay",
+        "rating": "Good",
+        "reportDate": "2022-09-07",
+        "reportLinkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-10-19",
+      "reportLinkId": "e1f36501-7a4a-402d-9cf7-e1047cf12989",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-07-12",
+      "reportLinkId": "03c68575-32e8-4906-8e7d-a97a19843fd5",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "94445b3c-c4e3-4385-ba7c-01ae8be88dee",
+      "reportDate": "2022-09-07",
+      "firstVisitDate": "2022-07-04",
+      "reportUri": "/reports/94445b3c-c4e3-4385-ba7c-01ae8be88dee?20220907070310",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "e1f36501-7a4a-402d-9cf7-e1047cf12989",
+      "reportDate": "2017-10-19",
+      "firstVisitDate": "2017-07-17",
+      "reportUri": "/reports/e1f36501-7a4a-402d-9cf7-e1047cf12989?20210118012506",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "03c68575-32e8-4906-8e7d-a97a19843fd5",
+      "reportDate": "2016-07-12",
+      "firstVisitDate": "2016-02-17",
+      "reportUri": "/reports/03c68575-32e8-4906-8e7d-a97a19843fd5?20210123061046",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "36956e4e-7c00-4ae6-b38c-e5bf417fb5d2",
+      "reportDate": "2013-11-08",
+      "firstVisitDate": "2013-10-16",
+      "reportUri": "/reports/36956e4e-7c00-4ae6-b38c-e5bf417fb5d2?20200129163919"
+    },
+    {
+      "linkId": "7952e228-1004-4504-b2eb-c2806afa7f5a",
+      "reportDate": "2013-02-09",
+      "firstVisitDate": "2012-12-07",
+      "reportUri": "/reports/7952e228-1004-4504-b2eb-c2806afa7f5a?20200129163919"
+    }
+  ]
+}

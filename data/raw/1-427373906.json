@@ -1,0 +1,360 @@
+{
+  "locationId": "1-427373906",
+  "providerId": "1-396186283",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "PCP Clapham",
+  "brandId": "BD434",
+  "brandName": "BRAND Perry Clayman Project",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-06-27",
+  "deregistrationDate": "2019-12-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.467892,
+  "onspdLongitude": -0.12819,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Unit 2, 376-378 Clapham Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW9 9AR",
+  "uprn": "100021824768",
+  "mainPhoneNumber": "02074987659",
+  "numberOfBeds": 0,
+  "constituency": "Clapham and Brixton Hill",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2019-09-18"
+  },
+  "lastReport": {
+    "publicationDate": "2019-11-27"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdetoxification",
+      "inspectionAreaName": "Residential substance misuse services",
+      "status": "Active (Not rated)"
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2019-08-30",
+      "reportLinkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2019-08-30",
+          "reportLinkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2019-08-30",
+          "reportLinkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-08-30",
+          "reportLinkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-08-30",
+          "reportLinkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2019-08-30",
+          "reportLinkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe"
+        }
+      ]
+    },
+    "reportDate": "2019-11-27",
+    "serviceRatings": [
+      {
+        "name": "mhdetoxification",
+        "rating": "Inspected but not rated",
+        "reportDate": "2017-03-24",
+        "reportLinkId": "3c0f5a30-7eaa-4915-97ce-b93c54491cb7"
+      },
+      {
+        "name": "mhsubstance",
+        "rating": "Inspected but not rated",
+        "reportDate": "2015-09-17",
+        "reportLinkId": "033378ad-2237-4fbe-a238-6452ebab60c0",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-11-27",
+      "reportLinkId": "89c09910-f286-410e-87cb-8bd2e0575f16",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-06-20",
+      "reportLinkId": "8f838268-ff7e-4cc0-9c07-d6c5d1c3ef20",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-03-22",
+      "reportLinkId": "b6a8458c-d140-4de9-8bd0-89d1c64d8410",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-03-24",
+      "reportLinkId": "3c0f5a30-7eaa-4915-97ce-b93c54491cb7",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-01-22",
+      "reportLinkId": "42cb9519-97ba-4675-aeeb-5e5e9b6ad10b",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2015-09-17",
+      "reportLinkId": "033378ad-2237-4fbe-a238-6452ebab60c0",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "89c09910-f286-410e-87cb-8bd2e0575f16",
+      "reportDate": "2019-11-27",
+      "firstVisitDate": "2019-09-18",
+      "reportUri": "/reports/89c09910-f286-410e-87cb-8bd2e0575f16?20210115004337",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "60dda621-9cc8-481d-8860-a5d2ec6ec7fe",
+      "reportDate": "2019-08-30",
+      "firstVisitDate": "2019-06-17",
+      "reportUri": "/reports/60dda621-9cc8-481d-8860-a5d2ec6ec7fe?20210114002611",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "8f838268-ff7e-4cc0-9c07-d6c5d1c3ef20",
+      "reportDate": "2018-06-20",
+      "firstVisitDate": "2018-04-19",
+      "reportUri": "/reports/8f838268-ff7e-4cc0-9c07-d6c5d1c3ef20?20210117190026",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b6a8458c-d140-4de9-8bd0-89d1c64d8410",
+      "reportDate": "2018-03-22",
+      "firstVisitDate": "2018-01-16",
+      "reportUri": "/reports/b6a8458c-d140-4de9-8bd0-89d1c64d8410?20210117194415",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "3c0f5a30-7eaa-4915-97ce-b93c54491cb7",
+      "reportDate": "2017-03-24",
+      "firstVisitDate": "2016-12-14",
+      "reportUri": "/reports/3c0f5a30-7eaa-4915-97ce-b93c54491cb7?20210120005138",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "42cb9519-97ba-4675-aeeb-5e5e9b6ad10b",
+      "reportDate": "2016-01-22",
+      "firstVisitDate": "2015-12-22",
+      "reportUri": "/reports/42cb9519-97ba-4675-aeeb-5e5e9b6ad10b?20210124131604",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "033378ad-2237-4fbe-a238-6452ebab60c0",
+      "reportDate": "2015-09-17",
+      "firstVisitDate": "2015-05-06",
+      "reportUri": "/reports/033378ad-2237-4fbe-a238-6452ebab60c0?20210126225029",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "aafa882c-2a3b-4dd9-9b57-07b174960b84",
+      "reportDate": "2013-09-11",
+      "firstVisitDate": "2013-08-01",
+      "reportUri": "/reports/aafa882c-2a3b-4dd9-9b57-07b174960b84?20200129163919"
+    },
+    {
+      "linkId": "bdff2f76-0843-41a1-a196-0b2667b8fe3a",
+      "reportDate": "2013-05-16",
+      "firstVisitDate": "2013-04-03",
+      "reportUri": "/reports/bdff2f76-0843-41a1-a196-0b2667b8fe3a?20151016191357"
+    },
+    {
+      "linkId": "777f04b0-c6e1-44fb-a15a-4c561a0c7cec",
+      "reportDate": "2013-04-13",
+      "firstVisitDate": "2013-02-05",
+      "reportUri": "/reports/777f04b0-c6e1-44fb-a15a-4c561a0c7cec?20200129163919"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "locationId": "RQYXX",
+  "providerId": "RQY",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Headquarters",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-11",
+  "deregistrationDate": "2024-09-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.437358,
+  "onspdLongitude": -0.172348,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Building 28, Springfield Hospital",
+  "postalAddressLine2": "61 Glenburnie Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW17 7DJ",
+  "mainPhoneNumber": "02086826000",
+  "website": "www.swlstg-tr.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Tooting",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2019-09-11"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RQYNB",
+      "relatedLocationName": "Trust Headquarters",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "c49d60d9-223c-43b3-b69b-0636a661354f",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "2af60318-4b7b-453a-8246-c9240ccc6b74",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityautism",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "8d723358-6f23-4002-875c-21439e9e17fa",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "7062b61f-b029-430f-95e9-a325230463e3",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        },
+        {
+          "inspectionId": "SPL1-2855610912",
+          "reportLinkId": "3935bc5c-a0c1-4aeb-94a1-e69366c3e806",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "0a8c6286-2bda-4dfa-adcb-82410ab44d3b",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "9efd8cce-0683-4290-960c-7033ca6d2eac",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        },
+        {
+          "inspectionId": "SPL1-2855610912",
+          "reportLinkId": "2e3664e0-574e-4526-854b-c4cbac9d9955",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "reports": [
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "ee27a427-f6f0-4f7e-a8e1-7a82362a0199",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "42d5b7ac-a247-4cae-8465-a57e9b8cf2a1",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "0af923d4-38dd-4684-a792-dec922514701",
+          "providerId": "RQY",
+          "locationId": "RQYXX"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "50a7dddc-1785-482c-975b-ef1031d44acf",
+      "reportDate": "2014-05-02",
+      "firstVisitDate": "2014-03-17",
+      "reportUri": "/reports/50a7dddc-1785-482c-975b-ef1031d44acf?20160905120000"
+    }
+  ]
+}

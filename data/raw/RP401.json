@@ -1,0 +1,1565 @@
+{
+  "locationId": "RP401",
+  "providerId": "RP4",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Great Ormond Street Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-05-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.5222115,
+  "onspdLongitude": -0.1198984,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Great Ormond Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "WC1N 3JH",
+  "uprn": "5090726",
+  "mainPhoneNumber": "02074059200",
+  "website": "www.gosh.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2019-10-01"
+  },
+  "lastReport": {
+    "publicationDate": "2020-01-22"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Transport services, triage and medical advice provided remotely",
+      "code": "RA10",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospital",
+      "description": "Acute services with overnight beds"
+    },
+    {
+      "name": "Ambulances",
+      "description": "Ambulance service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H2",
+      "primary": "true",
+      "name": "Acute hospital - NHS specialist"
+    },
+    {
+      "code": "H5",
+      "name": "Ambulance service"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "critical",
+      "inspectionAreaName": "Critical care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "life",
+      "inspectionAreaName": "End of life care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "medical",
+      "inspectionAreaName": "Medical care",
+      "status": "Active (Rated)",
+      "latestGloballySupersededBy": [
+        "care"
+      ]
+    },
+    {
+      "inspectionAreaId": "neonatal",
+      "inspectionAreaName": "Neonatal services",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "npioutpatients",
+      "inspectionAreaName": "Outpatients",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "outpatients",
+      "inspectionAreaName": "Outpatients and diagnostic imaging",
+      "status": "Superseded",
+      "supersededBy": [
+        "npioutpatients"
+      ],
+      "latestGloballySupersededBy": [
+        "npioutpatients"
+      ],
+      "endDate": "2018-04-06"
+    },
+    {
+      "inspectionAreaId": "surgery",
+      "inspectionAreaName": "Surgery",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "transitional",
+      "inspectionAreaName": "Transition services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "INS2-5811158721",
+          "reportLinkId": "0a89523d-a0c1-4d06-8cb0-00f3df71e15b",
+          "providerId": "RP4",
+          "locationId": "RP401"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "reportDate": "2020-01-22",
+    "serviceRatings": [
+      {
+        "name": "critical",
+        "rating": "Good",
+        "reportDate": "2020-01-22",
+        "reportLinkId": "a5ba2499-4003-463d-a839-e1fb2096891e",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "life",
+        "rating": "Outstanding",
+        "reportDate": "2016-01-08",
+        "reportLinkId": "efc40ca5-43a2-435b-ba5b-4431e19f1ae7",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Outstanding"
+          }
+        ]
+      },
+      {
+        "name": "medical",
+        "rating": "Outstanding",
+        "reportDate": "2016-01-08",
+        "reportLinkId": "efc40ca5-43a2-435b-ba5b-4431e19f1ae7",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "neonatal",
+        "rating": "Good",
+        "reportDate": "2016-01-08",
+        "reportLinkId": "efc40ca5-43a2-435b-ba5b-4431e19f1ae7",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "npioutpatients",
+        "rating": "Good",
+        "reportDate": "2018-04-06",
+        "reportLinkId": "ec7dd1ce-143a-485e-b92c-9c24ac3ae4b8",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "transitional",
+        "rating": "Good",
+        "reportDate": "2016-01-08",
+        "reportLinkId": "efc40ca5-43a2-435b-ba5b-4431e19f1ae7",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2018-04-06",
+      "reportLinkId": "ec7dd1ce-143a-485e-b92c-9c24ac3ae4b8",
+      "serviceRatings": [
+        {
+          "name": "surgery",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-01-08",
+      "reportLinkId": "efc40ca5-43a2-435b-ba5b-4431e19f1ae7",
+      "serviceRatings": [
+        {
+          "name": "critical",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        },
+        {
+          "name": "outpatients",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        },
+        {
+          "name": "surgery",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2020-01-22",
+      "reportLinkId": "a5ba2499-4003-463d-a839-e1fb2096891e",
+      "serviceRatings": [
+        {
+          "name": "surgery",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "a5ba2499-4003-463d-a839-e1fb2096891e",
+      "reportDate": "2020-01-22",
+      "reportUri": "/reports/a5ba2499-4003-463d-a839-e1fb2096891e?20210113224146",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "ec7dd1ce-143a-485e-b92c-9c24ac3ae4b8",
+      "reportDate": "2018-04-06",
+      "reportUri": "/reports/ec7dd1ce-143a-485e-b92c-9c24ac3ae4b8?20210116102240",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "efc40ca5-43a2-435b-ba5b-4431e19f1ae7",
+      "reportDate": "2016-01-08",
+      "reportUri": "/reports/efc40ca5-43a2-435b-ba5b-4431e19f1ae7?20210113235412",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "7957ef4b-da6e-4435-a191-97a66e55a07a",
+      "reportDate": "2013-01-04",
+      "firstVisitDate": "2012-09-25",
+      "reportUri": "/reports/7957ef4b-da6e-4435-a191-97a66e55a07a?20200129163919"
+    },
+    {
+      "linkId": "585a35c5-b2d3-4ca8-a486-0c69bece996c",
+      "reportDate": "2011-07-21",
+      "firstVisitDate": "2011-06-09",
+      "reportUri": "/reports/585a35c5-b2d3-4ca8-a486-0c69bece996c?20200430120000"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "265",
+      "assessmentServiceName": "Surgery",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2025-07-23 08:00:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-01320",
+            "commentary": "Great Ormond Street Hospital for Children NHS Foundation Trust is one of the largest and most specialist paediatric centres in the UK, providing care for a wide range of complex and rare conditions. The Great Ormond Street Hospital delivers highly specialised services across more than 50 clinical areas, supporting both physical and mental health needs. These services include medical and surgical specialties, critical care, specialist diagnostics, outpatient care, and child and adolescent mental health provision. As a national referral centre, the hospital receives patients from across the UK and internationally, often delivering care through multidisciplinary teams. The trust also operates an international and private patients\u2019 service, further extending its role in specialist paediatric healthcare.\r\n\r\nThis assessment focused on the quality of surgical services. Evidence considered included findings from the inspection team, documentation submitted by the trust, clinical audits, patient safety data, meeting records, and feedback from patients, families, and staff. The evaluation was structured around the five key questions: whether the service was safe, effective, caring, responsive, and well-led. This review builds on findings from previous inspections, including the most recent surgical core service inspection conducted in November 2019.",
+            "commentaryDate": "",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "We observed staff to be compassionate and child-centred in their approach, taking time to reassure children and families and address their concerns. Play specialists played a crucial role in preparing children for surgery and supporting emotional wellbeing. Feedback through the Friends and Family Test and other routes indicated positive experiences of care, and families reported being treated with kindness and respect.",
+                "commentaryDate": "2025-06-12",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "narrative": "This service is exceptionally caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "Care and treatment were evidence-based and delivered by skilled multidisciplinary teams. Clinical outcomes were actively monitored through national audits and local quality improvement initiatives, with no discrepancies found in a recent consent audit.",
+                "commentaryDate": "2025-06-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThe surgical service responded well to the needs of children with complex care pathways, offering personalised support and coordination across multiple teams. Feedback from the Patient Advice and Liaison Service (PALS) and complaints processes was actively monitored, with themes and trends analysed to support service improvement.\u003C/p\u003E",
+                "commentaryDate": "2025-06-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003ESurgical services at the hospital were delivered in an environment that prioritised patient safety, with clear systems in place for managing risk, safeguarding, and infection prevention. Clinical areas were clean, well-maintained, and supported by established safety protocols.\u0026nbsp;While mandatory training compliance was generally high, limitations in the granularity of training data meant assurance could not be fully confirmed at ward or team level. Staffing challenges, including vacancies in some specialities, were mitigated by proactive recruitment and support strategies.\u003C/p\u003E",
+                "commentaryDate": "2025-06-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003ELeadership at service and divisional levels demonstrated a strong commitment to quality and safety, supported by clinical governance structures and regular audit activity. Mortality and morbidity meetings were embedded across specialities, and staff were engaged in improvement work. However, gaps in data detail and variation in reporting quality across specialties limited consistent oversight at times. The trust\u2019s broader strategic vision for surgical services was clear, with ongoing efforts to embed learning and strengthen assurance processes.\u003C/p\u003E",
+                "commentaryDate": "2025-06-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP7350",
+            "title": "Ongoing Assessment for Great Ormond Street Hospital",
+            "assessmentDate": "2024-10-17",
+            "assessmentPlanStatus": "Active",
+            "name": "Surgery",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EThe surgical service at Great Ormond Street Hospital provides highly specialist care to children and young people with complex needs, supported by a dedicated and compassionate workforce.\u003C/p\u003E\u003Cp\u003EWe found a strong commitment to compassionate, personalised care. Staff across all levels demonstrated kindness, empathy, and attentiveness, ensuring that children and families felt respected, supported, and involved in decision-making. Communication was child-centred and inclusive, with creative strategies used to reduce anxiety and promote understanding. The culture was open, supportive, and focused on the emotional and physical wellbeing of both patients and staff.\u003C/p\u003E\u003Cp\u003EMultidisciplinary working was a particular strength. Staff collaborated effectively across services and specialities to coordinate care, manage risk, and plan for recovery and discharge. Structured assessments and robust clinical pathways ensured that patients received safe, tailored care from the point of referral through to post-operative support. Digital systems supported real-time information sharing and care continuity, while specialist outreach and remote monitoring helped children stay safely at home where appropriate. Staff had access to development opportunities and felt proud to work at the trust, which was reflected in the quality of their interactions and the trust\u2019s positive safety culture.\u003C/p\u003E\u003Cp\u003ELeadership was visible, values-driven, and well regarded by staff. There was a clear strategic vision for paediatric surgical service, supported by a shared culture of improvement, transparency, and accountability. The service had strong systems for learning from incidents and near misses, and the Freedom to Speak Up culture was well embedded. Medicines optimisation and infection prevention and control practices were well managed, with pharmacy staff and IPC teams actively involved in daily care delivery.\u003C/p\u003E\u003Cp\u003EWhile the overall standard of care was good, we identified some areas requiring focused improvement. These included addressing outstanding governance risks in specific surgical subspecialties, improving environmental resilience in theatres, strengthening structured outcome monitoring in some departments, and reducing access inequalities\u2014particularly around waiting times and information for families with communication needs.\u003C/p\u003E",
+            "commentaryDate": "2025-07-09",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EChildren, young people, and their families experienced compassionate, respectful, and child-focused care from staff across the surgical service. Families told us that staff took time to explain procedures clearly, listened to their concerns, and adapted their approach to meet the individual needs of each child. Communication was frequently described as thoughtful and reassuring, with both parents and children feeling included in decisions about treatment and recovery.\u003C/p\u003E\u003Cp\u003EParents spoke highly of the emotional support they received during often complex and stressful hospital journeys. The presence of play specialists, the use of distraction techniques, and the provision of sensory-friendly environments helped children feel safe, calm, and in control. We observed staff using gentle and engaging communication techniques to reduce anxiety, particularly when children were waking from surgery. Parents reported that staff encouraged them to remain present during recovery, which made a positive difference to their child\u2019s wellbeing.\u003C/p\u003E\u003Cp\u003EFamilies appreciated the continuity of care, especially when being supported by familiar staff or through digital updates using the MYGOSH app. Many parents described feeling informed and confident in the care their child received. They highlighted that staff were approachable, took time to answer questions, and were sensitive to each child\u2019s communication preferences and emotional needs.\u003C/p\u003E\u003Cp\u003EHowever, some families experienced frustration with delays for planned procedures. A number of parents reported communication gaps around appointment scheduling, fasting instructions, or changes to surgical dates. While staff worked hard to resolve these issues, some families said they had to chase for updates or seek clarification themselves. A small number also told us that more accessible information would have improved their experience.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2025-06-11",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EWe observed a strong culture of compassion, kindness, and patient-centred care, ensuring that children and families felt supported throughout their hospital journey. Staff interactions were consistently positive, gentle, and reassuring, with a clear emphasis on respecting patients\u2019 dignity and emotional wellbeing. \u003C/p\u003E\u003Cp\u003EThe service was highly responsive to individual needs, adapting communication styles to reduce distress and ensure that patients understood what was happening to them. \u003C/p\u003E\u003Cp\u003EPatient independence and choice were actively encouraged, with staff ensuring that young people had a voice in decisions about their care. While parents and guardians were consulted, conversations remained child-focused, promoting autonomy and engagement. \u003C/p\u003E\u003Cp\u003EThe workforce culture was supportive and inclusive, with staff feeling valued and proud to work for the trust\u003C/p\u003E",
+                "commentaryDate": "2025-06-11",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service ensured that patients had as much independence as possible during their hospital stay, recognising the importance of choice, dignity, and personal control in the overall care experience. Staff demonstrated a patient-centred approach, ensuring that children and young people were given opportunities to express their needs and preferences, with support tailored to their individual circumstances.\u003C/p\u003E\u003Cp\u003EPatients and their parents, guardians, or carers reported that staff were responsive to their needs, particularly in relation to pain management and dietary preferences. Families told us that pain relief was provided promptly upon request, ensuring that children remained as comfortable as possible. Staff were also accommodating when providing meals, ensuring that patients had access to food they wanted to eat, recognising the importance of nutrition in recovery.\u003C/p\u003E\u003Cp\u003EObservations showed that staff engaged proactively with patients and their families, using appropriate communication tools and language to address concerns and provide reassurance. Staff ensured that patients\u2019 voices were central to discussions, demonstrating respect for their opinions and individual preferences. We noted that while parents and guardians were involved in decision-making, the focus of conversations remained on the child or young person, ensuring they felt heard and had control over their experience.\u003C/p\u003E\u003Cp\u003EThe trust facilitated parental access to patients as soon as it was clinically safe to do so. We observed that parents were allowed into the recovery ward post-surgery, enabling them to comfort and support their child as they regained consciousness. This approach reinforced the importance of family involvement in the patient\u2019s emotional wellbeing and recovery process.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff demonstrated kindness, empathy, and compassion in their interactions with patients and families, ensuring that care was delivered sensitively and respectfully. We observed three instances of care in the recovery ward, where staff engaged in a positive and attentive manner, offering reassurance, comfort, and clear explanations to both patients and carers.\u003C/p\u003E\u003Cp\u003EStaff were observed speaking gently and reassuringly to patients as they woke from anaesthesia, ensuring they understood what was happening and where they were. For one patient, visual aids were used to help them process their surroundings, while soft toys that had been brought into theatre were sealed for hygiene purposes and presented to the child upon waking, offering a familiar and comforting presence.\u003C/p\u003E\u003Cp\u003EWhere patients experienced distress on waking from surgery, staff acted swiftly to facilitate parental involvement, ensuring that parents could hold and comfort their child in a safe and controlled manner. Staff were attuned to the emotional needs of both patients and their families, taking active steps to minimise anxiety and provide support where needed.\u003C/p\u003E\u003Cp\u003EPatients\u2019 privacy and dignity were consistently respected. We observed staff drawing curtains around recovery bays when appropriate, ensuring that patients were given space and privacy during their immediate post-operative period. Staff were also observed communicating clearly with carers and patients, explaining each step of the recovery process.\u003C/p\u003E\u003Cp\u003ECarer and family members spoken with during the assessment expressed satisfaction with their loved one\u2019s care and treatment, highlighting the kindness and attentiveness of staff.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003EThe service demonstrated a strong culture of compassionate, patient-centred care, with staff making every effort to maintain dignity, offer emotional support, and tailor their approach to meet individual needs. Staff interactions were gentle, considered, and responsive, ensuring that patients felt safe, valued, and reassured throughout their hospital experience.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff ensured that comfort, safety, and emotional wellbeing were prioritised. They were observed to be attentive, engaged, and highly responsive to patients waking from surgery, providing both medical and emotional support in the recovery ward.\u003C/p\u003E\u003Cp\u003ETo ensure that pain was managed effectively, even for patients who were unable to communicate verbally, staff had developed a structured pain protocol. This protocol was based on visual, vocal, and physical responses to pain, allowing staff to assess and address discomfort promptly. A pain protocol poster was displayed in the recovery area, providing clear guidance on recognising, and responding to different pain levels. This approach ensured that no patient\u2019s discomfort was overlooked, particularly those who might struggle to express their needs.\u003C/p\u003E\u003Cp\u003EObservations in the recovery ward showed that each patient was assigned two staff members, ensuring continuous monitoring and rapid response to any emerging needs. The recovery bays were organised around a central post, where the coordinator had a full view of all patients and staff, allowing for immediate oversight and quick intervention if required.\u003C/p\u003E\u003Cp\u003EStaff were seen to monitor patients closely as they woke from anaesthesia, providing reassurance, comfort, and necessary medical interventions as needed. They engaged with patients in a calm and supportive manner, responding promptly to any distress and ensuring that patients felt safe and well cared for. Each recovery bay was fully equipped to meet patient needs, ensuring that staff had the tools and resources necessary to provide high-quality, responsive care.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe observed a strong commitment to person-centred care, ensuring that patients\u2019 individual needs and preferences were understood and reflected in their treatment and support. Staff were observed adapting their communication approaches to engage with patients in a way that maximised their comfort and reduced anxiety.\u003C/p\u003E\u003Cp\u003EWe observed staff holding difficult conversations with patients and families in a compassionate and empathetic manner, ensuring that patients were prioritised in discussions and communicated with in ways they could understand. Staff demonstrated creative approaches to reducing patient distress, including one instance where a staff member engaged a nervous patient by discussing the sensations and smells of a face cream while administering oxygen. This distraction technique was seen to lower the patient\u2019s visible anxiety level, illustrating how staff took individual needs into account to enhance the patient experience.\u003C/p\u003E\u003Cp\u003EFor patients who had difficulty communicating their needs, staff had developed a pain protocol that used visual, vocal, and physical response cues to assess discomfort. A pain protocol poster in the recovery area provided guidance on identifying various levels of pain through visual observations, ensuring that patients who were unable to verbally express their pain received appropriate and responsive care.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EOverall, the workforce wellbeing culture at the trust was positive, with staff reporting strong peer support and access to personal and professional development opportunities. Staff reported feeling valued and proud to work for the trust, with many expressing that they received good support for career progression and had access to personal support when needed. Staff described a positive culture where they felt confident to raise concerns, with the expectation that they would be listened to and taken seriously by leadership.\u003C/p\u003E\u003Cp\u003EThe hospital demonstrated a comprehensive approach to supporting staff wellbeing across all areas, including surgical services. A range of initiatives was in place to address emotional resilience, morale, and workplace stress. Notably, the \u201CThriving not just Surviving\u201D programme was offered to individuals and teams, with participation from surgical wards such as Eagle Ward. This facilitated self-reflection and action planning to promote resilience and prevent burnout.\u003C/p\u003E\u003Cp\u003EStaff had access to wellbeing walks, pop-up support sessions, and a dedicated wellbeing hub called \u0022The Hive.\u0022 Practical support was also available, such as a hardship fund for staff facing unexpected financial challenges. The trust also introduced a wellbeing e-learning module to help managers hold effective health and wellbeing conversations, aligning with the NHS People Plan. Despite the wide availability of wellbeing services, it was not always clear how effectively these initiatives were embedded or evaluated within surgical divisions specifically. Nevertheless, staff across clinical and non-clinical roles\u2014including those in theatres and surgical wards\u2014had access to resources designed to enhance wellbeing and reduce the risk of burnout.\u003C/p\u003E\u003Cp\u003EWhile many staff felt supported, some raised concerns about limited opportunities for promotion, noting restricted pathways for career advancement. Despite this, staff spoke positively about training and development opportunities available to them, which helped them enhance their skills and professional growth.\u003C/p\u003E\u003Cp\u003EThe excessive cost of living and commuting to London was a recurring theme among staff, with several stating that these financial pressures contributed to staff turnover. Some staff told us that they adjusted their work routines to minimise travel costs, such as delaying their commute to take advantage of off-peak train fares.\u003C/p\u003E\u003Cp\u003EThe trust provided low-cost staff accommodation for those who required it, but some staff reported that the standard of these facilities was not high, which impacted its appeal as a long-term housing solution.\u003C/p\u003E\u003Cp\u003EStaff told us that they were able to take regular breaks, and no staff spoken with during the assessment reported being dissatisfied with their working environment. Some staff also noted that they were able to work from home occasionally, which helped to improve work-life balance and flexibility in certain roles.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThe service demonstrated a strong commitment to evidence-based care, patient-centred assessments, and collaborative working across specialities. Patients and their families were actively involved in preoperative assessments, with clear communication about risks and treatment options. Staff used structured assessment processes to ensure that care met individual health, wellbeing, and communication needs. Additional support was provided for carers, including accommodation and digital access to patient records through the MYGOSH application, improving engagement and continuity of care.\u003C/p\u003E\u003Cp\u003ECare was delivered in alignment with national guidelines and best practice, with ongoing audits\u2014including the WHO Surgical Safety Checklist\u2014to monitor safety and compliance. \u003C/p\u003E\u003Cp\u003EMultidisciplinary collaboration was evident across services, with effective handovers, ward rounds, and an electronic patient records system linking with external providers. \u003C/p\u003E\u003Cp\u003EThe service supported patients to live healthier lives, with preventative care, early intervention, and structured discharge planning.\u003C/p\u003E\u003Cp\u003EThe service followed structured consent processes, ensuring that patients and families fully understood their treatment options. \u003C/p\u003E\u003Cp\u003EMonitoring of patient outcomes was well established in some specialities, particularly in Cardiac and Lung services. However, gaps in individual outcome monitoring were identified within orthopaedics, where consultants did not routinely compare surgical results or engage in peer review. There were limited initiatives to benchmark outcomes against other hospitals, raising concerns about clinical governance and data-driven service improvement.\u003C/p\u003E\u003Cp\u003ESome staff noted that the trust did not always analyse or provide data effectively for service improvement, limiting opportunities for strategic planning. Which limited benchmarking of clinical outcomes, reducing opportunities for peer review and continuous service improvement. There were some gaps in trust-wide data analysis, impacting strategic planning and service evaluation.\u003C/p\u003E",
+                "commentaryDate": "2025-06-11",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EStaff used a structured assessment processes to ensure that patients received care tailored to their individual health, wellbeing, and communication needs. Patients and their families were actively involved in preoperative assessments, with risks and treatment options clearly explained in ways that were appropriate for their level of understanding.\u003C/p\u003E\u003Cp\u003EAll patients on the theatre pathway underwent a preoperative assessment to review risk and suitability for surgery. Staff provided clear, detailed explanations of potential surgical risks, ensuring that families were informed and engaged in decision-making as far as practicable. During observations, an assessment was conducted where the procedure and risks were fully explained to both the patient and their carer. The conversation was directed towards the child wherever possible, with the staff member demonstrating empathy, using communication tools to reduce anxiety, and ensuring the patient remained at the centre of the discussion.\u003C/p\u003E\u003Cp\u003EThe trust took steps to support carers of patients, recognising the importance of their physical and emotional wellbeing. Beds were made available in patient bedrooms, and a nearby hotel provided accommodation for parents and carers staying for extended periods. Additionally, carers of long-stay patients were offered access to gym facilities, supporting their mental and physical health while continuing in their caregiving role.\u003C/p\u003E\u003Cp\u003ETo enhance communication and access to information, the trust had developed \u2018MYGOSH,\u2019 an electronic application available on personal devices. This system allowed patients and carers to access medical records, receive updates, and contact the service directly, improving engagement and continuity of care.\u003C/p\u003E\u003Cp\u003EThe flexibility of staff deployment was also a key factor in meeting patients\u0027 needs. Leaders in Cardiac and Lung services described how they moved staff between units, allowing them to match skill levels and specialist expertise with patient needs. This adaptive workforce model ensured that patients requiring intensive care received appropriate support from staff with the relevant experience and qualifications.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "6",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff used structured processes for obtaining and respecting consent, ensuring that patients and their families were fully informed about their rights and treatment options. Staff consistently followed national guidance on consent, supporting patients and their parents or guardians in making informed decisions about the care and treatment required.\u003C/p\u003E\u003Cp\u003EPatients and families were provided with verbal and written explanations of procedures, including potential risks and benefits. Staff were observed taking the time to thoroughly explain treatments, ensuring that patients and their parents understood the nature of the procedure before providing consent. This approach demonstrated respect for patient autonomy and supported person-centred decision-making.\u003C/p\u003E\u003Cp\u003EThe trust had systems to monitor and discuss patient pathways, risks, and treatment, using both face-to-face and electronic systems. We observed staff assessing patients, discussing procedures, and ensuring that treatment options were well understood. Staff were trained in effective communication techniques, and during the assessment, they were seen to handle difficult conversations with sensitivity and empathy. Patients were prioritised in discussions, and staff adapted their communication style to reduce anxiety where necessary.\u003C/p\u003E\u003Cp\u003EFor younger patients or those experiencing high levels of anxiety, the Nightingale Unit had play specialists available to support children before procedures. This additional support helped children feel more at ease during the consent process, particularly when discussing surgical interventions.\u003C/p\u003E\u003Cp\u003EThe service also had systems for obtaining consent for patients with communication difficulties. Staff had developed a pain protocol based on visual, vocal, and physical responses to pain, ensuring that patients who were unable to communicate verbally were still supported in expressing their needs. A pain protocol poster was displayed in the recovery area, providing guidance on identifying and managing pain levels for non-verbal patients.\u003C/p\u003E\u003Cp\u003EWhere appropriate, patient, and parental consent was observed to be sought before treatment, with clear explanations provided to ensure informed decision-making. Staff demonstrated an awareness of legal frameworks, including the Mental Capacity Act 2005, ensuring that decisions were made lawfully and with appropriate consultation of carers, families, or advocates where necessary.\u003C/p\u003E\u003Cp\u003EThe service conducted a trust-wide audit to ensure that patients and families were fully informed and appropriately consented before surgery. This followed concerns raised in an external review of one surgical team\u2019s practice, where differences were found between what was written on the consent form and the procedure actually performed. The audit reviewed 50 surgical procedures across ten specialities carried out in July and August 2024. In every case, the procedure carried out matched the procedure listed on the consent form, showing that, across the surgical services, patients received the care they had been properly informed about and had agreed to. However, the audit also identified some challenges in the current system of record-keeping. In two cases, consent forms could not be found in the hospital\u2019s electronic records system. A further search revealed nine similar cases reported over the past year. While this did not indicate that patients had not been consented, it highlighted the risks of using paper-based forms which can be misplaced. The hospital had already started work to reduce this risk by moving to digital consent, and this issue had been raised with the relevant teams leading that work.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff planned and delivered care in collaboration with patients and their families, ensuring that treatment was personalised and aligned with best practice standards. Care and treatment were provided in accordance with national guidelines and evidence-based practice, with staff demonstrating a strong understanding of clinical protocols and legislative requirements. Patients and families reported receiving care that adhered to recognised best practice standards, with staff involving them in treatment decisions and discussions about current clinical guidance relevant to their care.\u003C/p\u003E\u003Cp\u003EThe service had structured systems in place to ensure staff remained up to date with national legislation, best practice, and clinical standards. Staff followed current policies and protocols, ensuring that care delivery remained high quality and in line with national guidance. Leaders encouraged continuous learning and the adoption of new, innovative approaches to enhance patient care.\u003C/p\u003E\u003Cp\u003EDuring 2023/24, Great Ormond Street Hospital (GOSH) participated in numerous national clinical audits, several of which were directly relevant to surgical services. These included audits such as the National Audit of Cardiac Rhythm Management, the National Congenital Heart Disease Audit, the National Audit of Pulmonary Hypertension, and the CRANE audit for cleft services. GOSH also actively engaged in the ongoing National Confidential Enquiry into Patient Outcome and Death (NCEPOD) for emergency procedures, having submitted all required anaesthetic reviews and partially completed surgical case submissions. Clinical outcomes were routinely monitored prospectively, with data made publicly available on the trust\u2019s website to demonstrate performance and support transparency. Outcome data was collected and reported across multiple surgical specialties, including cardiothoracic, cleft, neurosurgery, ENT, ophthalmology, and plastic surgery.\u003C/p\u003E\u003Cp\u003ETo maintain surgical safety and adherence to best practice, the service conducted regular audits, including the World Health Organisation (WHO) Surgical Safety Checklist and local audits of surgical site infection prevention protocols. These audits were designed to identify potential risks, verify compliance with safety measures, and assess alignment with national standards. At the time of assessment, no significant issues were identified through these reviews, demonstrating consistent adherence to safety protocols\u003C/p\u003E\u003Cp\u003EHowever, challenges remained in specific surgical specialities, particularly within orthopaedics. The Royal College of Surgeons (RCS) report, published in response to concerns raised about the Lower Limb Lengthening and Reconstruction (LLLRI) service, identified deficiencies in governance, surgical decision-making, and patient safety. The review found that some procedures, including limb-lengthening surgeries, had been performed without clear clinical benefit, raising concerns about adherence to evidence-based best practice. Issues identified included poor consent processes, a hierarchical culture that discouraged challenge, and inconsistent multidisciplinary team (MDT) discussions to support complex surgical decisions.\u003C/p\u003E\u003Cp\u003EThe trust had developed an action plan in response to the RCS findings, with a focus on strengthening clinical governance, ensuring MDT oversight for complex cases, and improving consent processes. \u003C/p\u003E\u003Cp\u003EAt the time of assessment, the trust had begun implementing these recommendations, but it was too early to assess the full impact of these changes. Staff acknowledged that historical governance issues within orthopaedics had contributed to concerns over surgical safety and decision-making, and there was an ongoing process to rebuild trust and confidence within the department.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff demonstrated effective collaboration between teams and services, ensuring continuity of care and patient safety. Staff had access to an electronic system that recorded patient pathways and care plans, which they reported as effective in maintaining clear communication and coordination between different teams. This system was linked to other healthcare providers and some GP records, enabling information sharing between primary, secondary, and tertiary care services. \u003C/p\u003E\u003Cp\u003ETeam-based approach was particularly evident during ward rounds, where staff worked together to review treatment plans, assess progress, and identify any ongoing support needs.\u003C/p\u003E\u003Cp\u003EHandover processes between teams were observed to be thorough and well-structured, ensuring that key clinical information was communicated effectively as patients transitioned from surgery to post-operative care. Theatre staff were seen to assess patients prior to surgery, engaging with them to evaluate suitability and risk and ensuring that they were fully prepared for their procedure.\u003C/p\u003E\u003Cp\u003EHowever, some staff raised concerns that the trust did not effectively analyse or provide data on request to review and improve performance. While real-time patient care coordination was supported by the electronic system, there were perceived gaps in how the trust utilised data for service improvement and strategic planning.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff monitored patient outcomes, ensuring that care was aligned with national standards, evidence-based guidelines, and legislative requirements. Staff actively reviewed and adapted their approach to patient care, with a focus on achieving positive clinical outcomes and continuous improvement. However, some specialities lacked structured peer discussions and benchmarking which created a gap in clinical oversight, requiring further development to ensure continuous improvement and accountability in surgical outcomes.\u003C/p\u003E\u003Cp\u003EWithin Cardiac and Lung services, staff reported that patient morbidity rates were lower than the national average. As a result, they were required to submit reports detailing how they had achieved these outcomes for the second time, highlighting robust performance in surgical and post-operative care. Staff attributed this success to robust monitoring, early intervention, and multidisciplinary teamwork, which ensured that higher-risk patients were identified and prioritised for treatment in a timely manner.\u003C/p\u003E\u003Cp\u003EThe hospital worked on improving how quickly staff noticed and responded when a child\u2019s condition started to get worse, especially on the surgical wards. Nurses made sure that important checks, like heart rate and temperature, were carried out on time so that any signs of illness were spotted early. Staff also used standardised tools to help them notice health concerns that might not have shown up in the usual checks. Between April and October 2024, the hospital responded quickly to emergencies, with the number of emergency calls staying steady and regular checks completed on emergency equipment. New initiatives, like special emergency phones and grab-and-go medicine bags, helped staff act faster when urgent care was needed.\u003C/p\u003E\u003Cp\u003ESurgical site infection (SSI) surveillance was undertaken across neurosurgery, cardiac, and spinal specialties. The overall infection rate for neurosurgery was 1.01%, with a shunt infection rate of 0.5%, reflecting a continued year-on-year reduction. Cardiac surgery recorded one SSI from 193 cases, while spinal surgery reported three infections from 146 operations, equating to a rate of approximately 1.8%. A new in-house surveillance system was under development to enhance data quality and extend monitoring to additional specialties\u003C/p\u003E\u003Cp\u003EThroughout the surgical pathway, patients were closely monitored before, during, and after surgery. We observed staff using appropriate monitoring equipment and ensuring that patients were cared for by clinicians with the relevant expertise and experience. This proactive approach to patient safety and risk assessment helped to identify complications early and facilitate rapid intervention when needed.\u003C/p\u003E\u003Cp\u003ETo meet patient needs and maintain safety, senior staff routinely reviewed workforce skillsets and reallocated staff accordingly. Staff were moved between teams based on clinical needs and patient risk, ensuring that specialist expertise was directed towards the most complex cases. This flexibility supported safe staffing levels and ensured that highly skilled personnel were deployed where they were needed most.\u003C/p\u003E\u003Cp\u003EThe trust also had structured mechanisms in place for monitoring patient outcomes beyond individual teams. Staff reported that patients were prioritised based on clinical urgency and acuity, allowing resources to be allocated efficiently. However, while the surgical service had systems for tracking clinical outcomes and identifying areas for improvement, some staff raised concerns about challenges in data availability for service review and planning.\u003C/p\u003E\u003Cp\u003EDespite these structured monitoring systems in some specialties, challenges remained in individual outcomes monitoring within certain departments, including orthopaedics. Due to the specialist nature of the hospital, some benchmarking data was not governed by national standards, limiting opportunities for direct comparison with other centres. Within orthopaedics, a small group of consultants operated without a structured system for reviewing or comparing their outcomes, and there was a lack of specialty meetings to evaluate surgical results or share best practices. This meant that surgeons were not routinely learning from each other\u2019s cases, restricting opportunities for peer review, quality improvement, and standardised outcome measurement.\u003C/p\u003E\u003Cp\u003EAdditionally, there were few initiatives to compare outcomes with similar hospitals or external organisations, which further limited the ability to assess performance, identify trends, or implement best practices from other centres. This lack of formalised outcome monitoring and internal collaboration raised concerns about clinical governance, data-driven decision-making, and the hospital\u2019s ability to ensure continuous improvement across specialist procedures.\u003C/p\u003E\u003Cp\u003EReferral to treatment (RTT) performance fluctuated over the 12-month period between December 2023 and December 2024. Compliance remained below the 92% standard for most surgical specialties across the 12-month period. Neurosurgery and orthopaedics showed persistent underperformance, averaging below 60% in several months. Dental, maxillofacial, and plastic surgery also demonstrated consistently poor RTT performance, remaining below 70% for most of the year. Ear nose and throat performed relatively better, fluctuating between 63% and 75%, but still failed to meet expectations. Overall, the trust\u0027s total RTT performance ranged from 66.1% to 70.5%, below the national standard.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "6",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe surgical service supported patients and families in managing their health and wellbeing, maximising independence, choice, and control. Where possible, the service aimed to reduce future healthcare needs by promoting preventative care, early intervention, and patient education.\u003C/p\u003E\u003Cp\u003EStaff had access to the hospital\u2019s electronic health record system, which allowed real-time sharing of patient information. This system facilitated care planning and ensured that all relevant teams had access to up-to-date medical records. Staff reported that there were enough laptops and computers available on the wards, ensuring efficient access to digital patient records when required.\u003C/p\u003E\u003Cp\u003EThe service managed patient transitions effectively, ensuring that children received well-coordinated care between different specialties and services. We observed specialty teams, including nursing and allied health professionals, working together to assess patients\u0027 readiness for discharge. This multidisciplinary approach ensured that patients were discharged safely with appropriate follow-up care, where needed.\u003C/p\u003E\u003Cp\u003EWithin Cardiac and Lung services, patients were prioritised based on clinical urgency, which sometimes resulted in procedures being postponed for those in more stable conditions. However, Cardiac Nurse Specialists played a vital role in monitoring these patients at home, ensuring that they remained clinically stable while awaiting surgery. This approach enabled children to remain in a safe home environment while still receiving ongoing clinical oversight, helping to reduce unnecessary hospital admissions and support families in managing their child\u0027s condition.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThe service was responsive to individual patient needs, ensuring that care was personalised, well-coordinated, and accessible. Staff demonstrated a commitment to person-centred care, engaging with children and families to ensure they were fully involved in treatment planning and decision-making. Reasonable adjustments were made to accommodate patients with additional needs, including play specialists, sensory tools, and communication aids to reduce anxiety and improve patient experience.\u003C/p\u003E\u003Cp\u003EStaff worked collaboratively across teams and services, ensuring smooth transitions between various stages of care. Electronic records supported information-sharing, enabling joined-up care between hospital departments and external healthcare providers. Patients awaiting treatment were monitored remotely, ensuring that they remained clinically stable while awaiting surgery.\u003C/p\u003E\u003Cp\u003EThe service aimed to promote equity in access and outcomes, ensuring that patients with complex needs or from diverse backgrounds received appropriate care. However, structured monitoring of inequalities in patient experience was limited, and there was room for improvement in assessing disparities in care delivery and outcomes.\u003C/p\u003E\u003Cp\u003EEfforts were made to improve access to care, with weekend surgical lists helping to maximise theatre capacity. However, some patients faced delays for non-urgent procedures due to prioritisation of higher-acuity cases. Patients and families expressed frustration over cancellations and waiting times, though staff worked to provide ongoing support and clear communication about treatment plans.\u003C/p\u003E\u003Cp\u003EInformation and feedback mechanisms were in place, ensuring that patients and families could access up-to-date details about their care. However, access to multilingual materials and interpreter services was limited, potentially creating barriers for families with limited English proficiency. \u003C/p\u003E\u003Cp\u003EKey issues:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EDelays in non-urgent procedures, leading to patient frustration over waiting times and cancellations.\u003C/li\u003E\u003Cli\u003ELimited access to multilingual information and interpreter services, creating potential communication barriers.\u003C/li\u003E\u003Cli\u003EGaps in monitoring inequalities in patient experiences and outcomes, limiting opportunities for targeted improvements.\u003C/li\u003E\u003C/ul\u003E",
+                "commentaryDate": "2025-06-11",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff were committed to integrated and patient-centred care and ensured children and young people received the support they needed throughout their treatment journey. Despite challenges related to capacity and demand, the service worked proactively to minimise disruption, provide ongoing clinical oversight, and maintain safe and effective care for all patients.\u003C/p\u003E\u003Cp\u003ECare and treatment were structured, co-ordinated, and responsive to patient needs. Treatment pathways were designed to prioritise those requiring urgent care while maintaining continuity for all patients.\u003C/p\u003E\u003Cp\u003EService operated a structured triage system to assess and prioritise patient needs, as demand exceeded capacity. Leaders explained that not all patients who applied for treatment via patient choice could be accommodated, and as a result, those with less urgent conditions faced longer waits for surgery. Staff reported that, at times, planned procedures had to be cancelled when more urgent cases took priority, demonstrating the need for flexible service delivery in response to clinical risk and patient acuity.\u003C/p\u003E\u003Cp\u003ETo maintain continuity of care for patients waiting for treatment, staff monitored patients remotely through telephone triage, ensuring that those waiting at home remained in a safe and stable condition. Clinical nurse specialists (advanced practice registered nurses with advanced clinical expertise) played a key role in supporting patients and families, providing clinical oversight, advice, and reassurance. For patients that were awaiting surgery, this approach allowed them to remain in familiar home environments while still receiving necessary medical support.\u003C/p\u003E\u003Cp\u003EThe service worked collaboratively with other healthcare providers, ensuring that patients transitioning between various stages of their care journey received joined up and well-coordinated treatment. We observed effective communication between teams, ensuring that referrals, admissions, and discharges were handled efficiently. Electronic systems supported seamless information-sharing between departments, reducing the risk of delays or miscommunication that could disrupt care continuity.\u003C/p\u003E\u003Cp\u003EThe hospital also recognised the diverse needs of its patient population, ensuring that services were tailored to meet individual requirements, including those with protected characteristics under the Equality Act. Staff made reasonable adjustments for children with additional needs, ensuring that care was delivered in a way that respected personal, cultural, and medical considerations.\u003C/p\u003E\u003Cp\u003EWhile the hospital had effective processes in place to ensure continuity of care, some patients and families expressed frustration regarding cancellations and long waiting times for non-urgent procedures. Staff acknowledged these challenges and described ongoing efforts to improve efficiency and reduce delays, including optimising theatre capacity and expanding monitoring services for patients awaiting surgery.\u003C/p\u003E\u003Cp\u003EBetween July and December 2024, Great Ormond Street Hospital recorded a total of 5,484 surgical cases, of which 446 (8.13%) were cancelled. The cancellation rate for scheduled (planned) surgeries was slightly higher at 8.72%, while emergency surgery cancellations were notably lower at 2.76%. The most common reasons for cancellations were related to patient health and hospital operational issues. These included patients being medically unfit on the day (44 cases), no available ward beds (45 cases), and pre-operative assessments identifying unfit patients (44 cases). Administrative errors and operating theatre list overruns also featured prominently. A number of cancellations were due to families not arriving or initiating cancellation themselves. Additionally, a small but notable number were linked to surgeon unavailability or changes in treatment plans. The data highlighted peaks in cancellations in November and October, with over 10% of procedures affected during those months.\u003C/p\u003E\u003Cp\u003EAt the time of the assessment staff told us theatre utilisation was at approximately 65%, with managers citing patient availability and illness-related cancellations as key factors affecting capacity. Senior theatre staff used an electronic scheduling application that enabled theatre space to be utilised for weekend procedures where possible, ensuring that resources were maximised while balancing patient safety and demand. The hospital also noted that theatre utilisation was higher during warmer months, when the risk of respiratory illnesses and patient cancellations was lower.\u003Cstrong\u003E \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ETheatre utilisation across the Trust for the period July to December 2024 averaged between 67.00% and 73.74%, with a Trust-wide average of approximately 69% over the six-month period. Variation across individual theatres reflected differences in case complexity and capacity management.\u003C/p\u003E\u003Cp\u003EThe Trust explained that many procedures involved highly complex cases, often occupying a full theatre session with only one case. In addition, some patients required extended pre-operative optimisation, and short-notice cancellations due to illness meant that sessions could not always be reallocated, leading to underutilisation. Efforts to improve utilisation included the use of electronic scheduling systems, which allowed weekend theatre slots to be offered and helped maximise use of available capacity. However, seasonal trends, such as lower respiratory illness in warmer months, contributed to more consistent utilisation during those periods.\u003C/p\u003E\u003Cp\u003EThe out-of-hours service provision was sufficient to meet the needs of patients requiring urgent investigations, with systems in place to ensure appropriate access, support, and continuity of care across specialties. The hospital provided a broad range of diagnostic services outside of normal working hours to support safe and effective care. Haematology and blood transfusion operated 24/7, ensuring urgent testing and support were always available. Other services, such as microbiology, chemical pathology, and radiology (including X-ray, ultrasound, CT, and MRI), also offered urgent out-of-hours access. Although not all diagnostic areas ran full out-of-hours services\u2014such as immunology and cell therapy\u2014reasonable arrangements were in place where needed, including on-call support and planned handovers. The mortuary service was also responsive to needs outside of hours, with clear processes for coordination through clinical and support teams.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service ensured that patients could access the care, support, and treatment they needed in a timely manner, with services available 24 hours a day, year-round. The hospital demonstrated a commitment to equitable access, making reasonable adjustments to accommodate the needs of all patients, including those with disabilities and additional support requirements.\u003C/p\u003E\u003Cp\u003EWe observed that specialist paediatric-sized equipment was available where necessary, ensuring that medical devices and facilities were appropriate for children and young people. Staff worked closely with other healthcare professionals and specialist teams to provide multidisciplinary care for complex surgical needs, ensuring that children requiring input from multiple specialists received coordinated treatment.\u003C/p\u003E\u003Cp\u003EThe hospital environment was child-friendly, with visually appealing displays, age-appropriate designs, and waiting areas that were suitable for children and young people. However, some outpatient areas were less modern and in need of refurbishment, which may have impacted the overall patient experience.\u003C/p\u003E\u003Cp\u003EWhile the hospital sought to remove barriers to access, we noted that some challenges remained. There was limited availability of patient information in multiple languages, which may have affected families with limited English proficiency in navigating their child\u2019s care. Additionally, while translation services were available upon request, there was a lack of evidence regarding how frequently they were used or whether they were routinely offered to those who needed them.\u003C/p\u003E\u003Cp\u003EStaff were alert to potential inequalities in access to care, ensuring that vulnerable patients and those with complex needs were prioritised appropriately. The service worked to tackle disparities by allocating resources based on clinical urgency, though some patients faced long waits for non-urgent procedures due to prioritisation of more critical cases. The Cardiac and Lung service, for example, employed telephone triage and remote monitoring to ensure that patients waiting for surgery remained in a safe and stable condition.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service complied with legal equality and human rights requirements, aiming to remove barriers to care and create an inclusive environment for all children and their families. The service was committed to providing equitable care, ensuring that patients from diverse backgrounds and with varying needs received appropriate support.\u003C/p\u003E\u003Cp\u003EWhile there was limited evidence of a structured approach to monitoring inequalities in patient experiences and outcomes, staff were expected to be alert to discrimination and potential disparities in care. The hospital aimed to identify and address barriers that could impact the experience of patients with protected characteristics, such as those with disabilities, neurodiverse patients, or those from non-English speaking backgrounds. \u003C/p\u003E\u003Cp\u003EStaff sought to empower patients and their families by providing clear information about their rights and encouraging them to share their views on care and treatment. However, the extent to which patient feedback from diverse groups was actively used to drive improvements was unclear.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "6",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had mechanisms for patients, families, and carers to provide feedback, ensuring that their voices were heard, and their concerns were addressed in an open and transparent manner. The hospital offered many ways for people to share their experiences, including formal complaint procedures, patient experience surveys, and direct feedback to staff.\u003C/p\u003E\u003Cp\u003EAs part of the NHS-wide patient feedback system, the Friends and Family Test (FFT) was available for patients and families to complete, providing a simple and accessible way to share their views on the quality of care they received. This test allowed parents, carers, and where appropriate, children and young people themselves, to express whether they would recommend the service to others based on their experience. Feedback from the FFT and other patient experience initiatives was expected to be used to identify trends, highlight areas for improvement, and recognise good practice among staff.\u003C/p\u003E\u003Cp\u003EFamilies were encouraged to raise concerns, and the service aimed to handle complaints with compassion and sensitivity. The hospital\u0027s Patient Advice and Liaison Service (PALS) was available to support families in navigating the complaints process, offering guidance and mediation where needed. Staff responded to issues promptly and involved patients and families in discussions about potential improvements.\u003C/p\u003E\u003Cp\u003EBetween June and December 2024, the hospital recorded 23 surgery-related contacts via the patient liaison team\u2019s system. These reflected feedback and queries from families across a range of surgical specialties. The highest number of contacts related to general surgery (SNAPS), followed by spinal surgery, anaesthetics  theatres, cardiac surgery, and urology. The data gathered by the team helped the service understand which areas of surgical care prompted engagement from families and supported the identification of patterns or areas needing attention. The common themes were focused on communication and information gaps during the surgical journey. Several families contacted PALS due to missed or unclear details about admission dates, fasting times, or surgical scheduling, leading to confusion. In some cases, miscommunication between hospital teams or with external services contributed to cancellations, causing distress for families. Another recurring issue involved delays in responses, with families having to chase updates or wait for extended periods to receive essential information about pre-operative processes or appointment requirements.\u003C/p\u003E\u003Cp\u003EStaff commitment to transparency in responding to complaints was reflected in their approach to keeping families informed about the progress of their concerns. Patients and carers were provided with timely responses and clear explanations of any actions taken because of their feedback. \u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff showed commitment to person-centred care, ensuring that patients and their families were actively involved in planning and decision-making about their treatment. We observed that staff engaged with patients and carers throughout their surgical journey, explaining procedures, addressing concerns, and adapting their approach to meet the individual needs of each child.\u003C/p\u003E\u003Cp\u003EStaff made reasonable adjustments to care delivery where necessary, ensuring that children with communication difficulties, sensory sensitivities, or elevated levels of anxiety received additional support. Play specialists were available to help reduce anxiety before surgery and during the hospital stay, and staff used visual aids, sensory objects, and distraction techniques to help children understand and feel more at ease with their treatment.\u003C/p\u003E\u003Cp\u003EThe hospital\u2019s use of digital systems allowed patients and families to access information about their care, treatment plans, and upcoming appointments, ensuring they were well-informed and able to take an active role in decision-making. Staff were trained in effective communication techniques, using clear, compassionate language to support understanding and reduce distress.\u003C/p\u003E\u003Cp\u003EWe observed that staff prioritised patients in discussions about their care, ensuring that children and young people were involved in decision-making to the extent that their age and understanding allowed. While parents and carers were actively involved, the service also encouraged young patients to express their preferences and concerns, reinforcing a sense of personal agency and choice in their treatment.\u003C/p\u003E\u003Cp\u003EStaff worked collaboratively across disciplines to ensure that care plans addressed physical, emotional, and social needs, particularly for patients requiring complex or long-term treatment. Staff demonstrated a structured approach to monitoring and prioritising patients based on clinical urgency, ensuring that children who required urgent care were treated in a timely manner.\u003C/p\u003E\u003Cp\u003EObservations and staff feedback indicated that patients\u0027 needs were carefully considered and incorporated into care planning. The hospital\u2019s responsive and adaptable approach to care delivery helped to ensure that patients received treatment in a way that was appropriate for their specific needs, preferences, and circumstances.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported patients and their families in making informed decisions about their future care, ensuring that children with complex or life-limiting conditions received the necessary support and planning for their ongoing needs. The hospital\u2019s multidisciplinary teams worked to coordinate care and communicate with families about long-term treatment options, helping them navigate important transitions in care and prepare for future healthcare decisions.\u003C/p\u003E\u003Cp\u003EFor patients with progressive or life-limiting conditions, the hospital sought to identify those who may require end-of-life planning at an early stage. While there was no specific evidence available during this assessment regarding structured advance care planning, it was expected that patients approaching the end of life would have personalised care plans in place, ensuring that their wishes and best interests were considered. These plans would typically be shared with relevant services and staff to ensure continuity of care and respect for the patient\u2019s preferences.\u003C/p\u003E\u003Cp\u003EWhere treatment options were changed, limited, or withdrawn, healthcare professionals communicated openly and sensitively with families, ensuring that decisions were made collaboratively and in line with what mattered most to the patient and their carers. Families were encouraged to express their wishes about care interventions, including preferences around cardiopulmonary resuscitation (CPR), with opportunities to review and revise their decisions as needed.\u003C/p\u003E\u003Cp\u003EFor children and young people transitioning to greater independence or moving into adult services, staff worked to support them in achieving their long-term care goals, ensuring that care pathways were structured around their needs and aspirations. Staff recognised the importance of supporting patients and families through these significant changes, ensuring that they were provided with guidance, reassurance, and access to relevant services during these transitions.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff provided patients, parents, guardians, and carers with precise and current information, helping them understand their care, treatment options, and any changes to their treatment plans. Information was made available through multiple formats, including face-to-face discussions, postal correspondence, email, telephone updates, and the electronic application. We observed clinicians dedicating time to answering patients\u0027 and families\u0027 questions, ensuring that information was clearly explained and understood.\u003C/p\u003E\u003Cp\u003EPatients and families had access to a range of online resources, covering patient rights, care procedures, and post-treatment care. Staff were observed prioritising effective communication with patients, adapting their approach to ensure that information was conveyed in a way that reduced anxiety and enhanced understanding. However, there were limitations in the availability of information in different formats and languages. While translation services were available upon request, there was a limited number of printed materials in languages other than English. This may have created barriers to effective communication for families with limited English proficiency, highlighting a need for an expanded range of multilingual resources to improve accessibility.\u003C/p\u003E\u003Cp\u003EAdditionally, staff had limited knowledge related to the availability of interpreters, including British Sign Language (BSL) support or services for patients with additional communication needs. While staff worked to speak with patients in ways they could understand, the extent to which formal interpreting and accessible communication services were embedded into routine care was unclear.\u003C/p\u003E\u003Cp\u003EThe trust ensured that patient data was shared securely and met legal data protection requirements, allowing families to access their child\u2019s health records and receive updates, as necessary. \u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThe surgical service had a strong culture of learning and patient safety, with staff feeling empowered to raise concerns and report incidents. Training and professional development were well supported, with staff receiving protected training time per year and access to career progression opportunities.\u003C/p\u003E\u003Cp\u003EIncident reporting was well established, with clear processes to learn from safety events.\u003C/p\u003E\u003Cp\u003EThe service maintained safe systems for patient pathways and transitions, ensuring continuity of care from admission to discharge. Staff communicated information gathered during pre-operative assessments, which were thorough, and were able to identify patient risks to ensure patient safety during surgery.\u003C/p\u003E\u003Cp\u003EStaff understood safeguarding processes, with clear documentation and training completion among staff.\u003C/p\u003E\u003Cp\u003EThe hospital maintained high environmental and infection control standards, with clean, well-maintained theatres and compliance with relevant guidelines. Staff managed equipment safety and maintenance well.\u003C/p\u003E\u003Cp\u003EStaff stored medicines securely, and electronic prescribing systems supported safe administration. Parents were actively involved in medicine management, and discharge processes ensured continuity of care.\u003C/p\u003E\u003Cp\u003E Staffing was a key challenge for both medical and nursing staff. The trust had undertaken a recruitment drive, but issues remained in some services such as.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EStaffing shortages, particularly in registrar cover and tracheostomy-trained nurses.\u003C/li\u003E\u003Cli\u003ERecurrent theatre maintenance issues, including a power outage during spinal surgery and ventilation failures.\u003C/li\u003E\u003Cli\u003EGovernance challenges, with concerns around surgical accountability and oversight\u003C/li\u003E\u003Cli\u003ELack of online safeguarding reporting, potentially impacting efficiency.\u003C/li\u003E\u003C/ul\u003E",
+                "commentaryDate": "2025-06-11",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe surgical service had effective systems in place to assess, manage, and minimise the risk of infection, in line with national guidance. The Infection Prevention and Control (IPC) team worked closely with the estates team to identify and mitigate infection risks, ensuring that premises, equipment, and procedures supported high standards of hygiene and cleanliness.\u003C/p\u003E\u003Cp\u003ETheatres, wards, and recovery wards were observed to be visibly clean, and staff had access to personal protective equipment (PPE), which was used appropriately. The theatres were compliant with Health Technical Memoranda (HTM) guidelines, with staff adhering to relevant IPC policies and procedures. There was a structured review of IPC practices, with leaders actively working alongside theatre staff to evaluate and implement new strategies to reduce infection risk. At the time of assessment, a review was underway regarding pre-surgical hair removal on the ward, aimed at reducing the risk of infection in theatre.\u003C/p\u003E\u003Cp\u003EThe trust had specific IPC measures in place for international patients, recognising the need to screen for viral illnesses and antimicrobial-resistant infections. All overseas patients were screened upon admission, and IPC leaders received daily updates on results. The IPC team also attended regular antimicrobial meetings, ensuring that the service remained proactive in monitoring and responding to emerging infection risks.\u003C/p\u003E\u003Cp\u003EEnhanced stool screening was implemented and contributed to improved detection of carbapenemase-producing organisms, aiding in the prevention of cross-transmission (type of bacteria that have developed resistance to antibiotics often used as a last resort to treat serious infections). Surgical site infection surveillance was sustained in neurosurgery, cardiac, and spinal surgery, with generally low infection rates reported. Audit compliance for line care bundles remained below target, hindered by documentation challenges within the electronic patient record system.\u003C/p\u003E\u003Cp\u003EDomestic staff received joint training with the Infection Prevention and Control (IPC) team, focusing on key areas such as PPE use. Additionally, joint audits were conducted between domestic supervisors and ward staff to monitor environmental cleanliness. A rapid response team was available to manage emergency cleaning requirements, and clinical site practitioners prioritised cleaning based on patient needs. A new cleaning standards framework, implemented in line with national guidelines, had been adopted by the trust and the domestic team. This approach scaled the intensity of cleaning based on identified infection risks, ensuring that higher-risk areas received enhanced environmental cleaning interventions. Staff reported that this system improved infection control measures and targeted resources effectively.\u003C/p\u003E\u003Cp\u003EOverall, staff demonstrated compliance with hand hygiene protocols, including handwashing, the use of alcohol gel, and appropriate use of gloves and aprons. However, during observations, some porters and healthcare staff were seen in the theatre environment without adhering to the \u0022bare below the elbows\u0022 policy, which could compromise infection control standards. This indicated that while IPC protocols were followed, reinforcement of best practice among all staff groups was required. Trust\u2019s audits suggested that hygiene compliance remained stable overall, though variations were noted across wards, and improvement efforts continued through education and audit initiatives.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "6",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service demonstrated a proactive approach to managing and mitigating risk while supporting children and families in understanding and navigating potential concerns. The introduction of the premedication hub reflected a commitment to improving patient experience, and the structured approach to risk communication ensured that families were actively involved in decision-making. However, the concerns raised regarding staffing capacity indicated the need for further consideration of workforce planning as new initiatives were introduced. \u003C/p\u003E\u003Cp\u003EStaff told us they had received specific training on how to communicate risks effectively with patients and families. This included guidance on speaking clearly, ensuring information was understood, and adapting communication methods based on the needs of the child and their parents or carers. The service had systems in place to ensure that all patients and families were fully informed about the risks associated with surgery and anaesthesia. These risks were explained both verbally and in writing, allowing parents and carers to make informed decisions about their child\u2019s treatment. The approach was designed to be accessible, ensuring that discussions were not overly clinical but instead focused on clear, understandable language that addressed patient concerns.\u003C/p\u003E\u003Cp\u003EPre-operative assessments were carried out by appropriately trained staff, with nurses and Operating Department Practitioners (ODPs) conducting standard assessments, while more complex cases were reviewed by anaesthetists. This tiered approach allowed for a proportionate and individualised risk assessment process, ensuring that children with additional medical needs or complex conditions were reviewed by senior clinicians. Staff reported that this system worked well and allowed for a streamlined pre-operative assessment pathway.\u003C/p\u003E\u003Cp\u003ETo support patients experiencing significant anxiety before surgery, the trust had introduced a premedication hub within the theatre department. This space, staffed by recovery ward personnel, provided a quiet and calming environment where children could prepare for surgery with access to sensory equipment, toys, and other resources designed to reduce anxiety. Staff reported that this initiative had been well received by families and had contributed to a more positive experience for children undergoing surgery. Plans were in place to expand the criteria for the use of this facility so that more patients could benefit.\u003C/p\u003E\u003Cp\u003EHowever, staff expressed concerns about the increasing demand on existing resources. They reported that while the premedication hub was a valuable addition, its expansion was being introduced without an increase in staffing levels. Some staff highlighted that the additional responsibilities were being absorbed into existing roles, which could create workload pressures and potentially impact their ability to provide one-to-one support for all children who required it. Staff acknowledged the benefits of the initiative but stressed the need for sufficient workforce planning to ensure its sustainability.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "The surgical service at Great Ormond Street Hospital (GOSH) demonstrated a commitment to patient safety through a culture of openness, transparency, and continuous learning. Staff across different surgical disciplines understood the importance of raising concerns and reporting safety incidents, with structures in place to ensure that lessons were learned and improvements implemented.\nStaff reported that the service provided 60 hours of training per year, with individual mandatory training monitored by line managers to ensure completion. Within this allocated training time, staff had the opportunity to choose from a range of courses to enhance their skills. The trust also offered scholarships and funding for career progression, supporting long-term staff development.\nA Freedom to Speak Up (FTSU) culture was embedded within the service, with posters displayed across the site, ensuring staff knew how to report safety issues. Staff consistently stated that they felt valued and supported by their line managers and senior leaders and were confident that concerns raised would be listened to and addressed appropriately.\nThe service maintained a regular programme of mortality and morbidity (MM)meetings across all surgical specialities, reflecting an established culture of learning and clinical governance. Each department held speciality-specific meetings with bespoke structures and documentation tailored to the needs of their patients. Across the period reviewed, MM documentation was thorough and clearly structured, detailing morbidity cases, contributing factors, and outcomes, with standardised classification used to assess the severity of complications. Themes emerging from the reviews included post-operative complications such as bleeding, infections, respiratory deterioration, and recurrence following complex repairs, all of which were managed appropriately. The orthopaedic service had revised its MM process in line with Royal College of Surgeons\u2019 guidance, with a formal structure for documentation and learning, and there were ongoing efforts to share this standardised approach across other departments to support consistency and quality improvement.\nThere was evidence of effective learning from incidents. One example involved an unauthorised caller attempting to access patient information within the pre-operative assessment unit. Staff identified the risk, managed the situation correctly, documented the event, and shared the learning across the team to reinforce best practices in patient confidentiality and safeguarding.\nAnother example of proactive safety awareness was provided by a nurse, who had a surgical procedure after identifying a rash on a patient, believed to beat reaction to a preoperative medication. The surgical team reviewed the case, agreed with the nurse\u2019s concerns, and postponed the procedure, ensuring patient safety. This demonstrated that staff at all levels, including students, felt empowered to raise concerns and that senior clinical staff responded appropriately to safety alerts.\nThe service had efficient mechanisms for incident reporting and learning from safety events. Staff confirmed that incidents and complaints were investigated appropriately, with findings shared through safety huddles, team meetings, and governance reviews. However, some concerns were noted regarding governance oversight, particularly in relation to the surgical governance framework and accountability structures, as highlighted in the Royal College of Surgeons (RCS) report.\nA key area of risk identified was the safe staffing levels within surgical services. For example, there were concerns regarding the availability of tracheostomy-trained nurses, with incidents where only one trained nurse was present during shifts, limiting safe break coverage. In response to concerns around staffing, the trust implemented a recruitment drive, with new nurses in training and temporary staff cover arranged where required. However, at the time of the assessment, gaps remained in some key areas, particularly within ENT and Urology services.",
+                        "commentaryDate": "2025-07-15"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had systems for the safe storage, administration, and management of medicines, ensuring compliance with relevant legislation and best practice guidelines. Medicines were stored securely, with controlled drugs (CDs) locked away with restricted access. CD checks were undertaken and documented ensuring that medicines remained in date and stock balances were accurate.\u003C/p\u003E\u003Cp\u003EPatients and families were actively involved in medicine-related decisions, supporting informed consent and adherence to treatment plans. One parent told us that they were included in discussions about their child\u2019s medication, describing staff as kind and thorough in explaining treatment plans. The hospital also had a self-administration policy, allowing parents to administer medicines to their child where appropriate. While this was not widely used, we spoke to one parent who was administering multiple medicines, having signed a consent document recorded in the child\u2019s medicine administration records.\u003C/p\u003E\u003Cp\u003EThe hospital had an electronic prescribing and medicines administration system (EPMA), which was embedded and integrated within an enterprise-wide electronic patient record,in place since April 2019. Staff described the system as helpful and supportive in ensuring accurate documentation of medicines given, missed doses, or changes in prescriptions. Communication between healthcare professionals was well documented within the EPMA system, with clinical pharmacy notes providing prescribers with additional information and links to prescribing guidelines. This approach helped ensure medicines were dosed accurately, particularly in paediatric patients requiring weight-based calculations. We reviewed six medicine administration records, all of which included clear documentation of administration routes, times, and reasons for omissions where applicable.\u003C/p\u003E\u003Cp\u003EEmergency medicines, including those required for resuscitation, were managed in line with Resuscitation Council (UK) guidance. Safety checks were recorded daily, ensuring that medicines and equipment remained ready for use in an emergency.\u003C/p\u003E\u003Cp\u003EThe hospital had electronic monitoring systems for medicines storage, including temperature-controlled environments for refrigerated drugs. The pharmacy team received automatic alerts if temperatures exceeded safe limits, allowing prompt intervention. We reviewed an example where a refrigerator failed to maintain temperature, triggering an alert to pharmacy staff. In response, medicines were transferred to another unit, and a replacement refrigerator was ordered, demonstrating a proactive approach to maintaining medicines safety.\u003C/p\u003E\u003Cp\u003EIntravenous (IV) fluids were stored securely, but staff highlighted that the central storage location was not ideal for some theatres, potentially causing delays in access. A secondary storage location had been identified, which was expected to improve accessibility.\u003C/p\u003E\u003Cp\u003EThe pharmacy team was well-integrated into the service, with two dedicated theatre pharmacy technicians who were visible and responsive to staff needs. A new clinical pharmacist had recently joined the team and was set to attend risk action group meetings to provide expertise on medicines safety and incidents. Staff reported feeling confident in accessing pharmacy advice, and clear processes were in place for the supply and replenishment of medicines. Individual wards had also assigned pharmacists who supported teams with safe medicines management.\u003C/p\u003E\u003Cp\u003EThe service had processes to ensure medicines reconciliation on admission, with clinical pharmacists and pharmacy technicians reviewing patient medication records to prevent missed doses or discrepancies. We observed pharmacy staff engaging with parents to verify medicine histories, ensuring that prescribed medicines were accurate and up to date.\u003C/p\u003E\u003Cp\u003EThere was a clear process for reviewing and documenting antibiotic prescriptions, ensuring appropriate use and review dates for ongoing treatment. Pharmacists monitored antibiotics requiring close observation and liaised with the microbiology team to address any concerns.\u003C/p\u003E\u003Cp\u003EA structured approach to learning from medicines incidents was evident. Errors or concerns were discussed during daily morning huddles and at monthly risk meetings, ensuring shared learning and continuous improvement. Staff were able to describe the reporting and investigation process for medicine-related incidents and provided an example where a medicine error had led to a review of practice and implementation of additional safety measures.\u003C/p\u003E\u003Cp\u003EAdditionally, a new discharge process ensured that families were provided with clear medicine information upon leaving the hospital. Since 2024, a discharge letter had been sent to community pharmacies with details of prescribed medicines and pharmacy contact information, ensuring continuity of care and ongoing medicine support.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had processes in place to ensure safe staffing levels and skill mix, although challenges remained due to workforce retention and the high cost of living in London. Leaders and staff demonstrated commitment to maintaining safe care, with flexible staffing models and recruitment initiatives to address shortages.\u003C/p\u003E\u003Cp\u003EStaff within Cardiac and Lung services described a flexible approach to staffing, with personnel moved between three Intensive Care Units (ICUs) to ensure that patients received appropriate care from staff with the relevant skill set. This flexible deployment of staff helped mitigate shortages and ensured patients had access to clinicians with the expertise needed for their condition.\u003C/p\u003E\u003Cp\u003EAcross all areas, staff reported pride in working for the trust and a strong sense of job satisfaction. However, many staff highlighted that the high cost of living and commuting in London affected retention, particularly when their personal circumstances changed.\u003C/p\u003E\u003Cp\u003EThe data provided showed that some surgical areas at the hospital faced challenges with staffing levels, especially in key clinical roles such as nurses and operating theatre staff. For example, Panther Ward had significant staffing gaps, with nearly half of its Band 5 and Band 6 nursing posts vacant in December 2024.Across the wider surgical service, most vacancies were concentrated within these key bands, which are essential to the day-to-day care of children undergoing surgery. While a few areas had stable staffing or were slightly over their planned numbers, the overall picture suggested that vacancies were putting pressure on some parts of the surgical service. The data showed a clear need to keep focusing on recruiting and retaining the right staff to ensure children continue to receive safe, high-quality care.\u003C/p\u003E\u003Cp\u003EManagers were aware of these recruitment and retention challenges and reported active efforts to mitigate staffing shortages. The trust had recruited from overseas and over-recruited in some areas to account for natural turnover. Despite this, staffing gaps remained in key areas, particularly within the Pre-Operative Assessment team, where vacancies had impacted the ability to support families and arrange appointments. However, managers reported that two fresh staff were due to start imminently, which was expected to improve service capacity.\u003C/p\u003E\u003Cp\u003EStaff across the surgical service reported having access to appropriate training and professional development. The trust provided training aligned with staff roles and specialisms, enhancing clinical skills and expertise. Most staff felt they had received adequate support and supervision to carry out their duties safely.\u003C/p\u003E\u003Cp\u003EWithin surgical services at GOSH, compliance with statutory and mandatory training demonstrated a strong organisational focus on staff competence and patient safety. Nursing staff across surgical areas achieved a training compliance rate of 94%, which aligned with the overall trust average and indicated that training was prioritised and well-supported in these teams. Medical and dental staff in surgical services had a slightly lower completion rate of 88%. The trust did not provide sufficiently detailed breakdowns of training compliance by individual division, specialty, or ward, which limited the ability to assess whether standards were being consistently met across all surgical areas.\u003C/p\u003E\u003Cp\u003EDomestic staff had recently been given the opportunity to work directly for the trust, which managers described as beneficial both for staff and for service delivery.\u003C/p\u003E\u003Cp\u003EManagers and staff reported that agency staff were not used, with bank staff fulfilling shortfalls when required. This approach helped maintain continuity of care and ensured that all staff were familiar with trust policies and procedures.\u003C/p\u003E\u003Cp\u003EThe service supported staff through supervision, appraisals, and development opportunities. Professional revalidation processes were in place where required, and staff at all levels had opportunities to learn and advance their careers. Additionally, deficient performance was managed appropriately, ensuring that standards of care remained high.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service maintained a clean, well-designed, and compliant care environment that supported the safe and effective delivery of patient care. The physical environment across theatres, recovery areas, and wards was in most cases suitable for the needs of the patient population, with appropriate infection control measures, equipment storage, and waste management systems in place.\u003C/p\u003E\u003Cp\u003EDuring observations in theatres, the environment was visibly clean and well-maintained. Staff followed infection control protocols, and the flooring, including edging and skirting, was compliant with Health Building Notes (HBN) 00/10, which enabled effective cleaning. Theatres also met HBN 00/09 standards, ensuring that the facilities were designed in accordance with best practice for surgical environments. Controlled drugs were stored correctly, with documentation completed accurately.\u003C/p\u003E\u003Cp\u003EThe service had processes in place for equipment safety and maintenance. All equipment observed had undergone Portable Appliance Testing (PAT) and was in-date at the time of assessment. Resuscitation trolleys were purpose-built and checked daily, including the automatic external defibrillator (AED). However, minor issues were noted in relation to the disposal of sharp items, as some sharp waste was incorrectly placed in bins designated for \u0022controlled drugs only\u0022, which was not in line with local guidance.\u003C/p\u003E\u003Cp\u003EWaste management across the service followed Health Technical Memoranda (HTM07/01) standards, with appropriate segregation and safe disposal of offensive waste. Clinical areas, including recovery bays and theatres, were well stocked with necessary equipment, ensuring staff had immediate access to resources to support patient care. Personal Protective Equipment (PPE) was stored in wall-mounted, easy-access containers, and all basins and taps observed were sensor-controlled to enhance infection prevention. Hand gel stations were present at all patient area entrances, though staff reported occasional instances where dispensers had run empty.\u003C/p\u003E\u003Cp\u003EThe service demonstrated an awareness of psychological safety as well as physical safety, particularly for children with sensory needs or anxiety before surgery. A pre-medication hub had been introduced in theatres, providing a quiet space with sensory equipment such as toys, LED lighting, and noise-cancelling headphones to help children feel more at ease before their procedures. Staff were also seen engaging with children using toys to create a more supportive and reassuring atmosphere within clinical areas.\u003C/p\u003E\u003Cp\u003ELeaders within the estates and infection prevention and control (IPC) teams worked closely together to maintain environmental safety and cleanliness. Regular infrastructure testing and assessments were conducted, including assessments of power outages, fire safety, and water hygiene. At the time of assessment, two sites had tested positive for legionella and had been taken out of use. Staff explained that copper-silver ionisation and point-of-use filters were in place as control measures to prevent bacterial contamination due to the low water temperature of the estate.\u003C/p\u003E\u003Cp\u003EIn most areas, the hospital\u2019s layout was intuitive and allowed staff to work efficiently and safely. Fire escape routes were clearly marked, and there was sufficient space for staff to care for patients without obstruction. However, in areas where units had been relocated, staff reported that the layout was not always ideal. For example, the Pre-Operative Assessment Unit reception desk was not positioned near the entrance, which had led to confusion among new patients and their families when arriving for assessments.\u003C/p\u003E\u003Cp\u003EA day unit for post-operative and post-anaesthetic recovery, was well designed, allowing for clear visibility and staff oversight. A central coordinator was positioned with a full view of recovery patients, and each child was allocated one nurse and one assistant following surgery. Staff positioned themselves strategically to ensure a panoramic view of cubicles and corridors, ensuring continuous monitoring of patients during recovery. Parents and carers were permitted to stay with children, which provided additional emotional support post-surgery.\u003C/p\u003E\u003Cp\u003EWhile most facilities were designed effectively, some areas required modernisation. For example, an outpatient area within the Sight and Sound building was noted to be crowded and in need of refurbishment, which staff felt did not provide an optimal waiting environment for children and families.The trust told us that this space was rented and, as such, it has limited control over the layout of the area.\u003C/p\u003E\u003Cp\u003EDuring the assessment, concerns were raised about the maintenance of operating theatres and equipment safety. A recent power outage during a spinal surgery procedure required staff to use mobile phone torches to complete wound closure. This incident, alongside reports of water leaks affecting electrical systems and theatre closures due to filtration failures, indicated ongoing issues with estates and facilities management. The trust had taken corrective actions, including replacing relay switches, conducting electrical testing, and implementing daily ventilation reports to improve communication regarding facilities issues. However, recurrent theatre maintenance failures had resulted in delayed or cancelled surgical procedures, impacting patient safety and access to timely care.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-14"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had a proactive approach to ensuring patient safety and continuity of care throughout the patient journey, including referrals, admissions, intraoperative care, and discharge.\u003C/p\u003E\u003Cp\u003EThe service worked collaboratively with patients, staff, and healthcare partners to maintain safe systems of care. Staff consistently reported strong relationships with colleagues across different departments and external healthcare providers, supporting effective communication and multidisciplinary working.\u003C/p\u003E\u003Cp\u003EA structured escalation process was in place, which helped mitigate potential delays and ensured that risks were proactively managed. Staff stated that patient flow was rarely affected by bed shortages, and there were systems to manage capacity efficiently.\u003C/p\u003E\u003Cp\u003EObservations of three patients\u0027 journeys from pre-operative assessment through to surgery and recovery demonstrated that safety protocols were consistently followed. The World Health Organisation (WHO) safety checklist was used before and after surgery to reduce risks and ensure procedural safety.\u003C/p\u003E\u003Cp\u003EDuring patient transfers from theatres to the recovery ward, staff followed handover procedures in line with the Association of Anaesthetists of Great Britain and Ireland (AAGBI) recommendations. This ensured that critical information was accurately communicated between teams, supporting post-operative care and early identification of potential complications.\u003C/p\u003E\u003Cp\u003EPatients and families were actively involved in discussions about surgical risks and anaesthesia-related concerns. We observed a pre-operative assessment where a parent was fully informed about the risks associated with general anaesthesia, ensuring informed decision-making.\u003C/p\u003E\u003Cp\u003EA robust electronic system was in use, providing links to other healthcare services and improving information sharing. Staff reported that this system was beginning to integrate with GP records, further enhancing continuity of care post-discharge.\u003C/p\u003E\u003Cp\u003ECardiac and Lung surgical teams held outreach clinics in person and online, ensuring that patients in non-London areas received ongoing specialist care. In some cases, when patients were too unwell to travel, procedures were performed locally, demonstrating flexibility and patient-centred care. Staff reported that these partnerships with local teams worked well, with ongoing clinical advice and support provided remotely.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe surgical service worked closely with patients, families, and healthcare partners to ensure children and young people were protected from harm, neglect, abuse, and discrimination.\u003C/p\u003E\u003Cp\u003EStaff had a clear understanding of safeguarding responsibilities and were able to describe how they would take appropriate action when concerns were raised. They were supported by accessible safeguarding policies, which were available to all staff via the intranet.\u003C/p\u003E\u003Cp\u003EAll staff spoken with during the assessment were able to explain what safeguarding was and how they would report concerns. Safeguarding concerns were documented appropriately in patient records, with a flag placed on the electronic system to highlight individual safeguarding risks. A review of 10 sets of patient notes confirmed that safeguarding issues were clearly recorded.\u003C/p\u003E\u003Cp\u003EStaff were observed discussing safeguarding concerns during handovers, demonstrating a proactive and embedded approach to safeguarding within the service.\u003C/p\u003E\u003Cp\u003EStaff reported receiving recent safeguarding training, with all those interviewed stating they had completed training within the last two weeks. Additionally, staff knew how to access the safeguarding team for advice and support, and leaders described how safeguarding staff worked within the department to review pathways for children with mental health concerns or those at risk of harm.\u003C/p\u003E\u003Cp\u003EThe service had a dedicated safeguarding reporting system, and staff were aware of their responsibilities and how to raise concerns. Staff reported that referrals were typically made via a phone call to the safeguarding team, however, they were less familiar with the use of the electronic patient record system for submitting in-patient consults or out-patient referrals. Although the trust stated that this method was covered in induction and statutory training and displayed in clinical areas, some staff indicated that they were not fully confident with the electronic process. This suggested there may have been inconsistencies in awareness or application of available safeguarding referral options.\u003C/p\u003E\u003Cp\u003EStaff highlighted examples of families experiencing stress that they had flagged this as a safeguarding concern. This reflected an awareness of the wider factors affecting child safety and wellbeing, and a commitment to identifying risks beyond direct clinical concerns.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThe service was well-led, with leaders demonstrating a clear vision and commitment to high-quality, patient-centred care. Staff were engaged, motivated, and aligned with the organisation\u2019s strategic goals, ensuring a positive and supportive working culture. Leaders fostered openness, transparency, and continuous learning, encouraging staff at all levels to contribute to service improvements.\u003C/p\u003E\u003Cp\u003ELeaders were visible and approachable, with staff expressing confidence in their leadership. A Freedom to Speak Up (FTSU) Guardian was in place, and staff felt empowered to raise concerns without fear of reprisal. However, some staff reported limited opportunities for career progression, with managerial roles often occupied long-term, reducing upward mobility.\u003C/p\u003E\u003Cp\u003EThe service engaged with external stakeholders and healthcare partners, ensuring that care was integrated and aligned with national standards. The hospital\u2019s specialist nature required strong collaboration with other providers, supporting continuity of care before, during, and after treatment.\u003C/p\u003E\u003Cp\u003EStaff had access to career development funding, and learning from incidents and best practices was embedded into daily operations. However, some departments, particularly in orthopaedics, lacked structured benchmarking of clinical outcomes, reducing opportunities for peer review and service improvement.\u003C/p\u003E",
+                "commentaryDate": "2025-06-11",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ELocal leaders were experienced, knowledgeable, and committed to delivering the organisation\u2019s vision, ensuring that patient safety, quality of care, and staff well-being remained a priority. Staff told us they knew who their leaders were and that they were visible and approachable, which contributed to a culture of open communication and trust.\u003C/p\u003E\u003Cp\u003ELeaders at all levels were expected to model inclusive behaviours and uphold professional integrity, fostering a positive and collaborative working environment. Staff reported that they felt supported in their roles and that leadership was responsive to concerns and dedicated to continuous improvement. \u003C/p\u003E\u003Cp\u003EThe Trust had safe and effective recruitment processes in place, aiming to ensure strong leadership continuity through succession planning and professional development. Leaders were expected to be proactive in identifying and addressing cultural issues that could affect staff morale and patient care. \u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service fostered a culture of openness, ensuring that staff felt empowered to speak up without fear of reprisal. There was a structured system to support staff in raising concerns, including the appointment of a Freedom to Speak Up (FTSU) Guardian, who acted as a confidential and independent point of contact for employees wishing to report issues.\u003C/p\u003E\u003Cp\u003EWe found that all staff spoken with were aware of the FTSU Guardian and knew how to access support if needed. The service also promoted active staff engagement in the Freedom to Speak Up initiative, with staff observed moving between wards to promote awareness of the programme and recruit new Freedom to Speak Up Ambassadors. These champions were expected to assist the FTSU Guardian in advocating for staff concerns and fostering a culture of transparency across different teams.\u003C/p\u003E\u003Cp\u003EMost staff reported feeling comfortable raising issues with their managers and expressed confidence that their concerns would be taken seriously. The hospital\u2019s approach aimed to ensure that when concerns were raised, they were investigated sensitively and confidentially, with lessons learned shared appropriately.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe surgical specialties experienced risks related to delayed access to care, primarily due to staffing shortages, limited bed and theatre capacity, and growing waiting lists. Prolonged waits for procedures such as spinal, orthopaedic, and urological surgeries posed a risk of deteriorating patient conditions, and psychological distress. While the trust confirmed that long-waiting patients were subject to a clinical harm review process, monitored through governance reports and board oversight, these pressures remained a concern at the time of the assessment. The risk register noted that limited availability of specialist-trained staff and inadequate infrastructure, such as pre-assessment services and anaesthetic facilities, could compromise both perioperative safety and patient flow. Although mitigation strategies, including recruitment efforts and business cases for additional capacity, were initiated, many risks remained unchanged over multiple reviews. The cumulative impact of these pressures was evident in the increased length of stay, some cancellations, and patient complaints, highlighting issues in managing surgical demand.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-15"
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service was committed to continuous learning and professional development, ensuring that staff had opportunities to enhance their skills and contribute to service improvement. \u003C/p\u003E\u003Cp\u003EStaff reported that they had 60 hours of protected study time per year, which allowed them to pursue relevant training and development opportunities. Where appropriate, financial support was available to help staff progress in their careers, reflecting a culture of investment in workforce skills and expertise.\u003C/p\u003E\u003Cp\u003ELeaders encouraged a proactive approach to learning, ensuring that processes were in place to reflect on both incidents and examples of good practice. There was a culture of open discussion, collective problem-solving, and continuous reflection, which supported ongoing improvements in patient care. Staff described a positive environment where learning from mistakes was valued as an opportunity to improve rather than a reason for blame.\u003C/p\u003E\u003Cp\u003EThe service engaged in external partnerships, research initiatives, and evidence-based practice, ensuring that new developments in paediatric surgery were integrated into clinical care. Staff had opportunities to collaborate with external organisations, furthering innovation and improvement efforts. However, we found limited evidence of structured outcome monitoring in some specialties, such as orthopaedics, where surgeons did not routinely benchmark or compare their outcomes within the department or with other hospitals.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "6",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff recognised the importance of collaboration and partnership working to ensure seamless, high-quality care for patients. The service engaged with external stakeholders, specialist healthcare providers, and community organisations to enhance care provision, develop services, and support the needs of children and families both within and beyond the hospital setting.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a commitment to sharing information and learning with partners, working collaboratively to improve service delivery and patient outcomes. The hospital\u2019s specialist nature required close cooperation with referring hospitals, tertiary care centres, and international healthcare providers, ensuring that patients received continuity of care before, during, and after treatment at GOSH.\u003C/p\u003E\u003Cp\u003EIn some specialties, the hospital facilitated outreach clinics and virtual consultations, ensuring that children who could not easily travel to London still had access to specialist expertise. This model supported closer working relationships with local hospitals and primary care services, enabling a joined-up approach to patient care.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003ELeaders had established a clear and shared vision for the surgical service, ensuring that staff at all levels understood and supported the strategic goals of the trust. Staff we spoke with were able to articulate the organisation\u2019s vision and values, demonstrating an awareness of their role in delivering safe, high-quality, and compassionate care.\u003C/p\u003E\u003Cp\u003EThe clinical strategy placed a strong emphasis on advancing surgical care, identifying \u0022Advancing the Frontiers of Surgery\u0022 as one of four key strategic themes. Surgery was perceived as a core strength of the trust, supported by a history of pioneering techniques and multidisciplinary expertise. The strategy highlighted the growing importance of earlier intervention, particularly through foetal surgery and innovations like in utero stem cell or gene therapies. The trust aimed to remain a global leader in paediatric surgical care, leveraging its unique capabilities and co-located specialities. These plans were aligned with the Trust\u2019s broader mission to serve children with complex and rare conditions through \u2018world-leading\u2019, innovative treatment.\u003C/p\u003E\u003Cp\u003EThe hospital fostered a culture of openness, compassion, and continuous learning, encouraging staff to raise concerns, share ideas, and contribute to service improvement. We observed genuine engagement between staff, patients, and carers, with clear communication and a commitment to patient-centred care. Staff demonstrated a well-developed understanding of equality, diversity, and human rights, ensuring that these principles were actively upheld in daily practice. Leaders also worked to identify and address workforce inequalities, supporting an inclusive environment for both staff and patients.\u003C/p\u003E\u003Cp\u003EPatient safety and clinical effectiveness remained central to decision-making. Staff recognised the risks involved in implementing the hospital\u2019s strategy, and action plans were in place to mitigate these risks. Staff explained that high risks were prioritised, and resources were allocated accordingly to ensure that those were minimised. Leaders maintained a focus on governance, monitoring progress against the strategy, and reviewing local and national developments that could impact the service.\u003C/p\u003E\u003Cp\u003EWe spoke with both frontline and indirect support teams, who described strong collaboration across departments. Staff reported feeling valued and empowered, with access to training and development opportunities to support their ongoing professional growth.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThere was evidence of a respectful and inclusive culture, underpinned by visible and approachable leadership. Staff described a positive working environment where they felt valued and able to raise concerns without fear of reprisal. Equality, diversity, and inclusion were embedded in the trust\u2019s values, and leaders demonstrated a commitment to improving fairness and equity in the workforce. Staff had access to wellbeing support, training, and funded career development opportunities.\u003C/p\u003E\u003Cp\u003EThe staff in the directorate were aware of the diversity of populations and the challenges faced by its communities. Staff had access to multi-lingual sources such as translation services to support patient care.\u003C/p\u003E\u003Cp\u003EThere was a proactive approach to understanding the needs and preferences of different groups of people and to delivering care in a way that meets these needs, which was accessible and promotes equality. The Workforce Race Equality Standard is a set of measures which enable NHS organisations to compare the workplace and career experiences of staff from ethnic minority groups with their white colleagues. The results for the trust show that a higher proportion of staff from the \u2018global majority\u2019 had experienced harassment, bullying or abuse,\u003C/p\u003E\u003Cp\u003EAlthough the culture across surgical teams was broadly inclusive, further action was needed to ensure equity of opportunity, representation in leadership, and active engagement with underrepresented groups within the surgical workforce.\u003C/p\u003E",
+                        "commentaryDate": "2025-06-11"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

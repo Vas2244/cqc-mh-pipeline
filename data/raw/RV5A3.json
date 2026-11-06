@@ -1,0 +1,93 @@
+{
+  "locationId": "RV5A3",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Ann Moss Specialist Care Unit",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "odsCode": "VM651",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-05-29",
+  "deregistrationDate": "2018-11-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.4968048,
+  "onspdLongitude": -0.0557952,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1 Ann Moss Way",
+  "postalAddressLine2": "Rotherhithe",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE16 2TL",
+  "uprn": "200003404865",
+  "mainPhoneNumber": "02032288650",
+  "website": "www.slam.nhs.uk/about-us/clinical-academic-groups/older-adults-and-dementia",
+  "numberOfBeds": 16,
+  "constituency": "Bermondsey and Old Southwark",
+  "localAuthority": "Southwark",
+  "lastInspection": {
+    "date": "2017-03-14"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "S1",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-3148149307",
+          "reportLinkId": "485f1645-0d1f-4c6d-bc89-ddbeebaf970b",
+          "providerId": "RV5",
+          "locationId": "RV5A3"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "1da8b008-fb3b-405d-8650-467365622598",
+          "providerId": "RV5",
+          "locationId": "RV5A3"
+        }
+      ]
+    }
+  ]
+}

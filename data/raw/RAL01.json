@@ -1,0 +1,864 @@
+{
+  "locationId": "RAL01",
+  "providerId": "RAL",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The Royal Free Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.5532265,
+  "onspdLongitude": -0.1652982,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Pond Street",
+  "postalAddressLine2": "Pond Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW3 2QG",
+  "uprn": "5087826",
+  "mainPhoneNumber": "02037582000",
+  "website": "www.royalfree.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Hampstead and Highgate",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2023-01-10"
+  },
+  "lastReport": {
+    "publicationDate": "2023-05-19"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Maternity and midwifery services",
+      "code": "RA11",
+      "contacts": []
+    },
+    {
+      "name": "Termination of pregnancies",
+      "code": "RA12",
+      "contacts": []
+    },
+    {
+      "name": "Family planning",
+      "code": "RA15",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    },
+    {
+      "name": "Management of supply of blood and blood derived products",
+      "code": "RA9",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospital",
+      "description": "Acute services with overnight beds"
+    },
+    {
+      "name": "Hospice",
+      "description": "Hospice services"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Prison healthcare",
+      "description": "Prison Healthcare Services"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H1",
+      "primary": "true",
+      "name": "Acute hospital - NHS non-specialist"
+    },
+    {
+      "code": "H12",
+      "name": "Hospice services"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P4",
+      "name": "Prison Healthcare"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "care",
+      "inspectionAreaName": "Medical care (including older people\u0027s care)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "childrens",
+      "inspectionAreaName": "Services for children \u0026 young people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "critical",
+      "inspectionAreaName": "Critical care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "life",
+      "inspectionAreaName": "End of life care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "maternity",
+      "inspectionAreaName": "Maternity and gynaecology",
+      "status": "Superseded",
+      "supersededBy": [
+        "npimaternity"
+      ],
+      "latestGloballySupersededBy": [
+        "npimaternity"
+      ],
+      "endDate": "2019-05-10"
+    },
+    {
+      "inspectionAreaId": "npimaternity",
+      "inspectionAreaName": "Maternity",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "outpatients",
+      "inspectionAreaName": "Outpatients and diagnostic imaging",
+      "status": "Active (Rated)",
+      "latestGloballySupersededBy": [
+        "npioutpatients"
+      ]
+    },
+    {
+      "inspectionAreaId": "surgery",
+      "inspectionAreaName": "Surgery",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "urgent",
+      "inspectionAreaName": "Urgent and emergency services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2209432750",
+          "reportLinkId": "d7061da6-e05f-4c00-81e5-fe030ba242ee",
+          "providerId": "RAL",
+          "locationId": "RAL01"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2021-01-06",
+      "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2021-01-06",
+          "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2021-01-06",
+          "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2021-01-06",
+          "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Requires improvement",
+          "reportDate": "2021-01-06",
+          "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2021-01-06",
+          "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45"
+        }
+      ]
+    },
+    "reportDate": "2021-08-27",
+    "serviceRatings": [
+      {
+        "name": "care",
+        "rating": "Requires improvement",
+        "reportDate": "2019-05-10",
+        "reportLinkId": "ddf47f38-3add-4434-9388-51210fa37777",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      },
+      {
+        "name": "childrens",
+        "rating": "Good",
+        "reportDate": "2016-08-15",
+        "reportLinkId": "a0252013-940c-4256-8d86-d045bf8d1ab3",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "critical",
+        "rating": "Good",
+        "reportDate": "2019-05-10",
+        "reportLinkId": "ddf47f38-3add-4434-9388-51210fa37777",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      },
+      {
+        "name": "life",
+        "rating": "Good",
+        "reportDate": "2016-08-15",
+        "reportLinkId": "a0252013-940c-4256-8d86-d045bf8d1ab3",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "npimaternity",
+        "rating": "Requires improvement",
+        "reportDate": "2021-08-27",
+        "reportLinkId": "b319cf81-cac7-4d19-86c3-552b460028de",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      },
+      {
+        "name": "outpatients",
+        "rating": "Good",
+        "reportDate": "2016-08-15",
+        "reportLinkId": "a0252013-940c-4256-8d86-d045bf8d1ab3",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "surgery",
+        "rating": "Requires improvement",
+        "reportDate": "2019-05-10",
+        "reportLinkId": "ddf47f38-3add-4434-9388-51210fa37777",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "urgent",
+        "rating": "Requires improvement",
+        "reportDate": "2019-05-10",
+        "reportLinkId": "ddf47f38-3add-4434-9388-51210fa37777",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2023-05-19",
+      "reportLinkId": "665a4516-7717-4e65-b081-033c9448511e",
+      "serviceRatings": [
+        {
+          "name": "surgery",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Safe",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inspected but not rated"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2021-08-27",
+      "reportLinkId": "b319cf81-cac7-4d19-86c3-552b460028de",
+      "overall": {
+        "rating": "Inspected but not rated"
+      }
+    },
+    {
+      "reportDate": "2021-01-06",
+      "reportLinkId": "7f349617-c308-44cf-a28b-0420bbbf5c45",
+      "serviceRatings": [
+        {
+          "name": "npimaternity",
+          "rating": "Inadequate",
+          "keyQuestionRatings": [
+            {
+              "name": "Safe",
+              "rating": "Inadequate"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inadequate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reportDate": "2019-05-10",
+      "reportLinkId": "ddf47f38-3add-4434-9388-51210fa37777",
+      "serviceRatings": [
+        {
+          "name": "npimaternity",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-09-20",
+      "reportLinkId": "8d3f0e9a-6a8f-436f-b580-9c6f0f5f8977",
+      "serviceRatings": [
+        {
+          "name": "critical",
+          "rating": "Insufficient evidence to rate",
+          "keyQuestionRatings": [
+            {
+              "name": "Effective",
+              "rating": "Insufficient evidence to rate"
+            },
+            {
+              "name": "Safe",
+              "rating": "Insufficient evidence to rate"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Insufficient evidence to rate"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated"
+      }
+    },
+    {
+      "reportDate": "2016-08-15",
+      "reportLinkId": "a0252013-940c-4256-8d86-d045bf8d1ab3",
+      "serviceRatings": [
+        {
+          "name": "care",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        },
+        {
+          "name": "critical",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        },
+        {
+          "name": "maternity",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        },
+        {
+          "name": "surgery",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        },
+        {
+          "name": "urgent",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2022-09-27"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "665a4516-7717-4e65-b081-033c9448511e",
+      "reportDate": "2023-05-19",
+      "reportUri": "/reports/665a4516-7717-4e65-b081-033c9448511e?20230524130239",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b319cf81-cac7-4d19-86c3-552b460028de",
+      "reportDate": "2021-08-27",
+      "reportUri": "/reports/b319cf81-cac7-4d19-86c3-552b460028de?20221128140550",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "7f349617-c308-44cf-a28b-0420bbbf5c45",
+      "reportDate": "2021-01-06",
+      "firstVisitDate": "2020-10-27",
+      "reportUri": "/reports/7f349617-c308-44cf-a28b-0420bbbf5c45?20221129062700",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "ddf47f38-3add-4434-9388-51210fa37777",
+      "reportDate": "2019-05-10",
+      "reportUri": "/reports/ddf47f38-3add-4434-9388-51210fa37777?20210115065750",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "8d3f0e9a-6a8f-436f-b580-9c6f0f5f8977",
+      "reportDate": "2017-09-20",
+      "firstVisitDate": "2017-07-18",
+      "reportUri": "/reports/8d3f0e9a-6a8f-436f-b580-9c6f0f5f8977?20210122182034",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a0252013-940c-4256-8d86-d045bf8d1ab3",
+      "reportDate": "2016-08-15",
+      "reportUri": "/reports/a0252013-940c-4256-8d86-d045bf8d1ab3?20210123010134",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "1b2e3534-ddb7-4478-9237-c34f25ab6466",
+      "reportDate": "2014-03-27",
+      "firstVisitDate": "2014-02-26",
+      "reportUri": "/reports/1b2e3534-ddb7-4478-9237-c34f25ab6466?20200129163919"
+    },
+    {
+      "linkId": "54a38aed-f663-44c8-8a4c-3c5d7640f822",
+      "reportDate": "2013-11-08",
+      "firstVisitDate": "2013-10-29",
+      "reportUri": "/reports/54a38aed-f663-44c8-8a4c-3c5d7640f822?20151016191357"
+    },
+    {
+      "linkId": "c5e13d8d-150a-40ad-a0ab-0d1e4d788dd4",
+      "reportDate": "2012-12-05",
+      "firstVisitDate": "2012-10-16",
+      "reportUri": "/reports/c5e13d8d-150a-40ad-a0ab-0d1e4d788dd4?20200430120000"
+    },
+    {
+      "linkId": "ebfc55b3-ebd2-453b-a4e1-8fc19fd156e8",
+      "reportDate": "2012-06-01",
+      "firstVisitDate": "2012-03-23",
+      "reportUri": "/reports/ebfc55b3-ebd2-453b-a4e1-8fc19fd156e8?20200430120000"
+    },
+    {
+      "linkId": "9cc1b6a1-3df6-4756-b925-f1ed564f3b02",
+      "reportDate": "2011-08-02",
+      "firstVisitDate": "2011-07-15",
+      "reportUri": "/reports/9cc1b6a1-3df6-4756-b925-f1ed564f3b02?20200430120000"
+    },
+    {
+      "linkId": "f5f15087-ec5b-4216-8d00-b372bac41f25",
+      "reportDate": "2011-07-22",
+      "firstVisitDate": "2011-06-30",
+      "reportUri": "/reports/f5f15087-ec5b-4216-8d00-b372bac41f25?20200430120000"
+    },
+    {
+      "linkId": "b9c9c37b-f12a-4dba-bb6d-c71b43772be8",
+      "reportDate": "2011-05-13",
+      "firstVisitDate": "2011-03-15",
+      "reportUri": "/reports/b9c9c37b-f12a-4dba-bb6d-c71b43772be8?20200430120000"
+    }
+  ]
+}

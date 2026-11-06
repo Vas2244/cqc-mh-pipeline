@@ -1,0 +1,80 @@
+{
+  "locationId": "1-15929126193",
+  "providerId": "1-14815224506",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Young Crisis Hub",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "odsCode": "VNQR6",
+  "registrationStatus": "Registered",
+  "registrationDate": "2023-07-18",
+  "dormancy": "N",
+  "dormancyEndDate": "2024-07-23",
+  "onspdLatitude": 51.5426893,
+  "onspdLongitude": -0.0253274,
+  "careHome": "N",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "2 Hepscott Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E9 5HB",
+  "uprn": "6722225",
+  "mainPhoneNumber": "02045796380",
+  "registeredManagerAbsentDate": "2026-03-05",
+  "numberOfBeds": 0,
+  "constituency": "Stratford and Bow",
+  "localAuthority": "Tower Hamlets",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Personal care",
+      "code": "RA1",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

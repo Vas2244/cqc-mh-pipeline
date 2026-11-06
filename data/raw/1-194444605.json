@@ -1,0 +1,56 @@
+{
+  "locationId": "1-194444605",
+  "providerId": "1-149412601",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "KCA Barking and Dagenham",
+  "alsoKnownAs": "Selden Centre",
+  "brandId": "BD273",
+  "brandName": "BRAND KCA (UK)",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-06-10",
+  "deregistrationDate": "2012-09-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.535235,
+  "onspdLongitude": 0.091249,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "300 Ripple Road",
+  "postalAddressTownCity": "Barking",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG11 7RP",
+  "mainPhoneNumber": "02085916800",
+  "website": "www.kca.org.uk",
+  "constituency": "Barking",
+  "localAuthority": "Barking and Dagenham",
+  "relationships": [
+    {
+      "relatedLocationId": "1-456457311",
+      "relatedLocationName": "KCA (UK) - Barking and Dagenham",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

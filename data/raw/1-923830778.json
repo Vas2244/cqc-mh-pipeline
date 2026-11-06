@@ -1,0 +1,202 @@
+{
+  "locationId": "1-923830778",
+  "providerId": "1-468267562",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Brevin Home Care",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-09-24",
+  "deregistrationDate": "2016-08-16",
+  "dormancy": "N",
+  "onspdLatitude": 51.494757,
+  "onspdLongitude": -0.148858,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "25a Eccleston Street",
+  "postalAddressLine2": "Belgravia",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW1W 9NP",
+  "mainPhoneNumber": "02077303782",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2016-03-03"
+  },
+  "lastReport": {
+    "publicationDate": "2017-01-12"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2827562124",
+      "relatedLocationName": "Brevin Home Care",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-490710407",
+      "relatedLocationName": "Brevin Home Care Limited",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P3",
+      "name": "Out of hours"
+    },
+    {
+      "code": "S2",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-09-02",
+      "reportLinkId": "fda3626a-15ea-45bf-8049-7d8aa88b369b",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-12",
+          "reportLinkId": "6a150421-f3a1-4db4-95f9-ad36f188823a"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-12",
+          "reportLinkId": "6a150421-f3a1-4db4-95f9-ad36f188823a"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-12",
+          "reportLinkId": "6a150421-f3a1-4db4-95f9-ad36f188823a"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-12",
+          "reportLinkId": "6a150421-f3a1-4db4-95f9-ad36f188823a"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-12",
+          "reportLinkId": "6a150421-f3a1-4db4-95f9-ad36f188823a"
+        }
+      ]
+    },
+    "reportDate": "2017-01-12",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Inspected but not rated",
+        "reportDate": "2016-09-02",
+        "reportLinkId": "fda3626a-15ea-45bf-8049-7d8aa88b369b"
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2016-09-02",
+      "reportLinkId": "fda3626a-15ea-45bf-8049-7d8aa88b369b",
+      "overall": {
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "6a150421-f3a1-4db4-95f9-ad36f188823a",
+      "reportDate": "2017-01-12",
+      "firstVisitDate": "2015-05-12",
+      "reportUri": "/reports/6a150421-f3a1-4db4-95f9-ad36f188823a?20210113043615",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "fda3626a-15ea-45bf-8049-7d8aa88b369b",
+      "reportDate": "2016-09-02",
+      "firstVisitDate": "2016-03-03",
+      "reportUri": "/reports/fda3626a-15ea-45bf-8049-7d8aa88b369b?20210120222318",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "locationId": "1-115481729",
+  "providerId": "1-101727701",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "AdAstra",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-12-08",
+  "deregistrationDate": "2017-05-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.542385,
+  "onspdLongitude": -0.117797,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "337 Caledonian Road",
+  "postalAddressLine2": "Islington",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N1 1DW",
+  "mainPhoneNumber": "02076093172",
+  "website": "www.adastratreatmentcentre.com",
+  "numberOfBeds": 0,
+  "constituency": "Islington South and Finsbury",
+  "localAuthority": "Islington",
+  "lastInspection": {
+    "date": "2017-02-03"
+  },
+  "lastReport": {
+    "publicationDate": "2017-04-18"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-04-18",
+      "reportLinkId": "35eb134d-8c88-416a-832d-9c41e957c622",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "35eb134d-8c88-416a-832d-9c41e957c622"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "35eb134d-8c88-416a-832d-9c41e957c622"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "35eb134d-8c88-416a-832d-9c41e957c622"
+        }
+      ]
+    },
+    "reportDate": "2017-04-18"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2016-08-17",
+      "reportLinkId": "a2b65f7b-1ad4-4f5f-bd9e-e4f89f55ad90",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "35eb134d-8c88-416a-832d-9c41e957c622",
+      "reportDate": "2017-04-18",
+      "firstVisitDate": "2017-02-01",
+      "reportUri": "/reports/35eb134d-8c88-416a-832d-9c41e957c622?20210210003509",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a2b65f7b-1ad4-4f5f-bd9e-e4f89f55ad90",
+      "reportDate": "2016-08-17",
+      "firstVisitDate": "2016-03-08",
+      "reportUri": "/reports/a2b65f7b-1ad4-4f5f-bd9e-e4f89f55ad90?20160818094005",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "4f32f621-a8c3-410f-a9d9-7f9b4b402afa",
+      "reportDate": "2013-08-14",
+      "firstVisitDate": "2013-07-09",
+      "reportUri": "/reports/4f32f621-a8c3-410f-a9d9-7f9b4b402afa?20200129163919"
+    },
+    {
+      "linkId": "1a11637e-4fc2-43d3-9ff4-435de75093c0",
+      "reportDate": "2012-07-16",
+      "firstVisitDate": "2012-06-20",
+      "reportUri": "/reports/1a11637e-4fc2-43d3-9ff4-435de75093c0?20200430120000"
+    },
+    {
+      "linkId": "796ba09e-d733-4749-b0a5-5a798dbb9b18",
+      "reportDate": "2011-12-13",
+      "firstVisitDate": "2011-10-25",
+      "reportUri": "/reports/796ba09e-d733-4749-b0a5-5a798dbb9b18?20200430120000"
+    },
+    {
+      "linkId": "a3b3e5ca-3fca-4d3b-a67e-e695e96248ab",
+      "reportDate": "2011-07-26",
+      "firstVisitDate": "2011-05-31",
+      "reportUri": "/reports/a3b3e5ca-3fca-4d3b-a67e-e695e96248ab?20200430120000"
+    }
+  ]
+}

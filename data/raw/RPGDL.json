@@ -1,0 +1,75 @@
+{
+  "locationId": "RPGDL",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Bexleyheath Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-15",
+  "deregistrationDate": "2017-07-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.457638,
+  "onspdLongitude": 0.13208,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "4 Emerton Close",
+  "postalAddressTownCity": "Bexleyheath",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "DA6 8DX",
+  "mainPhoneNumber": "02083019455",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Bexleyheath and Crayford",
+  "localAuthority": "Bexley",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "2691c51a-5b08-4c78-b112-6e82d7e58d48",
+          "providerId": "RPG",
+          "locationId": "RPGDL"
+        }
+      ]
+    }
+  ]
+}

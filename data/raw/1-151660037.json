@@ -1,0 +1,250 @@
+{
+  "locationId": "1-151660037",
+  "providerId": "1-101725113",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Harcourt House",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-26",
+  "deregistrationDate": "2016-04-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.4393412,
+  "onspdLongitude": -0.0203938,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "82 Canadian Avenue",
+  "postalAddressLine2": "Catford",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE6 3BP",
+  "uprn": "100021941863",
+  "mainPhoneNumber": "02086955656",
+  "website": "www.carepluspartnership.com",
+  "numberOfBeds": 9,
+  "constituency": "Lewisham East",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2016-02-05"
+  },
+  "lastReport": {
+    "publicationDate": "2016-06-01"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Physical disabilities"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhbraininjury",
+      "inspectionAreaName": "Services for people with acquired brain injury",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inadequate",
+      "reportDate": "2016-06-01",
+      "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2016-06-01",
+          "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inadequate",
+          "reportDate": "2016-06-01",
+          "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inadequate",
+          "reportDate": "2016-06-01",
+          "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inadequate",
+          "reportDate": "2016-06-01",
+          "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inadequate",
+          "reportDate": "2016-06-01",
+          "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa"
+        }
+      ]
+    },
+    "reportDate": "2016-06-01",
+    "serviceRatings": [
+      {
+        "name": "mhbraininjury",
+        "rating": "Inadequate",
+        "reportDate": "2016-06-01",
+        "reportLinkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2015-07-23",
+      "reportLinkId": "fc9ee515-f59a-440a-aaef-f4507c0fd5bf",
+      "serviceRatings": [
+        {
+          "name": "mhbraininjury",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Effective",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Safe",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inspected but not rated"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa",
+      "reportDate": "2016-06-01",
+      "firstVisitDate": "2016-02-03",
+      "reportUri": "/reports/c4b7a0b4-5dbd-44f5-9b07-66e35b23dcfa?20210123121619",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "fc9ee515-f59a-440a-aaef-f4507c0fd5bf",
+      "reportDate": "2015-07-23",
+      "firstVisitDate": "2015-07-23",
+      "reportUri": "/reports/fc9ee515-f59a-440a-aaef-f4507c0fd5bf?20210120035941",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "98457e6e-a8c9-4beb-895b-f6ae55ee36d2",
+      "reportDate": "2015-05-16",
+      "firstVisitDate": "2015-03-31",
+      "reportUri": "/reports/98457e6e-a8c9-4beb-895b-f6ae55ee36d2?20200129163919"
+    },
+    {
+      "linkId": "49c1221f-1572-40e7-abdd-21159664fede",
+      "reportDate": "2014-03-06",
+      "firstVisitDate": "2014-01-03",
+      "reportUri": "/reports/49c1221f-1572-40e7-abdd-21159664fede?20200129163919"
+    },
+    {
+      "linkId": "bf4fcf4f-02d4-42cf-b690-40a8c2bb1bde",
+      "reportDate": "2013-01-12",
+      "firstVisitDate": "2012-12-12",
+      "reportUri": "/reports/bf4fcf4f-02d4-42cf-b690-40a8c2bb1bde?20160222150905"
+    },
+    {
+      "linkId": "2f346b86-5c8c-4730-8cd9-9e485810a218",
+      "reportDate": "2012-08-20",
+      "firstVisitDate": "2012-07-12",
+      "reportUri": "/reports/2f346b86-5c8c-4730-8cd9-9e485810a218?20200430120000"
+    }
+  ]
+}

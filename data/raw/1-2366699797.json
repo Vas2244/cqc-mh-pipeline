@@ -1,0 +1,184 @@
+{
+  "locationId": "1-2366699797",
+  "providerId": "1-471050618",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Gladstones Clinic Lexham House",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-01-19",
+  "deregistrationDate": "2023-01-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.52131,
+  "onspdLongitude": -0.213093,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Lexham House",
+  "postalAddressLine2": "28 St Charles Square",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W10 6EE",
+  "mainPhoneNumber": "01179292102",
+  "numberOfBeds": 0,
+  "constituency": "Kensington and Bayswater",
+  "localAuthority": "Kensington and Chelsea",
+  "lastInspection": {
+    "date": "2018-05-15"
+  },
+  "lastReport": {
+    "publicationDate": "2018-07-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2018-07-20",
+      "reportLinkId": "7149785e-9478-4cb1-a900-dfa0d1ffc158",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-07-20",
+          "reportLinkId": "7149785e-9478-4cb1-a900-dfa0d1ffc158"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-07-20",
+          "reportLinkId": "7149785e-9478-4cb1-a900-dfa0d1ffc158"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-13",
+          "reportLinkId": "39dbbd9d-12e0-49b9-abc2-072766e4abd5"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-07-20",
+          "reportLinkId": "7149785e-9478-4cb1-a900-dfa0d1ffc158"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-07-20",
+          "reportLinkId": "7149785e-9478-4cb1-a900-dfa0d1ffc158"
+        }
+      ]
+    },
+    "reportDate": "2018-07-20"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-03-13",
+      "reportLinkId": "39dbbd9d-12e0-49b9-abc2-072766e4abd5",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-08-17",
+      "reportLinkId": "5501a772-5905-476e-a309-07e750f41779",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "7149785e-9478-4cb1-a900-dfa0d1ffc158",
+      "reportDate": "2018-07-20",
+      "firstVisitDate": "2018-05-14",
+      "reportUri": "/reports/7149785e-9478-4cb1-a900-dfa0d1ffc158?20210117161853",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "39dbbd9d-12e0-49b9-abc2-072766e4abd5",
+      "reportDate": "2017-03-13",
+      "firstVisitDate": "2016-11-22",
+      "reportUri": "/reports/39dbbd9d-12e0-49b9-abc2-072766e4abd5?20210120025738",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "5501a772-5905-476e-a309-07e750f41779",
+      "reportDate": "2016-08-17",
+      "firstVisitDate": "2016-03-21",
+      "reportUri": "/reports/5501a772-5905-476e-a309-07e750f41779?20210123003217",
+      "reportType": "Location"
+    }
+  ]
+}

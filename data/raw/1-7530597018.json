@@ -1,0 +1,1154 @@
+{
+  "locationId": "1-7530597018",
+  "providerId": "1-437342808",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Anna Freud Centre",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2019-11-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.5322276,
+  "onspdLongitude": -0.1141796,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "4-8 Rodney Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N1 9JH",
+  "uprn": "10012789843",
+  "mainPhoneNumber": "02077942313",
+  "numberOfBeds": 0,
+  "constituency": "Islington South and Finsbury",
+  "localAuthority": "Islington",
+  "lastReport": {
+    "publicationDate": "2018-06-22"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-438823556",
+      "relatedLocationName": "Anna Freud Centre",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Anna Kate",
+          "personFamilyName": "Kennett",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "inspectionAreaName": "Specialist community mental health services for children and young people",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2016-08-01",
+      "reportLinkId": "5fda8c1a-2ac6-4ade-8e6a-fbdd38d9cd22",
+      "organisationId": "1-438823556",
+      "serviceRatings": [
+        {
+          "name": "mhchildrenandyoung",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-06-22",
+      "reportLinkId": "a2c66ab3-507b-42a0-9e13-dbdcfa91c453",
+      "serviceRatings": [
+        {
+          "name": "mhchildrenandyoung",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "261",
+      "assessmentServiceName": "Specialist community mental health services for children and young people",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-02-23 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02178",
+            "commentary": "\u003Cp\u003EWe carried out a comprehensive assessment of the Anna Freud Centre.\u003C/p\u003E\u003Cp\u003EWe inspected this service as part of our ongoing comprehensive mental health inspection programme.\u003C/p\u003E\u003Cp\u003EThe centre provides a specialist community mental health service for children and young people. At our last assessment of this service at a previous location, we rated the service as good.\u003C/p\u003E\u003Cp\u003EAt this assessment, we identified several areas of good practice in the service.\u003C/p\u003E\u003Cp\u003EThis is the first assessment of the service at this current location\u003C/p\u003E\u003Cp\u003EOur rating of the service has remained Good.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+            "commentaryDate": "2026-02-23",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the provider involved people and treated them with compassion, kindness, dignity and respect. \u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question Good.\u003C/p\u003E\u003Cp\u003EThis is the first rating of the service at this current location. The key question has remained Good. This meant people were supported and treated with dignity and respect, and involved as partners in their care.\u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence. \u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Outstanding. This is the first rating of the service at this current location. At this assessment, the rating has changed to Good. This meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the provider met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Good.\u003C/p\u003E\u003Cp\u003EThis is the first rating of the service at this current location. This key question has remained Good. This meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Good. This is the first assessment of the service at this current location. \u003C/p\u003E\u003Cp\u003EThe overall rating for caring at this location remains Good. \u003C/p\u003E\u003Cp\u003EThis meant people were protected by a strong and distinctive approach to safeguarding, including positive risk-taking to maximise their control over their lives. People were fully involved, and the provider was open and transparent when things went wrong.\u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Good. This is the first rating of the service at this current location. At this assessment, the rating has remained Good.\u003C/p\u003E\u003Cp\u003EThis meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP22310",
+            "title": "Ongoing Assessment for Anna Freud Centre",
+            "assessmentDate": "2026-02-19",
+            "assessmentPlanStatus": "Active",
+            "name": "Specialist community mental health services for children and young people",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EWe carried out a comprehensive assessment of the Anna Freud Centre. \u003Cbr\u003EWe inspected this service as part of our ongoing comprehensive mental health inspection programme.\u003Cbr\u003EThe centre provides a specialist community mental health service for children and young people. At our last assessment of this service at a previous location, we rated the service as good.\u003Cbr\u003EAt this assessment, we identified several areas of good practice in the service.\u003Cbr\u003EThis is the first assessment of the service at this current location\u003Cbr\u003EOur rating of the service has remained Good.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe rated the service as Good because:\u003Cbr\u003EStaff demonstrated a strong commitment to compassionate, person-centred care that reflected the needs and preferences of children, young people and their families. There was effective multidisciplinary collaboration, with professionals working closely together to deliver coordinated therapeutic care and support, alongside strong engagement with schools, social care and voluntary sector partners to promote early intervention and continuity of care. Staff used evidence-based approaches and showed a clear understanding of safeguarding responsibilities and risk management, while leaders fostered a positive culture of learning and improvement through regular supervision and reflective practice to support staff development and wellbeing.\u003C/p\u003E\u003Cp\u003EThe service operates several divisions to deliver a comprehensive and specialised offer for children, young people and their families. This includes the Schools and Colleges Early Support Service (SCESS), which provides targeted mental health support within education settings, and the clinical division, which comprises Psychodynamic Psychotherapy, Family Stories, Reflective Parenting (psychoeducational groups), Specialist Assessment and Treatment, and the Post-Adoption Service. Together, these services ensure that children, young people and families can access a broad range of therapeutic, assessment and support pathways tailored to their needs.\u003Cbr\u003EThe newly established multidisciplinary team (MDT), developed as part of the clinical division restructure, has been working well and is already demonstrating positive impact. It was designed to improve efficiency, increase access for children, young people and families, and strengthen collaboration both within and across divisions, supporting the organisation\u2019s broader strategic aims and enabling the service to respond effectively to current and future challenges.\u003C/p\u003E\u003Cp\u003ETogether, these developments meant the service was well positioned to deliver coordinated, accessible and high-quality care, resulting in improved experiences and outcomes for children, young people and their families.\u003C/p\u003E\u003Cp\u003EDuring this assessment, the inspection team:\u003Cbr\u003E- Carried out an environmental tour of the building and observed parents, children and young people accessing the service.\u003Cbr\u003E- Spoke to 6 parents/carers\u003Cbr\u003E- Spoke to a young person ambassador \u003Cbr\u003E- Spoke to family representative\u003Cbr\u003E- Spoke with 10 members of staff. This included the head of operations, deputies, safeguarding leads, clinical psychologists, senior practitioners, wellbeing practitioners, and the Deputy CEO.\u003Cbr\u003E- We attended the MDT meeting with the leadership team, a staff group meeting with frontline clinicians and support staff, a service users and carers\u2019 feedback meeting, which included a family representative. \u003Cbr\u003E- We looked at policies and procedures related to the running of the service.\u003Cbr\u003E- We looked at audit records, quality improvement initiatives and service outcomes.\u003Cbr\u003E \u003C/p\u003E",
+            "commentaryDate": "2026-02-23",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke to 6 parents and a young person ambassador.\u003Cbr\u003EFeedback from families was overwhelmingly positive. Parents described staff as friendly, kind, welcoming and warm, and said they felt listened to and involved in their children\u2019s care. They told us the staff were amazing, starting with the front-of-house team, who created a welcoming first impression. Parents also appreciated the child-friendly environment, noting that books and toys were readily available and that the waiting area provided a comfortable and engaging space for children visiting the service.\u003C/p\u003E\u003Cp\u003EYoung people similarly told us that staff were approachable, supportive and easy to talk to. They said staff took time to listen to their views and involved them in decisions about their care and treatment. Parents told us their children felt safe during appointments and comfortable raising any worries or questions. They valued the calm and welcoming atmosphere and felt that staff treated them with kindness and respect.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-02-23",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the provider involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question Good.\u003C/p\u003E\u003Cp\u003EThis is the first rating of the service at this current location. The key question has remained Good. This meant people were supported and treated with dignity and respect; and involved as partners in their care.\u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003E\u003Cbr\u003EThe provider promoted people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EStaff made sure young people could access information about their treatment, local services, their rights and how to complain, and provided this in formats appropriate to their age and needs. Parents told us they were given welcome packs containing key information about the service.\u003Cbr\u003EThe service offered easy-read versions of reports for young people who required them and used a range of communication approaches to support understanding. We saw several examples of care records where staff used their skills to communicate effectively with young people of all ages, ensuring they were fully involved in decisions about their care. Staff explained treatments clearly to young people and their families, and copies of consent forms were kept in each person\u2019s file. \u003Cbr\u003EWe also saw an example where staff described how they adapted their approach for a young person who preferred visual supports, using diagrams and step-by-step illustrations to explain how therapy would work and what to expect. This helped the young person feel more confident, informed and able to participate fully in planning their care.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe provider always treated people with kindness, empathy and compassion and respected their privacy and dignity. Staff treated colleagues from other organisations with kindness and respect.\u003C/p\u003E\u003Cp\u003EParents told us that staff were very friendly, kind, welcoming, and warm, describing the team as \u201Cabsolutely amazing\u201D and \u201Cvery good.\u201D They said staff provided independent support and helped their children develop strategies to manage difficult situations. One parent told us the service was \u201Camazing,\u201D saying, \u201CThe life of our daughter is really changing.\u201D This meant families experienced highly personalised, compassionate care that had a significant and positive impact on children and young people\u2019s wellbeing, demonstrating features of an outstanding service.\u003C/p\u003E\u003Cp\u003EStaff followed policy to maintain the confidentiality of the patient\u2019s care and treatment. They explained confidentiality clearly to young people and how information would be shared with parents or carers when appropriate. Parents told us they were confident in how staff handled the information they shared, and the email correspondence they reviewed also reflected this approach. All six parents and carers we spoke with said they were highly satisfied with the service.\u003C/p\u003E\u003Cp\u003EStaff supported young people to understand and manage their own care, treatment, or condition. Young people were able to talk through their management plans, strategies, and safety plans with staff. Staff used easy-read information, including age-appropriate language and materials, to help young people understand their treatment. We found documented evidence of both parent and child involvement in family therapy sessions, where parents were seen separately as well as together. Parents were comprehensively involved in therapy sessions and were offered courses to help them develop strategies to support and protect their child at home. Information about treatment options was shared with parents, including explanations of the different therapeutic approaches available, such as mentalisation and family-based therapies, which ensure that all family members have access to therapy individually, where appropriate.\u003Cbr\u003EStaff signposted young people to other services and supported them to access these when needed.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider was exceptional in how they listened to and understood people\u2019s needs, views and wishes. Staff responded to people\u2019s needs in the moment and acted to minimise any discomfort, concern or distress.\u003Cbr\u003EChildren and young people\u2019s needs, views and wishes were identified from the first meeting, when the initial assessment was carried out collaboratively so that young people could set their goals. Service delivery is inclusive of the entire family system, engaging parents/carers alongside children and young people. The overarching objective is to enhance the child\u2019s relational experiences within their immediate caregiving environment, extended family networks, and educational settings.\u003Cbr\u003ETreatment goals are determined following a comprehensive assessment process and are aligned with the identified needs and aspirations of the family. The service aims to support families in addressing the impact of developmental trauma and to equip them with sustainable strategies and psychological tools to manage future challenges effectively.\u003Cbr\u003ESix of the six parents and carers we spoke to told us that staff always asked for their views about the treatment their child received and invited suggestions for improvement. Parents and carers said they felt comfortable raising any issues and described feeling heard and seen. They told us that staff listened well, valued their opinions, and created an environment where they could speak openly and with ease. The service met their target times for seeing patients from referral to assessment and assessment to treatment. There was no waiting list to access CAMHS services at Anna Freud Centre. \u003Cbr\u003EThe service also offered a range of specialist roles and therapeutic interventions, including Child Psychotherapists and practitioners trained in Mentalisation-Based Therapy (MBT), to ensure comprehensive and appropriate care for children and adolescents. We saw evidence of the breadth of treatments and interventions provided by the service, and parents we spoke with confirmed that children and young people were able to access these. The service had a clear and accessible process that enabled children, young people and their families to provide feedback on the treatment they received, including how to make a complaint.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider treated people as individuals and made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. They took account of people\u2019s strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics.\u003C/p\u003E\u003Cp\u003EStaff provided a range of care and treatment suitable for the young people using the service. They supported young people to understand and manage their own care, treatment or condition, using easy-read information and adapting their communication methods to suit each young person\u2019s age, cognitive ability and preferred learning style. For example, young people were provided with age-appropriate materials such as visual tools, simplified text, play-based resources and drawing activities for younger children. Staff had the skills, or access to colleagues with the skills, to communicate in ways that best supported each child or young person. Children and young people also had flexibility in how they accessed appointments, including in-person, online or telephone sessions. Staff provided culturally sensitive materials, ensured interpreters were available when needed, and tailored interventions to reflect each young person\u2019s strengths, interests and goals. Staff also took account of protected characteristics, for example, supporting neurodiverse young people with sensory-friendly spaces.\u003Cbr\u003EAnna Freud\u2019s clinical services had integrated the Multicultural Orientation (MCO) framework into their therapeutic practice to support culturally responsive care. The framework helps staff consider and address cultural factors that may influence the therapeutic process. For example, staff told us about a young person whose cultural background and identity influenced their understanding of mental health and their engagement in therapy. With the young person\u2019s consent, the clinician applied a culturally informed approach by involving family members where appropriate and adjusting the structure of sessions to ensure the young person felt understood, respected and fully able to participate in treatment.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider always cared about and promoted the wellbeing of their staff and was exceptional at supporting and enabling staff to always deliver person-centred care.\u003Cbr\u003EStaff told us they felt extremely well supported at work, valued by their leaders and part of a team where they had a sense of belonging and pride. They described feeling able to fully contribute to decisions about service delivery and said their caseloads were manageable, with opportunities to discuss complex cases in supervision. Staff reported positive morale and a highly supportive working environment, which they felt had a positive impact on the care they provided. Staff told us they remained well connected through weekly supervision, SCESS social teams and clinical team chat forums. They reported a strong culture of mutual support, with regular reviews of processes to strengthen connections and established peer support groups that promoted staff wellbeing.\u003Cbr\u003EThey had regular clinical and management supervision, weekly reflective practice sessions, and access to an employee voice forum. Staff told us the service offered a comprehensive mental health and wellbeing plan for the workforce and that they had benefited from support from Occupational Health when needed. They also took part in annual appraisals, team meetings, staff surveys and network meetings, all of which contributed to their development and helped maintain a consistent and high-quality service.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Outstanding. This is the first rating of the service at this current location. \u003Cbr\u003EAt this assessment, the rating has changed to Good. This meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing, and communication needs with them.\u003C/p\u003E\u003Cp\u003EWe reviewed 5 care records of children and young people.\u003C/p\u003E\u003Cp\u003EThe service provided an initial clinical contact through a screening process to triage and prioritise patients\u2019 needs when they assessed the service. Staff then completed a comprehensive assessment of each patient\u2019s mental health needs to determine the most appropriate treatment options.\u003C/p\u003E\u003Cp\u003EWe found evidence of comprehensive assessments of the patient\u2019s needs. Staff worked collaboratively with the patients to develop individual care plans, which were reviewed and updated as required. Care plans reflected assessed needs and were personalised, holistic, and recovery oriented. They were age-appropriate and included pictures and simple, accessible text. Staff involved children and young people in the care-planning process through play and drawing activities appropriate to their age and developmental stage. Parents\u2019 views and voices were also clearly documented. Care records contained all the relevant information clinicians needed to plan and deliver care, support, and interventions. They also included details necessary to inform decisions about whether patients required transfer to another team.\u003Cbr\u003EStaff delivered care in line with best practice and national guidance, including recommendations from the National Institute for Health and Care Excellence (NICE).\u003Cbr\u003EHowever, in all five care records we reviewed, there was no evidence that care plans had been shared with the children, young people, or their parents. In addition, four of the six parents we spoke with told us they had not received a copy of their child or young person\u2019s care plan. This limited their ability to review and reflect on agreed goals and actions outside of sessions. This was not in line with NICE guidance, which recommends that children and young people should receive a copy of their care plan where they consent to it. For younger children, a copy should be provided to their parents or carers. Guidance states that care plans should be presented in an accessible format and updated as needed, with a new copy provided to the child, young person, and their parents or carers whenever changes are made.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003Cbr\u003EWe found evidence that staff obtained consent for care and treatment in line with relevant legislation and national guidance, and this was clearly recorded in patients\u2019 records. Written consent was present in all five records we reviewed, and where parents or carers were involved, their consent was also obtained. Parents and young people had access to information about independent advocacy and support. This ensured that care decisions were made transparently and that young people were fully informed and involved in the process, with parents and carers included where appropriate.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider always planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation. They worked to develop evidence-based good practice and standards.\u003C/p\u003E\u003Cp\u003ECare and treatment were delivered in line with national guidance and good practice. Staff used evidence-based approaches to support the emotional and mental health needs of children and young people, ensuring that interventions were tailored to individual circumstances. \u003Cbr\u003EThe Clinical Services MDT delivers a comprehensive suite of assessments, therapeutic interventions, and support mechanisms for children, young people, and their families who have experienced significant relational trauma, particularly within caregiving contexts.\u003Cbr\u003EThe team provides structured, multidisciplinary assessment and treatment packages tailored for parents, carers, and Special Guardians. These interventions are underpinned by a mentalization-based therapeutic framework (MBT-C), with a specific focus on attachment-related difficulties and trauma-informed care.\u003Cbr\u003EThe current structure of the Clinical Division included several teams: Adaptive Mentalization-Based Integrative Treatment (AMBIT); Psychodynamic Psychotherapy and Mentalization-Based Treatment for Children and Young People (MBT-CYP); Family Trauma; Early Years; Evaluation \u0026 Implementation; and Central Support, alongside leadership. Much of the clinical delivery sits within the Family Trauma team, with limited clinical provision currently within the Early Years team. AMBIT predominantly delivers training, and this income offsets a significant proportion of the division\u2019s current deficit.\u003Cbr\u003EThe newly structured MDT operated a clearly defined clinical pathway, with referrals triaged and reviewed to determine need and priority, followed by MDT allocation for full assessment and care planning. Therapeutic interventions were delivered individually or with families in line with agreed care plans, with outcomes and feedback used to monitor progress, inform regular reviews and, where required, return cases to the MDT for further consideration.\u003C/p\u003E\u003Cp\u003EThe multidisciplinary team worked collaboratively to review care and monitor progress, ensuring that treatment remained effective and responsive to changing needs. The Child and Adolescent Psychotherapy Service deliver comprehensive psychological assessments and evidence-based therapeutic interventions for children and young people presenting with a range of emotional and psychological difficulties. The service offers both brief and long-term psychotherapeutic support, tailored to individual clinical needs and formulated in accordance with best practice guidelines. For example, the Clinical Services MDT delivers a comprehensive suite of assessments, therapeutic interventions, and support mechanisms for children, young people, and their families who have experienced significant relational trauma, particularly within caregiving contexts.\u003Cbr\u003EThe team provides structured, multidisciplinary assessment and treatment packages tailored for parents, carers, and Special Guardians. These interventions are underpinned by a mentalization-based therapeutic framework (MBT-C), with a specific focus on attachment-related difficulties and trauma-informed care.\u003Cbr\u003EWe saw evidence where parents\u2019 contributions were clearly recorded, reflecting a strong commitment to partnership working and shared decision-making. Discharge planning and follow-up were completed in partnership with young people and their families, with post-discharge outcomes captured through the POD system to evaluate intervention effectiveness.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider always worked well across teams and services to support people. They shared thorough assessments of people\u2019s needs when they moved between different services, so people only needed to tell their story once.\u003Cbr\u003EWe reviewed the minutes of the service\u2019s MDT meetings, which are held fortnightly. The purpose of these meetings was clearly defined and centred on fostering shared learning, effective multidisciplinary working and clinical safety. The agenda covered day-to-day operational tasks, case referrals and case tracking, and clinical case discussions. Meetings also included a review of routine outcome measures, safeguarding tracker updates, and space for staff to provide feedback and suggestions, demonstrating an open and collaborative approach to continuous improvement.\u003Cbr\u003EWe found evidence of effective multidisciplinary and interagency working. Staff from different teams, including external services, were committed to working collaboratively to ensure the best care for the patients and supported each other to ensure there were no gaps in care. They had strong working relationships with other relevant teams within the organisation, such as the Schools \u0026 Colleges Early Support Services (SCESS), as well as with multi-agency collaborations and Statutory services (e.g., Social Care, CAMHS)\u003Cbr\u003EThere was effective multidisciplinary collaboration, with professionals working closely together to deliver coordinated therapeutic care and support. Records showed good engagement with the school\u2019s division and clinical team, social care, and voluntary sector partners, promoting early intervention and ensuring continuity of care. This collaborative approach meant children, young people, and their families received well-coordinated support that reduced delays and improved overall outcomes. For example, the provider used LAPTUS, an electronic patient record system, to record, review and share clinical information, which supported effective risk management and continuity of care for children and young people.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003E\u003Cbr\u003EThe provider routinely monitored people\u2019s care and treatment to continuously improve it. They ensured that outcomes were positive and consistent, and that they met both clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EClinicians took responsibility for using outcome measures in their work and were supported by the People\u2019s Outcome Data (POD) system, an online mental health outcomes and feedback tool introduced in January 2024 and due for upgrade in January 2026. The service used evidence-based approaches, sharing outcome information with new referrals to support understanding and engagement. Outcome data showed that 75% of cases demonstrated positive progress.\u003Cbr\u003EStaff used recognised rating scales to assess and record severity and outcomes, and they made effective use of technology to support children and young people. Staff also participated in clinical audits, benchmarking, and quality improvement initiatives. For example, the introduction of the Patient Outcome Data (POD) system, an online mental health outcomes and feedback system, over the past 12 months has strengthened the collection of outcome data. Managers used audit results to identify learning and implement improvements, enhancing the quality and effectiveness of care.\u003Cbr\u003EManagers and staff used the results to improve patients\u0027 outcomes. The MDT routinely reviewed and updated outcome measures, including monitoring outcomes with evidence recorded in meeting minutes. Learning was cascaded across the wider team, with supervisors ensuring outcome measures were consistently applied. This system-wide approach supported the use of individual outcome measures in a meaningful and relevant way and learning and expectations were shared across the service to promote consistent practice.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider supported people to manage their health and wellbeing to maximise their independence, choice and control. Staff supported people to live healthier lives and, where possible, reduce their future needs for care and support.\u003C/p\u003E\u003Cp\u003EStaff supported people to access information about healthy living, including leaflets and posters promoting a healthy diet. However, there was limited evidence of active interventions to support people to live healthier lives.\u003Cbr\u003EAdditionally, we saw evidence of practical support and advice for people to make informed decisions about their care and treatment. They understood how to support patients who lacked the capacity to make their own decisions or were experiencing mental ill health. For example, the service offered structured therapeutic interventions following trauma. These included therapy packages for children and young people, as well as for parents, carers and whole family units. The interventions focused on recovery, emotional regulation, coping strategies and strengthening family relationships following experiences of trauma, including physical, emotional or sexual abuse.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the provider met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Good.\u003Cbr\u003EThis is the first rating of the service at this current location. This key question has remained Good. \u003Cbr\u003EThis meant people\u2019s needs were met through good organisation and delivery.\u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider understood the diverse health and care needs of people and their local communities, so care was joined-up, flexible and supported choice and continuity.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a clear understanding of the diverse health and care needs of children, young people and their local communities, ensuring that care was joined-up, flexible and supported choice and continuity. The service operated in accordance with the Children Act 1989, Working Together to Safeguard Children (statutory guidance), and relevant NICE clinical guidelines. We saw evidence of this within service audits; for example, the Clinical Evaluation Team had oversight of outcome-measure use and evidence-based delivery through the People\u2019s Outcome Data (POD) system, introduced in January 2024, which has shown 75% positive cases and confirmed increased utilisation, with over 50% of recorded outcomes now entered into the system. The service ensured adherence to local commissioning standards, equality legislation and safeguarding frameworks, and maintained full compliance with data protection requirements, including UK GDPR and the Data Protection Act 2018.\u003C/p\u003E\u003Cp\u003EWe also saw evidence of multi-agency collaboration with statutory services such as Social Care and CAMHS, supporting integrated, system-wide working that met safeguarding standards and promoted effective inter-agency coordination. This was further strengthened by the Schools and Colleges Early Support Service (SCESS), which works with 30 schools and colleges to ensure students aged 11\u201325 receive timely and appropriate mental health support. The service provides one-to-one sessions for students as well as support for staff, parents and carers, alongside clinical division and court referral assessments, ensuring a comprehensive and responsive pathway across multiple agencies.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003E\u003Cbr\u003EThe provider made sure that people could access the care, support and treatment they needed when they needed it.\u003C/p\u003E\u003Cp\u003EThe service ensured equity in access so that children, young people and their families could access the service when they needed it and receive the right care in a timely way. There were clear and established processes for referral and triage, consistent with best practice, which enabled staff to redirect or return inappropriate referrals quickly with clear feedback, and where possible, signpost families to more appropriate resources. We reviewed the service\u2019s referral acceptance criteria, turnaround times and feedback processes and found them to be robust and consistently applied. This was usually within two weeks.\u003C/p\u003E\u003Cp\u003EThe leadership team monitored the number of cases per year for each team in relation to staffing numbers and clinical hours per week, providing a clear overview of how services were managing demand. For example, the Schools and Colleges Early Support Service (SCESS) remained responsive and flexible to the needs of young people, offering equitable access and outcomes for all. The service also delivered psychoeducation webinars to parents and carers, provided training to staff, and offered direct consultation to both families and education settings. \u003Cbr\u003ESCESS supported 36 schools and colleges during this academic year and operated on a term-time basis only, managing an average of 350 cases per year. The team consisted of 16 staff members, with an average of 29.75 clinical hours per week, enabling the service to maintain safe, effective and timely support for children and young people.\u003C/p\u003E\u003Cp\u003EThe service also maintained accessible premises and made reasonable adjustments to support children and young people with additional needs, including those who required sensory-friendly spaces or alternative communication formats. Emergency and unplanned care access pathways were clearly defined, including out-of-hours arrangements, ensuring families knew how to seek help in urgent situations.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EStaff and leaders actively listened to information about people who are most likely to experience inequality in experience or outcomes and tailored their care, support and treatment in response to this.\u003C/p\u003E\u003Cp\u003EWe reviewed the patients\u2019 Experience of Service Questionnaire (ESQ) report for September 2024 to August 2025, which included 54 responses, 2% from children aged 9\u201311, 17% from young people aged 12\u201318, and 81% from parents or carers. The feedback showed strong themes of trust, empathy, communication and emotional support across all groups, with a significant increase in ESQ data collection compared with previous years.\u003C/p\u003E\u003Cp\u003EAlthough direct feedback from children and young people remained limited, this highlighted an area for development. While experiences were overwhelmingly positive, young people suggested making therapy rooms feel warmer and less clinical, considering adjustments for neurodiverse or sensory-sensitive individuals, and reviewing toys to ensure they are appropriate for all ages. These insights informed ongoing service and strategic planning as the service strengthened its feedback mechanisms and embedded the Lundy Model of Participation.\u003C/p\u003E\u003Cp\u003EA young ambassador we spoke with told us how their involvement in the Learning Walk Project had directly influenced changes to the service environment. For example, the staffing board at reception was lowered so that it was at a more comfortable height for children and young people to see and read. This helped ensure that information was accessible to all and supported greater equity in experiences and outcomes, as young people\u2019s feedback was actively used to shape the environment in a way that met their needs. This meant children, young people and their families experienced timely, fair and appropriate access to support, reducing delays in care and helping ensure their needs were met in the most suitable setting.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider was exceptional at enabling people to share feedback and ideas, or raise complaints about their care, treatment and support. Staff always involved people in decisions about their care and told them what had changed as a result.\u003C/p\u003E\u003Cp\u003EStaff consistently supported young people to be actively involved in decisions about their care and treatment. The service embedded the Lundy participation approach, enabling meaningful and inclusive involvement of both young people and their parents. The service consistently reflected all four principles of the Lundy Model\u2014Space, Voice, Influence and Audience\u2014ensuring children and young people had safe and accessible opportunities to participate, were supported to express their views freely, had their views taken seriously and used to inform decisions, and were assured their views were shared with, and considered by, decision-makers. Two parents with lived experience had taken part in the participation process and contributed to service development. The team also delivered parent webinars and gathered feedback on how care was provided. For example, the service implemented changes to presentation slides to better reflect young people\u2019s views, including using clear language and avoiding acronyms. This ensured that young people\u2019s voices directly influenced how the service was delivered.\u003C/p\u003E\u003Cp\u003EIn addition to paper feedback forms, people could use a QR code available at reception to provide feedback. This made it easy for young people and parents to share their views, suggest ideas, or raise complaints about their care, treatment, or support.\u003Cbr\u003EThe service demonstrates a robust and responsive approach to complaints management, treating complaints as an important mechanism for continuous service improvement. This ensures that learning from complaints is shared and embedded across the workforce, improving service quality and patient experience. People told us they felt confident that any complaint or concern would be explored thoroughly and that they would receive a timely response, as complaints were handled in an open and transparent way with no repercussions for raising issues. \u003Cbr\u003EAt the time of this assessment, there were no overdue complaints recorded in the complaints log provided. This reflects timely and effective resolution practices.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider made sure people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond to any relevant changes in people\u2019s needs.\u003C/p\u003E\u003Cp\u003EIn all five care plans we reviewed, we found that children and young people had fully comprehensive plans that reflected their physical, mental, emotional and social needs, including needs linked to protected characteristics under the Equality Act. \u003Cbr\u003EThe service met its target times for seeing families, children and young people are triaged appropriately and timely, moving from referral to assessment and from assessment to treatment within two weeks of screening, ensuring timely access to support. \u003Cbr\u003ECare planning took account of individual needs and preferences and promoted empowerment and shared decision-making. The service provided information in a variety of accessible formats to help children and young people understand their care, including age-appropriate care plans with illustrations, diagrams and simple language. Parents told us they received clear information about appointments, such as details and accessing the building, the clinician they would see, and what to expect during the session.\u003Cbr\u003EParents said they were given explanations of therapy options, such as family-based approaches, where each family member can access therapy separately. Parents said this information was useful and personalised to their needs. This meant children, young people and families were well-prepared, well-informed and actively involved in their care, supporting positive engagement and improving overall treatment outcomes.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EPeople were supported to plan for important life changes, so they could have enough time to make informed decisions about their future, including at the end of their life.\u003Cbr\u003EPeople were supported to plan for important life changes, including discharge, through a holistic and responsive approach that reflected their individual circumstances, preferences and what mattered to them. Staff ensured personalised care plans were developed collaboratively and shared with relevant professionals to support continuity of care. For example, staff worked with young people to prepare step-down plans that included school reintegration strategies, community support options, and crisis contacts, and they arranged joint meetings with external agencies such as CAMHS, social care or school pastoral teams, when additional support was needed. \u003Cbr\u003EThis responsive approach meant children, young people and their families had enough time, information and support to make informed decisions about their future, ensuring a smoother and more confident transition out of the service.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/p\u003E\u003Cp\u003EPeople could access information and advice that was accurate, up to date, and provided in a way they could understand and that met their communication needs. For example, the service provided age-appropriate materials for children and young people, including easy-read leaflets, visual aids, simplified care plans, and translated documents for families who required them. Interpreters were available when needed, and staff adapted communication methods such as using drawing, symbols or plain English to ensure understanding.\u003C/p\u003E\u003Cp\u003EPeople using the service, along with their families, friends and carers, were provided with information that was accessible, safe and secure and that supported their rights and choices. For example, parents received welcome packs with details about the service, treatment options, how to raise concerns, and how to access advocacy. Young people could scan a QR code in reception to give anonymous feedback or request further support, and staff ensured that digital information was shared securely in line with data protection requirements.\u003C/p\u003E\u003Cp\u003EThis meant that children, young people and their families were consistently well-informed, able to make meaningful decisions about their care, and empowered to participate actively in their treatment and wider support.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Good. This is the first assessment of the service at this current location. \u003Cbr\u003EThe overall rating for caring at this location remains Good. \u003Cbr\u003EThis meant people were protected by a strong and distinctive approach to safeguarding, including positive risk-taking to maximise their control over their lives. People were fully involved, and the provider was open and transparent when things went wrong.\u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider assessed and managed the risk of infection effectively\u003C/p\u003E\u003Cp\u003EInfection prevention measures were effective, and staff were trained and confident in managing risks. Staff followed infection control principles; we found that equipment and toys were cleaned after patient contact, and equipment was labelled to show when it was last cleaned.\u003Cbr\u003EStaff received training in infection prevention and control. For example, they completed infection prevention and control risk assessments and followed clear procedures for hand hygiene, including the routine use of hand gel, cleaning schedules, and the appropriate use of personal protective equipment.\u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider worked with people to understand and manage risks by thinking holistically. Staff provided care to meet people\u2019s needs that was safe, supportive and enabled people to do the things that mattered to them.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe reviewed 5 care records in detail during this assessment. All patients had an up-to-date risk assessment in place.\u003C/p\u003E\u003Cp\u003EStaff completed and regularly reviewed risk assessments for each child and young person, ensuring that risks were clearly identified and managed. They acted promptly when a young person\u2019s mental health needs changed or deteriorated, escalating concerns and arranging timely transitions to services that could provide the appropriate level of support. \u003Cbr\u003ERisk management plans were detailed, person-centred and developed in collaboration with young people and their families. This showed improvement since the last inspection.\u003Cbr\u003EStaff communicated with and involved children and young people effectively to ensure they understood their care and treatment. They employed creative and age-appropriate approaches, including communication through play and drawing. This was particularly effective for those with communication difficulties, helping young people to express their views and take an active role in their care\u003Cbr\u003EStaff ensured that children and young people had access to advocacy services. Advocacy and support information leaflets were provided to families, listing a range of organisations that offer advocacy, advice, and guidance. The multidisciplinary team (MDT) risk management took place twice a month, and risks were also reviewed in weekly supervision. For cases involving multiple organisations, staff used shared formulation approaches to ensure families received the most coordinated and effective support.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003E\u003Cbr\u003EThe provider had a proactive and positive culture of safety, based on openness and honesty. Staff listened to concerns about safety and investigated and reported safety events. Lessons were learnt to continually identify and embed good practice.\u003C/p\u003E\u003Cp\u003EThere was a strong learning culture within the service\u003Cbr\u003EStaff knew how to recognise, respond to and report incidents, and they followed the provider\u2019s procedures to ensure that learning was shared, and actions were taken to prevent recurrence. \u003Cbr\u003EThere had been no serious incidents in the 12 months before the inspection. The provider had a clear policy outlining what constituted a serious incident and the process staff should follow to report one, including reporting to the Care Quality Commission. Any serious incidents would be escalated to senior management and discussed at governance meetings.\u003C/p\u003E\u003Cp\u003EStaff told us there was a culture of openness, transparency and learning within the service. They described how children, young people and families were provided with full and honest explanations when things went wrong, in line with the organisation\u2019s duty of candour policy.\u003Cbr\u003EStaff also told us the team learned from incidents and near misses to support continuous improvement. These were discussed in team meetings. For example, a near miss involving a delay in reporting a safeguarding alert was reviewed, and parents were informed promptly about the potential delay.\u003Cbr\u003EStaff understood the importance of learning from incidents and maintaining trust through clear and compassionate communication. Regular team meetings and supervision sessions provided opportunities to discuss lessons learned and identify areas for improvement. The minutes of multidisciplinary and team meetings reflected that learning was shared during these meetings.\u003C/p\u003E\u003Cp\u003EStaff were encouraged to reflect on their practice and share learning from incidents, complaints, and feedback. Managers promoted openness and accountability, ensuring that learning was cascaded effectively across the team. Staff told us they felt supported to raise concerns and confident that their views would be listened to and acted upon. The service used tools such as the Routine Outcome Measure (ROM) to track progress during audits and outcome reviews to identify trends and implement changes aimed at improving the quality and safety of care.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service did not prescribe or administer medicines as part of treatment. There were no medicines stored on site.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003E\u003Cbr\u003EThe provider made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs. Staff told us they had manageable caseloads and did not have to work additional hours to complete tasks.\u003C/p\u003E\u003Cp\u003EIn the last 12-month reporting period, workforce capacity consistently met operational and clinical service requirements in line with established staffing standards. The service was fully staffed, with no active vacancies, and all posts were substantively filled.\u003C/p\u003E\u003Cp\u003EAll staff completed a comprehensive induction programme, which included the completion of mandatory and role-specific training modules prior to engaging in any clinical duties.\u003Cbr\u003EStaff told us that they had access to monthly clinical supervision and management supervision. We saw records that showed all staff had 100% attendance for supervision in the last 12 months.\u003Cbr\u003EStaff had completed all required mandatory training, including health and safety, fire safety, infection control, and safeguarding, in line with the Children Act. Training compliance was 100% across all divisions. Staff training, supervision, and reflective practice sessions included discussions on evidence-based practice and skills development. Staff discussed specialist training needs with their line manager and were able to access this. For example, staff attended specialist training such as suicide awareness, autism and ADHD with the Samaritans, the UK Trauma Council and the Anna Freud Centre, with ongoing monthly training and webinars.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider detected and controlled potential risks in the care environment. They made sure equipment, facilities and technology supported the delivery of safe care.\u003C/p\u003E\u003Cp\u003EThe setting was accessible and welcoming, with input from young people to improve the waiting area environment. Parents told us they liked the team\u2019s location and felt the premises were well-maintained with good accessibility. They described the environment as very nice, child-friendly and a very good setting for children. Families said they felt comfortable and safe when attending appointments, and they felt the environment was supportive for positive engagement and a reassuring experience for children and young people.\u003Cbr\u003EStaff regularly assessed the environment for risks, and access to entrances and exits was secure and well-maintained. The service operated from a six-floor, multi-use building with a main reception area on the ground floor. The premises were accessible to wheelchair users, and visitors were advised to inform the service in advance if accessibility support was required. Clinicians collected families from the ground floor waiting area and accompanied them to clinical rooms via stairs or lift.\u003C/p\u003E\u003Cp\u003EA lone working policy is in place, supported by individual personal safety alarms and consultation rooms equipped with integrated alarm systems. The environment was clean, well-furnished, and well-maintained. Cleaning was completed by an external company, with staff maintaining sign-off sheets and completing regular cleaning audits. Records confirmed that toys and therapy spaces were cleaned in line with the provider\u2019s infection prevention and control policy.\u003C/p\u003E\u003Cp\u003EStaff were trained in fire safety, and fire extinguishers were appropriately placed throughout the premises. A fully stocked first aid kit was available on the ground floor, and all items were within date. Staff carried personal alarms into therapy rooms, which sounded at the floor\u2019s reception area to ensure a quick response in the event of an emergency. Young people from the participation group had recently helped select new age-appropriate toys for the waiting area, and d\u00E9cor and furnishings were kept in good condition.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003E\u003Cbr\u003EThe provider worked with people and healthcare partners to establish and maintain safe systems of care, in which safety was managed or monitored. They made sure there was continuity of care, including when people moved between different services.\u003C/p\u003E\u003Cp\u003EThe service did not have a waiting list. Referrals were appropriately screened and triaged to the relevant team to ensure timely access to care for children and young people. There was a robust care pathway supported by effective multidisciplinary working, including clear processes for referral, assessment, and discharge. The service ensured that all essential information was obtained to determine whether patients\u2019 needs could be appropriately met. Staff worked in partnership with statutory and community services to promote continuity of safe care, both within the service and following discharge.\u003Cbr\u003EServices were tailored to meet the individual needs of young people and delivered in a way that promoted flexibility, choice, and continuity of care. The involvement of schools, Local Authority and NHS partners and the local community was integral to how services were planned and developed, ensuring that care was responsive and aligned with young people\u2019s needs. There were innovative approaches to providing integrated, person-centred pathways of care that involved close collaboration with other service providers, particularly for young people with multiple and complex needs. These pathways also included early intervention initiatives for children who did not meet the criteria for the Child and Adolescent Mental Health Service (CAMHS) but required support to prevent the escalation of mental health difficulties, including support for emotional, behavioural or developmental needs.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider worked with people and healthcare partners to understand what being safe meant to them and the best way to achieve that. Staff concentrated on improving people\u2019s lives while protecting their right to live in safety, free from bullying, harassment, abuse, discrimination, avoidable harm and neglect. The provider shared concerns quickly and appropriately.\u003Cbr\u003EMandatory training compliance was regularly monitored to ensure all staff maintained up-to-date knowledge. All staff were required to complete safeguarding training at levels 2 and 3 before having any contact with patients. This ensured they upheld best practice standards and approached all interactions with a clear understanding of safeguarding principles by following appropriate safeguarding principles Staff we spoke with demonstrated a strong awareness of their responsibilities in recognising and responding to concerns, and they knew how to make safeguarding alerts and did so appropriately when required. This included staff working in partnership with other agencies. Staff who worked in outreach services, including the school services, also demonstrated a clear understanding of safeguarding procedures. They were confident in identifying and escalating concerns, both within their own team and through appropriate channels within schools. This collaborative approach helped to ensure that safeguarding issues were addressed promptly and that children and young people received coordinated and safe support.\u003Cbr\u003EStaff told us that the senior staff member on duty was the first point of call in safeguarding issues, and the internal processes were followed, including referrals. The safeguarding issues raised are kept with the young person\u2019s record, with plans of action, keeping the young person informed. A daily rota was in place for the clinical team to manage safeguarding queries, ensuring that advice and oversight were consistently available.\u003Cbr\u003EThe service carried out annual safeguarding audits to identify learning themes and trends, which informed staff development and continuous improvement. Managers reviewed safeguarding incidents to confirm that appropriate actions were taken, and learning was shared across the team.\u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment of this service, we rated this key question as Good.\u003Cbr\u003EThis is the first rating of the service at this current location.\u003C/p\u003E\u003Cp\u003EAt this assessment, the rating has remained Good. \u003Cbr\u003EThis meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003Cbr\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-02-23",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation. Leaders had the skills, knowledge, experience and credibility to lead effectively. They did so with integrity, openness and honesty.\u003C/p\u003E\u003Cp\u003EStaff told us that the senior leadership team had achieved an effective and supportive balance in the way they worked together and were readily available when needed. They described a healthy and positive working environment and gave consistently positive feedback about the senior leadership team. HR leadership used triangulation of data such as supervision records, sickness absence, exit interviews, and staff survey findings to identify patterns that could impact staff wellbeing and to ensure compliance with regulatory standards. \u003Cbr\u003ECurrent sickness absence levels remained below national benchmarks, demonstrating the effectiveness of wellbeing interventions delivered by leaders. Leaders had also strengthened staff support during periods of organisational restructuring, including carrying out equality impact assessments to identify and mitigate potential risks. \u003Cbr\u003EThe service continued to develop and enhance its leadership structures to ensure a safe, supportive and equitable working environment for all staff.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider fostered a positive culture where people felt they could speak up and their voice would be heard.\u003C/p\u003E\u003Cp\u003EStaff told us they felt psychologically safe and were confident they could raise concerns without fear of retaliation. They said the organisation promoted openness, transparency and mutual respect, and described positive working relationships with senior leaders, including the Chief Executive Officer. Staff reported having access to several formal mechanisms for raising concerns, including the Chief People Officer, HR Business Partners, the Equality, Diversity and Inclusion (EDI) Lead, the senior leadership team, anonymous feedback routes and the annual staff survey. These arrangements supported a strong culture of accountability and ensured staff voice was prioritised and protected. This meant issues could be identified and addressed early, strengthening accountability, improving staff wellbeing and contributing to safer, higher-quality care for children and young people.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EGovernance and performance monitoring arrangements in place supported the quality and\u003Cbr\u003Esafety of service provision and identified risks. The provider had clear responsibilities, roles, systems of accountability and good governance. They used these to manage and deliver high-quality, sustainable care, treatment and support. They acted on the best information about risk, performance and outcomes, and shared this securely with others when appropriate.\u003Cbr\u003EThe robust governance framework ensured oversight, transparent decision-making and sustained improvements in safety, quality and overall service delivery, resulting in positive outcomes and experiences for children, young people and their families.\u003Cbr\u003ESenior leaders maintained formal oversight of the organisation\u2019s risk register and risk level, including the complaints log, ensuring that all incidents and complaints were recorded, monitored and reviewed in line with governance standards and statutory requirements. For example, we found evidence of several areas of good practice, including staff undertaking regular clinical audits and assurance checks that were effective in identifying shortfalls and informing improvements. \u003Cbr\u003EThe service uses the audit system, Routine Outcome Monitoring (ROM) to assess the completeness and compliance of clinical documentation across all active cases. The portal enabled managers to view when care plans and risk assessments were last updated, track all family contacts, and monitor the completion of data. In addition, the audit demonstrated consistently robust documentation of risks and risk levels. It also confirmed a sustained increase in the use of the new patient outcome database (POD), with over 50% of recorded outcomes now captured within the system, supporting improved monitoring and service development.\u003Cbr\u003EThe Clinical Governance Leadership Board (CGLB) monthly meetings provided effective oversight of safe, effective and person-centred care for children and young people and their families, while ensuring performance data and related metrics were formally documented in governance minutes and service activities were routinely reviewed, audited and informed by shared learning. This oversight spanned all domains of clinical activity, including therapeutic interventions, assessments, research, participatory initiatives, and compliance and regulatory activities.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider focused on continuous learning, innovation and improvement across the organisation and local system. They encouraged creative ways of delivering equality of experience, outcome and quality of life for people. They actively contributed to safe, effective practice and research.\u003Cbr\u003EThe service approach ensured that the voices of children, young people, parents and carers influenced ongoing service development, research participation and strategic decision-making.\u003Cbr\u003EThe service actively contributed to creating safer, more effective practice and ongoing research, ensuring that children, young people, and their families were meaningfully involved in developing and evaluating improvement and innovation initiatives. Children and young people ambassadors formed part of the engagement framework, operating within the Lundy Model of Participation, which is structured around four interdependent domains. For example, space was provided through safe, inclusive and accessible opportunities for young people to express their views; Children and young people\u2019s voice was enabled through appropriate facilitation so they could share their views freely without fear of reprisal; Audience ensured that their views were actively listened to and recorded; and Influence meant their views were given due weight in decision-making in line with their age and maturity. \u003Cbr\u003EYoung ambassadors were actively involved in external research activities, including the DNA Children and Young People\u0027s Health Resource (D-CYPHR) project, in which participants aged 0\u201315 and their parents or guardians completed questionnaires and provided bodily samples to support national research on children and young people\u2019s health. Ambassadors met monthly online to discuss progress, share ideas for increasing participation, and stay connected. Meetings were supported by leaders and staff, including a parent, a carer (parent participation assistant) and individuals with lived experience, who took notes and ensured that feedback was captured and acted upon. \u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider understood their duty to collaborate and work in partnership, so services worked seamlessly for people. They shared information and learning with partners and collaborated for improvement.\u003C/p\u003E\u003Cp\u003EThe organisation operated in line with good practice guidelines for multi-agency and interdisciplinary cooperation. Formal mechanisms for stakeholder engagement and partnership working were embedded within governance structures to optimise outcomes for children, young people and families. We saw evidence of extensive Quality Improvement (QI) activity and ongoing projects delivered in collaboration with external partners, including statutory services, schools, local authorities and voluntary sector organisations. These partnerships were supported through formal frameworks that enabled shared learning, joint problem-solving and consistent system-wide approaches to care. The service had a clear vision for what it wanted to achieve and a partnership strategy to turn this into action, developed collaboratively with all relevant stakeholders.\u003C/p\u003E\u003Cp\u003EThis strong, integrated approach promoted coordinated support, improved continuity of care and strengthened the overall effectiveness of the local health and care system.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and an exceptional understanding of the challenges and the needs of people and their communities.\u003C/p\u003E\u003Cp\u003EWe found the service demonstrated clinically led shared direction, underpinned by a positive and inclusive culture. The senior leadership team had effectively communicated the provider\u2019s vision and values to frontline staff, which promoted a clear sense of shared purpose across the service. Staff told us they had meaningful opportunities to contribute to discussions about the service\u2019s strategic direction through meetings, consultation processes and project work, supporting engagement, ownership and collaboration.\u003Cbr\u003ELeadership undertook two away days with the clinical leadership group as part of the 2024 review of the Clinical Division. These sessions included informal consultation with staff to understand how the division was functioning and its remit, fostering openness and trust. Senior leaders told us that learning from this process directly informed the development of a new single multidisciplinary team (MDT) structure, reinforcing a shared direction and strengthening team cohesion across the service.\u003Cbr\u003EThe service demonstrated an open, transparent and inclusive culture in which patients, families and staff felt confident to raise concerns without fear of detriment. Staff described a wide range of well-established and accessible routes for raising concerns, including senior leaders, HR, the Equality, Diversity and Inclusion (EDI) Lead acting as an employee advocate, anonymous feedback mechanisms and the annual staff survey.\u003Cbr\u003EThese arrangements strengthened staff voice and accountability, and supported a culture of learning, openness and continuous improvement. Staff were proud of the organisation as a place to work and spoke highly of the culture.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe provider valued diversity in their workforce. They worked towards an inclusive and fair culture by improving equality and equity for people who worked for them.\u003C/p\u003E\u003Cp\u003EThe provider demonstrated a strong commitment to equality, diversity and inclusion (EDI) and to developing an inclusive and fair workplace culture. The service operated an established EDI Committee with senior leadership oversight and delivered a management development programme focused on inclusive leadership. Recruitment practices aimed to attract diverse and inclusive managers that better reflected local population demographics.\u003C/p\u003E\u003Cp\u003EAn annual EDI metrics report evidenced positive trends, including 25% workforce representation from ethnic minority backgrounds. Workforce data showed that 75% of staff were White females, and the service had set a clear ambition to achieve a more balanced and diverse workforce, targeting a 75% mixed workforce through structured recruitment and retention strategies, including partnerships with academic institutions.\u003C/p\u003E\u003Cp\u003ETo promote belonging and inclusion, new staff received a structured four-week lunch allowance to encourage team integration and participation in EDI activities. Managers met all new starters in person on their first day, and staff received a comprehensive induction pack containing key policies and organisational information, supporting them to feel welcomed, included and well prepared from the outset.\u003C/p\u003E\u003Cp\u003EThe service had also implemented mentoring programmes, including reverse mentoring, enabling senior leaders to gain insight from the lived experiences of staff from minority backgrounds. Comprehensive mental health and well-being plans were delivered in partnership with Occupational Health. Staff told us the Human Resources leadership triangulated data from multiple sources to identify trends affecting staff wellbeing and ensure regulatory compliance. Sickness absence levels remained below national benchmarks, demonstrating the effectiveness of these wellbeing initiatives.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-02-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

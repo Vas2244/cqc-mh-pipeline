@@ -1,0 +1,289 @@
+{
+  "locationId": "1-106021624",
+  "providerId": "1-101615672",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Charis Primary Programme",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2011-01-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.5205752,
+  "onspdLongitude": -0.0543356,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "31 Mile End Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E1 4TP",
+  "uprn": "6033401",
+  "mainPhoneNumber": "02077906278",
+  "website": "www.charislondon.org",
+  "numberOfBeds": 8,
+  "constituency": "Bethnal Green and Stepney",
+  "localAuthority": "Tower Hamlets",
+  "lastInspection": {
+    "date": "2022-05-13"
+  },
+  "lastReport": {
+    "publicationDate": "2022-07-07"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Accommodation for persons who require treatment for substance misuse",
+      "code": "RA3",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Andy",
+          "personFamilyName": "Bannell",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Geoff",
+          "personFamilyName": "White",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdetoxification",
+      "inspectionAreaName": "Residential substance misuse services",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-07-07",
+      "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-07-07",
+          "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-07-07",
+          "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-07-07",
+          "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-07-07",
+          "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-07-07",
+          "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0"
+        }
+      ]
+    },
+    "reportDate": "2022-07-07",
+    "serviceRatings": [
+      {
+        "name": "mhdetoxification",
+        "rating": "Good",
+        "reportDate": "2022-07-07",
+        "reportLinkId": "567b5718-67c7-4742-8086-5034ce506ba0",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "mhsubstance",
+        "rating": "Outstanding",
+        "reportDate": "2019-09-13",
+        "reportLinkId": "4af54aad-1317-4b94-ada6-ce84ee6f393f",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-09-13",
+      "reportLinkId": "4af54aad-1317-4b94-ada6-ce84ee6f393f",
+      "overall": {
+        "rating": "Outstanding",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-01-30",
+      "reportLinkId": "e0f63129-b6da-4325-80f8-2b5ba213a30b",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "567b5718-67c7-4742-8086-5034ce506ba0",
+      "reportDate": "2022-07-07",
+      "firstVisitDate": "2022-05-10",
+      "reportUri": "/reports/567b5718-67c7-4742-8086-5034ce506ba0?20220707070103",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "4af54aad-1317-4b94-ada6-ce84ee6f393f",
+      "reportDate": "2019-09-13",
+      "firstVisitDate": "2019-07-16",
+      "reportUri": "/reports/4af54aad-1317-4b94-ada6-ce84ee6f393f?20210115212538",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "e0f63129-b6da-4325-80f8-2b5ba213a30b",
+      "reportDate": "2017-01-30",
+      "firstVisitDate": "2016-11-30",
+      "reportUri": "/reports/e0f63129-b6da-4325-80f8-2b5ba213a30b?20210120223710",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "f9b27950-fb15-4638-96f5-d7738ddd688d",
+      "reportDate": "2014-09-11",
+      "firstVisitDate": "2014-07-28",
+      "reportUri": "/reports/f9b27950-fb15-4638-96f5-d7738ddd688d?20200129163919"
+    },
+    {
+      "linkId": "d3843ff7-044d-430f-9632-e833f789292e",
+      "reportDate": "2013-08-06",
+      "firstVisitDate": "2013-07-09",
+      "reportUri": "/reports/d3843ff7-044d-430f-9632-e833f789292e?20151016191357"
+    },
+    {
+      "linkId": "58914d2e-0f5d-4547-b118-8e83e543df0a",
+      "reportDate": "2012-09-14",
+      "firstVisitDate": "2012-08-24",
+      "reportUri": "/reports/58914d2e-0f5d-4547-b118-8e83e543df0a?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "locationId": "1-12725303518",
+  "providerId": "1-12040326451",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "1 Kendrick Mews",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2022-03-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.4933079,
+  "onspdLongitude": -0.1767962,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1 Kendrick Mews",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW7 3HG",
+  "uprn": "217042929",
+  "mainPhoneNumber": "02075814908",
+  "website": "www.start2stop.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Kensington and Bayswater",
+  "localAuthority": "Kensington and Chelsea",
+  "lastInspection": {
+    "date": "2023-01-31"
+  },
+  "lastReport": {
+    "publicationDate": "2023-10-17"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Accommodation for persons who require treatment for substance misuse",
+      "code": "RA3",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Patricia Maria Caterina",
+          "personFamilyName": "Barrett",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2023-10-17",
+      "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2023-10-17",
+          "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2023-10-17",
+          "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2023-10-17",
+          "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2023-10-17",
+          "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2023-10-17",
+          "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662"
+        }
+      ]
+    },
+    "reportDate": "2023-10-17",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2023-10-17",
+        "reportLinkId": "0cbce20a-15ae-4ea6-9219-a91b75091662",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "0cbce20a-15ae-4ea6-9219-a91b75091662",
+      "reportDate": "2023-10-17",
+      "firstVisitDate": "2023-01-31",
+      "reportUri": "/reports/0cbce20a-15ae-4ea6-9219-a91b75091662?20231017070243",
+      "reportType": "Location"
+    }
+  ]
+}

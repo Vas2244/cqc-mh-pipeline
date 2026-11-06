@@ -1,0 +1,61 @@
+{
+  "locationId": "1-415047924",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Barking and Dagenham Recovery Service",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-05-04",
+  "deregistrationDate": "2012-07-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.538691,
+  "onspdLongitude": 0.075934,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "The Red Lion Public House",
+  "postalAddressLine2": "66 North Street",
+  "postalAddressTownCity": "Barking",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG11 8JD",
+  "numberOfBeds": 0,
+  "constituency": "Barking",
+  "localAuthority": "Barking and Dagenham",
+  "relationships": [
+    {
+      "relatedLocationId": "1-355777562",
+      "relatedLocationName": "Barking and Dagenham Recovery Service",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-433405078",
+      "relatedLocationName": "Barking and Dagenham Recovery Service",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionAreas": []
+}

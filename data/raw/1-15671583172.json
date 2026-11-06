@@ -1,0 +1,62 @@
+{
+  "locationId": "1-15671583172",
+  "providerId": "1-13940024026",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "63 St Marys Axe",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2023-05-16",
+  "deregistrationDate": "2025-07-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.515267,
+  "onspdLongitude": -0.080361,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "63 St. Mary Axe",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "EC3A 8AA",
+  "uprn": "10091884701",
+  "mainPhoneNumber": "02080642183",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "City of London",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

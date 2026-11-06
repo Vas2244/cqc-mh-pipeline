@@ -1,0 +1,114 @@
+{
+  "locationId": "RWK57",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Headquarters - East London NHS Foundation Trust",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-15",
+  "deregistrationDate": "2016-04-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.516339,
+  "onspdLongitude": -0.072273,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "East One",
+  "postalAddressLine2": "22 Commercial Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E1 6LP",
+  "mainPhoneNumber": "02076554000",
+  "website": "www.eastlondon.nhs.uk",
+  "constituency": "Bethnal Green and Stepney",
+  "localAuthority": "Tower Hamlets",
+  "relationships": [
+    {
+      "relatedLocationId": "RWKGY",
+      "relatedLocationName": "Trust Headquarters",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": []
+}

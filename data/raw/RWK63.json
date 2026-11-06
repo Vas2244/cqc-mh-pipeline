@@ -1,0 +1,73 @@
+{
+  "locationId": "RWK63",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Child and Adolescent Mental Health Services (CAMHS)",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-15",
+  "deregistrationDate": "2013-07-18",
+  "dormancy": "N",
+  "onspdLatitude": 51.5204741,
+  "onspdLongitude": 0.0384327,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Coburn Unit, Newham Centre for Mental Health",
+  "postalAddressLine2": "Cherry Tree Way, Glen Road, Plaistow",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E13 8SP",
+  "uprn": "10012837041",
+  "mainPhoneNumber": "02076554000",
+  "website": "www.eastlondon.nhs.uk",
+  "constituency": "West Ham and Beckton",
+  "localAuthority": "Newham",
+  "relationships": [
+    {
+      "relatedLocationId": "RWKX9",
+      "relatedLocationName": "Children\u0027s Services (Formerly \u0027Child and Adolescent Mental Health Services\u0027)",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

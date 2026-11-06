@@ -1,0 +1,63 @@
+{
+  "locationId": "RV5Z1",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Clinical Assessment Unit",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2021-08-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.389128,
+  "onspdLongitude": -0.108758,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Croydon University Hospital",
+  "postalAddressLine2": "530 London Road",
+  "postalAddressTownCity": "Thornton Heath",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR7 7YE",
+  "website": "www.croydonhealthservices.nhs.uk/croydon-university-hospital",
+  "numberOfBeds": 0,
+  "constituency": "Croydon West",
+  "localAuthority": "Croydon",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": []
+}

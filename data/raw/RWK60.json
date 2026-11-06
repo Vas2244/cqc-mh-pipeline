@@ -1,0 +1,186 @@
+{
+  "locationId": "RWK60",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Forensic Services Directorate",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.5483823,
+  "onspdLongitude": -0.0386491,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "John Howard Centre",
+  "postalAddressLine2": "12 Kenworthy Road, Hackney",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E9 5TD",
+  "uprn": "200002792037",
+  "mainPhoneNumber": "02076554000",
+  "website": "www.eastlondon.nhs.uk",
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2021-09-14"
+  },
+  "lastReport": {
+    "publicationDate": "2016-02-05"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "INS2-11252466851",
+          "reportLinkId": "6b902c34-0991-4c4d-a9c7-4c167a95c308",
+          "providerId": "RWK",
+          "locationId": "RWK60"
+        },
+        {
+          "inspectionId": "INS2-4528917616",
+          "reportLinkId": "4eb53591-6719-44e5-b200-649d69a7c580",
+          "providerId": "RWK",
+          "locationId": "RWK60"
+        },
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "5c5cf89f-9496-4997-a736-7f33cb2f7822",
+          "providerId": "RWK",
+          "locationId": "RWK60"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-02-05",
+      "reportLinkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-02-05",
+          "reportLinkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-02-05",
+          "reportLinkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-02-05",
+          "reportLinkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-02-05",
+          "reportLinkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-02-05",
+          "reportLinkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90"
+        }
+      ]
+    },
+    "reportDate": "2016-02-05"
+  },
+  "reports": [
+    {
+      "linkId": "c78eef31-2e66-4eb1-b376-2cc8820b0a90",
+      "reportDate": "2016-02-05",
+      "reportUri": "/reports/c78eef31-2e66-4eb1-b376-2cc8820b0a90?20210124094634",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "1560d4ce-1b2e-4cc8-880a-cff1429b33c4",
+      "reportDate": "2013-02-14",
+      "firstVisitDate": "2012-12-13",
+      "reportUri": "/reports/1560d4ce-1b2e-4cc8-880a-cff1429b33c4?20151016191357"
+    },
+    {
+      "linkId": "1b9bb861-d432-4fff-a8c0-9c4887c07329",
+      "reportDate": "2012-03-28",
+      "firstVisitDate": "2012-01-12",
+      "reportUri": "/reports/1b9bb861-d432-4fff-a8c0-9c4887c07329?20200430120000"
+    },
+    {
+      "linkId": "1d88f0e8-29f1-45ee-80ea-ac5c6d1eaf91",
+      "reportDate": "2011-03-28",
+      "firstVisitDate": "2010-11-25",
+      "reportUri": "/reports/1d88f0e8-29f1-45ee-80ea-ac5c6d1eaf91?20200430120000"
+    }
+  ]
+}

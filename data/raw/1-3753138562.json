@@ -1,0 +1,210 @@
+{
+  "locationId": "1-3753138562",
+  "providerId": "1-3307250982",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Addcounsel Limited",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2017-04-27",
+  "deregistrationDate": "2025-02-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.511816,
+  "onspdLongitude": -0.147719,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "28 Grosvenor Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1K 4QR",
+  "mainPhoneNumber": "02037409215",
+  "website": "www.addcounsel.com",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2022-04-14"
+  },
+  "lastReport": {
+    "publicationDate": "2022-07-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2022-07-20",
+      "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2022-07-20",
+          "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2022-07-20",
+          "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-07-20",
+          "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-07-20",
+          "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2022-07-20",
+          "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67"
+        }
+      ]
+    },
+    "reportDate": "2022-07-20",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Requires improvement",
+        "reportDate": "2022-07-20",
+        "reportLinkId": "c42da9cf-9145-4261-96bd-a15cbc128e67",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2018-04-05",
+      "reportLinkId": "12373dcf-7d50-4c87-8366-62d243daa2ec",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "c42da9cf-9145-4261-96bd-a15cbc128e67",
+      "reportDate": "2022-07-20",
+      "firstVisitDate": "2022-04-13",
+      "reportUri": "/reports/c42da9cf-9145-4261-96bd-a15cbc128e67?20220720110044",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "12373dcf-7d50-4c87-8366-62d243daa2ec",
+      "reportDate": "2018-04-05",
+      "firstVisitDate": "2018-02-06",
+      "reportUri": "/reports/12373dcf-7d50-4c87-8366-62d243daa2ec?20210117194415",
+      "reportType": "Location"
+    }
+  ]
+}

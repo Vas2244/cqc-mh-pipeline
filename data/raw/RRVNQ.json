@@ -1,0 +1,344 @@
+{
+  "locationId": "RRVNQ",
+  "providerId": "RRV",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The National Hospital for Neurology and Neurosurgery",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2011-06-27",
+  "dormancy": "N",
+  "onspdLatitude": 51.5221728,
+  "onspdLongitude": -0.1219757,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Queen Square",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "WC1N 3BG",
+  "uprn": "5133289",
+  "mainPhoneNumber": "02034477633",
+  "website": "www.uclh.org",
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2018-08-06"
+  },
+  "lastReport": {
+    "publicationDate": "2018-12-11"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Transport services, triage and medical advice provided remotely",
+      "code": "RA10",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospital",
+      "description": "Acute services with overnight beds"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Urgent care centres",
+      "description": "Urgent care services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H2",
+      "primary": "true",
+      "name": "Acute hospital - NHS specialist"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "care",
+      "inspectionAreaName": "Medical care (including older people\u0027s care)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "critical",
+      "inspectionAreaName": "Critical care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "npioutpatients",
+      "inspectionAreaName": "Outpatients",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "surgery",
+      "inspectionAreaName": "Surgery",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2018-12-11",
+      "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2018-12-11",
+          "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2018-12-11",
+          "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2018-12-11",
+          "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2018-12-11",
+          "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2018-12-11",
+          "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1"
+        }
+      ]
+    },
+    "reportDate": "2018-12-11",
+    "serviceRatings": [
+      {
+        "name": "care",
+        "rating": "Good",
+        "reportDate": "2018-12-11",
+        "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "critical",
+        "rating": "Good",
+        "reportDate": "2018-12-11",
+        "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "npioutpatients",
+        "rating": "Good",
+        "reportDate": "2018-12-11",
+        "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "surgery",
+        "rating": "Good",
+        "reportDate": "2018-12-11",
+        "reportLinkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "ba03ce06-657d-4380-bc9c-dea2af1fedd1",
+      "reportDate": "2018-12-11",
+      "reportUri": "/reports/ba03ce06-657d-4380-bc9c-dea2af1fedd1?20210115031813",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "c2ce986e-1b9d-4d85-ba6b-62f761eb1e0d",
+      "reportDate": "2013-07-13",
+      "firstVisitDate": "2013-06-06",
+      "reportUri": "/reports/c2ce986e-1b9d-4d85-ba6b-62f761eb1e0d?20200129163919"
+    },
+    {
+      "linkId": "6e703042-3b08-4aea-aabb-a8561ecc48c5",
+      "reportDate": "2012-12-20",
+      "firstVisitDate": "2012-11-12",
+      "reportUri": "/reports/6e703042-3b08-4aea-aabb-a8561ecc48c5?20200129163919"
+    }
+  ]
+}

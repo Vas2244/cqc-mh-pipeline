@@ -1,0 +1,53 @@
+{
+  "locationId": "1-6878210227",
+  "providerId": "1-6000568019",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Complete Detox Limited",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-05-15",
+  "deregistrationDate": "2020-08-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.4618544,
+  "onspdLongitude": -0.2205747,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "278 Upper Richmond Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW15 6TQ",
+  "uprn": "121048477",
+  "mainPhoneNumber": "07511840819",
+  "numberOfBeds": 0,
+  "constituency": "Putney",
+  "localAuthority": "Wandsworth",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,131 @@
+{
+  "locationId": "1-135330528",
+  "providerId": "1-101617404",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Addaction - Cobbold Road",
+  "brandId": "BD250",
+  "brandName": "BRAND Addaction",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-21",
+  "deregistrationDate": "2017-06-07",
+  "dormancy": "N",
+  "onspdLatitude": 51.547395,
+  "onspdLongitude": -0.246945,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "97 Cobbold Road",
+  "postalAddressLine2": "Willesden, Brent",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW10 9SU",
+  "mainPhoneNumber": "02084599510",
+  "numberOfBeds": 0,
+  "constituency": "Brent East",
+  "localAuthority": "Brent",
+  "lastInspection": {
+    "date": "2016-12-08"
+  },
+  "lastReport": {
+    "publicationDate": "2017-03-27"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-03-27",
+      "reportLinkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-27",
+          "reportLinkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-27",
+          "reportLinkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-27",
+          "reportLinkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-27",
+          "reportLinkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-27",
+          "reportLinkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb"
+        }
+      ]
+    },
+    "reportDate": "2017-03-27"
+  },
+  "reports": [
+    {
+      "linkId": "c2f6c380-37e7-4235-b626-250cb73fa7cb",
+      "reportDate": "2017-03-27",
+      "firstVisitDate": "2016-12-07",
+      "reportUri": "/reports/c2f6c380-37e7-4235-b626-250cb73fa7cb?20210120002214",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "3ddeda67-3001-4e0d-aeb1-a519c18c9448",
+      "reportDate": "2014-09-20",
+      "firstVisitDate": "2014-08-21",
+      "reportUri": "/reports/3ddeda67-3001-4e0d-aeb1-a519c18c9448?20200129163919"
+    },
+    {
+      "linkId": "2279ab0f-0bdd-4270-ba65-bb5ea4594c3f",
+      "reportDate": "2013-11-05",
+      "firstVisitDate": "2013-08-19",
+      "reportUri": "/reports/2279ab0f-0bdd-4270-ba65-bb5ea4594c3f?20200129163919"
+    },
+    {
+      "linkId": "f372d4ba-c129-4790-8276-67c3dcbaddb6",
+      "reportDate": "2013-01-08",
+      "firstVisitDate": "2012-12-11",
+      "reportUri": "/reports/f372d4ba-c129-4790-8276-67c3dcbaddb6?20151016191357"
+    },
+    {
+      "linkId": "3003e5d1-d1ce-4062-a6dc-730d60fa1648",
+      "reportDate": "2012-01-03",
+      "firstVisitDate": "2011-12-02",
+      "reportUri": "/reports/3003e5d1-d1ce-4062-a6dc-730d60fa1648?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "locationId": "1-25155863415",
+  "providerId": "1-23190737221",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Innovate ADHD HQ",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-10-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.524388,
+  "onspdLongitude": -0.082296,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1 Mark Square",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "EC2A 4EG",
+  "uprn": "10091999410",
+  "mainPhoneNumber": "02080582171",
+  "numberOfBeds": 0,
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Sarah Joanne",
+          "personFamilyName": "Navoy",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,249 @@
+{
+  "locationId": "RV509",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Ladywell Unit",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.453022,
+  "onspdLongitude": -0.017916,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "University Hospital Lewisham",
+  "postalAddressLine2": "Lewisham High Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE13 6LH",
+  "mainPhoneNumber": "02032289016",
+  "registeredManagerAbsentDate": "2010-06-10",
+  "website": "www.slam.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham North",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2021-05-05"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "aeeca0fe-04f8-420e-8e0c-b4a0542736ee",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "b4047e6b-60c0-4bf5-b6a7-373770c29842",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-14732366521",
+          "reportLinkId": "e5509042-3611-4552-91f5-37dbc61b7fa6",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "INS2-3148149307",
+          "reportLinkId": "485f1645-0d1f-4c6d-bc89-ddbeebaf970b",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "1da8b008-fb3b-405d-8650-467365622598",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhperinatal",
+      "reports": [
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "210d4f3c-8df5-487a-9cc8-ec8f4f89677a",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-10639861201",
+          "reportLinkId": "388b0f12-e3dc-4417-be5f-becdd0379cc6",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "INS2-17711244651",
+          "reportLinkId": "cdb6049b-8287-4910-b16c-b39ce5c273df",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "INS2-3104851443",
+          "reportLinkId": "9bd60e7d-cafe-49f7-9172-430850cf8dd3",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "INS2-5450922119",
+          "reportLinkId": "fc5da7eb-0ef5-47c2-9305-cd5de2e6edef",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "5160556b-6a55-44e0-91b1-24f760502743",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "5b5aa539-2955-4d1e-8b41-1aa1cb75b6c1",
+          "providerId": "RV5",
+          "locationId": "RV509"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "44ec03d0-ba90-466d-bbda-711d521423e9",
+      "reportDate": "2014-01-10",
+      "firstVisitDate": "2013-12-06",
+      "reportUri": "/reports/44ec03d0-ba90-466d-bbda-711d521423e9?20200129163919"
+    },
+    {
+      "linkId": "5938bd91-8c4a-440a-b93d-2ad1420ccf2a",
+      "reportDate": "2012-03-06",
+      "firstVisitDate": "2012-01-27",
+      "reportUri": "/reports/5938bd91-8c4a-440a-b93d-2ad1420ccf2a?20200430120000"
+    },
+    {
+      "linkId": "bd913dc7-b34b-4633-9a1b-8a64fbef84ae",
+      "reportDate": "2011-10-31",
+      "firstVisitDate": "2011-10-21",
+      "reportUri": "/reports/bd913dc7-b34b-4633-9a1b-8a64fbef84ae?20200430120000"
+    },
+    {
+      "linkId": "cafe4944-aefb-44fa-9dcb-f1403eaca51f",
+      "reportDate": "2011-09-19",
+      "firstVisitDate": "2011-09-02",
+      "reportUri": "/reports/cafe4944-aefb-44fa-9dcb-f1403eaca51f?20200430120000"
+    },
+    {
+      "linkId": "1d07b7eb-8dde-410b-9ac0-4380e567ae97",
+      "reportDate": "2011-07-01",
+      "firstVisitDate": "2011-03-29",
+      "reportUri": "/reports/1d07b7eb-8dde-410b-9ac0-4380e567ae97?20200430120000"
+    },
+    {
+      "linkId": "b347ab40-50b2-4d7c-a229-95f5e5f6126c",
+      "reportDate": "2011-06-14",
+      "firstVisitDate": "2011-03-29",
+      "reportUri": "/reports/b347ab40-50b2-4d7c-a229-95f5e5f6126c?20200430120000"
+    }
+  ]
+}

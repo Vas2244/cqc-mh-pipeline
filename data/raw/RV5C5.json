@@ -1,0 +1,106 @@
+{
+  "locationId": "RV5C5",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Greenvale Specialist Care Unit",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "odsCode": "VM64Y",
+  "registrationStatus": "Registered",
+  "registrationDate": "2015-05-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.4201864,
+  "onspdLongitude": -0.1264895,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Voss Court",
+  "postalAddressLine2": "Streatham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW16 3BS",
+  "uprn": "100021895660",
+  "mainPhoneNumber": "02032288010",
+  "registeredManagerAbsentDate": "2017-11-18",
+  "website": "www.slam.nhs.uk/about-us/clinical-academic-groups/older-adults-and-dementia",
+  "numberOfBeds": 29,
+  "constituency": "Streatham and Croydon North",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2023-02-21"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-14732366521",
+          "reportLinkId": "e5509042-3611-4552-91f5-37dbc61b7fa6",
+          "providerId": "RV5",
+          "locationId": "RV5C5"
+        },
+        {
+          "inspectionId": "INS2-3148149307",
+          "reportLinkId": "485f1645-0d1f-4c6d-bc89-ddbeebaf970b",
+          "providerId": "RV5",
+          "locationId": "RV5C5"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "1da8b008-fb3b-405d-8650-467365622598",
+          "providerId": "RV5",
+          "locationId": "RV5C5"
+        }
+      ]
+    }
+  ]
+}

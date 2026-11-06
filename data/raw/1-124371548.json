@@ -1,0 +1,115 @@
+{
+  "locationId": "1-124371548",
+  "providerId": "1-101698420",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Manon House",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-12-03",
+  "deregistrationDate": "2016-08-11",
+  "dormancy": "N",
+  "dormancyEndDate": "2021-09-22",
+  "onspdLatitude": 51.354842,
+  "onspdLongitude": -0.0918,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "2 Carlton Road",
+  "postalAddressTownCity": "South Croydon",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR2 0BP",
+  "mainPhoneNumber": "02086880042",
+  "numberOfBeds": 7,
+  "constituency": "Croydon South",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2013-09-16"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "S1",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "e9c6a14c-8c37-4915-898b-1b7689190832",
+      "reportDate": "2013-10-18",
+      "firstVisitDate": "2013-09-16",
+      "reportUri": "/reports/e9c6a14c-8c37-4915-898b-1b7689190832?20151016191357"
+    },
+    {
+      "linkId": "dd0c58de-c2e7-45ba-b7eb-018dcb7bb273",
+      "reportDate": "2012-11-02",
+      "firstVisitDate": "2012-10-10",
+      "reportUri": "/reports/dd0c58de-c2e7-45ba-b7eb-018dcb7bb273?20200129163919"
+    },
+    {
+      "linkId": "68106a98-e4e6-4d1f-b2f9-6568e3871642",
+      "reportDate": "2011-10-04",
+      "firstVisitDate": "2011-07-21",
+      "reportUri": "/reports/68106a98-e4e6-4d1f-b2f9-6568e3871642?20200430120000"
+    }
+  ]
+}

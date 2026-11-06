@@ -1,0 +1,163 @@
+{
+  "locationId": "RV329",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "3 Beatrice Place",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2011-07-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.496665,
+  "onspdLongitude": -0.191597,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Marloes Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W8 5LW",
+  "uprn": "217110850",
+  "mainPhoneNumber": "02088466045",
+  "website": "www.cnwl.nhs.uk",
+  "constituency": "Kensington and Bayswater",
+  "localAuthority": "Kensington and Chelsea",
+  "lastInspection": {
+    "date": "2017-02-01"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-3104851463",
+          "reportLinkId": "721bb3db-37a8-4e16-9c05-c8fc991c7f52",
+          "providerId": "RV3",
+          "locationId": "RV329"
+        },
+        {
+          "inspectionId": "INS2-5438737561",
+          "reportLinkId": "915fbbea-1489-437b-8256-3017c77e9e1d",
+          "providerId": "RV3",
+          "locationId": "RV329"
+        },
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "28ea1642-0370-44c6-8577-f9a08c99af37",
+          "providerId": "RV3",
+          "locationId": "RV329"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "15d067cb-590c-4180-9957-83b6e19969c3",
+      "reportDate": "2014-07-15",
+      "firstVisitDate": "2014-05-20",
+      "reportUri": "/reports/15d067cb-590c-4180-9957-83b6e19969c3?20200129163919"
+    },
+    {
+      "linkId": "8faf68e9-10ec-4d32-af0d-49ccaf366a17",
+      "reportDate": "2014-03-15",
+      "firstVisitDate": "2013-12-04",
+      "reportUri": "/reports/8faf68e9-10ec-4d32-af0d-49ccaf366a17?20200129163919"
+    },
+    {
+      "linkId": "675ad4b9-9dc8-4bea-87a9-af6ee18efd7d",
+      "reportDate": "2013-10-02",
+      "firstVisitDate": "2013-07-17",
+      "reportUri": "/reports/675ad4b9-9dc8-4bea-87a9-af6ee18efd7d?20200129163919"
+    },
+    {
+      "linkId": "d4ab6962-40e7-435c-a297-860731259cde",
+      "reportDate": "2011-09-07",
+      "firstVisitDate": "2011-07-22",
+      "reportUri": "/reports/d4ab6962-40e7-435c-a297-860731259cde?20200430120000"
+    },
+    {
+      "linkId": "2f407769-2d24-467f-bc2e-149fb92cbffa",
+      "reportDate": "2011-03-14",
+      "firstVisitDate": "2011-01-19",
+      "reportUri": "/reports/2f407769-2d24-467f-bc2e-149fb92cbffa?20200430120000"
+    }
+  ]
+}

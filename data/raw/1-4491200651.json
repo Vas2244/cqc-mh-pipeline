@@ -1,0 +1,159 @@
+{
+  "locationId": "1-4491200651",
+  "providerId": "1-126775082",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Compass - Lewisham Health and Wellbeing Service",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2017-12-19",
+  "deregistrationDate": "2020-06-17",
+  "dormancy": "N",
+  "onspdLatitude": 51.445867,
+  "onspdLongitude": -0.020773,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "The Hub, 38-39 Winslade Way",
+  "postalAddressLine2": "Catford",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE6 4JU",
+  "mainPhoneNumber": "07890610686",
+  "website": "www.compass-uk.org",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham East",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2018-09-12"
+  },
+  "lastReport": {
+    "publicationDate": "2018-11-14"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2018-11-14",
+      "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2018-11-14",
+          "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2018-11-14",
+          "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2018-11-14",
+          "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Requires improvement",
+          "reportDate": "2018-11-14",
+          "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2018-11-14",
+          "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e"
+        }
+      ]
+    },
+    "reportDate": "2018-11-14",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Requires improvement",
+        "reportDate": "2018-11-14",
+        "reportLinkId": "d44f0f9f-befb-4365-a539-c0a358cca48e",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "d44f0f9f-befb-4365-a539-c0a358cca48e",
+      "reportDate": "2018-11-14",
+      "firstVisitDate": "2018-09-11",
+      "reportUri": "/reports/d44f0f9f-befb-4365-a539-c0a358cca48e?20210117002836",
+      "reportType": "Location"
+    }
+  ]
+}

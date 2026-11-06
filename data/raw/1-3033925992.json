@@ -1,0 +1,176 @@
+{
+  "locationId": "1-3033925992",
+  "providerId": "1-102642990",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "United Response - London SLS",
+  "brandId": "BD200",
+  "brandName": "BRAND United Response",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "odsCode": "VN3TT",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-11-11",
+  "deregistrationDate": "2020-01-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.426961,
+  "onspdLongitude": -0.33017,
+  "careHome": "N",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "Rowan House",
+  "postalAddressLine2": "Field Lane",
+  "postalAddressTownCity": "Teddington",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "TW11 9BP",
+  "numberOfBeds": 0,
+  "constituency": "Twickenham",
+  "localAuthority": "Richmond upon Thames",
+  "lastInspection": {
+    "date": "2019-04-26"
+  },
+  "lastReport": {
+    "publicationDate": "2019-05-23"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-8043166315",
+      "relatedLocationName": "Richmond and Kingston DCA",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-1987906186",
+      "relatedLocationName": "United Response - London SLS",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Supported living",
+      "description": "Supported living service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2019-05-23",
+      "reportLinkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2019-05-23",
+          "reportLinkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2019-05-23",
+          "reportLinkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-05-23",
+          "reportLinkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-05-23",
+          "reportLinkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2019-05-23",
+          "reportLinkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a"
+        }
+      ]
+    },
+    "reportDate": "2019-05-23"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-01-05",
+      "reportLinkId": "3aea30f3-2af0-4786-ba22-6c28c5289474",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a",
+      "reportDate": "2019-05-23",
+      "firstVisitDate": "2019-04-26",
+      "reportUri": "/reports/edc0af11-4e6c-4bd5-9fa5-1c375c9b3e9a?20190523120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "3aea30f3-2af0-4786-ba22-6c28c5289474",
+      "reportDate": "2017-01-05",
+      "firstVisitDate": "2016-12-05",
+      "reportUri": "/reports/3aea30f3-2af0-4786-ba22-6c28c5289474?20170105130000",
+      "reportType": "Location"
+    }
+  ]
+}

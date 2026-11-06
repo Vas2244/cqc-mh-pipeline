@@ -1,0 +1,292 @@
+{
+  "locationId": "1-135076019",
+  "providerId": "1-101644275",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Brook Drive",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "odsCode": "VLK2R",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-12",
+  "deregistrationDate": "2022-03-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.4936597,
+  "onspdLongitude": -0.1060302,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "124 Brook Drive",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE11 4TQ",
+  "uprn": "100021817799",
+  "mainPhoneNumber": "02078209924",
+  "website": "www.equinoxcare.org.uk",
+  "numberOfBeds": 27,
+  "constituency": "Bermondsey and Old Southwark",
+  "localAuthority": "Southwark",
+  "lastInspection": {
+    "date": "2021-07-21"
+  },
+  "lastReport": {
+    "publicationDate": "2022-02-10"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdetoxification",
+      "inspectionAreaName": "Residential substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inadequate",
+      "reportDate": "2022-02-10",
+      "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2022-02-10",
+          "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inadequate",
+          "reportDate": "2022-02-10",
+          "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-02-10",
+          "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inadequate",
+          "reportDate": "2022-02-10",
+          "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inadequate",
+          "reportDate": "2022-02-10",
+          "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84"
+        }
+      ]
+    },
+    "reportDate": "2022-02-10",
+    "serviceRatings": [
+      {
+        "name": "mhdetoxification",
+        "rating": "Inadequate",
+        "reportDate": "2022-02-10",
+        "reportLinkId": "253328c4-4a91-4bc7-9fab-c5340000db84",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-01-11",
+      "reportLinkId": "7ad7192b-4067-497a-a54c-072cf961da7a",
+      "serviceRatings": [
+        {
+          "name": "mhdetoxification",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-10-19",
+      "reportLinkId": "2717f335-8bb5-4553-bb46-8d96d83348af",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-07-05",
+      "reportLinkId": "047ab176-5996-42aa-86b6-d3b68753333a",
+      "overall": {
+        "rating": "Inspected but not rated"
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "253328c4-4a91-4bc7-9fab-c5340000db84",
+      "reportDate": "2022-02-10",
+      "firstVisitDate": "2021-07-20",
+      "reportUri": "/reports/253328c4-4a91-4bc7-9fab-c5340000db84?20220210080048",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "7ad7192b-4067-497a-a54c-072cf961da7a",
+      "reportDate": "2019-01-11",
+      "firstVisitDate": "2018-11-14",
+      "reportUri": "/reports/7ad7192b-4067-497a-a54c-072cf961da7a?20210116001329",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "2717f335-8bb5-4553-bb46-8d96d83348af",
+      "reportDate": "2017-10-19",
+      "firstVisitDate": "2017-08-01",
+      "reportUri": "/reports/2717f335-8bb5-4553-bb46-8d96d83348af?20210118012735",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "047ab176-5996-42aa-86b6-d3b68753333a",
+      "reportDate": "2016-07-05",
+      "firstVisitDate": "2016-02-02",
+      "reportUri": "/reports/047ab176-5996-42aa-86b6-d3b68753333a?20210113040513",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a72ceb32-0900-455a-8ab0-bb29aaf2a5d4",
+      "reportDate": "2013-11-01",
+      "firstVisitDate": "2013-10-03",
+      "reportUri": "/reports/a72ceb32-0900-455a-8ab0-bb29aaf2a5d4?20200129163919"
+    },
+    {
+      "linkId": "3404f3fb-c106-49df-80a3-05a1ae18338e",
+      "reportDate": "2013-01-18",
+      "firstVisitDate": "2012-12-12",
+      "reportUri": "/reports/3404f3fb-c106-49df-80a3-05a1ae18338e?20200129163919"
+    },
+    {
+      "linkId": "4967659b-2204-4271-bf3d-ecc49a2a5732",
+      "reportDate": "2012-03-22",
+      "firstVisitDate": "2012-02-10",
+      "reportUri": "/reports/4967659b-2204-4271-bf3d-ecc49a2a5732?20200430120000"
+    }
+  ]
+}

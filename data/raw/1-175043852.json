@@ -1,0 +1,123 @@
+{
+  "locationId": "1-175043852",
+  "providerId": "1-137342873",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Long Yard",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-04",
+  "deregistrationDate": "2017-02-21",
+  "dormancy": "N",
+  "onspdLatitude": 51.522849,
+  "onspdLongitude": -0.118269,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "8-9 Long Yard",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "WC1N 3LU",
+  "mainPhoneNumber": "02074041117",
+  "website": "www.phoenix-futures.org.uk",
+  "numberOfBeds": 18,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2016-01-27"
+  },
+  "lastReport": {
+    "publicationDate": "2016-05-13"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-05-13",
+      "reportLinkId": "b787cead-7085-4592-abb3-4bf02d1e3086",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-05-13",
+          "reportLinkId": "b787cead-7085-4592-abb3-4bf02d1e3086"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-05-13",
+          "reportLinkId": "b787cead-7085-4592-abb3-4bf02d1e3086"
+        }
+      ]
+    },
+    "reportDate": "2016-05-13"
+  },
+  "reports": [
+    {
+      "linkId": "b787cead-7085-4592-abb3-4bf02d1e3086",
+      "reportDate": "2016-05-13",
+      "firstVisitDate": "2016-01-27",
+      "reportUri": "/reports/b787cead-7085-4592-abb3-4bf02d1e3086?20210123141604",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "73ea0f5b-0f1b-4fa6-b3fd-c3fc69980ecb",
+      "reportDate": "2014-04-12",
+      "firstVisitDate": "2014-03-14",
+      "reportUri": "/reports/73ea0f5b-0f1b-4fa6-b3fd-c3fc69980ecb?20151016191357"
+    },
+    {
+      "linkId": "e6215736-9fcd-46c8-b3b0-dc773d9c5948",
+      "reportDate": "2013-10-25",
+      "firstVisitDate": "2013-09-23",
+      "reportUri": "/reports/e6215736-9fcd-46c8-b3b0-dc773d9c5948?20151016191357"
+    },
+    {
+      "linkId": "269cd45e-1df1-4db4-8aca-43ac9bc2c15d",
+      "reportDate": "2013-03-06",
+      "firstVisitDate": "2012-12-24",
+      "reportUri": "/reports/269cd45e-1df1-4db4-8aca-43ac9bc2c15d?20151016191357"
+    },
+    {
+      "linkId": "f4ac39cc-a2ff-436c-bbf4-2850afce98c3",
+      "reportDate": "2011-07-22",
+      "firstVisitDate": "2011-05-12",
+      "reportUri": "/reports/f4ac39cc-a2ff-436c-bbf4-2850afce98c3?20200430120000"
+    }
+  ]
+}

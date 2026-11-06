@@ -1,0 +1,73 @@
+{
+  "locationId": "1-6261472583",
+  "providerId": "1-126775082",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Tower Hamlets Health and Wellbeing Service",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-01-11",
+  "deregistrationDate": "2022-08-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.5208666,
+  "onspdLongitude": -0.0527058,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "59 Mile End Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E1 4TT",
+  "uprn": "6036129",
+  "mainPhoneNumber": "07890610686",
+  "numberOfBeds": 0,
+  "constituency": "Bethnal Green and Stepney",
+  "localAuthority": "Tower Hamlets",
+  "lastInspection": {
+    "date": "2022-07-19"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-5589241675",
+      "relatedLocationName": "Tower Hamlets Health and Wellbeing Services",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-13599225413",
+      "relatedLocationName": "Tower Hamlets Enhanced Public Health Nursing Service",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

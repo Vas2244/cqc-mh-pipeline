@@ -1,0 +1,85 @@
+{
+  "locationId": "1-950586936",
+  "providerId": "1-714773332",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Red and Yellow Memory Services Limited",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-09-13",
+  "deregistrationDate": "2016-03-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.479054,
+  "onspdLongitude": -0.168119,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "33 Parkgate Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW11 4NP",
+  "mainPhoneNumber": "02072286856",
+  "numberOfBeds": 0,
+  "constituency": "Battersea",
+  "localAuthority": "Wandsworth",
+  "relationships": [
+    {
+      "relatedLocationId": "1-2497269696",
+      "relatedLocationName": "Halcyon Doctors Limited",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P7",
+      "primary": "true",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": []
+}

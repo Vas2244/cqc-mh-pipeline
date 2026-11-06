@@ -1,0 +1,95 @@
+{
+  "locationId": "1-527018428",
+  "providerId": "1-392600060",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Lees Cottage",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-11-29",
+  "deregistrationDate": "2016-09-23",
+  "dormancy": "N",
+  "onspdLatitude": 51.528757,
+  "onspdLongitude": -0.449652,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "32 Lees Road",
+  "postalAddressTownCity": "Uxbridge",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "UB8 3AT",
+  "mainPhoneNumber": "03305550002",
+  "website": "www.thesanctum.uk.com",
+  "numberOfBeds": 0,
+  "constituency": "Uxbridge and South Ruislip",
+  "localAuthority": "Hillingdon",
+  "lastInspection": {
+    "date": "2014-07-03"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "234cf022-29fa-4c44-a357-2beab9d83a29",
+      "reportDate": "2014-07-16",
+      "firstVisitDate": "2014-07-03",
+      "reportUri": "/reports/234cf022-29fa-4c44-a357-2beab9d83a29?20151016191357"
+    },
+    {
+      "linkId": "fbb71878-b62d-4174-aa2d-4380a535b430",
+      "reportDate": "2014-01-10",
+      "firstVisitDate": "2013-12-13",
+      "reportUri": "/reports/fbb71878-b62d-4174-aa2d-4380a535b430?20200129163919"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "locationId": "RWKW3",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Children\u0027s Services",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2016-04-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.513374,
+  "onspdLongitude": -0.071865,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "9 Alie Street",
+  "postalAddressLine2": "Aldgate",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E1 8DE",
+  "mainPhoneNumber": "02076554000",
+  "numberOfBeds": 0,
+  "constituency": "Bethnal Green and Stepney",
+  "localAuthority": "Tower Hamlets",
+  "lastInspection": {
+    "date": "2016-06-14"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Family planning",
+      "code": "RA15",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "46bfc622-aeb2-480e-afe7-8cc5f91fdb97",
+          "providerId": "RWK",
+          "locationId": "RWKW3"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "7f3aaf9c-0c67-499e-9496-af0dd0d8d948",
+          "providerId": "RWK",
+          "locationId": "RWKW3"
+        }
+      ]
+    }
+  ]
+}

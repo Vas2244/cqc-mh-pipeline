@@ -1,0 +1,154 @@
+{
+  "locationId": "1-6471386804",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Bromley Drug and Alcohol Service",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-04-17",
+  "deregistrationDate": "2024-04-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.409191,
+  "onspdLongitude": 0.010068,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "35 London Road",
+  "postalAddressTownCity": "Bromley",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR1 1DG",
+  "mainPhoneNumber": "02082891999",
+  "website": "www.changegrowlive.org",
+  "numberOfBeds": 0,
+  "constituency": "Bromley and Biggin Hill",
+  "localAuthority": "Bromley",
+  "lastInspection": {
+    "date": "2022-08-01"
+  },
+  "lastReport": {
+    "publicationDate": "2022-10-31"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-19431293416",
+      "relatedLocationName": "CGL Bromley",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-10-31",
+      "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-10-31",
+          "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-10-31",
+          "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-10-31",
+          "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-10-31",
+          "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-10-31",
+          "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4"
+        }
+      ]
+    },
+    "reportDate": "2022-10-31",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2022-10-31",
+        "reportLinkId": "b535678b-86d7-46cf-acb7-82cf414405e4",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "b535678b-86d7-46cf-acb7-82cf414405e4",
+      "reportDate": "2022-10-31",
+      "firstVisitDate": "2022-07-28",
+      "reportUri": "/reports/b535678b-86d7-46cf-acb7-82cf414405e4?20221031090101",
+      "reportType": "Location"
+    }
+  ]
+}

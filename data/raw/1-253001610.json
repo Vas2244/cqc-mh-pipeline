@@ -1,0 +1,92 @@
+{
+  "locationId": "1-253001610",
+  "providerId": "1-127891911",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Drug and Alcohol Service for London (Newham office)",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-06-06",
+  "deregistrationDate": "2016-04-25",
+  "dormancy": "N",
+  "onspdLatitude": 51.544051,
+  "onspdLongitude": 0.015028,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Capital House",
+  "postalAddressLine2": "134-138 Romford Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E15 4LD",
+  "constituency": "Stratford and Bow",
+  "localAuthority": "Newham",
+  "lastInspection": {
+    "date": "2013-11-11"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "4c45036c-dd94-477c-8d50-0769a88af434",
+      "reportDate": "2014-01-16",
+      "firstVisitDate": "2013-11-11",
+      "reportUri": "/reports/4c45036c-dd94-477c-8d50-0769a88af434?20151016191357"
+    },
+    {
+      "linkId": "8e5fd71b-142f-489d-982b-68635f2a576c",
+      "reportDate": "2013-04-09",
+      "firstVisitDate": "2013-03-06",
+      "reportUri": "/reports/8e5fd71b-142f-489d-982b-68635f2a576c?20200129163919"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "locationId": "1-126790225",
+  "providerId": "1-116865897",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Hartwood Lodge",
+  "brandId": "BD144",
+  "brandName": "BRAND Priory Group",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-12-20",
+  "deregistrationDate": "2011-06-02",
+  "dormancy": "N",
+  "onspdLatitude": 51.569249,
+  "onspdLongitude": 0.0176,
+  "careHome": "Y",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "14 Bushwood",
+  "postalAddressLine2": "Leytonstone",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E11 3AY",
+  "mainPhoneNumber": "02085188988",
+  "website": "www.careuk.com",
+  "numberOfBeds": 17,
+  "constituency": "Leyton and Wanstead",
+  "localAuthority": "Waltham Forest",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,127 @@
+{
+  "locationId": "RWKX9",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Children\u0027s Services (Formerly \u0027Child and Adolescent Mental Health Services\u0027)",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2013-07-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.516339,
+  "onspdLongitude": -0.072273,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "East One",
+  "postalAddressLine2": "22 Commercial Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E1 6LP",
+  "numberOfBeds": 0,
+  "constituency": "Bethnal Green and Stepney",
+  "localAuthority": "Tower Hamlets",
+  "lastInspection": {
+    "date": "2016-06-14"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RWK63",
+      "relatedLocationName": "Child and Adolescent Mental Health Services (CAMHS)",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H2",
+      "name": "Acute hospital - NHS specialist"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "b55a6c4a-e960-4816-bf8f-79ecd37e348c",
+          "providerId": "RWK",
+          "locationId": "RWKX9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "locationId": "5C3X1",
+  "providerId": "5C3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "NHS City and Hackney Community Health Services",
+  "brandId": "Q36",
+  "brandName": "London Strategic Health Authority",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-03-24",
+  "deregistrationDate": "2011-07-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.530297,
+  "onspdLongitude": -0.079974,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Defoe Building, Hackney Community College",
+  "postalAddressLine2": "50 Hoxton Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N1 6LP",
+  "mainPhoneNumber": "02076834000",
+  "website": "www.chpct.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [],
+  "inspectionAreas": []
+}

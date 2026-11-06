@@ -1,0 +1,123 @@
+{
+  "locationId": "RJ1X6",
+  "providerId": "RJ1",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Guy\u0027s \u0026 St Thomas\u0027 NHS Foundation Trust Community Services",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-06-11",
+  "deregistrationDate": "2017-01-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.503211,
+  "onspdLongitude": -0.079442,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "160 Tooley Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE1 2TZ",
+  "mainPhoneNumber": "02071887708",
+  "website": "www.guysandstthomas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Bermondsey and Old Southwark",
+  "localAuthority": "Southwark",
+  "relationships": [
+    {
+      "relatedLocationId": "RJ1X8",
+      "relatedLocationName": "Guy\u0027s and St Thomas\u0027 NHS Foundation Trust Adult Community Services",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "INS2-4830768569",
+          "reportLinkId": "6c462786-a5c6-4779-a899-0ac4352876dc",
+          "providerId": "RJ1",
+          "locationId": "RJ1X6"
+        },
+        {
+          "inspectionId": "SPL1-2096459149",
+          "reportLinkId": "dec8a24e-f79c-451f-8c68-78def82ded88",
+          "providerId": "RJ1",
+          "locationId": "RJ1X6"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2096459149",
+          "reportLinkId": "bf5f4918-bb8b-4dce-a552-a1e4d2d9e5f9",
+          "providerId": "RJ1",
+          "locationId": "RJ1X6"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsinpatient",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2096459149",
+          "reportLinkId": "4a321e1d-f32c-4143-ad0b-9fb2d8f46abb",
+          "providerId": "RJ1",
+          "locationId": "RJ1X6"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chslife",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2096459149",
+          "reportLinkId": "051bf9e5-f7a6-47e1-987f-88c622079f03",
+          "providerId": "RJ1",
+          "locationId": "RJ1X6"
+        }
+      ]
+    }
+  ]
+}

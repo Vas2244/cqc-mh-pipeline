@@ -1,0 +1,70 @@
+{
+  "locationId": "5A720",
+  "providerId": "5A7",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Beckenham Beacon",
+  "brandId": "Q36",
+  "brandName": "London Strategic Health Authority",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-15",
+  "deregistrationDate": "2012-04-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.4052306,
+  "onspdLongitude": -0.0331825,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "379 Croydon Road",
+  "postalAddressTownCity": "Beckenham",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR3 3QL",
+  "uprn": "100022894315",
+  "mainPhoneNumber": "01689866530",
+  "website": "www.bromley.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Beckenham and Penge",
+  "localAuthority": "Bromley",
+  "relationships": [
+    {
+      "relatedLocationId": "1-233070238",
+      "relatedLocationName": "Beckenham Beacon",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionAreas": []
+}

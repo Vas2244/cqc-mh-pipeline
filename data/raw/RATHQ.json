@@ -1,0 +1,76 @@
+{
+  "locationId": "RATHQ",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Head Office",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2013-02-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.577993,
+  "onspdLongitude": 0.110488,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Tantallon House",
+  "postalAddressLine2": "Goodmayes Hospital, Barley Lane",
+  "postalAddressTownCity": "Ilford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG3 8XJ",
+  "mainPhoneNumber": "08446001201",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ilford South",
+  "localAuthority": "Redbridge",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,111 @@
+{
+  "locationId": "RPGAP",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Barefoot Lodge",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.478611,
+  "onspdLongitude": 0.116667,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Goldie Leigh Hospital Site",
+  "postalAddressLine2": "Lodge Hill, Abbeywood",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE2 0AY",
+  "mainPhoneNumber": "02088368543",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Erith and Thamesmead",
+  "localAuthority": "Greenwich",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Prison healthcare",
+      "description": "Prison Healthcare Services"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "b36b8434-1bec-49ee-b17a-8993e70c8810",
+          "providerId": "RPG",
+          "locationId": "RPGAP"
+        }
+      ]
+    }
+  ]
+}

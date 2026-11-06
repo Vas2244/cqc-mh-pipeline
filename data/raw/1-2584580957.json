@@ -1,0 +1,84 @@
+{
+  "locationId": "1-2584580957",
+  "providerId": "1-1038083042",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Bernard Weatherill House",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-04-14",
+  "deregistrationDate": "2017-07-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.371477,
+  "onspdLongitude": -0.098824,
+  "careHome": "N",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "4th Floor",
+  "postalAddressLine2": "Zone D",
+  "postalAddressTownCity": "Croydon",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR0 1EA",
+  "mainPhoneNumber": "02086889305",
+  "numberOfBeds": 0,
+  "constituency": "Croydon West",
+  "localAuthority": "Croydon",
+  "relationships": [
+    {
+      "relatedLocationId": "1-1191279309",
+      "relatedLocationName": "Chatsworth Hall",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,235 @@
+{
+  "locationId": "1-6467659692",
+  "providerId": "1-5879017605",
+  "organisationType": "Location",
+  "type": "Primary Medical Services",
+  "name": "Acton Lane Medical Centre",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "E85687",
+  "registrationStatus": "Registered",
+  "registrationDate": "2019-02-18",
+  "dormancy": "N",
+  "onspdLatitude": 51.50181,
+  "onspdLongitude": -0.26551,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "253 Acton Lane",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W4 5DG",
+  "mainPhoneNumber": "02089955706",
+  "numberOfBeds": 0,
+  "constituency": "Ealing Central and Acton",
+  "localAuthority": "Ealing",
+  "lastInspection": {
+    "date": "2024-01-10"
+  },
+  "lastReport": {
+    "publicationDate": "2024-01-26"
+  },
+  "relationships": [],
+  "locationTypes": [
+    {
+      "type": "GP Practice"
+    }
+  ],
+  "regulatedActivities": [
+    {
+      "name": "Maternity and midwifery services",
+      "code": "RA11",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Akbar",
+          "personFamilyName": "Khan",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Family planning",
+      "code": "RA15",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Akbar",
+          "personFamilyName": "Khan",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Akbar",
+          "personFamilyName": "Khan",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Akbar",
+          "personFamilyName": "Khan",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Akbar",
+          "personFamilyName": "Khan",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "P2",
+      "primary": "true",
+      "name": "GP Practices"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2024-01-26",
+      "reportLinkId": "920f46a5-9092-4eb7-a0da-65a921bca809",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2020-04-14",
+          "reportLinkId": "8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2020-04-14",
+          "reportLinkId": "8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2020-04-14",
+          "reportLinkId": "8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2024-01-26",
+          "reportLinkId": "920f46a5-9092-4eb7-a0da-65a921bca809"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2020-04-14",
+          "reportLinkId": "8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323"
+        }
+      ]
+    },
+    "reportDate": "2024-01-26"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2020-04-14",
+      "reportLinkId": "8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323",
+      "serviceRatings": [
+        {
+          "name": "conditions",
+          "rating": "Good"
+        },
+        {
+          "name": "mothers",
+          "rating": "Good"
+        },
+        {
+          "name": "old",
+          "rating": "Good"
+        },
+        {
+          "name": "population",
+          "rating": "Good"
+        },
+        {
+          "name": "problems",
+          "rating": "Good"
+        },
+        {
+          "name": "vulnerable",
+          "rating": "Good"
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "920f46a5-9092-4eb7-a0da-65a921bca809",
+      "reportDate": "2024-01-26",
+      "firstVisitDate": "2024-01-10",
+      "reportUri": "/reports/920f46a5-9092-4eb7-a0da-65a921bca809?20240126080052",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323",
+      "reportDate": "2020-04-14",
+      "firstVisitDate": "2020-02-18",
+      "reportUri": "/reports/8cccaa56-ddde-4cf4-b5aa-8cbdd74ce323?20210113201221",
+      "reportType": "Location"
+    }
+  ]
+}

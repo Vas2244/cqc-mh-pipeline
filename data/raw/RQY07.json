@@ -1,0 +1,231 @@
+{
+  "locationId": "RQY07",
+  "providerId": "RQY",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Queen Mary\u0027s Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-07-22",
+  "deregistrationDate": "2024-04-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.45555,
+  "onspdLongitude": -0.241729,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Roehampton Lane",
+  "postalAddressLine2": "Roehampton",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW15 5PN",
+  "mainPhoneNumber": "02084876000",
+  "website": "www.swlstg-tr.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Putney",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2021-08-02"
+  },
+  "lastReport": {
+    "publicationDate": "2014-12-06"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-6222530201",
+          "reportLinkId": "0a8c6286-2bda-4dfa-adcb-82410ab44d3b",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-11296479601",
+          "reportLinkId": "d2858b34-4c0c-4b75-8c88-a66b9ecd5267",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        },
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "ca3dae4d-525f-4a87-98c8-f37a327e38e7",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        },
+        {
+          "inspectionId": "INS2-4203916323",
+          "reportLinkId": "96bdebdb-9ae5-479b-8a5c-bea1710de297",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        },
+        {
+          "inspectionId": "SPL1-2019006821",
+          "reportLinkId": "7457e2f6-e003-4988-aa9a-4265e9cac2ae",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        },
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "9a91d170-e1e1-4b04-86a6-b22707391203",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-4135896191",
+          "reportLinkId": "42d5b7ac-a247-4cae-8465-a57e9b8cf2a1",
+          "providerId": "RQY",
+          "locationId": "RQY07"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2014-12-06",
+      "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2014-12-06",
+          "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2014-12-06",
+          "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2014-12-06",
+          "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2014-12-06",
+          "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2014-12-06",
+          "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0"
+        }
+      ]
+    },
+    "reportDate": "2014-12-06"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2014-12-06",
+      "reportLinkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0",
+      "serviceRatings": [
+        {
+          "name": "admission",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Effective",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Safe",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inspected but not rated"
+            }
+          ]
+        },
+        {
+          "name": "responsibilities",
+          "rating": "Inspected but not rated"
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "cf16371c-4a53-4627-a19d-8c0b695a61d0",
+      "reportDate": "2014-12-06",
+      "reportUri": "/reports/cf16371c-4a53-4627-a19d-8c0b695a61d0?20210130233125",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "32716b58-0af8-43cb-b76b-570e3fc1acd1",
+      "reportDate": "2014-05-02",
+      "firstVisitDate": "2014-03-17",
+      "reportUri": "/reports/32716b58-0af8-43cb-b76b-570e3fc1acd1?20160905120000"
+    },
+    {
+      "linkId": "d189faec-8b28-47bd-af40-0d79468188f9",
+      "reportDate": "2013-03-09",
+      "firstVisitDate": "2013-02-13",
+      "reportUri": "/reports/d189faec-8b28-47bd-af40-0d79468188f9?20151016191357"
+    },
+    {
+      "linkId": "66a9a31f-5571-4fa4-9237-a74abe310c35",
+      "reportDate": "2012-12-06",
+      "firstVisitDate": "2012-08-06",
+      "reportUri": "/reports/66a9a31f-5571-4fa4-9237-a74abe310c35?20200430120000"
+    },
+    {
+      "linkId": "349707d1-faf8-4bfd-b7c2-59f6e6220bd9",
+      "reportDate": "2011-09-19",
+      "firstVisitDate": "2011-07-19",
+      "reportUri": "/reports/349707d1-faf8-4bfd-b7c2-59f6e6220bd9?20200430120000"
+    }
+  ]
+}

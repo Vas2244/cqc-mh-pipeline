@@ -1,0 +1,72 @@
+{
+  "locationId": "RRPX2",
+  "providerId": "RRP",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Enable Enfield Alcohol and Drug Service",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2018-01-24",
+  "deregistrationDate": "2024-11-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.6279009,
+  "onspdLongitude": -0.0434777,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "The Claverings",
+  "postalAddressLine2": "12 Centre Way",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N9 0AH",
+  "uprn": "207012147",
+  "mainPhoneNumber": "02083796010",
+  "numberOfBeds": 0,
+  "constituency": "Edmonton and Winchmore Hill",
+  "localAuthority": "Enfield",
+  "relationships": [
+    {
+      "relatedLocationId": "1-329773978",
+      "relatedLocationName": "The Claverings",
+      "type": "HSCA Predecessor",
+      "reason": "NHS Transfer"
+    },
+    {
+      "relatedLocationId": "TAF005",
+      "relatedLocationName": "Enable Enfield Alcohol and Drug Service (N9 0AH)",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

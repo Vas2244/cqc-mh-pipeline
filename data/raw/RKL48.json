@@ -1,0 +1,103 @@
+{
+  "locationId": "RKL48",
+  "providerId": "RKL",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Cassel Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.4329132,
+  "onspdLongitude": -0.3080839,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1 Ham Common",
+  "postalAddressTownCity": "Richmond",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "TW10 7JF",
+  "uprn": "10002260803",
+  "mainPhoneNumber": "02083548055",
+  "website": "www.wlmht.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Richmond Park",
+  "localAuthority": "Richmond upon Thames",
+  "lastInspection": {
+    "date": "2011-03-08"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "194beac2-f5e0-43de-ab52-bc8fe4a93692",
+      "reportDate": "2011-08-19",
+      "firstVisitDate": "2011-03-08",
+      "reportUri": "/reports/194beac2-f5e0-43de-ab52-bc8fe4a93692?20200430120000"
+    }
+  ]
+}

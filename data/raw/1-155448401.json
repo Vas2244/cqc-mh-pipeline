@@ -1,0 +1,94 @@
+{
+  "locationId": "1-155448401",
+  "providerId": "1-126775066",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Hackney DIP",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-02-14",
+  "deregistrationDate": "2016-08-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.539237,
+  "onspdLongitude": -0.054013,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "WDP Hackney",
+  "postalAddressLine2": "Unit 13, Tudor Grove",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E9 7QL",
+  "mainPhoneNumber": "02085256100",
+  "website": "www.wdp-drugs.org.uk",
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2013-05-31"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "b7d183dc-31ac-4041-9ec2-dd82ffd4de06",
+      "reportDate": "2013-06-25",
+      "firstVisitDate": "2013-05-31",
+      "reportUri": "/reports/b7d183dc-31ac-4041-9ec2-dd82ffd4de06?20200129163919"
+    },
+    {
+      "linkId": "ca4b5a06-f357-4978-98a7-2c1b2dbc30b8",
+      "reportDate": "2012-12-06",
+      "firstVisitDate": "2012-11-16",
+      "reportUri": "/reports/ca4b5a06-f357-4978-98a7-2c1b2dbc30b8?20151016191357"
+    }
+  ]
+}

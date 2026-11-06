@@ -1,0 +1,48 @@
+{
+  "locationId": "RRP17",
+  "providerId": "RRP",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Colindale Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2011-11-07",
+  "dormancy": "N",
+  "onspdLatitude": 51.595756,
+  "onspdLongitude": -0.252163,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Colindale Avenue",
+  "postalAddressLine2": "Colindale",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW9 5HG",
+  "mainPhoneNumber": "02082006226",
+  "website": "www.beh-mht.nhs.uk",
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

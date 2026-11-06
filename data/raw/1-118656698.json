@@ -1,0 +1,74 @@
+{
+  "locationId": "1-118656698",
+  "providerId": "1-101614301",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "The Haven",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-02-04",
+  "deregistrationDate": "2012-04-21",
+  "dormancy": "N",
+  "onspdLatitude": 51.492093,
+  "onspdLongitude": -0.109797,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "25a Wincott Street",
+  "postalAddressLine2": "Kennington",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE11 4NT",
+  "mainPhoneNumber": "02033841157",
+  "website": "www.wlm.org.uk/the-haven",
+  "numberOfBeds": 25,
+  "constituency": "Vauxhall and Camberwell Green",
+  "localAuthority": "Lambeth",
+  "relationships": [
+    {
+      "relatedLocationId": "1-358505993",
+      "relatedLocationName": "The Haven",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

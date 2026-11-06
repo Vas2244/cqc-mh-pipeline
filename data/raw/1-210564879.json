@@ -1,0 +1,104 @@
+{
+  "locationId": "1-210564879",
+  "providerId": "1-149412634",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Lifeline Hackney",
+  "brandId": "BD302",
+  "brandName": "BRAND Lifeline Project",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-07-20",
+  "deregistrationDate": "2015-10-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.539237,
+  "onspdLongitude": -0.054013,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "14-20 Tudor Grove",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E9 7QL",
+  "mainPhoneNumber": "02089853757",
+  "website": "www.lifeline.org.uk",
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2013-11-22"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "2502e0c5-9336-41e5-be88-b4c650763bc8",
+      "reportDate": "2013-12-20",
+      "firstVisitDate": "2013-11-22",
+      "reportUri": "/reports/2502e0c5-9336-41e5-be88-b4c650763bc8?20151016191357"
+    },
+    {
+      "linkId": "83d20a30-28e9-41fd-a505-dada773064ac",
+      "reportDate": "2013-05-10",
+      "firstVisitDate": "2013-02-08",
+      "reportUri": "/reports/83d20a30-28e9-41fd-a505-dada773064ac?20151016191357"
+    },
+    {
+      "linkId": "80ff3bd7-d4b8-43bf-8ee1-1efc2eefb85c",
+      "reportDate": "2012-06-14",
+      "firstVisitDate": "2012-03-20",
+      "reportUri": "/reports/80ff3bd7-d4b8-43bf-8ee1-1efc2eefb85c?20200430120000"
+    }
+  ]
+}

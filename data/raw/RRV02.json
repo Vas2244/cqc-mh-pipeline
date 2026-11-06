@@ -1,0 +1,90 @@
+{
+  "locationId": "RRV02",
+  "providerId": "RRV",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The Lighthouse",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2018-11-02",
+  "dormancy": "N",
+  "onspdLatitude": 51.5385093,
+  "onspdLongitude": -0.1415346,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Alexandra Ciardi House N S P C C, 7-8",
+  "postalAddressLine2": "Greenland Place",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 0AP",
+  "uprn": "5087637",
+  "mainPhoneNumber": "02034477633",
+  "website": "www.uclh.org",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Clinic",
+      "description": "Acute services without overnight beds / listed acute services with or without overnight beds"
+    },
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": []
+}

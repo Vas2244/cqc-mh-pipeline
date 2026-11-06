@@ -1,0 +1,128 @@
+{
+  "locationId": "RV3E5",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Kingswood Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-09-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.5902051,
+  "onspdLongitude": -0.2818845,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Honeypot Lane",
+  "postalAddressLine2": "Kingsbury",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW9 9QY",
+  "uprn": "202084159",
+  "mainPhoneNumber": "02082380900",
+  "website": "www.cnwl.nhs.uk",
+  "constituency": "Harrow East",
+  "localAuthority": "Brent",
+  "lastInspection": {
+    "date": "2015-02-24"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Learning disabilities"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "INS2-16414795201",
+          "reportLinkId": "d604aae0-fbd9-46db-8216-84a97fd9d73d",
+          "providerId": "RV3",
+          "locationId": "RV3E5"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "eb3f5673-e0e2-4e67-9c9d-61da2dd4439f",
+      "reportDate": "2014-01-04",
+      "firstVisitDate": "2013-10-09",
+      "reportUri": "/reports/eb3f5673-e0e2-4e67-9c9d-61da2dd4439f?20200129163919"
+    },
+    {
+      "linkId": "fa57cc62-0aba-4b41-83b0-24162c361e38",
+      "reportDate": "2012-02-13",
+      "firstVisitDate": "2011-10-13",
+      "reportUri": "/reports/fa57cc62-0aba-4b41-83b0-24162c361e38?20200430120000"
+    }
+  ]
+}

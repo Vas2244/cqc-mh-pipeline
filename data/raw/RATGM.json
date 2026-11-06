@@ -1,0 +1,124 @@
+{
+  "locationId": "RATGM",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Goodmayes Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-02-01",
+  "deregistrationDate": "2015-10-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.577993,
+  "onspdLongitude": 0.110488,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Barley Lane",
+  "postalAddressTownCity": "Ilford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG3 8XJ",
+  "mainPhoneNumber": "03005551200",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ilford South",
+  "localAuthority": "Redbridge",
+  "relationships": [
+    {
+      "relatedLocationId": "RATW3",
+      "relatedLocationName": "Trust Head Office",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "6de9c3ae-d0c5-4cac-8668-03247f71d356",
+          "providerId": "RAT",
+          "locationId": "RATGM"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhdisabilities",
+      "reports": [
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "83ad9114-ace1-4daa-b9e1-c2a061f65c7d",
+          "providerId": "RAT",
+          "locationId": "RATGM"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "c749da85-dc6c-42da-a3d2-4a8595d66823",
+          "providerId": "RAT",
+          "locationId": "RATGM"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-5995042653",
+          "reportLinkId": "5cdf9d31-af41-4868-9eaf-dce69cae8b78",
+          "providerId": "RAT",
+          "locationId": "RATGM"
+        }
+      ]
+    }
+  ]
+}

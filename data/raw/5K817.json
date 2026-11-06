@@ -1,0 +1,53 @@
+{
+  "locationId": "5K817",
+  "providerId": "5K8",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "St Luke\u0027s Hospital (Simmons House)",
+  "brandId": "Q36",
+  "brandName": "London Strategic Health Authority",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2012-10-02",
+  "dormancy": "N",
+  "onspdLatitude": 51.587257,
+  "onspdLongitude": -0.148478,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Woodside Avenue",
+  "postalAddressLine2": "Islington",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N10 3HU",
+  "mainPhoneNumber": "02082191883",
+  "website": "www.islington.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Hornsey and Friern Barnet",
+  "localAuthority": "Haringey",
+  "relationships": [
+    {
+      "relatedLocationId": "RKE54",
+      "relatedLocationName": "St Luke\u0027s Hospital (Simmons House)",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,43 @@
+{
+  "locationId": "1-155448371",
+  "providerId": "1-126775066",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Enfield DIP",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-02-14",
+  "deregistrationDate": "2012-12-18",
+  "dormancy": "N",
+  "onspdLatitude": 51.627899,
+  "onspdLongitude": -0.043503,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "12A Centre Way",
+  "postalAddressLine2": "Claverings Industrial Estate",
+  "postalAddressTownCity": "Edmonton",
+  "region": "London",
+  "postalCode": "N9 0AH",
+  "mainPhoneNumber": "02083796970",
+  "website": "www.wdp-drugs.org.uk",
+  "constituency": "Edmonton and Winchmore Hill",
+  "localAuthority": "Enfield",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

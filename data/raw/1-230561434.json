@@ -1,0 +1,94 @@
+{
+  "locationId": "1-230561434",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Haringey DIP",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-07-05",
+  "deregistrationDate": "2014-02-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.594753,
+  "onspdLongitude": -0.071079,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "9 Bruce Grove",
+  "postalAddressLine2": "Haringey Dip",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N17 6RA",
+  "mainPhoneNumber": "02088856195",
+  "website": "www.cri.org.uk",
+  "constituency": "Tottenham",
+  "localAuthority": "Haringey",
+  "lastInspection": {
+    "date": "2013-01-24"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "7b9f3904-3e14-4ff6-8d84-d9d1d3d1f0be",
+      "reportDate": "2013-02-27",
+      "firstVisitDate": "2013-01-24",
+      "reportUri": "/reports/7b9f3904-3e14-4ff6-8d84-d9d1d3d1f0be?20200129163919"
+    },
+    {
+      "linkId": "ac059088-2072-475e-b657-ff0be04b7568",
+      "reportDate": "2012-12-11",
+      "reportUri": "/reports/ac059088-2072-475e-b657-ff0be04b7568?20200129163919"
+    },
+    {
+      "linkId": "061c19b4-b3a2-4583-9ecd-05998c0205f5",
+      "reportDate": "2012-05-01",
+      "firstVisitDate": "2012-03-01",
+      "reportUri": "/reports/061c19b4-b3a2-4583-9ecd-05998c0205f5?20200430120000"
+    }
+  ]
+}

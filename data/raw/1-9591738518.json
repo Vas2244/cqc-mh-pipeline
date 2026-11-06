@@ -1,0 +1,1163 @@
+{
+  "locationId": "1-9591738518",
+  "providerId": "1-102642564",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Turning Point - City of London and Hackney Integrated Drug \u0026 Alcohol Service",
+  "brandId": "BD133",
+  "brandName": "BRAND Turning Point",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2020-09-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.5386075,
+  "onspdLongitude": -0.0566379,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "102-110",
+  "postalAddressLine2": "Mare Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E8 3SG",
+  "uprn": "10008309670",
+  "mainPhoneNumber": "0345144005",
+  "website": "www.turning-point.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2023-04-24"
+  },
+  "lastReport": {
+    "publicationDate": "2023-06-26"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Piers Alexander",
+          "personFamilyName": "Adamson",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Piers Alexander",
+          "personFamilyName": "Adamson",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "reportDate": "2023-06-26",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2023-06-26",
+        "reportLinkId": "e82f9641-b9ae-4cb1-a02a-eb4c6e8a8066",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2022-01-14",
+      "reportLinkId": "085e2ad1-6d0a-4b7f-8140-c044c7a42ad7",
+      "serviceRatings": [
+        {
+          "name": "comsubstance",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2023-06-26",
+      "reportLinkId": "e82f9641-b9ae-4cb1-a02a-eb4c6e8a8066",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "e82f9641-b9ae-4cb1-a02a-eb4c6e8a8066",
+      "reportDate": "2023-06-26",
+      "firstVisitDate": "2023-03-29",
+      "reportUri": "/reports/e82f9641-b9ae-4cb1-a02a-eb4c6e8a8066?20230626070314",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "085e2ad1-6d0a-4b7f-8140-c044c7a42ad7",
+      "reportDate": "2022-01-14",
+      "firstVisitDate": "2021-09-23",
+      "reportUri": "/reports/085e2ad1-6d0a-4b7f-8140-c044c7a42ad7?20220114080216",
+      "reportType": "Location"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "216",
+      "assessmentServiceName": "Community-based substance misuse services",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-10-23 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02340",
+            "commentary": "\u003Cp\u003EWe carried out a comprehensive assessment of the service on 15 and 16 April 2026. This was an unannounced assessment. The service was registered by the Care Quality Commission in September 2020 to deliver the following regulated activity:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003ETreatment of disease, disorder or injury\u003C/li\u003E\u003Cli\u003EDiagnostic and screening procedures\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EThe service has a registered manager. The service was last inspected in March 2023.\u003C/p\u003E\u003Cp\u003EWe inspected this service as part of our ongoing comprehensive mental health inspection programme.\u003C/p\u003E",
+            "commentaryDate": "2026-10-23",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect. \u003C/p\u003E\u003Cp\u003EWe rated caring as good.  \u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EWe rated effective as good. \u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs. \u003C/p\u003E\u003Cp\u003EWe rated responsive as good. \u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EWe rated safe as good. \u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care, supported learning and innovation, and promoted an open, fair culture. \u003C/p\u003E\u003Cp\u003EWe rated well led as good.\u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP23539",
+            "title": "Ongoing Assessment for Turning Point - City of London and Hackney Integrated Drug \u0026 Alcohol Service",
+            "assessmentDate": "2026-03-18",
+            "assessmentPlanStatus": "Active",
+            "name": "Community-based substance misuse services",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003ETurning Point \u2013 City of London and Hackney Integrated Drug and Alcohol Service is a community-based substance misuse treatment and recovery service providing comprehensive, free, and confidential support for adults affected by drug and alcohol use. The service is part of Turning Point, a national organisation delivering health and social care services across England. It offers a broad range of interventions, including initial advice, comprehensive assessments, harm reduction, prescribing for alcohol and opiate detoxification and stabilisation, and structured recovery support. Harm reduction provision includes needle exchange, naloxone supply, and access to blood-borne virus testing, alongside doctor and nurse-led clinics delivering physical health checks and medical treatment.\u003C/p\u003E\u003Cp\u003EThe service operates an open access model, enabling individuals to self-refer directly while also accepting referrals from a wide range of statutory and non-statutory partners, including GPs, local authority and social care services, mental health services, hospitals, criminal justice agencies, and housing and community organisations. While the service is primarily commissioned to support residents within City and Hackney, it accepts out-of-area referrals in exceptional circumstances to ensure individuals are not left without access to treatment, particularly where legal, safeguarding, or housing barriers existed.\u003C/p\u003E\u003Cp\u003EA multidisciplinary workforce of approximately 110 paid staff delivered the service, supported by third sector partner organisations and NHS trusts. Additional capacity is provided by peer mentors, volunteers, and student social workers. The team included a range of clinical and non-clinical roles working collaboratively to meet the needs of a diverse population.\u003C/p\u003E\u003Cp\u003EThe service works closely with partner agencies to ensure coordinated, holistic care, including hospital liaison, criminal justice pathways, outreach provision for people experiencing homelessness, and integrated work with children\u2019s social care. Clients are able to access a range of treatment options, including one-to-one key working and structured group programmes, supporting engagement and recovery at different stages of need.\u003C/p\u003E\u003Cp\u003EWe rated the service as Good. Staff assessed and managed risks effectively, delivered evidence-based care and supported people to achieve positive recovery outcomes. There were effective systems for medicines management, staffing, governance and learning, and people consistently described staff as compassionate, respectful and non-judgemental.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe found several areas of outstanding practice. The service had developed comprehensive safeguarding arrangements, including specialist competency sessions, a safeguarding dashboard, a dedicated perinatal multidisciplinary forum and weekly co-location with domestic abuse services. Its innovative harm-reduction approach enabled people to manage their own risks through confidential postal access to injecting equipment, home drug-testing strips, laboratory drug checking and extensive naloxone provision. The service achieved top-quartile national treatment outcomes across all four substance categories, hepatitis C micro-elimination and significant improvements in residential rehabilitation and inpatient detoxification pathways.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EPeople were supported to plan beyond treatment through an established peer-mentoring pathway that developed confidence, skills and employment opportunities. Partnership working was integral to service delivery, with outreach across 32 community satellite locations, specialist chemsex interventions and coordinated support for people experiencing multiple vulnerabilities. The service also demonstrated a strong approach to learning and innovation through its Motivational Interviewing programme, specialist treatment pathways and flexible innovation funding that helped people overcome practical barriers to recovery and social inclusion.\u003Cbr\u003E\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Capacity Act / Consent to Treatment Overview\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EIn line with the principles of the Mental Capacity Act (2005), staff took all reasonable steps to support people to make their own decisions before considering any best-interest processes. 100% of staff had completed the Mental Capacity Act training.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good understanding of the Mental Capacity Act. They were able to recognise when a person\u2019s mental capacity to consent to treatment may be in question.\u003C/p\u003E\u003Cp\u003EStaff understood how to access advice and support, as well as appropriate referral pathways to local community mental health teams where specialist input was required.\u003C/p\u003E\u003Cp\u003EWhere people were assessed as lacking capacity, staff ensured that decisions were made in their best interests. This included consideration of the person\u2019s wishes, feelings, cultural background, and personal history.\u003C/p\u003E\u003Cp\u003EThe service had appropriate protocols and policies in place to support staff in managing situations where a person\u2019s capacity was temporarily impaired, including as a result of illicit substance use.\u003C/p\u003E",
+            "commentaryDate": "2026-10-23",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with 10 clients and 2 carers during the assessment. Feedback was consistently positive. Clients and carers described staff as compassionate, respectful, approachable and non-judgemental. People told us they felt listened to, involved in decisions about their care and supported to make progress in their recovery. Clients reported positive outcomes including reduced substance use, sustained abstinence, improved wellbeing and increased independence.\u003C/p\u003E\u003Cp\u003EPeople told us staff responded promptly to changes in risk and need and provided timely support during periods of crisis or difficulty. Clients valued the range of treatment and recovery options available and described the service as accessible and inclusive. Carers told us staff communicated effectively and provided advice and reassurance when needed.\u003C/p\u003E\u003Cp\u003EFeedback data between February and August 2026 showed consistently positive experiences, with overall satisfaction remaining between 86% and 87%. Scores relating to communication and feeling safe were particularly positive. The majority of responses fell within the \u201Cagree\u201D or \u201Cstrongly agree\u201D categories.\u003C/p\u003E\u003Cp\u003EOverall, people described a service where staff treated them with dignity and respect and supported them to achieve positive outcomes.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-10-23",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EThis key question has been rated good. \u003C/p\u003E\u003Cp\u003EThis meant people were supported and treated with dignity and respect and were involved as partners in their care.\u003C/p\u003E\u003Cp\u003EClients consistently described staff as kind, respectful and non-judgemental. Staff worked collaboratively with people, supported choice and independence, and took account of individual needs and preferences. People were involved in decisions about their care and treatment and felt able to access support when they needed it. Staff promoted a culture of respect, inclusion and recovery and supported people to achieve positive outcomes.\u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service promoted people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EStaff involved people in decisions about their care and treatment and encouraged them to identify their own recovery goals. Care records showed people were actively involved in care planning and treatment decisions with their decisions and views recorded.\u003C/p\u003E\u003Cp\u003EClients told us they understood their treatment options and felt involved in decisions about their recovery. They described receiving support through a range of interventions, including medication, psychosocial support and relapse prevention programmes.\u003C/p\u003E\u003Cp\u003EWhere appropriate, staff offered alternative treatment options and supported people to make informed choices about their care. This included access to opioid substitution treatment, alcohol treatment pathways and wider recovery support services.\u003C/p\u003E\u003Cp\u003EStaff also signposted people to community resources, mutual aid groups and local activities to support independence, wellbeing and long-term recovery.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence shows a good standard. The service always treated people with kindness, empathy and compassion and respected their privacy and dignity. Staff treated colleagues from other organisations with kindness and respect.\u003C/p\u003E\u003Cp\u003EDuring the assessment we spoke with 10 clients and 2 carers. Feedback from clients and carers was consistently positive. Clients and carers described staff as helpful, respectful, understanding, professional and non-judgemental.\u003C/p\u003E\u003Cp\u003EPeople told us staff developed positive therapeutic relationships and created an environment where they felt safe to discuss their needs openly. For example, clients described the service as being \u0022like being at home\u0022 and said staff treated them with dignity and respect throughout their recovery journey.\u003C/p\u003E\u003Cp\u003ECare records demonstrated that staff delivered compassionate, person-centred care that reflected people\u0027s individual circumstances and recovery goals. Staff supported open and honest discussions about treatment and recovery and worked collaboratively with people to identify what mattered most to them.\u003C/p\u003E\u003Cp\u003EClients described the service as having a positive impact on their lives. For example, one client described the support they received as \u0022life-changing and lifesaving\u0022, while another said they would not be where they were today without the support of their recovery worker.\u003C/p\u003E\u003Cp\u003EThe service received over 30 compliments between September 2025 and January 2026, further demonstrating positive experiences of care and support.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service listened to and understood people\u2019s needs, views and wishes. Staff responded to people\u2019s needs in the moment and acted to minimise any discomfort, concern or distress.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EClients told us staff responded quickly when they required additional support or when risks increased. People reported feeling confident that staff would act appropriately during periods of crisis or increased vulnerability.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ECare records demonstrated that staff identified and responded to a range of physical health, mental health and safeguarding concerns. Staff made referrals to external services where additional support was required and worked collaboratively with partner agencies to ensure coordinated care.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a proactive approach to safeguarding vulnerable people. For example, where individuals were pregnant or had children, staff worked alongside social care and safeguarding services to ensure appropriate support arrangements were in place.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff responded flexibly to changes in people\u0027s needs and maintained a range of access options including open access assessments, outreach support and engagement with public health outreach services.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff delivered extensive outreach activity across a wide range of community settings, including street outreach to people sleeping rough and joint working with police during house closure orders, \u00A0to assess need and provide interventions.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EIn addition to services delivered from the treatment hub, staff provided outreach clinics across 32 community satellite locations on a weekly or fortnightly basis, helping to reduce barriers to treatment and engage people who may otherwise find services difficult to access.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service worked closely with local healthcare partners to reach vulnerable groups. Staff attended a local sexual health clinic three times each week to deliver specialist chemsex interventions alongside NHS colleagues. Leaders told us this had significantly improved engagement among a high-risk and marginalised cohort who had not previously accessed support and had contributed to an increase in the number of LGBT\u002B people accessing treatment. These arrangements demonstrated a flexible and person-centred approach to meeting people\u0027s needs and supporting access to care.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service treated people as individuals and made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. They took account of people\u2019s strengths, goals, abilities, aspirations, culture and unique backgrounds and protected characteristics.\u003C/p\u003E\u003Cp\u003EStaff demonstrated an understanding of people\u0027s cultural, social, religious and personal needs and delivered care in a way that promoted inclusion and respect. We observed staff interacting with people in a tailored and individualised manner throughout the service. Care plans showed staff considered people\u0027s circumstances, strengths and recovery goals when planning care and treatment.\u003C/p\u003E\u003Cp\u003EThe service was flexible in how care was delivered. For example, staff offered appointments at different times and prioritised people according to risk and need. Joint visits were undertaken where appropriate to support people with more complex needs.\u003C/p\u003E\u003Cp\u003EPeople had access to a range of support options tailored to individual needs. This included peer support, counselling, psychosocial interventions and access to psychological therapies where appropriate.\u003C/p\u003E\u003Cp\u003EClients told us the service was accessible and responsive. For example, one client described attending the service without an appointment and being seen promptly when support was needed.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service cared about and promoted the wellbeing of their staff and supported and enabled staff to always deliver person-centred care.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff consistently described service leaders as approachable, supportive and responsive. Staff told us they felt valued and supported within their teams and were able to discuss concerns openly.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service promoted staff wellbeing through access to occupational health services, counselling support and employee wellbeing initiatives. Managers encouraged staff to seek support when required and responded appropriately to wellbeing concerns.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff said access to supervision, reflective practice and debrief opportunities following challenging events supported their wellbeing.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service had established a monthly staff forum that was led and managed entirely by frontline staff. Staff chaired meetings, recorded discussions and shared collective views, concerns and questions directly with the senior management team. Leaders responded through a monthly service-wide meeting and question-and-answer session, where issues raised were discussed openly and transparently. Actions and responses were subsequently communicated in writing, ensuring accountability and feedback to staff. Staff told us this arrangement had strengthened communication between frontline teams and leaders and had made a significant positive contribution to the service\u0027s culture.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service recognised staff contributions through staff awards and recognition schemes. Staff told us they felt appreciated and valued and described a positive and supportive team culture focused on achieving good outcomes for people using the service.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff reported that leaders took action to support teams and maintain manageable workloads. Staff told us workforce and workload arrangements enabled them to continue providing effective and person-centred care.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThis key question has been rated good.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThis meant people\u0027s outcomes were consistently good, and people received effective care and treatment that reflected their individual needs and preferences.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff completed comprehensive assessments, developed personalised care plans and reviewed these regularly. Care and treatment were delivered in line with national guidance and evidence-based practice. Staff worked collaboratively within multidisciplinary teams and with partner organisations to support coordinated care. The service monitored treatment outcomes, used performance information to improve practice and supported people to improve both their physical health and long-term recovery outcomes.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe found outstanding practice in how the service monitored and improved outcomes. The service used recognised outcome measures, national data and benchmarking to evaluate treatment effectiveness. It achieved top-quartile national performance for successful treatment outcomes across all four substance categories and achieved hepatitis C micro-elimination in September 2025. Data also showed improvement in outcomes from residential rehabilitation and inpatient detoxification pathways. Leaders used this information to strengthen treatment pathways and reduce the risk of people dropping out of treatment.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service assessed and reviewed people\u0027s health, care, wellbeing and communication needs and used this information to plan effective care and treatment.\u003C/p\u003E\u003Cp\u003EWe reviewed 8 care records during the assessment. Records demonstrated staff completed comprehensive assessments that considered substance misuse history, physical and mental health needs, recovery goals, strengths, support networks and wider social circumstances. Assessments were person-centred and informed the development of individualised care plans.\u003C/p\u003E\u003Cp\u003ECare plans were tailored to individual needs and recovery goals and clearly identified the allocated key worker. Staff regularly reviewed care plans and updated them when people\u0027s needs or circumstances changed. We saw evidence that people were involved in developing and reviewing their care plans, supporting shared decision-making and ownership of recovery.\u003C/p\u003E\u003Cp\u003EThe service provided a comprehensive programme of psychosocial interventions to meet a wide range of needs. For example, clients could access programmes including Introduction to Change, Managing Alcohol Programme, Recovery Skills, Moving Forwards, Reclaim, Crisis Survival Skills and Mindfulness-Based Relapse Prevention. Specialist provision included services for people using crack cocaine and emotional wellbeing groups delivered in partnership with MIND.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff demonstrated a good understanding of consent and the Mental Capacity Act (MCA). Staff understood how to assess capacity where appropriate and described how they would seek advice and support when required.\u003Cbr\u003E\u00A0\u003C/p\u003E\u003Cp\u003ECare records showed that consent to treatment was clearly documented. Staff recorded people\u0027s preferences regarding information sharing and ensured consent processes were completed and reviewed appropriately.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWhere people had children or where safeguarding concerns were identified, staff ensured appropriate information was recorded and shared in line with consent requirements and safeguarding responsibilities. Evidence showed these issues were discussed within MDT meetings and managed collaboratively with partner agencies when necessary.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff had completed Mental Capacity Act training and demonstrated an understanding of how to support people to make decisions about their treatment and recovery wherever possible.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed an outstanding standard. The service planned and delivered care and treatment in line with legislation, evidence-based guidance and recognised standards. A particular strength was its well-established peer mentoring programme, which supported people with lived experience to gain nationally recognised qualifications and progress into volunteering, mentoring and employment opportunities, delivering positive and sustained recovery outcomes.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff delivered care and treatment in line with National Institute for Health and Care Excellence (NICE) guidance and recognised substance misuse treatment models. Clients had access to a range of interventions including medically assisted treatment, psychosocial support, structured recovery programmes, rehabilitation activities and wellbeing interventions.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service-maintained access to specialist clinical support and physical healthcare interventions, including blood-borne virus testing, vaccinations and specialist medical reviews where required.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff participated in a range of clinical audits and compliance checks. For example, audits reviewed medicines optimisation, ECG monitoring, alcohol assessments, medical reviews and compliance with NICE guidance. Findings were reviewed through governance structures to support service improvement.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a commitment to developing staff skills and maintaining professional standards. Staff received training in areas including motivational interviewing, trauma-informed care, smoking cessation, autism awareness, fibroscan assessment and long-acting injectable therapies.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated innovation and continuous service development through a range of specialist pathways. These included blood-borne virus pathways, family and friends support, ambulatory detoxification, and re-engagement pathways for clients who had previously disengaged. A standard operating procedure (SOP) was developed for community-based opiate detoxification to ensure safe and consistent practice.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service also implemented a provider-wide, evidence-based contingency management scheme, designed in collaboration with clients, to encourage engagement with treatment and improve outcomes. This included incentivising attendance for vaccinations and other health interventions.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service was an early adopter and pilot site for long-acting injectable buprenorphine (Buvidal), initially targeting high-risk groups such as individuals experiencing homelessness and multiple disadvantage. Following positive outcomes, the service secured funding to expand its use. Staff reported this approach supported treatment engagement and stability for some of the most vulnerable people using the service.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EA particular strength of the service was its well-established peer mentoring programme, which formed an integral part of the recovery pathway. The programme enabled people with lived experience to complete a nationally recognised Level 2 Peer Mentoring qualification and progress into structured volunteering and mentoring roles that provided practical and emotional support to people accessing treatment. At the time of the assessment, four peer mentors were active, four individuals were onboarding and 12 people had completed the qualification, with eight progressing into peer mentor placements. The service could also demonstrate strong longer-term outcomes, with two former peer mentors successfully securing permanent paid roles within the organisation. Staff described the programme as making a significant contribution to recovery by promoting engagement, confidence, social connection and purpose, while providing a clear progression pathway into employment and helping to reduce the risk of relapse beyond formal treatment.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. Staff, teams and partner organisations worked together effectively to support coordinated care and treatment.\u003C/p\u003E\u003Cp\u003EMultidisciplinary working was well established throughout the service. Staff held regular multidisciplinary meetings to review treatment progress, care plans and risk. These included alcohol and opiate MDT meetings and joint meetings with NHS mental health services where people had co-existing mental health and substance misuse needs.\u003C/p\u003E\u003Cp\u003EStaff shared information appropriately through daily meetings, MDT discussions and case reviews. These arrangements supported continuity of care and helped staff respond to emerging risks and changes in need.\u003C/p\u003E\u003Cp\u003EThe service worked collaboratively with a wide range of partner organisations. For example, staff worked with the local mental health NHS trust, social care services, safeguarding teams, probation services, housing providers, criminal justice agencies and specialist voluntary sector organisations. This enabled people to access coordinated support across health, social care and community services.\u003C/p\u003E\u003Cp\u003EThe service teams also worked to support families affected by substance misuse through dedicated family support services. This helped to improve outcomes for both people using the service and those close to them.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe evidence showed outstanding standard. The service monitored care, treatment and outcomes and used this information to improve the quality and effectiveness of care.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service collected and reviewed performance and outcome information to understand how effectively people were progressing through treatment. Staff used performance dashboards and reporting systems to maintain oversight of key indicators including caseloads, treatment engagement, treatment completions and naloxone provision.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service routinely used the Treatment Outcomes Profile (TOP) tool to monitor progress and treatment outcomes. Information was reviewed regularly and used during multidisciplinary discussions to support care planning and identify opportunities for improvement.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service submitted data to the National Drug Treatment Monitoring System (NDTMS) and used benchmarking information to review performance and outcomes.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EOutcomes for people using the service were consistently positive. The service achieved top quartile performance nationally for successful treatment outcomes across all four substance categories: opiates, non-opiates, alcohol, and alcohol and non-opiates. This is a significant achievement and demonstrated sustained effectiveness across the whole treatment system.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated positive outcomes across several areas. For example, it achieved Hepatitis C micro-elimination in September 2025, becoming the first inner London borough to achieve this. \u00A0Leaders told us the service\u0027s work had attracted wider national and international attention, including sharing learning and best practice with external healthcare organisations.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a strong commitment to improving outcomes for people accessing treatment. Data showed successful completion rates for residential rehabilitation and inpatient detoxification pathways had increased significantly, from 41% to 81% over a 2 year period. Staff carefully prepared and supported people throughout their treatment journey, helping them achieve recovery goals and sustain abstinence. Leaders used outcome data to develop and strengthen Tier 4 treatment pathways, Increased peer mentoring opportunities contributed to reduced treatment drop-out rates and helping to ensure people continued to receive effective care and treatment.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service supported people to manage their health and wellbeing to maximise their independence, choice and control. The service supported people to live healthier lives and where possible, reduce their future needs for care and support.\u003C/p\u003E\u003Cp\u003EClients told us staff supported them to improve their physical health and wellbeing and helped them access other healthcare services when required. People described receiving advice about healthier lifestyles, including diet, exercise and smoking cessation.\u003C/p\u003E\u003Cp\u003EStaff supported people to access primary care, mental health services and specialist healthcare provision where appropriate. For example, one client described being supported to access their GP and a mental health nurse following concerns relating to physical health and wellbeing.\u003C/p\u003E\u003Cp\u003EThe service promoted harm reduction and healthier lifestyles through a range of interventions, including smoking cessation support and access to a vape support service. These interventions helped people reduce health-related risks and improve overall wellbeing.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThis key question has been rated good.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff provided flexible, person-centred support and adjusted care to meet people\u2019s individual circumstances. People could access treatment through open access assessments, outreach, community appointments and weekend provision. The service had specialist pathways for people experiencing homelessness, women, neurodivergent people and people involved with criminal justice services. Staff also used interpreting services and information in different languages to reduce communication barriers.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service understood the diverse health and care needs of people and their local communities, so care was joined-up, flexible and supported choice and continuity.\u003C/p\u003E\u003Cp\u003EThe service worked collaboratively with a wide range of health, social care and community organisations to ensure people received coordinated support. Staff maintained strong links with primary care services, mental health services, housing providers, social care and voluntary sector organisations.\u003C/p\u003E\u003Cp\u003EThere were established pathways to support continuity of care at key transition points. For example, staff maintained pathways for people leaving prison, people involved with criminal justice services and people being discharged from hospital. These arrangements helped reduce the risk of disengagement from treatment.\u003C/p\u003E\u003Cp\u003EThe service supported people to access a range of interventions including one-to-one key working, structured recovery groups, peer support opportunities, housing support and wider community services. This helped ensure recovery needs were addressed in a integrated and holistic way. Clients described positive outcomes from this support. For example, people told us the service had helped them access employment opportunities and improve their independence and wellbeing.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service made sure that people could access the care, support and treatment they needed when they needed it.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service actively sought to reduce barriers to treatment and engagement. Staff considered the needs of people with mobility needs, communication needs and other additional requirements and adapted care accordingly.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EA range of specialist pathways supported access for vulnerable and underserved populations, including people experiencing homelessness, women, neurodivergent individuals and people involved with criminal justice services.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service provided flexible access arrangements. For example, people could access support through open access assessments, outreach services, community appointments and weekend provision. These arrangements supported engagement for people who may otherwise find it difficult to access traditional clinic appointments.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff planned discharge appropriately and supported continuity of care through referrals to community resources, mutual aid groups and specialist services where required.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service took steps to reduce communication barriers and support equitable access to care. Interpreting services were available through Language Line during assessments and appointments whenever required, including during evening and weekend clinics. Information was also made accessible through posters and leaflets displayed in reception in seven different languages, reflecting the most commonly spoken languages within the local community.\u00A0\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service monitored access, engagement and outcomes and worked to reduce inequalities.\u003C/p\u003E\u003Cp\u003EStaff completed equality, diversity and inclusion training and demonstrated an understanding of how to adapt care to meet diverse needs. Clients told us they were treated fairly and without discrimination and described staff as inclusive and respectful.\u003C/p\u003E\u003Cp\u003EThe service used data to understand engagement and outcomes across different population groups. For example, the service reported increased engagement from clients from Global Majority communities and increased engagement amongst people identifying as bisexual, gay or lesbian.\u003C/p\u003E\u003Cp\u003EThe service had developed targeted approaches to improve access and outcomes for specific groups. For example, specialist pathways and partnerships supported women, people with co-occurring mental health needs, people experiencing homelessness and individuals leaving prison. The service also demonstrated improved continuity of care for individuals leaving prison, with a 36% increase since 2020. Enhanced pathways, including coordinated pick-ups and ongoing support, ensured individuals were effectively engaged at a critical transition point, reducing the risk of relapse and disengagement from treatment.\u003C/p\u003E\u003Cp\u003EThe service had recognised a reduction in engagement from women and had introduced additional initiatives including women-only groups and women-focused recovery activities to address this issue.\u003C/p\u003E\u003Cp\u003EThe service also responded to increasing levels of co-occurring mental health needs by adapting services and working with partner organisations to maintain access to appropriate support.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service made it easy for people to share feedback and ideas, or raise complaints about their care, treatment and support. They involved people in decisions about their care and told them what had changed as a result.\u003C/p\u003E\u003Cp\u003EThe service had received 14 complaints during the last 12 months and managed these appropriately. Complaints were investigated and responded to in a timely manner and people were provided with information about escalation routes where necessary.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EClients and carers told us staff were approachable and responsive when concerns were raised. People could provide feedback through direct discussions with staff, surveys, community meetings and formal complaints processes.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service had established opportunities for service user involvement. Meeting minutes demonstrated ongoing efforts to involve people in service development and gather feedback about their experiences.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe saw evidence that feedback was used to drive improvements. For example, changes were made to the MyTP form following service user feedback to improve accessibility for neurodiverse individuals.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWhilst most people understood how to raise concerns, some clients and carers were less aware of formal feedback routes and some carers felt family support services could be more consistent.\u00A0\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service made sure people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond to any relevant changes in people\u2019s needs.\u003C/p\u003E\u003Cp\u003ECare was delivered in a consistently person-centred manner, with clients actively involved in decisions about their care and supported through coordinated, holistic, and responsive approaches. Care records demonstrated people were involved in decisions about their care and treatment and were supported to identify goals that mattered to them.\u003C/p\u003E\u003Cp\u003EWe observed staff to be open, approachable and committed to delivering person-centred care. Daily meetings and multidisciplinary discussions focused on individual needs, risks and treatment progress, helping staff maintain oversight of people\u0027s care.\u003C/p\u003E\u003Cp\u003EClients and carers told us they worked in partnership with staff to develop treatment and relapse prevention plans. They reported being actively involved in decisions about their care and confirmed that confidentiality and consent processes were explained clearly.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a strong commitment to supporting vulnerable groups. For example, staff had well-established experience supporting people experiencing homelessness and had developed approaches that improved engagement and reduced barriers to treatment for this population. Staff routinely undertook home visits for people who had mobility difficulties, accessibility needs or who had disengaged from treatment. Recovery workers, nurses, doctors and managers all contributed to this approach, helping the service maintain engagement with vulnerable individuals and ensuring people continued to receive care and support when attending the service was difficult.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. People were supported to plan for important life changes, so they could have enough time to make informed decisions about their future.\u003C/p\u003E\u003Cp\u003ECare plans reflected both immediate recovery needs and longer-term aspirations. Clients told us staff helped them develop practical skills, build confidence and access to volunteering, training and employment opportunities. People described achieving important personal goals, including gaining employment, improving independence and rebuilding stability in their lives.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff encouraged people to access community resources, mutual aid groups and wider recovery networks to support long-term recovery and reduce reliance on services. The service maintained clear discharge and re-engagement pathways, helping people sustain recovery, remain connected to support and access assistance promptly if their circumstances changed. Future planning was regularly reviewed to ensure support remained coordinated and responsive as people moved between services, completed treatment or experienced significant life changes.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/p\u003E\u003Cp\u003EThe service provided clients and carers with information about treatment options, harm reduction, physical and mental health, safeguarding, advocacy services, mutual aid groups and support available for families and carers.\u003C/p\u003E\u003Cp\u003EStaff adapted communication where required to support people\u0027s individual needs. This included considering communication preferences, literacy needs and additional support requirements to ensure people could understand information and participate in decisions about their care.\u003C/p\u003E\u003Cp\u003EInformation sharing arrangements supported coordinated care. With appropriate consent, staff shared relevant information with professionals involved in people\u0027s care and treatment. The service maintained robust information governance arrangements and all staff had completed information governance training.\u003C/p\u003E\u003Cp\u003EThe service also met its statutory reporting requirements through regular notifications and data submissions, supporting transparency and accountability.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EThis key question has been rated Good.\u003C/p\u003E\u003Cp\u003EThis meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cp\u003EThe evidence showed a good standard. Staff assessed and managed risks effectively and worked with people to promote safety, recovery and independence. The service had established systems for incident reporting and learning, safe staffing, medicines management, infection prevention and environmental safety. Staff worked with partner agencies to support safe transitions and protect people from abuse and neglect.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe found outstanding practice in safeguarding and in how the service involved people in managing risks. Safeguarding arrangements included specialist competency sessions, a dedicated perinatal multidisciplinary forum and weekly co-location with domestic abuse services. The service also delivered an innovative harm-reduction offer, including confidential postal access to injecting equipment, nitazene and xylazine testing strips, laboratory drug checking through The Loop and extensive naloxone provision. Staff reported that wider naloxone training had contributed to 9 overdose reversals during the previous year.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service assessed and managed the risk of infection. They detected and controlled the risk of it spreading and shared concerns with appropriate agencies promptly.\u003C/p\u003E\u003Cp\u003EClinical and communal areas were clean, well maintained and suitable for use. Staff followed infection prevention and control procedures and ensured equipment was maintained and fit for purpose.\u003C/p\u003E\u003Cp\u003EStaff safely managed and disposed of sharps and maintained cleanliness within clinical areas used for physical health interventions, blood-borne virus testing and treatment delivery.\u003C/p\u003E\u003Cp\u003EEnvironmental and equipment audits demonstrated 100% compliance at the time of inspection. Staff received infection prevention and control training and understood their responsibilities in preventing and reducing the spread of infection.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EEvidence showed an outstanding standard of care. The service worked proactively with people to understand and manage risks. Staff supported people to manage risk safely while promoting independence, recovery and personal choice.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWe reviewed 8 risk assessments and found these were comprehensive, regularly reviewed and developed with people using the service. Records demonstrated people were actively involved in identifying risks and agreeing how these would be managed.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff used a recovery capital approach to assess risks relating to physical and mental health, substance use, exploitation, safeguarding and risks to children. Risks were reviewed at every key working contact, enabling staff and people using the service to identify changes in circumstances and respond promptly when risks increased, and supported collaborative discussions about safety and wellbeing.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWhere risks to children were identified, staff took appropriate action and worked closely with social care partners to ensure safeguarding concerns were addressed and children were protected.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a proactive and innovative approach to harm reduction. Staff provided practical advice, safer injecting equipment and harm reduction resources. This included access to a free, confidential postal needle and syringe service. \u00A0Staff also supplied Nitazene and Xylazine testing strips, supporting people to test substances and better understand risks associated with their drug use.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service further strengthened its harm reduction offer through a partnership with The Loop, a free and confidential drug checking service hosted monthly within the service. Following laboratory testing, people received tailored harm reduction advice based on the content of submitted substances. At the time of inspection, this approach was unique within London substance misuse services and demonstrated the service\u0027s commitment to supporting people to manage their own risks.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff took a highly proactive approach to overdose prevention. Naloxone was routinely offered to people at risk of opioid overdose, with 98% of opiate users receiving naloxone during the previous year. \u00A0The service also provided overdose awareness and naloxone training to external partners, including police and night-time economy staff. Staff reported this had contributed to nine overdose reversals during the previous year, demonstrating how the service\u0027s harm reduction approach contributed to safer outcomes across the wider community.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EOverall, the service empowered people to understand and manage risks, and its innovative harm reduction initiatives exceeded those typically seen in comparable services.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service had a positive culture of safety based on openness, learning and continuous improvement. Staff reported concerns appropriately, incidents were reviewed, and learning was shared to improve practice and reduce risk.\u003C/p\u003E\u003Cp\u003EStaff used a structured incident reporting system with clear management oversight and defined escalation processes. Incident reporting, review and sign-off were monitored through governance systems to ensure incidents were appropriately reviewed and actions completed. \u003C/p\u003E\u003Cp\u003EThe service had established processes for reviewing deaths, including timely notification, review and escalation. Findings were discussed through mortality and morbidity meetings and clinical governance forums to identify learning and maintain organisational oversight. \u003C/p\u003E\u003Cp\u003EBetween October 2025 and April 2026, the service recorded 186 incidents, including safeguarding concerns, medication incidents, medical emergencies, self-harm incidents and deaths. Records demonstrated incidents were appropriately reviewed, risks managed and actions identified where required.\u003C/p\u003E\u003Cp\u003EWe saw evidence that learning from incidents led to changes in practice. For example, following medical emergencies the service strengthened physical health risk assessment processes. Learning from medication incidents was used to improve communication with community pharmacies, and safeguarding incidents were reviewed with partner agencies to strengthen multi-agency responses to risk.\u003C/p\u003E\u003Cp\u003EStaff discussed incidents, risks and learning through daily meetings, multidisciplinary discussions and governance forums. This supported a culture where staff reflected on practice, shared learning and used this to improve care delivery.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service made sure that medicines and treatments were safe and met people\u2019s needs, capacities and preferences. They involved people in planning, including when changes happened.\u003C/p\u003E\u003Cp\u003EThe service had effective systems to make sure medicines were managed safely and supported people\u2019s needs. There were clear lines of accountability and a well\u2011staffed multidisciplinary team which included doctors, non\u2011medical prescribers (NMPs \u2013 registered clinicians with prescribing authority) and a pharmacist prescriber. The service had strong clinical governance. Staff discussed complex cases in regular clinical meetings and also used clinical review forums, which supported consistent oversight of higher\u2011risk prescribing decisions\u003C/p\u003E\u003Cp\u003EThe service followed recognised treatment approaches for substance misuse and had clear processes for opioid substitution treatment (OST \u2013 medicines such as methadone and buprenorphine used to treat opioid dependence). Staff described safe practice for starting, restarting and reviewing OST, including supervised consumption during higher\u2011risk periods and clear actions for missed doses. This reduced the risk of harm linked to changes in tolerance and supported safer continuity of treatment in the community.\u003C/p\u003E\u003Cp\u003EThe service worked closely with community pharmacies and had particularly strong practice in how it supported safe supply and monitoring of OST across a large pharmacy network. The pharmacy team used routine checks and proactive contact with pharmacies to identify early concerns (such as non\u2011attendance) which helped the service to respond quickly and reduce harm. The service also had a robust process for producing, tracking and securely handling controlled drug prescription stationery which aided traceability and reduced risk of loss or misuse.\u003C/p\u003E\u003Cp\u003EMedicines were stored securely in clinic rooms with daily temperature monitoring for rooms and fridges, and routine stock checks. Controlled drugs (CDs \u2013 medicines subject to additional legal controls) held on site were limited and stock checks completed during the visit were accurate. Emergency equipment was checked frequently.\u003C/p\u003E\u003Cp\u003EThe service promoted harm reduction through the routine provision of naloxone and overdose prevention education. Staff also linked prescribing to physical health monitoring. For example, clients had access to ECG monitoring and liver assessment pathways where clinically indicated, supporting safe prescribing and ongoing review of treatment.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/p\u003E\u003Cp\u003EManagers maintained oversight of supervision, appraisal and training compliance. Staff received regular supervision and they described this as supportive and beneficial to their development and wellbeing. Staff also reported access to debriefs following incidents and bereavements. Staff told us these provided valuable emotional and professional support following challenging situations.\u003C/p\u003E\u003Cp\u003EStaff had access to mandatory and role-specific training relevant to their responsibilities. For example staff completed training in safeguarding, domestic violence, pregnancy and substance use, naloxone, benzodiazepines, ketamine pathways, blood-borne virus testing, motivational interviewing and crisis-survival and suicide-prevention. Learning needs were identified through supervision and appraisal processes and staff reported good access to professional development opportunities.\u003C/p\u003E\u003Cp\u003ERecruitment processes supported safe recruitment practices and included appropriate pre-employment checks.\u003C/p\u003E\u003Cp\u003EThe service had experienced workforce challenges, including vacancies, sickness absence and leadership changes. Managers took action to maintain safe care delivery. For example, a temporary non-medical prescriber had been recruited to maintain clinical capacity and medical directors provided clinical oversight during the planned absence of the clinical lead. Staff told us these arrangements ensured continued access to senior clinical support and decision-making. Despite these challenges, staff described feeling well supported. \u003C/p\u003E\u003Cp\u003EWorkforce data demonstrated relatively stable staffing levels and manageable turnover rates. At the time of inspection, average caseloads had reduced to approximately 25 clients per worker, supporting effective workload management and continuity of care.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service maintained safe environments, equipment and facilities that supported the safe delivery of care and treatment.\u003C/p\u003E\u003Cp\u003EThe premises were clean, tidy, appropriately maintained and suitable for the delivery of substance misuse services. Staff completed regular environmental checks and acted on identified issues.\u003C/p\u003E\u003Cp\u003EFire safety arrangements were appropriately managed. For example, fire alarm systems were tested weekly, and a fire drill involving staff and people using the service had been completed in January 2026. Fire extinguishers were available throughout the premises and were within service dates.\u003C/p\u003E\u003Cp\u003EStaff completed environmental risk assessments to identify and mitigate potential hazards. For example, a ligature risk assessment had been completed and control measures included anti-ligature fixtures, ligature cutters, CCTV and window restrictors where required.\u003C/p\u003E\u003Cp\u003EClinical areas were appropriately equipped. Emergency equipment and medicines were subject to regular checks to ensure they were available and ready for use.\u003C/p\u003E\u003Cp\u003EThe service maintained infection prevention and control audits and action plans, which were reviewed through governance structures to ensure risks were monitored and improvements progressed.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service worked with people and partner organisations to establish and maintain safe systems of care and support continuity of treatment when people moved between services.\u003C/p\u003E\u003Cp\u003EThe service accepted referrals from a wide range of sources, including self-referrals, hospitals, mental health services, social care services, probation services and criminal justice agencies. Staff demonstrated flexibility in supporting continuity of care. For example, the service accepted some out-of-area referrals where people faced barriers accessing treatment within their home area, including circumstances where legal restrictions prevented access to local services.\u003C/p\u003E\u003Cp\u003EThe service maintained established pathways for people subject to Alcohol Treatment Requirements (ATR), Drug Rehabilitation Requirements (DRR), and those leaving prison. These pathways helped people remain engaged with treatment during significant transitions. New clients were offered an initial induction, during which staff contacted them to explain the service and discuss available treatment options.\u003C/p\u003E\u003Cp\u003EA range of psychosocial and recovery-focused interventions supported people at different stages of treatment and recovery. This included core structured groups such as Introduction to Change, Managing Alcohol Programme, Recovery Skills, Moving Forwards, and Reclaim, alongside therapeutic interventions such as Crisis Survival Skills, Mindfulness-Based Relapse Prevention, and Acceptance and Commitment Therapy. Specialist provision included crack cocaine groups and targeted emotional wellbeing groups delivered in partnership with MIND. The service also offered a strong aftercare programme, including coffee mornings, creative workshops, rehabilitation groups, and dedicated spaces such as the Crack Welcome Space. These supported sustained engagement, peer connection, and continuity of care beyond structured treatment.\u003C/p\u003E\u003Cp\u003EThe service operated a daily high-risk assessment process to support timely responses to urgent referrals. Staff also maintained effective systems for the prescribing and monitoring of high-risk medicines, including methadone. For example, clients prescribed higher doses, or with additional risk factors, received electrocardiogram (ECG) monitoring in line with clinical guidance.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed outstanding safeguarding practice. The service demonstrated a proactive and innovative approach to safeguarding, supported by robust oversight arrangements and highly effective multi-agency working. Leaders used safeguarding information to identify emerging risks, drive continuous improvement and strengthen outcomes for people using the service.\u003C/p\u003E\u003Cp\u003EThe service had comprehensive safeguarding systems that placed people at the centre of safeguarding and protection from abuse, neglect and discrimination. Safeguarding was embedded throughout the organisation, with leaders promoting a culture where keeping people safe was recognised as everyone\u2019s responsibility. Staff demonstrated a strong understanding of safeguarding responsibilities and were confident in identifying, escalating and responding to concerns involving adults, children and families.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service invested in developing and recognising high-quality safeguarding practice. Staff received role-specific safeguarding training, regular safeguarding supervision and participated in specialist safeguarding meetings. The service awarded a monthly Safeguarding Award to recognise and celebrate outstanding safeguarding practice, while regular one-to-one safeguarding competency sessions with the safeguarding manager enabled staff to reflect on practice, strengthen professional judgement and develop specialist safeguarding knowledge. These arrangements supported a highly skilled workforce and promoted continual improvement in safeguarding standards.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ELeaders had established robust systems to identify, monitor and respond to safeguarding concerns. A bespoke safeguarding dashboard provided real-time oversight of safeguarding activity, enabling managers to identify themes, track concerns and respond proactively to emerging risks. Safeguarding activity was regularly reviewed through governance processes, audits and supervision, with learning used to strengthen practice and improve outcomes.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a proactive approach to protecting people at increased risk. For example, staff facilitated a dedicated Perinatal Multi-Disciplinary Team forum to coordinate support for pregnant women and families where safeguarding concerns had been identified, promoting early intervention and effective risk management.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EPartnership working was a particular strength. The safeguarding lead worked closely with the Multi-Agency Safeguarding Hub (MASH), safeguarding boards and partner agencies to support coordinated safeguarding responses. Staff had also developed highly effective working relationships with domestic abuse services through weekly co-location arrangements, enabling timely information sharing, joint risk management and improved support for people experiencing domestic abuse.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centered care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThis key question has been rated good.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThis meant the service was well managed and leaders promoted a positive culture that supported safe, effective and person-centred care.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ELeaders promoted a positive, inclusive and recovery-focused culture. Staff described leaders as visible, approachable and supportive, and governance systems provided effective oversight of quality, safety, performance and risk.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EOutstanding practice was evident in the service\u0027s highly developed partnership approach and commitment to learning and innovation. The service delivered outreach across 32 community satellite locations, specialist chemsex interventions with NHS partners, coordinated support through domestic abuse and perinatal partnerships, and contributed to wider system learning through safeguarding, harm reduction and offender management forums. Learning and innovation were embedded throughout the organisation through a comprehensive Motivational Interviewing programme, ongoing pathway development, evidence-based service improvement and a flexible innovation fund that helped people overcome practical barriers to recovery, education, employment and social inclusion.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                "commentaryDate": "2026-10-23",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation. Leaders had the skills, knowledge, experience and credibility to lead effectively. They did so with integrity, openness and honesty.\u003C/p\u003E\u003Cp\u003ELeaders demonstrated a good understanding of the service and its priorities and were able to clearly describe how teams were working to deliver safe and effective care. Staff spoke positively about local managers and described them as visible, approachable and supportive.\u003C/p\u003E\u003Cp\u003EThe service promoted staff engagement and development through staff forums, supervision, leadership opportunities and professional development programmes. Staff described clear opportunities for career progression and told us they were supported to develop new skills and knowledge.\u003C/p\u003E\u003Cp\u003EInduction processes were tailored to individual roles and experience levels. New staff were supported through shadowing opportunities, supervision and regular review meetings to help them develop confidence within their roles.\u003C/p\u003E\u003Cp\u003EStaff reported that leaders promoted a supportive culture where wellbeing and professional development were valued. Regular reflective practice sessions and supervision arrangements helped staff discuss challenges, identify learning opportunities and improve practice.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service fostered a positive culture where people felt they could speak up and their voice would be heard.\u003C/p\u003E\u003Cp\u003EThe service had policies and processes to support speaking up and whistleblowing. Staff knew how to raise concerns and described a range of routes available to escalate issues, including supervision, team meetings and direct discussions with managers.\u003C/p\u003E\u003Cp\u003EStaff told us leaders were approachable and responsive when concerns were raised. Staff felt their views were listened to and described a culture that encouraged openness and constructive challenge.\u003C/p\u003E\u003Cp\u003ERegular supervision, reflective practice and staff forums provided opportunities for staff to raise concerns, discuss challenges and contribute ideas about service development and improvement.\u003C/p\u003E\u003Cp\u003ELeaders used feedback from staff to inform improvements to service delivery and operational processes. Staff felt this demonstrated a strong commitment to listening and responding to their concerns.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service had effective governance systems that supported oversight, accountability and continuous improvement.\u003C/p\u003E\u003Cp\u003EThe service maintained a structured governance framework that included clinical governance meetings, mortality and morbidity reviews, service development meetings and operational governance forums. These meetings reviewed incidents, complaints, safeguarding concerns, audits and performance information to support oversight and improvement.\u003C/p\u003E\u003Cp\u003ELeaders used governance systems to monitor quality, safety and risk. Learning from incidents, complaints and reviews was shared through governance meetings, multidisciplinary discussions and supervision arrangements to support improvements in practice.\u003C/p\u003E\u003Cp\u003EThe service maintained a programme of audits covering areas including prescribing, safeguarding, clinical records and quality assurance. Audit findings were reviewed and actions monitored through governance structures to ensure improvements were implemented.\u003C/p\u003E\u003Cp\u003EThe service maintained key risk management documents including the Service Delivery Plan, Business Continuity Plan and health and safety assessments. Performance information, including safeguarding activity, blood-borne virus testing and engagement data, was reviewed regularly to identify risks and development areas.\u003C/p\u003E\u003Cp\u003ELeaders recognised areas requiring further improvement. For example, plans were in place to improve safeguarding training compliance and address workforce vacancies. These issues were being monitored through governance processes and action plans.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed an outstanding standard. The service promoted learning, improvement and innovation to improve outcomes for people using the service.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe evidence demonstrated an outstanding standard. The service had a fully embedded and systematic approach to learning, improvement and innovation. Continuous improvement was an integral part of how care was delivered, monitored and developed, with leaders and staff consistently using learning, evidence and innovation to improve outcomes for people using the service.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff described a culture where learning was actively encouraged and supported through supervision, reflective practice, governance meetings and quality improvement activity. Staff were empowered to identify opportunities for improvement and contribute to service development. Leaders routinely reviewed incidents, deaths, safeguarding concerns, complaints, audit findings and performance data to identify learning, improve service delivery and drive sustainable change. Learning was shared across the organisation and translated into tangible improvements in practice.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a particularly strong commitment to workforce development through its comprehensive Motivational Interviewing (MI) programme. Leaders had invested significantly in developing MI capability across the workforce, with a large number of staff receiving advanced training and a high number qualifying as MI trainers through a recognised Train the Trainer programme. Staff described how MI principles informed day-to-day practice, engagement with people accessing support and risk management discussions. This investment in workforce development helped create a culture where learning, reflective practice and continuous professional development were embedded within day-to-day service delivery.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a proactive approach to reviewing, evaluating and refining care pathways in response to feedback, outcomes and emerging needs. Leaders reviewed outcomes from alcohol and community detoxification pathways and used findings to strengthen assessment processes, improve preparation for treatment and enhance ongoing recovery support. The service also developed specialist pathways, including community-based opiate detoxification arrangements, harm reduction initiatives and long-acting injectable buprenorphine pathways, using learning from implementation to inform future service development.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EA comprehensive programme of clinical and quality audits provided effective oversight and supported continuous improvement. Audit findings, performance information and feedback were routinely analysed to identify trends, monitor quality and prioritise improvement activity. This ensured changes were evidence-based and focused on improving outcomes for people using the service. Leaders used outcome information, benchmarking data and feedback from people using the service to inform decision-making and service development.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ESafe innovation was actively encouraged throughout the organisation. Leaders maintained an innovation fund of up to \u00A320,000 per year to provide personalised recovery support tailored to individual needs. Staff used this funding creatively to overcome barriers to recovery and social inclusion, including helping people furnish new homes, access education and vocational opportunities, purchase laptops and digital technology to address digital poverty and support reintegration into employment. This flexible approach enabled staff to provide practical, wraparound recovery support beyond routine treatment interventions and helped people achieve wider social, educational and recovery goals.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EInnovation was not limited to individual projects but was embedded within service delivery. The service sought opportunities to respond to emerging needs, improve engagement and strengthen outcomes through new approaches. Examples included harm reduction initiatives, innovative prescribing pathways, contingency management approaches and the continued development of recovery and peer-support pathways. Leaders were able to demonstrate how learning from these initiatives had been incorporated into ongoing service improvement and future service planning.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EOverall, learning, improvement and innovation were embedded throughout the organisation. Leaders promoted a culture in which staff were encouraged to develop new ideas, evaluate their impact and use learning to continuously improve care. This approach supported the delivery of evidence-based, recovery-focused services and contributed to improved outcomes for people using the service.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "\u003Cp\u003EThe evidence showed an outstanding standard. The service worked collaboratively with partners and local communities to support coordinated care and improved outcomes.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service demonstrated a highly developed partnership approach which was integral to how care and support were delivered. Staff worked closely with hospitals, primary care services, probation services, mental health providers, housing organisations, public health teams and third-sector partners to support coordinated care and continuity of treatment. These arrangements extended beyond traditional referral pathways and included outreach clinics across 32 community satellite locations, regular street outreach activity and joint working with organisations supporting people experiencing homelessness.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service worked proactively with partners to engage groups who may be less likely to access traditional treatment services. For example, staff attended a local sexual health clinic three times each week to provide specialist chemsex interventions alongside NHS colleagues. Leaders reported this had supported engagement with a high-risk and marginalised cohort and contributed to increased access amongst LGBT\u002B people.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EPartnership working also supported coordinated responses for people experiencing multiple vulnerabilities. Staff worked closely with domestic abuse services through weekly co-location arrangements and facilitated a dedicated perinatal multi-disciplinary team forum where safeguarding concerns had been identified. These arrangements supported information sharing, joint risk management and coordinated support.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ELeaders actively contributed to wider system learning and local strategic priorities. Staff participated in drug-related death reviews, harm reduction groups, safeguarding partnerships, Multi-Agency Risk Assessment Conference meetings and offender management forums. They also delivered naloxone training to external partners and contributed to local harm reduction initiatives.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service had a shared vision, values and culture which promoted equality, inclusion, recovery and person-centred care.\u003C/p\u003E\u003Cp\u003EStaff described a supportive and values-driven culture focused on improving outcomes for people using the service. Staff told us teams worked collaboratively and shared a strong commitment to recovery and harm reduction approaches.\u003C/p\u003E\u003Cp\u003EEquality, diversity and inclusion were actively embraced and reflected within the staff group. Staff felt confident raising concerns and contributing ideas through a range of forums, including daily morning meetings, multidisciplinary team discussions, and direct engagement with team managers. They consistently described an open, transparent, and inclusive culture with both peers and leadership. Staff felt this positive culture had contributed to improved staff retention, staff satisfaction and workforce stability.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a commitment to developing practice and supporting staff. For example, staff had access to motivational interviewing development programmes and there were opportunities for staff to contribute to improvement initiatives and service development.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe evidence showed a good standard. The service valued diversity in their workforce. They work towards an inclusive and fair culture by improving equality and equity for people who work for them.\u003C/p\u003E\u003Cp\u003EThe service had a range of arrangements to support equality, diversity and inclusion. This included equality champions, staff forums and access to specialist training in areas such as autism awareness and Oliver McGowan training.\u003C/p\u003E\u003Cp\u003EStaff described a positive and inclusive culture where diversity was respected and valued. Staff told us they felt able to be themselves at work and believed managers promoted fairness and inclusion.\u003C/p\u003E\u003Cp\u003EManagers supported flexible working arrangements and reasonable adjustments where required. Staff told us these arrangements helped them balance personal circumstances and work commitments.\u003C/p\u003E\u003Cp\u003EThe service monitored workforce equality information and worked to ensure services reflected the needs of the diverse communities they served. For example, specialist engagement roles had been developed to strengthen relationships with diverse local communities and help address inequalities in access and engagement.\u003C/p\u003E",
+                        "commentaryDate": "2026-10-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "locationId": "1-105319474",
+  "providerId": "1-101635763",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Brandon Centre",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-23",
+  "deregistrationDate": "2022-08-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.5467983,
+  "onspdLongitude": -0.1448025,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "26 Prince of Wales Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW5 3LG",
+  "uprn": "5004539",
+  "mainPhoneNumber": "02072674792",
+  "website": "www.brandoncentre.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2017-11-15"
+  },
+  "lastReport": {
+    "publicationDate": "2018-02-08"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "communitysexual",
+      "inspectionAreaName": "Community health sexual health services",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2018-02-08",
+      "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-02-08",
+          "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-02-08",
+          "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-02-08",
+          "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-02-08",
+          "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2018-02-08",
+          "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4"
+        }
+      ]
+    },
+    "reportDate": "2018-02-08",
+    "serviceRatings": [
+      {
+        "name": "communitysexual",
+        "rating": "Inspected but not rated",
+        "reportDate": "2018-02-08",
+        "reportLinkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "f22781ed-9ca6-4ed4-bf1e-2d314478c1e4",
+      "reportDate": "2018-02-08",
+      "firstVisitDate": "2017-11-14",
+      "reportUri": "/reports/f22781ed-9ca6-4ed4-bf1e-2d314478c1e4?20210117194415",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "f39413c7-b15c-4e87-86e6-6fbe54f1ac56",
+      "reportDate": "2013-08-22",
+      "firstVisitDate": "2013-08-13",
+      "reportUri": "/reports/f39413c7-b15c-4e87-86e6-6fbe54f1ac56?20200129163919"
+    },
+    {
+      "linkId": "63cfa1d0-3d4c-464d-8a1b-a8f6f47e594b",
+      "reportDate": "2013-05-02",
+      "firstVisitDate": "2013-02-13",
+      "reportUri": "/reports/63cfa1d0-3d4c-464d-8a1b-a8f6f47e594b?20200129163919"
+    },
+    {
+      "linkId": "3847d1ee-1379-47b9-b395-8530c4df8039",
+      "reportDate": "2011-02-17",
+      "firstVisitDate": "2011-01-06",
+      "reportUri": "/reports/3847d1ee-1379-47b9-b395-8530c4df8039?20200430120000"
+    }
+  ]
+}

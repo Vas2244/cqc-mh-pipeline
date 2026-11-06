@@ -1,0 +1,191 @@
+{
+  "locationId": "1-4573093683",
+  "providerId": "1-4103116863",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "10 Harley Street",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2018-02-21",
+  "dormancy": "N",
+  "onspdLatitude": 51.517391,
+  "onspdLongitude": -0.146009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "10 Harley Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1G 9PF",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2022-09-27"
+  },
+  "lastReport": {
+    "publicationDate": "2022-12-23"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Anthony Osbert",
+          "personFamilyName": "Jemmott",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2022-12-23",
+      "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2022-12-23",
+          "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2022-12-23",
+          "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-12-23",
+          "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-12-23",
+          "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2022-12-23",
+          "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37"
+        }
+      ]
+    },
+    "reportDate": "2022-12-23",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Requires improvement",
+        "reportDate": "2022-12-23",
+        "reportLinkId": "579d9fb5-5007-42f5-ba06-e19de436ff37",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-04-26",
+      "reportLinkId": "e2f6b1c2-611f-4531-9285-ea7a10e21371",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "579d9fb5-5007-42f5-ba06-e19de436ff37",
+      "reportDate": "2022-12-23",
+      "firstVisitDate": "2022-09-27",
+      "reportUri": "/reports/579d9fb5-5007-42f5-ba06-e19de436ff37?20221223080716",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "e2f6b1c2-611f-4531-9285-ea7a10e21371",
+      "reportDate": "2019-04-26",
+      "firstVisitDate": "2019-03-28",
+      "reportUri": "/reports/e2f6b1c2-611f-4531-9285-ea7a10e21371?20210116085736",
+      "reportType": "Location"
+    }
+  ]
+}

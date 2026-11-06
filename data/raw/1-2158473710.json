@@ -1,0 +1,355 @@
+{
+  "locationId": "1-2158473710",
+  "providerId": "1-102643346",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Kent House Hospital",
+  "brandId": "BD144",
+  "brandName": "BRAND Priory Group",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-09-03",
+  "deregistrationDate": "2023-03-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.388543,
+  "onspdLongitude": 0.124784,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Crockenhill Road",
+  "postalAddressLine2": "St Mary Cray",
+  "postalAddressTownCity": "Orpington",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR5 4EP",
+  "mainPhoneNumber": "01689883180",
+  "website": "www.priorygroup.com",
+  "numberOfBeds": 0,
+  "constituency": "Orpington",
+  "localAuthority": "Bromley",
+  "lastInspection": {
+    "date": "2022-01-21"
+  },
+  "lastReport": {
+    "publicationDate": "2022-04-04"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-118706354",
+      "relatedLocationName": "Oakview Hospital",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "inspectionAreaName": "Child and adolescent mental health wards",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2022-04-04",
+      "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2022-04-04",
+          "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2022-04-04",
+          "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-04-04",
+          "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Requires improvement",
+          "reportDate": "2022-04-04",
+          "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2022-04-04",
+          "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609"
+        }
+      ]
+    },
+    "reportDate": "2022-04-04",
+    "serviceRatings": [
+      {
+        "name": "mhadolescent",
+        "rating": "Requires improvement",
+        "reportDate": "2022-04-04",
+        "reportLinkId": "6ede1b76-b18d-475c-8872-7c6682994609",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-10-02",
+      "reportLinkId": "52ab3a0a-fbd7-4c7e-a607-edfd6d32f220",
+      "serviceRatings": [
+        {
+          "name": "mhadolescent",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-07-26",
+      "reportLinkId": "69a74025-515e-4173-8674-4f50c3866e35",
+      "serviceRatings": [
+        {
+          "name": "mhadolescent",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-02-17",
+      "reportLinkId": "1cc31aa4-51e3-458e-8548-0505329584df",
+      "serviceRatings": [
+        {
+          "name": "mhadolescent",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "6ede1b76-b18d-475c-8872-7c6682994609",
+      "reportDate": "2022-04-04",
+      "firstVisitDate": "2022-01-19",
+      "reportUri": "/reports/6ede1b76-b18d-475c-8872-7c6682994609?20220420125436",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "52ab3a0a-fbd7-4c7e-a607-edfd6d32f220",
+      "reportDate": "2019-10-02",
+      "firstVisitDate": "2019-07-15",
+      "reportUri": "/reports/52ab3a0a-fbd7-4c7e-a607-edfd6d32f220?20210115200536",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "69a74025-515e-4173-8674-4f50c3866e35",
+      "reportDate": "2017-07-26",
+      "firstVisitDate": "2017-05-04",
+      "reportUri": "/reports/69a74025-515e-4173-8674-4f50c3866e35?20210118214235",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "1cc31aa4-51e3-458e-8548-0505329584df",
+      "reportDate": "2016-02-17",
+      "firstVisitDate": "2015-10-27",
+      "reportUri": "/reports/1cc31aa4-51e3-458e-8548-0505329584df?20210124070509",
+      "reportType": "Location"
+    }
+  ]
+}

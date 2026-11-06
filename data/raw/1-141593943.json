@@ -1,0 +1,111 @@
+{
+  "locationId": "1-141593943",
+  "providerId": "1-102642624",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Tariro House",
+  "brandId": "BD122",
+  "brandName": "BRAND Practice Plus Group",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-05",
+  "deregistrationDate": "2014-04-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.552182,
+  "onspdLongitude": -0.084779,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "40-41 Newington Green",
+  "postalAddressLine2": "Hackney",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N16 9PR",
+  "mainPhoneNumber": "02072546937",
+  "website": "www.careuk.com",
+  "numberOfBeds": 16,
+  "constituency": "Hackney North and Stoke Newington",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2013-10-01"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "14ae06f2-f381-4705-a244-e39a75a69280",
+      "reportDate": "2013-10-30",
+      "firstVisitDate": "2013-10-01",
+      "reportUri": "/reports/14ae06f2-f381-4705-a244-e39a75a69280?20200129163919"
+    },
+    {
+      "linkId": "d6cb30c1-64dd-4c03-ba6e-271d14d30a63",
+      "reportDate": "2012-09-21",
+      "reportUri": "/reports/d6cb30c1-64dd-4c03-ba6e-271d14d30a63?20151016191357"
+    },
+    {
+      "linkId": "b57f1ba6-e91e-46e4-8aeb-43c4e3286dda",
+      "reportDate": "2012-07-27",
+      "firstVisitDate": "2012-05-22",
+      "reportUri": "/reports/b57f1ba6-e91e-46e4-8aeb-43c4e3286dda?20200430120000"
+    },
+    {
+      "linkId": "afa09d00-b2d8-42b3-9677-1f500ad8d743",
+      "reportDate": "2011-04-07",
+      "firstVisitDate": "2011-02-02",
+      "reportUri": "/reports/afa09d00-b2d8-42b3-9677-1f500ad8d743?20200430120000"
+    }
+  ]
+}

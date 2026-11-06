@@ -1,0 +1,60 @@
+{
+  "locationId": "1-24048516676",
+  "providerId": "1-9866619209",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The London Psychiatry Clinic",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-09-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.5192694,
+  "onspdLongitude": -0.1469308,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "60 Harley Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1G 7HA",
+  "uprn": "200002817421",
+  "mainPhoneNumber": "02034888555",
+  "registeredManagerAbsentDate": "2025-11-27",
+  "website": "www.londonpsychiatry.clinic",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

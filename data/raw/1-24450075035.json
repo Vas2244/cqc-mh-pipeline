@@ -1,0 +1,69 @@
+{
+  "locationId": "1-24450075035",
+  "providerId": "1-22423332954",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Mental Health \u0026 ADHD Specialists Ltd",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-08-20",
+  "dormancy": "N",
+  "onspdLatitude": 51.4653456,
+  "onspdLongitude": -0.2980103,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "39 Lower Mortlake Road",
+  "postalAddressTownCity": "Richmond",
+  "region": "London",
+  "postalCode": "TW9 2LR",
+  "uprn": "100022310826",
+  "numberOfBeds": 0,
+  "constituency": "Richmond Park",
+  "localAuthority": "Richmond upon Thames",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Terence",
+          "personFamilyName": "Taylor",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

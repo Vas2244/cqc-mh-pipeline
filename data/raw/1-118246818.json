@@ -1,0 +1,228 @@
+{
+  "locationId": "1-118246818",
+  "providerId": "1-101726978",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Constance House Hospital",
+  "brandId": "BD418",
+  "brandName": "BRAND Liaise",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-06",
+  "deregistrationDate": "2018-03-20",
+  "dormancy": "N",
+  "onspdLatitude": 51.64864,
+  "onspdLongitude": -0.043738,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "8 Colmore Road",
+  "postalAddressLine2": "Enfield",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "EN3 7AL",
+  "mainPhoneNumber": "02088369650",
+  "website": "www.sequencecaregroup.co.uk/",
+  "numberOfBeds": 7,
+  "constituency": "Enfield North",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2017-08-21"
+  },
+  "lastReport": {
+    "publicationDate": "2017-10-27"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdisabilities",
+      "inspectionAreaName": "Wards for people with learning disabilities or autism",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2017-10-27",
+      "reportLinkId": "a6f44fac-96ba-4c20-b685-88f7c88b6073",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2017-10-27",
+          "reportLinkId": "a6f44fac-96ba-4c20-b685-88f7c88b6073"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2017-10-27",
+          "reportLinkId": "a6f44fac-96ba-4c20-b685-88f7c88b6073"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2015-11-13",
+          "reportLinkId": "d1829b80-4095-43ea-a423-be5d66a45d28"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2015-11-13",
+          "reportLinkId": "d1829b80-4095-43ea-a423-be5d66a45d28"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2015-11-13",
+          "reportLinkId": "d1829b80-4095-43ea-a423-be5d66a45d28"
+        }
+      ]
+    },
+    "reportDate": "2017-10-27",
+    "serviceRatings": [
+      {
+        "name": "mhdisabilities",
+        "rating": "Requires improvement",
+        "reportDate": "2017-10-27",
+        "reportLinkId": "a6f44fac-96ba-4c20-b685-88f7c88b6073",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2015-11-13",
+      "reportLinkId": "d1829b80-4095-43ea-a423-be5d66a45d28",
+      "serviceRatings": [
+        {
+          "name": "mhdisabilities",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "a6f44fac-96ba-4c20-b685-88f7c88b6073",
+      "reportDate": "2017-10-27",
+      "firstVisitDate": "2017-08-09",
+      "reportUri": "/reports/a6f44fac-96ba-4c20-b685-88f7c88b6073?20210118004605",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "d1829b80-4095-43ea-a423-be5d66a45d28",
+      "reportDate": "2015-11-13",
+      "firstVisitDate": "2015-08-04",
+      "reportUri": "/reports/d1829b80-4095-43ea-a423-be5d66a45d28?20210125201543",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "0cb6de8c-a9ac-417c-a8d2-5cb85ceae82b",
+      "reportDate": "2014-02-05",
+      "firstVisitDate": "2014-01-03",
+      "reportUri": "/reports/0cb6de8c-a9ac-417c-a8d2-5cb85ceae82b?20200129163919"
+    },
+    {
+      "linkId": "8ac76543-0590-4708-9f16-a2880034efa1",
+      "reportDate": "2013-07-11",
+      "firstVisitDate": "2013-06-07",
+      "reportUri": "/reports/8ac76543-0590-4708-9f16-a2880034efa1?20151016191357"
+    },
+    {
+      "linkId": "5f6eeed6-0278-46fd-bf93-51880248d88a",
+      "reportDate": "2013-04-23",
+      "firstVisitDate": "2013-03-14",
+      "reportUri": "/reports/5f6eeed6-0278-46fd-bf93-51880248d88a?20151016191357"
+    },
+    {
+      "linkId": "6c64abf0-aefb-444d-bb2f-595273db62e7",
+      "reportDate": "2012-04-02",
+      "firstVisitDate": "2012-01-26",
+      "reportUri": "/reports/6c64abf0-aefb-444d-bb2f-595273db62e7?20200430120000"
+    }
+  ]
+}

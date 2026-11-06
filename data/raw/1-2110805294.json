@@ -1,0 +1,69 @@
+{
+  "locationId": "1-2110805294",
+  "providerId": "1-101617404",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Bromley YPS and Shared Care Services",
+  "brandId": "BD250",
+  "brandName": "BRAND Addaction",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-07-02",
+  "deregistrationDate": "2016-01-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.406192,
+  "onspdLongitude": 0.016079,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "19A Widmore Road",
+  "postalAddressTownCity": "Bromley",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR1 1RL",
+  "mainPhoneNumber": "02084609952",
+  "website": "www.kca.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Bromley and Biggin Hill",
+  "localAuthority": "Bromley",
+  "relationships": [
+    {
+      "relatedLocationId": "1-194445080",
+      "relatedLocationName": "Bromley YPS and Shared Care Services",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

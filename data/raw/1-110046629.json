@@ -1,0 +1,371 @@
+{
+  "locationId": "1-110046629",
+  "providerId": "1-101632226",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "St Georges Nursing Home",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "VLK33",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-26",
+  "deregistrationDate": "2022-03-21",
+  "dormancy": "N",
+  "onspdLatitude": 51.4879719,
+  "onspdLongitude": -0.1342716,
+  "careHome": "Y",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "61 St Georges Square",
+  "postalAddressLine2": "Westminster",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW1V 3QR",
+  "uprn": "100023342246",
+  "mainPhoneNumber": "02078219001",
+  "website": "www.stgeorgesnursinghome.com",
+  "numberOfBeds": 44,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2021-03-23"
+  },
+  "lastReport": {
+    "publicationDate": "2021-05-15"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-11866029317",
+      "relatedLocationName": "St Georges Nursing Home",
+      "type": "HSCA Successor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "S1",
+      "primary": "true",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2021-05-15",
+      "reportLinkId": "1eedbd84-f1fa-46c8-aa4b-2a80866ed3e9",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2021-05-15",
+          "reportLinkId": "1eedbd84-f1fa-46c8-aa4b-2a80866ed3e9"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2021-05-15",
+          "reportLinkId": "1eedbd84-f1fa-46c8-aa4b-2a80866ed3e9"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2020-01-04",
+          "reportLinkId": "86593e51-9937-4fa0-99b7-1b77a8893c2c"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Requires improvement",
+          "reportDate": "2020-01-04",
+          "reportLinkId": "86593e51-9937-4fa0-99b7-1b77a8893c2c"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2020-01-04",
+          "reportLinkId": "86593e51-9937-4fa0-99b7-1b77a8893c2c"
+        }
+      ]
+    },
+    "reportDate": "2021-05-15"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2021-05-15",
+      "reportLinkId": "1eedbd84-f1fa-46c8-aa4b-2a80866ed3e9",
+      "overall": {
+        "keyQuestionRatings": [
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2020-12-22",
+      "reportLinkId": "1fda4365-dda7-48c8-9996-773a59b28944",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2020-01-04",
+      "reportLinkId": "86593e51-9937-4fa0-99b7-1b77a8893c2c",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-10-25",
+      "reportLinkId": "cd50fcf7-e4b3-440a-b36d-7552a3db563e",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-05-30",
+      "reportLinkId": "9a14b165-3265-4247-8f9c-c7e734efc238",
+      "overall": {
+        "rating": "Inadequate",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Caring",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-10-18",
+      "reportLinkId": "487fd585-480d-4b55-99e3-f81412ee7b5e",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2015-02-06",
+      "reportLinkId": "cd1ab412-31a2-4022-8405-3ed632305e8b",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "1eedbd84-f1fa-46c8-aa4b-2a80866ed3e9",
+      "reportDate": "2021-05-15",
+      "firstVisitDate": "2021-03-23",
+      "reportUri": "/reports/1eedbd84-f1fa-46c8-aa4b-2a80866ed3e9?20210515120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "1fda4365-dda7-48c8-9996-773a59b28944",
+      "reportDate": "2020-12-22",
+      "firstVisitDate": "2020-08-27",
+      "reportUri": "/reports/1fda4365-dda7-48c8-9996-773a59b28944?20211030120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "86593e51-9937-4fa0-99b7-1b77a8893c2c",
+      "reportDate": "2020-01-04",
+      "firstVisitDate": "2019-10-23",
+      "reportUri": "/reports/86593e51-9937-4fa0-99b7-1b77a8893c2c?20200104130000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "cd50fcf7-e4b3-440a-b36d-7552a3db563e",
+      "reportDate": "2018-10-25",
+      "firstVisitDate": "2018-09-25",
+      "reportUri": "/reports/cd50fcf7-e4b3-440a-b36d-7552a3db563e?20211030120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "9a14b165-3265-4247-8f9c-c7e734efc238",
+      "reportDate": "2018-05-30",
+      "firstVisitDate": "2018-04-10",
+      "reportUri": "/reports/9a14b165-3265-4247-8f9c-c7e734efc238?20211030120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "487fd585-480d-4b55-99e3-f81412ee7b5e",
+      "reportDate": "2017-10-18",
+      "firstVisitDate": "2017-08-02",
+      "reportUri": "/reports/487fd585-480d-4b55-99e3-f81412ee7b5e?20211030120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "cd1ab412-31a2-4022-8405-3ed632305e8b",
+      "reportDate": "2015-02-06",
+      "firstVisitDate": "2014-10-27",
+      "reportUri": "/reports/cd1ab412-31a2-4022-8405-3ed632305e8b?20210130163146",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "fc26006c-9943-441b-a2c2-525250ac6a62",
+      "reportDate": "2014-05-16",
+      "firstVisitDate": "2014-01-02",
+      "reportUri": "/reports/fc26006c-9943-441b-a2c2-525250ac6a62?20151016191357"
+    },
+    {
+      "linkId": "a1a9be40-331f-496d-b3be-bd14e59487ff",
+      "reportDate": "2012-10-18",
+      "firstVisitDate": "2012-09-20",
+      "reportUri": "/reports/a1a9be40-331f-496d-b3be-bd14e59487ff?20200430120000"
+    },
+    {
+      "linkId": "43e954d7-3fb5-4c0c-b36c-18bf5ec50a0a",
+      "reportDate": "2011-07-19",
+      "firstVisitDate": "2011-05-26",
+      "reportUri": "/reports/43e954d7-3fb5-4c0c-b36c-18bf5ec50a0a?20200430120000"
+    }
+  ]
+}

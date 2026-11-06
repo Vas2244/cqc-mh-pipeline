@@ -1,0 +1,98 @@
+{
+  "locationId": "1-2259250793",
+  "providerId": "1-119237494",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Rainham - Farm Lodge",
+  "brandId": "BD205",
+  "brandName": "BRAND Cygnet Health Care",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-11-02",
+  "deregistrationDate": "2016-09-27",
+  "dormancy": "N",
+  "onspdLatitude": 51.5246302,
+  "onspdLongitude": 0.2070681,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "58 Farm Road",
+  "postalAddressTownCity": "Rainham",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "RM13 9LG",
+  "uprn": "100021350038",
+  "mainPhoneNumber": "01708557369",
+  "website": "www.cambiangroup.com",
+  "numberOfBeds": 6,
+  "constituency": "Dagenham and Rainham",
+  "localAuthority": "Havering",
+  "relationships": [
+    {
+      "relatedLocationId": "1-127005954",
+      "relatedLocationName": "Rainham - Farm Lodge",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H4",
+      "name": "Acute hospital - Independent specialist"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

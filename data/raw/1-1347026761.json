@@ -1,0 +1,58 @@
+{
+  "locationId": "1-1347026761",
+  "providerId": "1-1150689944",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Big White Wall Head Office",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-06-06",
+  "deregistrationDate": "2014-10-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.524309,
+  "onspdLongitude": -0.098949,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "4th Floor, 104 -110 Goswell Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "EC1V 7DH",
+  "numberOfBeds": 0,
+  "constituency": "Islington South and Finsbury",
+  "localAuthority": "Islington",
+  "relationships": [
+    {
+      "relatedLocationId": "1-1702765277",
+      "relatedLocationName": "Big White Wall Head Office",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

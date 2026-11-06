@@ -1,0 +1,114 @@
+{
+  "locationId": "1-126102942",
+  "providerId": "1-102643035",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Harbour Recovery Centre",
+  "brandId": "BD187",
+  "brandName": "BRAND Salvation Army",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-24",
+  "deregistrationDate": "2016-08-02",
+  "dormancy": "N",
+  "onspdLatitude": 51.508638,
+  "onspdLongitude": -0.025646,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "20 Garford Street",
+  "postalAddressLine2": "West India Dock Road, Poplar",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E14 8JG",
+  "mainPhoneNumber": "02079875658",
+  "website": "www.salvationarmy.org.uk",
+  "numberOfBeds": 8,
+  "constituency": "Poplar and Limehouse",
+  "localAuthority": "Tower Hamlets",
+  "lastInspection": {
+    "date": "2014-07-11"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "S1",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "5b612bcc-1817-4ac8-8c39-ad1e90d9835b",
+      "reportDate": "2014-08-20",
+      "firstVisitDate": "2014-07-11",
+      "reportUri": "/reports/5b612bcc-1817-4ac8-8c39-ad1e90d9835b?20151016191357"
+    },
+    {
+      "linkId": "8b735443-2973-4ee4-88ed-15dfe9d7e2ac",
+      "reportDate": "2013-06-13",
+      "firstVisitDate": "2013-05-13",
+      "reportUri": "/reports/8b735443-2973-4ee4-88ed-15dfe9d7e2ac?20151016191357"
+    },
+    {
+      "linkId": "9da9d168-f476-4802-af00-6b4d33300219",
+      "reportDate": "2012-09-27",
+      "firstVisitDate": "2012-08-20",
+      "reportUri": "/reports/9da9d168-f476-4802-af00-6b4d33300219?20200430120000"
+    }
+  ]
+}

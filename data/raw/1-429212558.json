@@ -1,0 +1,91 @@
+{
+  "locationId": "1-429212558",
+  "providerId": "1-101617404",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Addaction - Kaleidoscope",
+  "brandId": "BD250",
+  "brandName": "BRAND Addaction",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-06-12",
+  "deregistrationDate": "2013-07-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.412131,
+  "onspdLongitude": -0.296996,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "28-38 Cromwell Road",
+  "postalAddressTownCity": "Kingston Upon Thames",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "KT2 6RN",
+  "mainPhoneNumber": "02085492681",
+  "website": "www.addaction.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Kingston and Surbiton",
+  "localAuthority": "Kingston upon Thames",
+  "lastInspection": {
+    "date": "2012-11-01"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-156749380",
+      "relatedLocationName": "Kaleidoscope Project: Kingston",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "e9837de7-4593-459b-965c-659ded0516b8",
+      "reportDate": "2012-12-22",
+      "firstVisitDate": "2012-11-01",
+      "reportUri": "/reports/e9837de7-4593-459b-965c-659ded0516b8?20151016191357"
+    }
+  ]
+}

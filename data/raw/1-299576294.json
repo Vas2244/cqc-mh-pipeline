@@ -1,0 +1,192 @@
+{
+  "locationId": "1-299576294",
+  "providerId": "1-101610352",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The John Kitchen Centre",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-11-08",
+  "deregistrationDate": "2019-03-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.4634176,
+  "onspdLongitude": -0.059792,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "22 Linden Grove",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE15 3LF",
+  "uprn": "200003387452",
+  "mainPhoneNumber": "02072776630",
+  "website": "www.kairoscommunity.org.uk",
+  "numberOfBeds": 24,
+  "constituency": "Lewisham West and East Dulwich",
+  "localAuthority": "Southwark",
+  "lastInspection": {
+    "date": "2018-11-20"
+  },
+  "lastReport": {
+    "publicationDate": "2019-03-13"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inadequate",
+      "reportDate": "2019-03-13",
+      "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2019-03-13",
+          "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inadequate",
+          "reportDate": "2019-03-13",
+          "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-03-13",
+          "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-03-13",
+          "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inadequate",
+          "reportDate": "2019-03-13",
+          "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3"
+        }
+      ]
+    },
+    "reportDate": "2019-03-13",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Inadequate",
+        "reportDate": "2019-03-13",
+        "reportLinkId": "1a466c69-c7c9-4995-a11f-7726197e19f3",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2018-12-20",
+      "reportLinkId": "2a810f7d-9b10-47ac-a66e-cf196e11dde7",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "1a466c69-c7c9-4995-a11f-7726197e19f3",
+      "reportDate": "2019-03-13",
+      "firstVisitDate": "2018-11-05",
+      "reportUri": "/reports/1a466c69-c7c9-4995-a11f-7726197e19f3?20210116123839",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "2a810f7d-9b10-47ac-a66e-cf196e11dde7",
+      "reportDate": "2018-12-20",
+      "firstVisitDate": "2016-08-17",
+      "reportUri": "/reports/2a810f7d-9b10-47ac-a66e-cf196e11dde7?20210116202339",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "8f792e55-d401-4d15-9701-818d57ee4552",
+      "reportDate": "2013-10-24",
+      "firstVisitDate": "2013-09-24",
+      "reportUri": "/reports/8f792e55-d401-4d15-9701-818d57ee4552?20200129163919"
+    },
+    {
+      "linkId": "d402227f-64c6-4965-956c-d2f4e0d98989",
+      "reportDate": "2013-02-15",
+      "firstVisitDate": "2013-01-10",
+      "reportUri": "/reports/d402227f-64c6-4965-956c-d2f4e0d98989?20200129163919"
+    }
+  ]
+}

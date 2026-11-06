@@ -1,0 +1,448 @@
+{
+  "locationId": "1-130486688",
+  "providerId": "1-102643425",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cygnet Hospital Blackheath",
+  "brandId": "BD205",
+  "brandName": "BRAND Cygnet Health Care",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-11-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.472269,
+  "onspdLongitude": -0.011132,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "80-82 Blackheath Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE10 8AD",
+  "mainPhoneNumber": "02086942111",
+  "registeredManagerAbsentDate": "2026-11-03",
+  "website": "www.cygnethealth.co.uk",
+  "numberOfBeds": 36,
+  "constituency": "Lewisham North",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2021-10-14"
+  },
+  "lastReport": {
+    "publicationDate": "2021-12-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhforensic",
+      "inspectionAreaName": "Forensic inpatient or secure wards",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "inspectionAreaName": "Acute wards for adults of working age and psychiatric intensive care units",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2021-12-20",
+      "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2021-12-20",
+          "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2021-12-20",
+          "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2021-12-20",
+          "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2021-12-20",
+          "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2021-12-20",
+          "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2"
+        }
+      ]
+    },
+    "reportDate": "2021-12-20",
+    "serviceRatings": [
+      {
+        "name": "mhforensic",
+        "rating": "Good",
+        "reportDate": "2021-12-20",
+        "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "mhpsychintensive",
+        "rating": "Good",
+        "reportDate": "2021-12-20",
+        "reportLinkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2020-07-16",
+      "reportLinkId": "d50d0bb1-2c2b-4d3f-a605-e8c4cc93a00f",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-07-10",
+      "reportLinkId": "39b7dd10-2dd6-469d-ac1c-0053b2d584de",
+      "serviceRatings": [
+        {
+          "name": "mhforensic",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        },
+        {
+          "name": "mhpsychintensive",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-03-29",
+      "reportLinkId": "a89b975e-82fb-4344-a2f1-fb71b0dc13fc",
+      "serviceRatings": [
+        {
+          "name": "mhforensic",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        },
+        {
+          "name": "mhpsychintensive",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "8c5b170a-5a10-434c-9227-78ac19f4b0a2",
+      "reportDate": "2021-12-20",
+      "firstVisitDate": "2021-10-07",
+      "reportUri": "/reports/8c5b170a-5a10-434c-9227-78ac19f4b0a2?20211220090034",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "d50d0bb1-2c2b-4d3f-a605-e8c4cc93a00f",
+      "reportDate": "2020-07-16",
+      "firstVisitDate": "2020-06-02",
+      "reportUri": "/reports/d50d0bb1-2c2b-4d3f-a605-e8c4cc93a00f?20210113011022",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "39b7dd10-2dd6-469d-ac1c-0053b2d584de",
+      "reportDate": "2018-07-10",
+      "firstVisitDate": "2018-04-24",
+      "reportUri": "/reports/39b7dd10-2dd6-469d-ac1c-0053b2d584de?20210117171650",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a89b975e-82fb-4344-a2f1-fb71b0dc13fc",
+      "reportDate": "2016-03-29",
+      "firstVisitDate": "2015-10-20",
+      "reportUri": "/reports/a89b975e-82fb-4344-a2f1-fb71b0dc13fc?20210123101555",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "09188913-7d4b-423f-823b-e43a2dc1c6f7",
+      "reportDate": "2014-08-19",
+      "firstVisitDate": "2014-07-30",
+      "reportUri": "/reports/09188913-7d4b-423f-823b-e43a2dc1c6f7?20151016191357"
+    },
+    {
+      "linkId": "87da68e5-e2f8-4989-a1e2-95b5c8b0ca60",
+      "reportDate": "2014-04-09",
+      "firstVisitDate": "2014-02-21",
+      "reportUri": "/reports/87da68e5-e2f8-4989-a1e2-95b5c8b0ca60?20151016191357"
+    },
+    {
+      "linkId": "a180f24b-d880-4231-a712-8ebc36680b53",
+      "reportDate": "2013-09-28",
+      "firstVisitDate": "2013-08-22",
+      "reportUri": "/reports/a180f24b-d880-4231-a712-8ebc36680b53?20151016191357"
+    },
+    {
+      "linkId": "3071ff60-55b8-4016-bff1-58338247522c",
+      "reportDate": "2013-08-10",
+      "firstVisitDate": "2013-02-02",
+      "reportUri": "/reports/3071ff60-55b8-4016-bff1-58338247522c?20200129163919"
+    },
+    {
+      "linkId": "95178d33-7fce-47d6-8d95-48af1288add9",
+      "reportDate": "2012-02-07",
+      "firstVisitDate": "2012-01-13",
+      "reportUri": "/reports/95178d33-7fce-47d6-8d95-48af1288add9?20200430120000"
+    },
+    {
+      "linkId": "4f03ada1-8c42-4930-9ce2-52f16939108b",
+      "reportDate": "2011-11-18",
+      "firstVisitDate": "2011-08-31",
+      "reportUri": "/reports/4f03ada1-8c42-4930-9ce2-52f16939108b?20200430120000"
+    },
+    {
+      "linkId": "13cc9023-92f3-4344-9952-fee68d96729a",
+      "reportDate": "2011-08-26",
+      "firstVisitDate": "2011-07-07",
+      "reportUri": "/reports/13cc9023-92f3-4344-9952-fee68d96729a?20200430120000"
+    }
+  ]
+}

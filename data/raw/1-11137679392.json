@@ -1,0 +1,102 @@
+{
+  "locationId": "1-11137679392",
+  "providerId": "1-102642564",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Turning Point Drug and Alcohol Wellbeing Service - Hammersmith and Fulham",
+  "brandId": "BD133",
+  "brandName": "BRAND Turning Point",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2021-06-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.5066392,
+  "onspdLongitude": -0.2346823,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "370-376",
+  "postalAddressLine2": "Uxbridge Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W12 7LL",
+  "uprn": "34014140",
+  "numberOfBeds": 0,
+  "constituency": "Hammersmith and Chiswick",
+  "localAuthority": "Hammersmith and Fulham",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Mark Edward",
+          "personFamilyName": "Dronfield",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Neil",
+          "personFamilyName": "Jones-Lumby",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Mark Edward",
+          "personFamilyName": "Dronfield",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Neil",
+          "personFamilyName": "Jones-Lumby",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

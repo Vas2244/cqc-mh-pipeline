@@ -1,0 +1,74 @@
+{
+  "locationId": "RV5X1",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "RCDAS (Richmond Community Drug and Alcohol Service)",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2020-08-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.4460743,
+  "onspdLongitude": -0.3305019,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Unit 2, Ilex House",
+  "postalAddressLine2": "94 Holly Road",
+  "postalAddressTownCity": "Twickenham",
+  "region": "London",
+  "postalCode": "TW1 4HF",
+  "uprn": "10024344627",
+  "mainPhoneNumber": "02032286000",
+  "numberOfBeds": 0,
+  "constituency": "Twickenham",
+  "localAuthority": "Richmond upon Thames",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "b26f8824-f85a-42e1-807d-6f47465ca373",
+          "providerId": "RV5",
+          "locationId": "RV5X1"
+        }
+      ]
+    }
+  ]
+}

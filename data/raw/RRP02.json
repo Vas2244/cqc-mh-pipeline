@@ -1,0 +1,276 @@
+{
+  "locationId": "RRP02",
+  "providerId": "RRP",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Chase Farm Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2024-11-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.666528,
+  "onspdLongitude": -0.104009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "The Ridgeway",
+  "postalAddressTownCity": "Enfield",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "EN2 8JL",
+  "mainPhoneNumber": "08451114000",
+  "website": "www.beh-mht.nhs.uk",
+  "constituency": "Enfield North",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2023-05-17"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "TAF001",
+      "relatedLocationName": "Chase Farm Hospital",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "90b0ae60-b3c1-40df-a08c-1c5d85c95b3b",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "INS2-15225351431",
+          "reportLinkId": "5a13a331-6dfa-4d49-809b-cc2b8d728b13",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "INS2-5859304281",
+          "reportLinkId": "e9759949-8efa-46ab-a26b-37ca71de9885",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "ce594c73-0e7e-4dc1-bccf-c7192895755c",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "9db3fc20-c9d0-4b47-b25f-5fd757537fce",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-15474123651",
+          "reportLinkId": "0fd08169-efcc-4f8f-b199-2229ccb008e6",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "INS2-4914406561",
+          "reportLinkId": "153ee014-e93c-48ed-81c6-ea2e36ace620",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "INS2-5859304281",
+          "reportLinkId": "8ede37fb-83ab-4065-82ca-b8a398b82d5c",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "954142fb-18cc-4e59-a84d-299f19d40567",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "460704f4-007a-47ab-8db3-af0a6c7c39a0",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "INS2-5859304281",
+          "reportLinkId": "668a5053-1815-4d30-acdf-4e6b580cace3",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "INS2-9580504171",
+          "reportLinkId": "0585d6c2-969a-4914-a6ab-510c64cf170e",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "b871d1ec-db14-488e-a247-ca39b5b6eb73",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "9da2f169-4016-4264-af06-c530fdcca75c",
+          "providerId": "RRP",
+          "locationId": "RRP02"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2018-03-27"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "bb266f71-0653-43d5-9ed0-9c7458a86a2b",
+      "reportDate": "2014-11-22",
+      "firstVisitDate": "2014-10-27",
+      "reportUri": "/reports/bb266f71-0653-43d5-9ed0-9c7458a86a2b?20151016191357"
+    },
+    {
+      "linkId": "35adda56-6c8c-4cdf-9b4b-a5cd6954ec54",
+      "reportDate": "2013-11-23",
+      "firstVisitDate": "2013-09-25",
+      "reportUri": "/reports/35adda56-6c8c-4cdf-9b4b-a5cd6954ec54?20151016191357"
+    },
+    {
+      "linkId": "b44884c6-8015-4e8b-b4d5-49be794ac310",
+      "reportDate": "2013-05-23",
+      "firstVisitDate": "2013-03-27",
+      "reportUri": "/reports/b44884c6-8015-4e8b-b4d5-49be794ac310?20200129163919"
+    },
+    {
+      "linkId": "eac6ea88-587a-4d87-b9c8-0606f37b5453",
+      "reportDate": "2013-03-12",
+      "firstVisitDate": "2013-01-10",
+      "reportUri": "/reports/eac6ea88-587a-4d87-b9c8-0606f37b5453?20151016191357"
+    },
+    {
+      "linkId": "80f808ab-7c8e-4f50-8a44-1419882191f3",
+      "reportDate": "2012-07-19",
+      "firstVisitDate": "2012-06-20",
+      "reportUri": "/reports/80f808ab-7c8e-4f50-8a44-1419882191f3?20200430120000"
+    },
+    {
+      "linkId": "a2712a1b-ee83-4bcc-a993-8063ac10e529",
+      "reportDate": "2012-03-16",
+      "firstVisitDate": "2012-01-08",
+      "reportUri": "/reports/a2712a1b-ee83-4bcc-a993-8063ac10e529?20200430120000"
+    },
+    {
+      "linkId": "3869a7de-d245-4ee1-980e-f46241a12b04",
+      "reportDate": "2011-12-08",
+      "firstVisitDate": "2011-09-07",
+      "reportUri": "/reports/3869a7de-d245-4ee1-980e-f46241a12b04?20200430120000"
+    }
+  ]
+}

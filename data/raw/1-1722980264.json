@@ -1,0 +1,127 @@
+{
+  "locationId": "1-1722980264",
+  "providerId": "1-102643442",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Priory Wellbeing Centre - Fenchurch Street",
+  "brandId": "BD144",
+  "brandName": "BRAND Priory Group",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-11-25",
+  "deregistrationDate": "2023-05-16",
+  "dormancy": "N",
+  "onspdLatitude": 51.511801,
+  "onspdLongitude": -0.0829831,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Ground Floor",
+  "postalAddressLine2": "150-152 Fenchurch Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "EC3M 6BB",
+  "uprn": "100022934885",
+  "mainPhoneNumber": "02070790555",
+  "website": "www.priorygroup.com",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "City of London",
+  "lastInspection": {
+    "date": "2016-06-01"
+  },
+  "lastReport": {
+    "publicationDate": "2016-09-01"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2016-09-01",
+      "reportLinkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2016-09-01",
+          "reportLinkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2016-09-01",
+          "reportLinkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2016-09-01",
+          "reportLinkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2016-09-01",
+          "reportLinkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2016-09-01",
+          "reportLinkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3"
+        }
+      ]
+    },
+    "reportDate": "2016-09-01"
+  },
+  "reports": [
+    {
+      "linkId": "45b87476-01c7-4f08-9988-6b2ffe9acea3",
+      "reportDate": "2016-09-01",
+      "firstVisitDate": "2016-06-01",
+      "reportUri": "/reports/45b87476-01c7-4f08-9988-6b2ffe9acea3?20210122224542",
+      "reportType": "Location"
+    }
+  ]
+}

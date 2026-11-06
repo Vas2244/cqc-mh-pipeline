@@ -1,0 +1,114 @@
+{
+  "locationId": "RV3CV",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Seacole Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-09-09",
+  "deregistrationDate": "2017-04-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.6665287,
+  "onspdLongitude": -0.1040036,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Chase Farm Hospital",
+  "postalAddressLine2": "The Ridgeway",
+  "postalAddressTownCity": "Enfield",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "EN2 8JL",
+  "uprn": "207183897",
+  "mainPhoneNumber": "02083751052",
+  "website": "www.cnwl.nhs.uk",
+  "constituency": "Enfield North",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2015-02-24"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Learning disabilities"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhdisabilities",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "234057e6-de91-4ad6-87e2-c163ceaf4bd8",
+          "providerId": "RV3",
+          "locationId": "RV3CV"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "146285c3-4644-4629-80ef-a4b2226bebc8",
+      "reportDate": "2013-07-05",
+      "firstVisitDate": "2013-05-30",
+      "reportUri": "/reports/146285c3-4644-4629-80ef-a4b2226bebc8?20200129163919"
+    },
+    {
+      "linkId": "c5df8565-5720-48a8-9b41-9e3ef53a18c8",
+      "reportDate": "2012-03-02",
+      "firstVisitDate": "2011-11-17",
+      "reportUri": "/reports/c5df8565-5720-48a8-9b41-9e3ef53a18c8?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "locationId": "1-485530550",
+  "providerId": "1-199724514",
+  "organisationType": "Location",
+  "type": "Primary Medical Services",
+  "name": "Dr Ruth O\u0027Hare",
+  "alsoKnownAs": "Connaught Square Practice",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "E87037",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-04-01",
+  "deregistrationDate": "2016-01-22",
+  "dormancy": "N",
+  "onspdLatitude": 51.5137063,
+  "onspdLongitude": -0.1637309,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "41 Connaught Square",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W2 2HL",
+  "uprn": "100022738297",
+  "mainPhoneNumber": "02074024026",
+  "website": "www.connaughtsquarepractice.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2015-05-05"
+  },
+  "lastReport": {
+    "publicationDate": "2015-09-10"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2451300192",
+      "relatedLocationName": "The Connaught Square Practice",
+      "type": "HSCA Successor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [
+    {
+      "type": "GP Practice"
+    }
+  ],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Phone/online advice",
+      "description": "Remote clinical advice service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    },
+    {
+      "name": "Urgent care centres",
+      "description": "Urgent care services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P2",
+      "primary": "true",
+      "name": "GP Practices"
+    },
+    {
+      "code": "P3",
+      "name": "Out of hours"
+    },
+    {
+      "code": "P5",
+      "name": "Remote clinical advice"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "conditions",
+      "inspectionAreaName": "People with long term conditions",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mothers",
+      "inspectionAreaName": "Families, children and young people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "old",
+      "inspectionAreaName": "Older people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "population",
+      "inspectionAreaName": "Working age people (including those recently retired and students)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "problems",
+      "inspectionAreaName": "People experiencing poor mental health (including people with dementia)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "vulnerable",
+      "inspectionAreaName": "People whose circumstances may make them vulnerable",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2015-09-10",
+      "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2015-09-10",
+          "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2015-09-10",
+          "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2015-09-10",
+          "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2015-09-10",
+          "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2015-09-10",
+          "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+        }
+      ]
+    },
+    "reportDate": "2015-09-10",
+    "serviceRatings": [
+      {
+        "name": "conditions",
+        "rating": "Good",
+        "reportDate": "2015-09-10",
+        "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+      },
+      {
+        "name": "mothers",
+        "rating": "Good",
+        "reportDate": "2015-09-10",
+        "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+      },
+      {
+        "name": "old",
+        "rating": "Good",
+        "reportDate": "2015-09-10",
+        "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+      },
+      {
+        "name": "population",
+        "rating": "Good",
+        "reportDate": "2015-09-10",
+        "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+      },
+      {
+        "name": "problems",
+        "rating": "Good",
+        "reportDate": "2015-09-10",
+        "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+      },
+      {
+        "name": "vulnerable",
+        "rating": "Good",
+        "reportDate": "2015-09-10",
+        "reportLinkId": "11b998c5-ea9a-488d-9d02-9a00de01a272"
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "11b998c5-ea9a-488d-9d02-9a00de01a272",
+      "reportDate": "2015-09-10",
+      "firstVisitDate": "2015-05-05",
+      "reportUri": "/reports/11b998c5-ea9a-488d-9d02-9a00de01a272?20210127003057",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "aa4bfa2b-daca-44a3-865d-3b37250b0b7c",
+      "reportDate": "2014-10-07",
+      "firstVisitDate": "2014-08-18",
+      "reportUri": "/reports/aa4bfa2b-daca-44a3-865d-3b37250b0b7c?20200129163919"
+    },
+    {
+      "linkId": "098a3a17-68ef-4b6b-b733-e18329762ef4",
+      "reportDate": "2013-12-28",
+      "firstVisitDate": "2013-11-22",
+      "reportUri": "/reports/098a3a17-68ef-4b6b-b733-e18329762ef4?20200129163919"
+    }
+  ]
+}

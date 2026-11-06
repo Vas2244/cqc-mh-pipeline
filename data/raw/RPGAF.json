@@ -1,0 +1,77 @@
+{
+  "locationId": "RPGAF",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Carlton Parade",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2017-06-30",
+  "deregistrationDate": "2020-11-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.382395,
+  "onspdLongitude": 0.107208,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1-6 Carlton Parade",
+  "postalAddressTownCity": "Orpington",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR6 0JB",
+  "mainPhoneNumber": "01689892300",
+  "numberOfBeds": 0,
+  "constituency": "Orpington",
+  "localAuthority": "Bromley",
+  "lastInspection": {
+    "date": "2018-12-04"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-9343759646",
+          "reportLinkId": "25a9d397-b575-4e2a-a803-2855de082606",
+          "providerId": "RPG",
+          "locationId": "RPGAF"
+        }
+      ]
+    }
+  ]
+}

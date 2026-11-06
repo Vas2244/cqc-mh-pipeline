@@ -1,0 +1,80 @@
+{
+  "locationId": "RV536",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Foxley Lane Womens Service",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-02-27",
+  "deregistrationDate": "2018-05-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.340737,
+  "onspdLongitude": -0.142452,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "158 Foxley Lane",
+  "postalAddressTownCity": "Purley",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR8 3NF",
+  "mainPhoneNumber": "02032285500",
+  "numberOfBeds": 0,
+  "constituency": "Croydon South",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2015-09-24"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "5b5aa539-2955-4d1e-8b41-1aa1cb75b6c1",
+          "providerId": "RV5",
+          "locationId": "RV536"
+        }
+      ]
+    }
+  ]
+}

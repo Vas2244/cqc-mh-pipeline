@@ -1,0 +1,319 @@
+{
+  "locationId": "RV3EE",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Stephenson House",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-10-25",
+  "deregistrationDate": "2018-07-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.526797,
+  "onspdLongitude": -0.139042,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "75 Hampstead Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 2PL",
+  "mainPhoneNumber": "02032145700",
+  "website": "www.cnwl.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2015-02-24"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RV3X2",
+      "relatedLocationName": "Trust Headquarters, 350 Euston Road",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Ambulances",
+      "description": "Ambulance service"
+    },
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Dentist",
+      "description": "Dental service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Prison healthcare",
+      "description": "Prison Healthcare Services"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H5",
+      "name": "Ambulance service"
+    },
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P1",
+      "name": "Dentists"
+    },
+    {
+      "code": "P4",
+      "name": "Prison Healthcare"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "Community health (sexual health services)",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "34cd2990-514a-4572-b633-67a2eac6fc81",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "db03b0ac-b050-4b3a-8b05-29a07ed41888",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "8a4e0992-6d15-4e89-aacc-29f1a5576d7d",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsdental",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "dcf471e5-1784-4bec-aed4-ac6b1393b534",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chslife",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "71da906e-a032-49f4-9054-152c65329c55",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "433a5d69-f12e-4dcb-bd05-d92468624b68",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityautism",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "190ffc50-cce1-40bf-8b4c-2be47011e79c",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "97066a06-8502-4650-86c9-4f604de57382",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "10839b3f-f13a-4a42-9770-7d2e28043330",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "a21d82c2-4979-4daa-a4dd-04e3018f22a5",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-4044706000",
+          "reportLinkId": "1d8fa806-77f9-423f-af13-fb9781f54bfb",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        },
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "2e1e2081-635d-47ab-a3cc-a94bc0de9331",
+          "providerId": "RV3",
+          "locationId": "RV3EE"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "c138995b-77be-4bc8-b89f-007e19d9da7c",
+      "reportDate": "2014-11-04",
+      "firstVisitDate": "2014-09-05",
+      "reportUri": "/reports/c138995b-77be-4bc8-b89f-007e19d9da7c?20200129163919"
+    },
+    {
+      "linkId": "39933e58-41c1-44f4-b019-2cef64a38244",
+      "reportDate": "2013-07-12",
+      "firstVisitDate": "2013-05-15",
+      "reportUri": "/reports/39933e58-41c1-44f4-b019-2cef64a38244?20200129163919"
+    },
+    {
+      "linkId": "d752a61a-c9b0-4c51-820b-371120644ee6",
+      "reportDate": "2013-05-29",
+      "firstVisitDate": "2013-04-15",
+      "reportUri": "/reports/d752a61a-c9b0-4c51-820b-371120644ee6?20151016191357"
+    },
+    {
+      "linkId": "9ba79241-e373-4cac-9207-4a1f28a45a4d",
+      "reportDate": "2013-04-19",
+      "firstVisitDate": "2013-03-12",
+      "reportUri": "/reports/9ba79241-e373-4cac-9207-4a1f28a45a4d?20151016191357"
+    },
+    {
+      "linkId": "27032d72-3c9a-4d5d-9e37-62d19d9bcda0",
+      "reportDate": "2011-12-19",
+      "firstVisitDate": "2011-11-14",
+      "reportUri": "/reports/27032d72-3c9a-4d5d-9e37-62d19d9bcda0?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "locationId": "1-119704417",
+  "providerId": "1-101678209",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cranstoun - Trelawn House",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "odsCode": "VL1LH",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-10-07",
+  "deregistrationDate": "2018-06-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.342284,
+  "onspdLongitude": -0.122644,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Trelawn House",
+  "postalAddressLine2": "30 Russell Hill",
+  "postalAddressTownCity": "Purley",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR8 2JA",
+  "mainPhoneNumber": "02086604586",
+  "numberOfBeds": 15,
+  "constituency": "Croydon South",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2017-05-22"
+  },
+  "lastReport": {
+    "publicationDate": "2017-07-14"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdetoxification",
+      "inspectionAreaName": "Residential substance misuse services",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-07-14",
+      "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-07-14",
+          "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-07-14",
+          "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-07-14",
+          "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-07-14",
+          "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-07-14",
+          "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c"
+        }
+      ]
+    },
+    "reportDate": "2017-07-14",
+    "serviceRatings": [
+      {
+        "name": "mhdetoxification",
+        "rating": "Inspected but not rated",
+        "reportDate": "2017-07-14",
+        "reportLinkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-03-01",
+      "reportLinkId": "2145acf7-568f-4758-9051-ce4643c923f3",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "55b45ac2-61b5-4468-8674-0daa2f1ff80c",
+      "reportDate": "2017-07-14",
+      "firstVisitDate": "2017-05-22",
+      "reportUri": "/reports/55b45ac2-61b5-4468-8674-0daa2f1ff80c?20210118225135",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "2145acf7-568f-4758-9051-ce4643c923f3",
+      "reportDate": "2017-03-01",
+      "firstVisitDate": "2016-09-20",
+      "reportUri": "/reports/2145acf7-568f-4758-9051-ce4643c923f3?20210120060722",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "0bbd4884-6d87-4eda-9e28-33886c555a25",
+      "reportDate": "2014-01-11",
+      "firstVisitDate": "2013-11-29",
+      "reportUri": "/reports/0bbd4884-6d87-4eda-9e28-33886c555a25?20200129163919"
+    },
+    {
+      "linkId": "74300191-a301-4827-957c-65f8b171953a",
+      "reportDate": "2013-03-05",
+      "firstVisitDate": "2012-12-04",
+      "reportUri": "/reports/74300191-a301-4827-957c-65f8b171953a?20151016191357"
+    }
+  ]
+}

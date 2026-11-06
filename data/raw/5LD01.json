@@ -1,0 +1,71 @@
+{
+  "locationId": "5LD01",
+  "providerId": "5LD",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Gracefields Gardens",
+  "brandId": "Q36",
+  "brandName": "London Strategic Health Authority",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2011-07-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.432463,
+  "onspdLongitude": -0.126603,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "2-8 Gracefield Gardens",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW16 2ST",
+  "website": "www.lambethpct.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Streatham and Croydon North",
+  "localAuthority": "Lambeth",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

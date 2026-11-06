@@ -1,0 +1,92 @@
+{
+  "locationId": "1-135076061",
+  "providerId": "1-101644275",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Equinox - 126 Lower Clapton Road",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-12",
+  "deregistrationDate": "2012-02-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.553712,
+  "onspdLongitude": -0.053324,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "126 Lower Clapton Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E5 0QR",
+  "mainPhoneNumber": "02085257680",
+  "website": "www.equinoxcare.org.uk",
+  "numberOfBeds": 20,
+  "constituency": "Hackney North and Stoke Newington",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2011-02-28"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "0ca0f944-1157-4ba0-9262-dd62375d0baf",
+      "reportDate": "2011-04-07",
+      "firstVisitDate": "2011-01-28",
+      "reportUri": "/reports/0ca0f944-1157-4ba0-9262-dd62375d0baf?20200430120000"
+    }
+  ]
+}

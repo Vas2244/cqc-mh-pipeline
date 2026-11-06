@@ -1,0 +1,80 @@
+{
+  "locationId": "1-132817639",
+  "providerId": "1-119229598",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Winston House",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-12-03",
+  "deregistrationDate": "2011-05-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.601051,
+  "onspdLongitude": -0.195251,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "321 Winston House",
+  "postalAddressLine2": "2-4 Dollis Park, Finchley Central",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N3 1HF",
+  "mainPhoneNumber": "02083491491",
+  "website": "www.cornflowercare.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Finchley and Golders Green",
+  "localAuthority": "Barnet",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Supported living",
+      "description": "Supported living service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

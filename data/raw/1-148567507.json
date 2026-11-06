@@ -1,0 +1,54 @@
+{
+  "locationId": "1-148567507",
+  "providerId": "1-126775082",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Compass - Harrow",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-26",
+  "deregistrationDate": "2012-08-31",
+  "dormancy": "N",
+  "onspdLatitude": 51.579874,
+  "onspdLongitude": -0.337027,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Room 212",
+  "postalAddressLine2": "79 College Road",
+  "postalAddressTownCity": "Harrow",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "HA1 1BD",
+  "mainPhoneNumber": "02030088270",
+  "website": "www.compass-uk.org",
+  "constituency": "Harrow West",
+  "localAuthority": "Harrow",
+  "relationships": [
+    {
+      "relatedLocationId": "1-402617378",
+      "relatedLocationName": "Compass Harrow",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

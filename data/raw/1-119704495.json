@@ -1,0 +1,137 @@
+{
+  "locationId": "1-119704495",
+  "providerId": "1-101678209",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cranstoun - Oak Lodge",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-10-07",
+  "deregistrationDate": "2017-02-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.454322,
+  "onspdLongitude": -0.211052,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Oak Lodge",
+  "postalAddressLine2": "136 West Hill, Wandsworth",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW15 2UE",
+  "mainPhoneNumber": "02087881648",
+  "website": "www.cranstoun.org",
+  "numberOfBeds": 14,
+  "constituency": "Putney",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2016-01-07"
+  },
+  "lastReport": {
+    "publicationDate": "2016-06-16"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "S1",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-06-16",
+      "reportLinkId": "46289d95-0244-4988-a9f7-51304d8696bf",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-06-16",
+          "reportLinkId": "46289d95-0244-4988-a9f7-51304d8696bf"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-06-16",
+          "reportLinkId": "46289d95-0244-4988-a9f7-51304d8696bf"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-06-16",
+          "reportLinkId": "46289d95-0244-4988-a9f7-51304d8696bf"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-06-16",
+          "reportLinkId": "46289d95-0244-4988-a9f7-51304d8696bf"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-06-16",
+          "reportLinkId": "46289d95-0244-4988-a9f7-51304d8696bf"
+        }
+      ]
+    },
+    "reportDate": "2016-06-16"
+  },
+  "reports": [
+    {
+      "linkId": "46289d95-0244-4988-a9f7-51304d8696bf",
+      "reportDate": "2016-06-16",
+      "firstVisitDate": "2016-01-06",
+      "reportUri": "/reports/46289d95-0244-4988-a9f7-51304d8696bf?20210123100113",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a44aeb0a-b220-47f5-907c-d45958679337",
+      "reportDate": "2013-10-11",
+      "firstVisitDate": "2013-09-12",
+      "reportUri": "/reports/a44aeb0a-b220-47f5-907c-d45958679337?20151016191357"
+    },
+    {
+      "linkId": "c01e8173-63f3-4979-b70b-26d256b3a55a",
+      "reportDate": "2013-04-17",
+      "reportUri": "/reports/c01e8173-63f3-4979-b70b-26d256b3a55a?20151016191357"
+    },
+    {
+      "linkId": "adbecba2-f481-4ff4-8b27-d78edf2b72db",
+      "reportDate": "2013-01-09",
+      "firstVisitDate": "2012-11-29",
+      "reportUri": "/reports/adbecba2-f481-4ff4-8b27-d78edf2b72db?20200129163919"
+    },
+    {
+      "linkId": "6e95c327-5f98-43b3-b103-f979a3c80f02",
+      "reportDate": "2011-11-15",
+      "firstVisitDate": "2011-10-17",
+      "reportUri": "/reports/6e95c327-5f98-43b3-b103-f979a3c80f02?20200430120000"
+    }
+  ]
+}

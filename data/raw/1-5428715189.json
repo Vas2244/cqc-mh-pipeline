@@ -1,0 +1,1043 @@
+{
+  "locationId": "1-5428715189",
+  "providerId": "1-4695118200",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Keats House",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2018-07-02",
+  "deregistrationDate": "2026-07-07",
+  "dormancy": "N",
+  "onspdLatitude": 51.5046224,
+  "onspdLongitude": -0.0883767,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "24-26 St. Thomas Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE1 9RS",
+  "uprn": "200003495986",
+  "mainPhoneNumber": "02070890610",
+  "website": "www.keatshouse.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Bermondsey and Old Southwark",
+  "localAuthority": "Southwark",
+  "lastInspection": {
+    "date": "2021-06-14"
+  },
+  "lastReport": {
+    "publicationDate": "2021-08-05"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-28493430438",
+      "relatedLocationName": "The Foundry",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-1262895482",
+      "relatedLocationName": "Keats House",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhworkingage",
+      "inspectionAreaName": "Community-based mental health services for adults of working age",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2021-08-05",
+      "reportLinkId": "0318a85b-dae7-45ad-b9c6-21fd435fc0cc",
+      "serviceRatings": [
+        {
+          "name": "mhworkingage",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "0318a85b-dae7-45ad-b9c6-21fd435fc0cc",
+      "reportDate": "2021-08-05",
+      "firstVisitDate": "2021-06-08",
+      "reportUri": "/reports/0318a85b-dae7-45ad-b9c6-21fd435fc0cc?20210805170107",
+      "reportType": "Location"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "214",
+      "assessmentServiceName": "Community-based mental health services for adults of working age",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-03-20 00:01:00",
+      "ratings": {
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP19945",
+            "title": "Ongoing Assessment for Keats House",
+            "assessmentDate": "2025-12-18",
+            "assessmentPlanStatus": "Active",
+            "name": "Community-based mental health services for adults of working age",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EWe inspected this service as part of our ongoing comprehensive mental health inspection programme.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ETo fully understand the experience of people who use services, we always ask the following five questions of every service and provider:\u003C/p\u003E\u003Cp\u003E\u2022 Is it safe?\u003C/p\u003E\u003Cp\u003E\u2022 Is it effective?\u003C/p\u003E\u003Cp\u003E\u2022 Is it caring?\u003C/p\u003E\u003Cp\u003E\u2022 Is it responsive to people\u2019s needs?\u003C/p\u003E\u003Cp\u003E\u2022 Is it well-led?\u003C/p\u003E\u003Cp\u003EBefore the inspection visit, we reviewed information that we held about the location. This was an announced inspection in line with our methodology.\u003C/p\u003E\u003Cp\u003EDuring the inspection visit, the inspection team:\u003C/p\u003E\u003Cp\u003E\u2022 Toured the office base which included an administration office, waiting area, shared reception and the psychiatrist\u2019s office\u003C/p\u003E\u003Cp\u003E\u2022 Reviewed paper records detailing the care and treatment of 10 patients\u003C/p\u003E\u003Cp\u003E\u2022 Completed telephone interviews with 5 patients\u003C/p\u003E\u003Cp\u003E\u2022 Reviewed written feedback received from patients\u003C/p\u003E\u003Cp\u003E\u2022 Reviewed medication prescriptions\u003C/p\u003E\u003Cp\u003E\u2022 Completed interviews with the consultant psychiatrist and registered manager and medical secretary.\u003C/p\u003E\u003Cp\u003E\u2022 Looked at a range of data, policies, procedures and other documents.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EOur final telephone interview was completed on 29th January 2025.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EOutstanding Practice\u003C/p\u003E\u003Cp\u003EThe service adopted a truly person-centered approach. Consideration of people\u2019s privacy and dignity was embedded into everything the service did. The provider sought patients voice in everything they did. For example, patients preferred if appointments were handwritten rather than using a computer. The service also sought feedback on where patients would like the new office to be based. As patients accessed the service based on their individual preference, there was a strong focus on achieving patient satisfaction, whilst providing a safe service. Patients we spoke with said the care and support they received was excellent. Some patients gave examples where they felt the consultant psychiatrist and staff had gone above and beyond to support them. This included last minute appointments and offering digital appointments.\u003C/p\u003E",
+            "commentaryDate": "2026-03-20",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe interviewed five clients and reviewed other sources of patient feedback. This included written feedback from surveys and feedback that had been published by patients in the public domain. \u003C/p\u003E\u003Cp\u003EFeedback we received was consistently very positive. Clients said care and support they received had exceeded their expectations and \u2018changed their lives\u2019. All patients commended the person-centered approach of the entire staff team. Several people said the service provided was excellent.  \u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-03-20",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question Outstanding. At this assessment the rating has remained Outstanding. This meant This meant people were truly respected and valued as individuals; and empowered as partners in their care in an exceptional.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EStaff treated clients with a high level of compassion and kindness, making them feel welcome and at ease within the service. They understood the individual needs of clients and were proactive in supporting clients to understand and manage their care and treatment. This included understanding people\u2019 s particular needs relating to ethnicity, religion, sexual orientation, age and disability. \u003C/li\u003E\u003Cli\u003EStaff informed and involved families and carers appropriately.\u003C/li\u003E\u003Cli\u003EThe service adopted a truly person-centred approach. Consideration of people\u2019s privacy and dignity was embedded into everything the service did. As patients accessed the service based on their individual preference, there was a strong focus on achieving patient satisfaction, whilst providing a safe service. Patients we spoke with felt the care and support they received had exceeded their expectations, many described the service as \u2018outstanding\u2019. Some patients gave examples where they felt the consultant psychiatrist and staff had gone above and beyond to support them. This included scheduling last minute appointments and responding to their contact outside of normal working hours.\u003C/li\u003E\u003Cli\u003ELeaders were dedicated to creating a caring organisational culture, to ensure staff remained motivated and driven to provide the best possible experience for patients.\u003C/li\u003E\u003C/ul\u003E",
+                "commentaryDate": "2026-03-20",
+                "narrative": "This service is exceptionally caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients we spoke to stated that they felt involved in their care and we saw that treatment records and plans were personalised and reflected patient choice. \u003C/p\u003E\u003Cp\u003EStaff stated that they supported patients to make decisions about their own care during meetings. Staff stated that they would decide with patients what the next steps will be and have a discussion surrounding it.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "\u003Cp\u003EStaff treated patients with kindness and respect. All patients we spoke with said the care and treatment was very good. Some described occasions where the service and psychiatrist had gone the extra mile to support them. \u003C/p\u003E\u003Cp\u003EStaff supported patients to understand and manage their care, treatment or condition. The staff we spoke to stated that they would do everything they could to accommodate any requests from their patients and gave examples of this. Patients we spoke with said the service was highly personalised and making a big difference in their lives\u2019. They said staff were always helpful and took time to listen to them.\u003C/p\u003E\u003Cp\u003EThe service adopted a truly person-centered approach. As patients accessed the service based on their individual preference, there was a strong focus on achieving patient satisfaction, whilst following the scope of practice.\u003C/p\u003E\u003Cp\u003EConsideration of people\u2019s privacy was taken seriously and complied with in information handling and storage. Staff maintained the confidentiality of information about patients. \u003C/p\u003E\u003Cp\u003EMultiple patients told us the discretion of the service was a key component of their treatment and created a safe space for them to access support.\u003C/p\u003E\u003Cp\u003EIf delivering sessions online, the service ensured people\u2019s privacy was protected by using secure digital platforms.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe service listened to and worked hard to understand people\u2019s needs, views and wishes. They respond to these in that moment and acted to minimise any discomfort, concern or distress.\u003C/p\u003E\u003Cp\u003EStaff enabled patients to give feedback on the service they received, for example, by completing surveys. This was used to adapt and improve services. For example, the administration system to make appointments had been improved, based on patient feedback. \u003C/p\u003E\u003Cp\u003EPatients, relatives and carers knew how to complain or raise concerns. The service provided patients with information on how to complain. Information about the provider\u2019s complaints procedure was also detailed in the patient welcome information and leaflets were available. \u003C/p\u003E\u003Cp\u003EPatients told us they felt confident to approach staff for advice about the complaints procedure if they needed to.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist treated people as individuals and made sure their care, support and treatment met their needs and preferences, taking account of their strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics. \u003C/p\u003E\u003Cp\u003EThe service made adjustments for people to meet their accessibility or communication needs. For example, if someone was not able to use technology to carry out a video call, the doctor would conduct this over the telephone. Where people preferred to receive letters, rather than emails, this was accommodated immediately.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service cared about and promoted the wellbeing of the staff. Staff were supported and enabled to always deliver high-quality, person-centered work, across all roles.The provider had a comprehensive training programme and appropriate supervision in place.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question Good. At this assessment the rating has remained Good. This meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EAll premises where clients received care were safe, clean, well equipped, well furnished, well maintained and fit for purpose. \u003C/li\u003E\u003Cli\u003ERisks were assessed and managed well. The service had a very clear scope of practice and ensured it referred people to alternative services if it could not safely meet their needs. \u003C/li\u003E\u003Cli\u003EStaff kept up-to-date records of clients\u2019 care and treatment and stored these in line with privacy and confidentiality requirements. \u003C/li\u003E\u003C/ul\u003E",
+                "commentaryDate": "2026-03-20",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist completed comprehensive mental health assessments over 2 to 6 sessions with each patient once accepted into the service. They highlighted the importance of taking time to understand patient\u2019s individual needs over several sessions before offering a diagnosis or agreeing on a set treatment plan. Patients commented they found this approach effective. \u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist worked with patients and their families when appropriate, to plan care and adapted this plan in response to the patients\u2019 changing needs. This plan was then shared with the patient. We reviewed the records for 10 patients. Each contained detailed plans of care that reflected the assessed needs of each patient that were personalised, holistic and recovery oriented. \u003C/p\u003E\u003Cp\u003EThe service worked in partnership with patients\u2019 GPs and other relevant specialists to ensure patients\u2019 physical health was assessed and monitored. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist understood their legal responsibilities in relation to the Mental Capacity Act (MCA) and associated Code of Practice. This included obtaining informed consent from patients before delivery of treatment.\u003C/p\u003E\u003Cp\u003EIn all the records we reviewed consent to treatment was obtained from clients prior to treatment. This was obtained through a form.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist ensured patients had access to a range of treatment and care that was based on national guidance and best practice. Interventions offered to patients were those recommended by and were delivered in line with National Institute for Health and Care Excellence (NICE) guidance. The consultant psychiatrist had specialist knowledge of Cognitive Behaviour Therapy (CBT) and aimed to use a blended approach offering psychological and pharmacological intervention. The consultant psychiatrist discussed all treatment options with patients, including medicine or non-medicine interventions. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had effective working relationships with services outside the organisation. \u003C/p\u003E\u003Cp\u003EStaff shared information about patients and any changes in their care with other services when appropriate. The service recorded consent to share information clearly in individual patient\u2019s individual records. \u003C/p\u003E\u003Cp\u003ESome patients did not consent to their GP being contacted by the service or did not have a GP at all. In these cases, the consultant psychiatrist explained the potential risks associated with the service not being able to share information with patient\u2019s GP. They would only offer treatment to patient in these circumstances if they deemed it clinically appropriate and safe to do so.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service used outcome measures to monitor people\u2019s care and treatment continuously, using a range of recognised rating scales, to improve it and to ensure that outcomes were positive and consistent. They also used outcomes to ensure that they met both clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist used recognised rating scales to assess and record severity and outcomes. For example, Health of Nation Outcomes scales. \u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist used recognised rating scales to assess and record severity and outcomes. For example, both the Beck Anxiety Inventory (BAI) and Depression inventory (BDI) were completed at the start of a patient\u2019s treatment and used to monitor progress. The consultant psychiatrist included patients to make their own decisions in their care. Patients we spoke with said the treatment they received had positive outcomes on their mental and overall health. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist supported people to manage their health and wellbeing and live healthier lives. For example, helped patient access other services such to support healthy eating advice, improve sleep and going to the gym.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question Good. At this assessment the rating has remained Good. This meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EThe service was easy to access. Staff planned and managed discharge well. The service had alternative care pathways and referral systems for people whose needs it could not meet. \u003C/li\u003E\u003Cli\u003EThe design, layout, and furnishings of treatment rooms supported patients\u2019 treatment, privacy and dignity. Patients had access to hot drinks in reception. \u003C/li\u003E\u003Cli\u003EThe service made adjustments for people in response to their needs, including those with a protected characteristic, mobility, or with communication support needs.\u003C/li\u003E\u003Cli\u003EThe service treated concerns and complaints seriously, investigated them and learned lessons from the results, and shared these with the whole team.\u003C/li\u003E\u003C/ul\u003E",
+                "commentaryDate": "2026-03-20",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe service had a very clear scope of practice and understood the needs of its patient group. If needed, the service could refer patients to other external services to support areas out of scope of this service. \u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist understood their role and responsibilities under the Mental Health Act 1983 and associated Code of Practice. The consultant psychiatrist had previously undergone comprehensive training and demonstrated clear knowledge of the Act. Due to the scope of practice, referrals for people subject to treatment under the Mental Health Act, including those on community treatment orders, did not sit within the acceptance criteria for the service.\u003C/p\u003E\u003Cp\u003EStaff understood and respected the individual needs of each patient. Staff showed a good understanding of patient\u2019s needs, circumstances and goals.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe service was easy to access. The service offered pre-booked appointments at a range of different times to meet the needs of patients. The service did not offer walk in appointments and did not operate on a 24-hour basis. The service responded quickly to any enquiries or requests for appointments. \u003C/p\u003E\u003Cp\u003EThe service had a clear scope of practice and only accepted referrals for patients whose needs it could meet safely. \u003C/p\u003E\u003Cp\u003EThe building the service was based was accessible for people with physical disabilities. \u003C/p\u003E\u003Cp\u003EPatients had flexibility and choice in the appointment times available. All patients we spoke to said that the service was always quick to respond to their requests for appointments. Appointments ran on time. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service was aware of the importance of equity in experience and outcomes. \u003C/p\u003E\u003Cp\u003EPatients stated that they felt that they were able to raise any concerns and how to do this.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service asked patients for feedback about their care and did this using technology to make it as easy as possible for people. The most recent response from 120 patients showed feedback about care was rated \u2018outstanding\u2019. The service analysed the data to identify any areas for improved experience for the patient, and as a result, moved to using online appointment system that made booking appointments an easier process. Staff also involved patients by conducting a survey on where they would like the service to be based due to having to relocate in the near future. \u003C/p\u003E\u003Cp\u003EThe service had received no complaints within the last 12 months. However, there were appropriate systems and processes in place to ensure any concerns and complaints were treated seriously, investigated and any lessons learned would be shared with the whole team.\u003C/p\u003E\u003Cp\u003EStaff understood the policy on complaints and knew how to handle them\u003C/p\u003E\u003Cp\u003EPatients, relatives and carers knew how to complain or raise concerns. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff engaged with patients, and their friends and families (where appropriate) to develop support plans that met their needs and ensured they had the relevant information needed to make informed decisions about their care.\u003C/p\u003E\u003Cp\u003EPatients reported that they felt supported, informed and involved with their treatment decisions and care planning. All patients we spoke with reported they had discussed their plan of care and were happy with it.\u003C/p\u003E\u003Cp\u003EIn the records we reviewed we saw patients\u2019 voice for example highlighting what they wanted from their treatment. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist supported patients to make decisions about their care and treatment and future. \u003C/p\u003E\u003Cp\u003EStaff ensured all relevant healthcare professionals and other relevant bodies were involved in planning the care and treatment of people with complex needs. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe service could provide appropriate, accurate and up-to-date information in formats tailored to individual needs.\u003C/p\u003E\u003Cp\u003EThe service could support and make adjustments for people with disabilities, communication needs or other specific needs if needed. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question Good. At this assessment the rating has remained Good. This meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EAll premises where clients received care were safe, clean, well equipped, well furnished, well maintained and fit for purpose. \u003C/li\u003E\u003Cli\u003ERisks were assessed and managed well. The service had a very clear scope of practice and ensured it referred people to alternative services if it could not safely meet their needs. \u003C/li\u003E\u003Cli\u003EStaff kept up-to-date records of clients\u2019 care and treatment and stored these in line with privacy and confidentiality requirements. \u003C/li\u003E\u003C/ul\u003E",
+                "commentaryDate": "2026-03-20",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EStaff followed infection control guidelines, including handwashing.\u003C/p\u003E\u003Cp\u003ECleaning was provided by the building landlord and staff checked this was done as part of the service infection prevention and control procedures.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist assessed and managed risks to patients and themselves well. Staff followed good personal safety protocols.\u003C/p\u003E\u003Cp\u003EPatients\u2019 risks were assessed at point of referral. If patients presented with risks that were outside the scope of practice, the consultant psychiatrist would signpost or refer them to other services based on their individual needs. If members of the public rang the service in crisis, staff knew when to direct them to emergency services to ensure their safety. \u003C/p\u003E\u003Cp\u003EWhere referrals were accepted, the consultant psychiatrist completed a detailed assessment of risk with every patient. This included the completion of a risk assessment tool the service had developed internally. All care records we reviewed included detailed assessments of risk that had been completed with each patient and reviewed regularly. \u003C/p\u003E\u003Cp\u003ERecords we reviewed showed that the service shared clear information with patients about what to do in crisis, as emergency and crisis care was not offered by the service. \u003C/p\u003E\u003Cp\u003EStaff communicated with patients so that they understood their care and treatment. Staff enabled patients to give feedback on the service they received. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EThe service had a proactive and positive culture of safety based on openness and honesty. Any concerns about safety are listened to, safety events are investigated, and lessons learned to continually identify and embed good practices. \u003C/p\u003E\u003Cp\u003EThere had been one serious incident in the service over the last 12 months surrounding medication. The consultant psychiatrist had investigated this incident and shared lessons learned with the whole team. The registered manager could also investigate incidents and identify learning to improve the service. There was evidence that changes had been made as a result of feedback. \u003C/p\u003E\u003Cp\u003EStaff understood the duty of candour and had policies and procedures in place. Staff understood the importance of being were open and transparent and would give patients and families a full explanation if things went wrong. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service used systems and processes to safely prescribe medicines. The consultant psychiatrist ensured the effects of medication on each patient\u2019s mental and physical health were reviewed. The service did not administer medicine directly to patients or store any medication on site. \u003C/p\u003E\u003Cp\u003EWe reviewed the prescriptions for patients and found the consultant psychiatrist followed current national practice when prescribing patients\u2019 medicines. \u003C/p\u003E\u003Cp\u003EStaff stored prescribing documents in line with the provider\u2019s policy and national guidance. \u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist worked closely with other healthcare professionals to ensure the effects of medication on patients\u2019 physical health were regularly reviewed and monitored. The consultant psychiatrist provided specific advice and information to patients about their medicines in a way they could understand. For example, we found in records clear communication provided to patients\u2019 advice on their medication. \u003C/p\u003E\u003Cp\u003EThe provider followed the overarching principles set by the General Medical Guidance (GMC) around prescribing medication where treatment was delivered online. No other staff beside the consultant psychiatrist had access to the authorised signature needed to complete patient prescriptions. \u003C/p\u003E\u003Cp\u003EPatients could select a pharmacy of their choice for a prescription to be dispensed\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe team was made up of the consultant psychiatrist, practice manager and medical secretary. At the time of the inspection the service was in the process of recruiting another medical secretary. \u003C/p\u003E\u003Cp\u003EThe number of patients on the consultant psychiatrist\u2019s caseload was well managed to allow enough time to treat each patient. \u003C/p\u003E\u003Cp\u003EAll staff received and kept up to date with mandatory training that met the needs of patients. \u003C/p\u003E\u003Cp\u003EStaff received appropriate appraisals, supervision and opportunities to update and further develop their skills. \u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist took steps to ensure they remained clinically effective. They completed an annual appraisal through an independent body every year and followed guidance on revalidation set out by the General Medical Council. (GMC). They also attended a quarterly peer review with other clinical professionals to reflect on their own practice. In addition, the consultant psychiatrist was also part of multiple multi-disciplinary team forums, some consisting of pharmacist, nurses, occupational therapists, doctors, and commissioners who met to discuss complex issues and review policy issues. The consultant worked 20 days a year in NHS services. \u003C/p\u003E\u003Cp\u003EThe registered manager made sure non-medical staff had the right skills, qualifications and experience to carry out their roles. Leaders identified any training needs their staff had and gave them the time and opportunity to develop their skills and knowledge. \u003C/p\u003E\u003Cp\u003EAny poor performance was identified and managed\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe premises where patients would usually be seen were safe and clean. The main reception area, administration offices, waiting room and consultant psychiatrist\u2019s office were well maintained, well-furnished and fit for purpose. \u003C/p\u003E\u003Cp\u003EThere were no clinic rooms onsite, the consultant psychiatrist ensured physical health examinations were conducted by patient\u2019s GPs when needed. \u003C/p\u003E\u003Cp\u003EStaff followed infection control guidelines, including handwashing. Cleaning was provided by the building landlord and staff checked this was done as part of the service infection prevention and control procedures.\u003C/p\u003E\u003Cp\u003EStaff had completed risk assessments to ensure the onsite office base and home working environment for staff were safe and any potential risks were managed during this time. For example, display screen equipment guidance for working from home had been shared with staff and risks assessments completed. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "\u003Cp\u003EThe service was easy to access. The service had a clear scope of practice and only accepted referrals for patients whose needs it could meet safely. This was made clear in documentation shared with anyone accessing the service. \u003C/p\u003E\u003Cp\u003EThe service admission process included a pre-assessment of the patient to ensure that the patients\u2019 needs could be safely met. This included reviewing any mental and physical health.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff understood how to protect patients from abuse and the service worked well with other agencies to do so. Staff had training on how to recognise and report abuse, and they knew how to apply it. \u003C/p\u003E\u003Cp\u003EStaff kept up to date with their level 3 safeguarding training. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question Good. At this assessment the rating has remained Good. This meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centered care. \u003C/p\u003E\u003Cul\u003E\u003Cli\u003ELeaders had the skills, knowledge and experience to perform their roles, had a good understanding of the services they managed. Staff reported a supportive working culture within the team. \u003C/li\u003E\u003Cli\u003EStaff knew and understood the provider\u2019s vision and values and how they were applied in the work of their team. Staff felt respected, supported and valued. They reported that the provider promoted equality and diversity in its day-to-day work and in providing opportunities for career progression. They felt able to raise concerns without fear of retribution.\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003E \u003C/p\u003E",
+                "commentaryDate": "2026-03-20",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist had the skills, knowledge, experience and credibility to lead effectively and do so with integrity, openness and honesty. All the staff had a good understanding of the service they delivered, and the doctor was visible and approachable to their team.\u003C/p\u003E\u003Cp\u003EThe registered manger had the skills, knowledge and experience to perform their role. They had a good understanding of the services they managed and were visible in the service and approachable for patients and staff.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff told us that they would have no hesitation in whistleblowing if they had concerns about the service.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had clear responsibilities, roles, systems of accountability and good governance to manage and deliver good quality, sustainable care and treatment. The service acted on the best information about risk, performance and outcomes, and shared this securely with others when appropriate. \u003C/p\u003E\u003Cp\u003EThere was a clear framework of service meetings and items to be discussed. This ensured essential information, such as changes, developments, learning from incidents and complaints, was shared. Governance meetings were held regularly.\u003C/p\u003E\u003Cp\u003EThe service had implemented recommendations from reviews of incidents, complaints and safeguarding at the service level where appropriate.\u003C/p\u003E\u003Cp\u003EStaff participated in clinical audits. The audits provided assurance and staff acted on the results when needed.\u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology needed to do their work. The information technology infrastructure, including the telephone system, worked well and helped to improve the quality of care.\u003C/p\u003E\u003Cp\u003EInformation governance systems included confidentiality of patient records. The registered manager used tools provided by the information commission office to ensure the way the service stored personal information met national standards. All portable devices used within the service such as tablets and laptops were encrypted and required a two-step verification process to access them. \u003C/p\u003E\u003Cp\u003EThe provider ensured all information was archived. The registered manager had put arrangements in place to manage records containing personal information if the provider ceased to trade. \u003C/p\u003E\u003Cp\u003EAt the last inspection we found some policies were overdue. During our recent inspection, all the service policies in date and were available to each member of staff on the shared system.\u003C/p\u003E\u003Cp\u003EThe service had plans for emergencies and implemented contingency plans when needed.\u003C/p\u003E\u003Cp\u003EWe found one area where improvement was needed. One staff member did not have two references within their employment records, which they should have done. We highlighted this at the time of the inspection. \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist focused on continuous learning, innovation and high-quality care being delivered both within and outside of their service. In addition to their clinical work at the service, they actively participated and contributed to safe and effective practice and research. \u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist was involved in a range of work outside of the service. They co-founded the National Association of Psychiatric Intensive Care Units (NAPICU) and remained the chairman. NAPICU is a not-for-profit, multidisciplinary organisation dedicated to developing and promoting psychiatric intensive care and low secure services, improving patient experience and outcomes, and supporting staff through research, education and practice development. Throughout their career, the consultant psychiatrist had contributed to several national policies and or guidelines relating to mental health care, including those for the National Institute for Health and Care Excellence (NICE) and Department of Health. Alongside their work at the service, the consultant psychiatrist dedicated 20 days a year to support work in the NHS.\u003C/p\u003E\u003Cp\u003EStaff were given the time and support to consider opportunities for improvements and innovation and this led to changes. \u003C/p\u003E\u003Cp\u003EThere were no specific national accreditation schemes for the service to participate in. However, the psychiatrist ensured his own clinical practice was reviewed externally on a regular basis and participated in other activities to ensure care and treatment provided was effectiveness.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "\u003Cp\u003EThe service had developed links with external services where it could refer patients for support, where the service was not best placed to meet their needs. This was made clear to clients when they assessed the service \u003C/p\u003E\u003Cp\u003ETeams had access to the information they needed to provide safe and effective care and used that information to good effect.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had a vision and commitment to delivering person centered, high quality mental health care. Staff were able to describe and demonstrate the provider\u2019s vision and values in their work. All staff we spoke to demonstrated enthusiasm to deliver high quality care and be the best service possible.\u003C/p\u003E\u003Cp\u003EStaff told us that the team worked well together. \u003C/p\u003E\u003Cp\u003EAll staff had the opportunity to contribute to discussions about the strategy of the service, especially where the service was changing. \u003C/p\u003E\u003Cp\u003EStaff said they felt respected, supported and valued. During interviews all staff said they felt proud to work at the service.\u003C/p\u003E\u003Cp\u003EThe service had an equality and diversity policy in place that staff were aware of. All staff had completed mandatory training in relation to equality and diversity. They said the provider promoted equality and diversity and provided opportunities for development.\u003C/p\u003E\u003Cp\u003EAll staff said they could raise any concerns without fear.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe provider worked towards an inclusive and fair working culture. All staff we spoke to stated that they felt respected and valued. \u003C/p\u003E\u003Cp\u003EStaff received training on equality, diversity and inclusion.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-20"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

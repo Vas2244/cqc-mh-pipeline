@@ -1,0 +1,133 @@
+{
+  "locationId": "1-402617378",
+  "providerId": "1-126775082",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Compass Harrow",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-04-26",
+  "deregistrationDate": "2019-07-16",
+  "dormancy": "N",
+  "onspdLatitude": 51.5809003,
+  "onspdLongitude": -0.3433614,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "21 Building",
+  "postalAddressLine2": "21 Pinner Road",
+  "postalAddressTownCity": "Harrow",
+  "region": "London",
+  "postalCode": "HA1 4ES",
+  "uprn": "10070261868",
+  "numberOfBeds": 0,
+  "constituency": "Harrow West",
+  "localAuthority": "Harrow",
+  "lastInspection": {
+    "date": "2016-09-06"
+  },
+  "lastReport": {
+    "publicationDate": "2016-11-03"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-148567507",
+      "relatedLocationName": "Compass - Harrow",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-11-03",
+      "reportLinkId": "159f85a2-834f-4180-a1d0-fa332730d1f9",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-11-03",
+          "reportLinkId": "159f85a2-834f-4180-a1d0-fa332730d1f9"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-11-03",
+          "reportLinkId": "159f85a2-834f-4180-a1d0-fa332730d1f9"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-11-03",
+          "reportLinkId": "159f85a2-834f-4180-a1d0-fa332730d1f9"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-11-03",
+          "reportLinkId": "159f85a2-834f-4180-a1d0-fa332730d1f9"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-11-03",
+          "reportLinkId": "159f85a2-834f-4180-a1d0-fa332730d1f9"
+        }
+      ]
+    },
+    "reportDate": "2016-11-03"
+  },
+  "reports": [
+    {
+      "linkId": "159f85a2-834f-4180-a1d0-fa332730d1f9",
+      "reportDate": "2016-11-03",
+      "firstVisitDate": "2016-09-06",
+      "reportUri": "/reports/159f85a2-834f-4180-a1d0-fa332730d1f9?20210121234025",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "6227aaa6-daf0-48f7-9411-5f9e6fc141ba",
+      "reportDate": "2014-10-31",
+      "firstVisitDate": "2014-09-03",
+      "reportUri": "/reports/6227aaa6-daf0-48f7-9411-5f9e6fc141ba?20200129163919"
+    },
+    {
+      "linkId": "3f718371-0203-4c22-99bb-3662853db059",
+      "reportDate": "2014-03-05",
+      "firstVisitDate": "2014-01-30",
+      "reportUri": "/reports/3f718371-0203-4c22-99bb-3662853db059?20200129163919"
+    },
+    {
+      "linkId": "4d96a242-f3c7-43af-a487-96bbcf8afd0f",
+      "reportDate": "2013-03-06",
+      "firstVisitDate": "2013-02-14",
+      "reportUri": "/reports/4d96a242-f3c7-43af-a487-96bbcf8afd0f?20151016191357"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "locationId": "1-2496690850",
+  "providerId": "1-101697406",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Queen Ann House",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-02-26",
+  "deregistrationDate": "2016-04-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.620001,
+  "onspdLongitude": -0.110309,
+  "careHome": "Y",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "30 Old Park Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N13 4RE",
+  "numberOfBeds": 8,
+  "constituency": "Southgate and Wood Green",
+  "localAuthority": "Enfield",
+  "relationships": [
+    {
+      "relatedLocationId": "1-2597851406",
+      "relatedLocationName": "Queen Ann House",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "S1",
+      "primary": "true",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,201 @@
+{
+  "locationId": "1-109524211",
+  "providerId": "1-101678548",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Consensa Care Limited - 167 Chandos Road",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-30",
+  "deregistrationDate": "2016-05-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.5501665,
+  "onspdLongitude": -0.0021993,
+  "careHome": "Y",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "167 Chandos Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E15 1TX",
+  "uprn": "46013003",
+  "mainPhoneNumber": "02085348236",
+  "website": "www.consensacare.com",
+  "numberOfBeds": 7,
+  "constituency": "Stratford and Bow",
+  "localAuthority": "Newham",
+  "lastInspection": {
+    "date": "2016-02-12"
+  },
+  "lastReport": {
+    "publicationDate": "2016-03-15"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "S1",
+      "primary": "true",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2016-03-15",
+      "reportLinkId": "8cea427b-4739-4436-adf3-317934f6bbeb",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2016-03-15",
+          "reportLinkId": "8cea427b-4739-4436-adf3-317934f6bbeb"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2016-03-15",
+          "reportLinkId": "8cea427b-4739-4436-adf3-317934f6bbeb"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2016-03-15",
+          "reportLinkId": "8cea427b-4739-4436-adf3-317934f6bbeb"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2016-03-15",
+          "reportLinkId": "8cea427b-4739-4436-adf3-317934f6bbeb"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2016-03-15",
+          "reportLinkId": "8cea427b-4739-4436-adf3-317934f6bbeb"
+        }
+      ]
+    },
+    "reportDate": "2016-03-15"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2015-04-10",
+      "reportLinkId": "c16fbfb3-deec-483c-8b5c-0279248bce01",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "8cea427b-4739-4436-adf3-317934f6bbeb",
+      "reportDate": "2016-03-15",
+      "firstVisitDate": "2016-02-12",
+      "reportUri": "/reports/8cea427b-4739-4436-adf3-317934f6bbeb?20200129163919",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "c16fbfb3-deec-483c-8b5c-0279248bce01",
+      "reportDate": "2015-04-10",
+      "firstVisitDate": "2015-02-04",
+      "reportUri": "/reports/c16fbfb3-deec-483c-8b5c-0279248bce01?20210130084636",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "48654a0f-2d15-4bf8-8f09-2192c67aad83",
+      "reportDate": "2014-04-17",
+      "firstVisitDate": "2014-03-05",
+      "reportUri": "/reports/48654a0f-2d15-4bf8-8f09-2192c67aad83?20200129163919"
+    },
+    {
+      "linkId": "46461acd-f8f5-4b1e-a652-e172ad469b40",
+      "reportDate": "2014-04-16",
+      "firstVisitDate": "2013-11-01",
+      "reportUri": "/reports/46461acd-f8f5-4b1e-a652-e172ad469b40?20200129163919"
+    },
+    {
+      "linkId": "26b57926-9998-44c5-98f0-a91db1f145fd",
+      "reportDate": "2014-04-08",
+      "firstVisitDate": "2013-10-03",
+      "reportUri": "/reports/26b57926-9998-44c5-98f0-a91db1f145fd?20200129163919"
+    },
+    {
+      "linkId": "8e9dd872-d9ec-4a52-8ecd-452ddc9418c0",
+      "reportDate": "2013-06-20",
+      "firstVisitDate": "2013-05-16",
+      "reportUri": "/reports/8e9dd872-d9ec-4a52-8ecd-452ddc9418c0?20200129163919"
+    },
+    {
+      "linkId": "c9698af3-69dd-4e29-b81e-91372483d6a1",
+      "reportDate": "2013-03-28",
+      "firstVisitDate": "2013-02-05",
+      "reportUri": "/reports/c9698af3-69dd-4e29-b81e-91372483d6a1?20200129163919"
+    },
+    {
+      "linkId": "64ca3f8a-7743-4f2e-afeb-4c401a6d67a0",
+      "reportDate": "2011-10-18",
+      "firstVisitDate": "2011-09-08",
+      "reportUri": "/reports/64ca3f8a-7743-4f2e-afeb-4c401a6d67a0?20200430120000"
+    }
+  ]
+}

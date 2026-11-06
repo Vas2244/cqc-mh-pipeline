@@ -1,0 +1,65 @@
+{
+  "locationId": "1-4329101365",
+  "providerId": "1-1150689944",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Big White Wall Head Office",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2017-10-17",
+  "deregistrationDate": "2019-05-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.527872,
+  "onspdLongitude": -0.130402,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Evergreen House",
+  "postalAddressLine2": "160 Euston Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 2DX",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "relationships": [
+    {
+      "relatedLocationId": "1-2214269720",
+      "relatedLocationName": "Big White Wall Head Office",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-6813867386",
+      "relatedLocationName": "Big White Wall Head Office",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

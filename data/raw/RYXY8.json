@@ -1,0 +1,175 @@
+{
+  "locationId": "RYXY8",
+  "providerId": "RYX",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Central London Community Health Services - HQ",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-16",
+  "deregistrationDate": "2017-06-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.497552,
+  "onspdLongitude": -0.137377,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "7th Floor, 64 Victoria Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW1E 6QP",
+  "mainPhoneNumber": "02077980875",
+  "website": "www.clch.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "relationships": [
+    {
+      "relatedLocationId": "RYXX4",
+      "relatedLocationName": "Central London Community Healthcare NHS Trust Headquarters",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Ambulances",
+      "description": "Ambulance service"
+    },
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Dentist",
+      "description": "Dental service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Phone/online advice",
+      "description": "Remote clinical advice service"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H2",
+      "name": "Acute hospital - NHS specialist"
+    },
+    {
+      "code": "H5",
+      "name": "Ambulance service"
+    },
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P1",
+      "name": "Dentists"
+    },
+    {
+      "code": "P5",
+      "name": "Remote clinical advice"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1894873407",
+          "reportLinkId": "fa20f7c4-c5fe-4922-ab6a-c8433169b00f",
+          "providerId": "RYX",
+          "locationId": "RYXY8"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1894873407",
+          "reportLinkId": "d1028e06-a794-415e-85c7-252314ee2fd4",
+          "providerId": "RYX",
+          "locationId": "RYXY8"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsdental",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1894873407",
+          "reportLinkId": "7a7b22fa-87c2-4226-bf70-e841ad6b831d",
+          "providerId": "RYX",
+          "locationId": "RYXY8"
+        }
+      ]
+    }
+  ]
+}

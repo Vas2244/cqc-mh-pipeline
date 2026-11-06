@@ -1,0 +1,397 @@
+{
+  "locationId": "RV831",
+  "providerId": "RV8",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Central Middlesex Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-11",
+  "deregistrationDate": "2014-10-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.5309378,
+  "onspdLongitude": -0.2691376,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Acton Lane",
+  "postalAddressLine2": "Park Royal",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW10 7NS",
+  "uprn": "202136752",
+  "mainPhoneNumber": "02088693493",
+  "website": "www.nwlh.nhs.uk",
+  "constituency": "Brent East",
+  "localAuthority": "Brent",
+  "lastInspection": {
+    "date": "2014-05-20"
+  },
+  "lastReport": {
+    "publicationDate": "2014-08-20"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "R1K02",
+      "relatedLocationName": "Central Middlesex Hospital",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospital",
+      "description": "Acute services with overnight beds"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Urgent care centres",
+      "description": "Urgent care services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H1",
+      "primary": "true",
+      "name": "Acute hospital - NHS non-specialist"
+    },
+    {
+      "code": "H4",
+      "name": "Acute hospital - Independent specialist"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "care",
+      "inspectionAreaName": "Medical care (including older people\u0027s care)",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "childrens",
+      "inspectionAreaName": "Services for children \u0026 young people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "critical",
+      "inspectionAreaName": "Critical care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "life",
+      "inspectionAreaName": "End of life care",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "outpatients",
+      "inspectionAreaName": "Outpatients and diagnostic imaging",
+      "status": "Active (Rated)",
+      "latestGloballySupersededBy": [
+        "npioutpatients"
+      ]
+    },
+    {
+      "inspectionAreaId": "surgery",
+      "inspectionAreaName": "Surgery",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "urgent",
+      "inspectionAreaName": "Urgent and emergency services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2014-08-20",
+      "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2014-08-20",
+          "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2014-08-20",
+          "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2014-08-20",
+          "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2014-08-20",
+          "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2014-08-20",
+          "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549"
+        }
+      ]
+    },
+    "reportDate": "2014-08-20",
+    "serviceRatings": [
+      {
+        "name": "care",
+        "rating": "Good",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "childrens",
+        "rating": "Requires improvement",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      },
+      {
+        "name": "critical",
+        "rating": "Requires improvement",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      },
+      {
+        "name": "life",
+        "rating": "Good",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "outpatients",
+        "rating": "Good",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Insufficient evidence to rate"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "surgery",
+        "rating": "Good",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "urgent",
+        "rating": "Good",
+        "reportDate": "2014-08-20",
+        "reportLinkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Insufficient evidence to rate"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "a8481dfa-533d-4e85-ad7c-c3c1ea6da549",
+      "reportDate": "2014-08-20",
+      "reportUri": "/reports/a8481dfa-533d-4e85-ad7c-c3c1ea6da549?20210123163053",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b3685159-2ba4-455c-b832-687ef0d4f0f5",
+      "reportDate": "2014-02-15",
+      "firstVisitDate": "2014-01-28",
+      "reportUri": "/reports/b3685159-2ba4-455c-b832-687ef0d4f0f5?20200129163919"
+    },
+    {
+      "linkId": "1aa1b8dd-45bf-481f-9f01-c3e15f07ee5a",
+      "reportDate": "2013-02-27",
+      "firstVisitDate": "2013-01-24",
+      "reportUri": "/reports/1aa1b8dd-45bf-481f-9f01-c3e15f07ee5a?20200129163919"
+    },
+    {
+      "linkId": "76dd6044-883b-42a5-80c0-aceb44cd38dc",
+      "reportDate": "2011-08-11",
+      "firstVisitDate": "2011-06-10",
+      "reportUri": "/reports/76dd6044-883b-42a5-80c0-aceb44cd38dc?20200430120000"
+    }
+  ]
+}

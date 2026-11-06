@@ -1,0 +1,73 @@
+{
+  "locationId": "RWKX3",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Warehouse K - Management Building",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-02-01",
+  "deregistrationDate": "2011-06-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.508934,
+  "onspdLongitude": 0.024978,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "2 Western Gateway",
+  "postalAddressLine2": "Newham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E16 1DR",
+  "mainPhoneNumber": "02070596900",
+  "website": "www.eastlondon.nhs.uk",
+  "constituency": "West Ham and Beckton",
+  "localAuthority": "Newham",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Dentist",
+      "description": "Dental service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Phone/online advice",
+      "description": "Remote clinical advice service"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [],
+  "inspectionAreas": []
+}

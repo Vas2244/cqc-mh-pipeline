@@ -1,0 +1,44 @@
+{
+  "locationId": "1-230561579",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Camden South DIAS",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-07-05",
+  "deregistrationDate": "2012-04-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.531164,
+  "onspdLongitude": -0.120207,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "264 Pentonville Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N1 9JY",
+  "mainPhoneNumber": "02078337971",
+  "website": "www.cri.org.uk",
+  "constituency": "Islington South and Finsbury",
+  "localAuthority": "Islington",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

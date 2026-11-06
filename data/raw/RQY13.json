@@ -1,0 +1,76 @@
+{
+  "locationId": "RQY13",
+  "providerId": "RQY",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Thrale Road",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-07-22",
+  "deregistrationDate": "2017-12-22",
+  "dormancy": "N",
+  "onspdLatitude": 51.426796,
+  "onspdLongitude": -0.142877,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "40 Thrale Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW16 1NX",
+  "mainPhoneNumber": "02086646048",
+  "website": "www.swlstg-tr.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Tooting",
+  "localAuthority": "Wandsworth",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2259503821",
+          "reportLinkId": "da5f9b2d-48c1-43e1-9ee8-ed131d61656e",
+          "providerId": "RQY",
+          "locationId": "RQY13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "locationId": "1-9894630639",
+  "providerId": "1-9439210022",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Soke",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2020-12-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.4890986,
+  "onspdLongitude": -0.1755957,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "241 Fulham Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW3 6HY",
+  "uprn": "217115712",
+  "mainPhoneNumber": "02071395052",
+  "numberOfBeds": 0,
+  "constituency": "Chelsea and Fulham",
+  "localAuthority": "Kensington and Chelsea",
+  "lastInspection": {
+    "date": "2021-11-25"
+  },
+  "lastReport": {
+    "publicationDate": "2022-01-28"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "George Straton",
+          "personFamilyName": "Broke",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "inspectionAreaName": "Specialist community mental health services for children and young people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "inspectionAreaName": "Community-based mental health services for adults of working age",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Outstanding",
+      "reportDate": "2022-01-28",
+      "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-01-28",
+          "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Outstanding",
+          "reportDate": "2022-01-28",
+          "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61"
+        },
+        {
+          "name": "Caring",
+          "rating": "Outstanding",
+          "reportDate": "2022-01-28",
+          "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-01-28",
+          "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61"
+        },
+        {
+          "name": "Effective",
+          "rating": "Outstanding",
+          "reportDate": "2022-01-28",
+          "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61"
+        }
+      ]
+    },
+    "reportDate": "2022-01-28",
+    "serviceRatings": [
+      {
+        "name": "mhchildrenandyoung",
+        "rating": "Outstanding",
+        "reportDate": "2022-01-28",
+        "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Outstanding"
+          }
+        ]
+      },
+      {
+        "name": "mhworkingage",
+        "rating": "Outstanding",
+        "reportDate": "2022-01-28",
+        "reportLinkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Outstanding"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "6cfc1b25-594d-4f33-9085-ea9a6e0e7b61",
+      "reportDate": "2022-01-28",
+      "firstVisitDate": "2021-11-25",
+      "reportUri": "/reports/6cfc1b25-594d-4f33-9085-ea9a6e0e7b61?20220128090040",
+      "reportType": "Location"
+    }
+  ]
+}

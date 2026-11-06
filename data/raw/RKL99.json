@@ -1,0 +1,190 @@
+{
+  "locationId": "RKL99",
+  "providerId": "RKL",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Headquarters",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "registrationStatus": "Registered",
+  "registrationDate": "2015-02-18",
+  "dormancy": "N",
+  "onspdLatitude": 51.505322,
+  "onspdLongitude": -0.357711,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1 Armstrong Way",
+  "postalAddressLine2": "Southall",
+  "postalAddressTownCity": "Middlesex",
+  "region": "London",
+  "postalCode": "UB2 4SA",
+  "mainPhoneNumber": "02083548533",
+  "website": "www.westlondon.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ealing, Southall",
+  "localAuthority": "Ealing",
+  "lastInspection": {
+    "date": "2023-12-08"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "INS2-14034231511",
+          "reportLinkId": "92d13ec6-f7af-4665-9921-fd7c9eb0eeb0",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "INS2-5962748161",
+          "reportLinkId": "ee8f0fd3-3f68-4e18-adf4-cf0fd83006f7",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-10883404101",
+          "reportLinkId": "25f441c2-6a2a-4e0c-978e-4cdf44326ccc",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        },
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "48e273af-b3ce-4ca0-98b9-5c713efe20a5",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhperinatal",
+      "reports": [
+        {
+          "inspectionId": "INS2-5962748161",
+          "reportLinkId": "13efd4ee-2604-4a36-ae6a-d1d1496b0756",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-12784865451",
+          "reportLinkId": "615f014a-20b4-4baa-841e-868134090e9f",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        },
+        {
+          "inspectionId": "INS2-17593730861",
+          "reportLinkId": "b7d220c3-feff-4159-8994-73f6fd97a395",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        },
+        {
+          "inspectionId": "INS2-5051814821",
+          "reportLinkId": "7805123e-7612-46e8-995f-ab5a8396eac4",
+          "providerId": "RKL",
+          "locationId": "RKL99"
+        }
+      ]
+    }
+  ],
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2016-01-19"
+    }
+  ]
+}

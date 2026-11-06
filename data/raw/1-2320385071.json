@@ -1,0 +1,56 @@
+{
+  "locationId": "1-2320385071",
+  "providerId": "1-126775066",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "WDP Barnet Integrated Services",
+  "alsoKnownAs": "Dennis Scott Unit",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-01-05",
+  "deregistrationDate": "2016-08-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.606478,
+  "onspdLongitude": -0.271248,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Ground Floor, Dennis Scott Unit",
+  "postalAddressLine2": "Edgware Community Hospital, Burnt Oak Broadway",
+  "postalAddressTownCity": "Edgware",
+  "region": "London",
+  "postalCode": "HA8 0AD",
+  "numberOfBeds": 0,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

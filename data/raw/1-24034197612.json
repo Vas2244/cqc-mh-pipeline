@@ -1,0 +1,62 @@
+{
+  "locationId": "1-24034197612",
+  "providerId": "1-20400608970",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Private ADHD Clinic",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-09-17",
+  "dormancy": "N",
+  "onspdLatitude": 51.5956757,
+  "onspdLongitude": -0.2413066,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "12 Boulevard Drive",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW9 5QF",
+  "uprn": "200164401",
+  "registeredManagerAbsentDate": "2025-11-14",
+  "website": "www.privateadhd.com",
+  "numberOfBeds": 0,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

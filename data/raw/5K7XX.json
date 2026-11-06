@@ -1,0 +1,78 @@
+{
+  "locationId": "5K7XX",
+  "providerId": "5K7",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Bedford House",
+  "brandId": "Q36",
+  "brandName": "London Strategic Health Authority",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-05-07",
+  "deregistrationDate": "2011-11-07",
+  "dormancy": "N",
+  "onspdLatitude": 51.537491,
+  "onspdLongitude": -0.14198,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "3rd Floor Bedford House",
+  "postalAddressLine2": "125-133 Camden High Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 7JR",
+  "mainPhoneNumber": "02076855947",
+  "website": "www.camdenproviderservices.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Hospice",
+      "description": "Hospice services"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    }
+  ],
+  "inspectionAreas": []
+}

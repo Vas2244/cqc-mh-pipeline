@@ -1,0 +1,146 @@
+{
+  "locationId": "1-6531568825",
+  "providerId": "1-101660529",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Grace House Residential Service",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-04-26",
+  "deregistrationDate": "2020-05-18",
+  "dormancy": "N",
+  "onspdLatitude": 51.549244,
+  "onspdLongitude": -0.15406,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "2 Herbert Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW5 4HD",
+  "website": "www.phoenix-futures.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2019-08-06"
+  },
+  "lastReport": {
+    "publicationDate": "2019-10-18"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-175044237",
+      "relatedLocationName": "Grace House",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Outstanding",
+      "reportDate": "2019-10-18",
+      "reportLinkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2019-10-18",
+          "reportLinkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2019-10-18",
+          "reportLinkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a"
+        },
+        {
+          "name": "Caring",
+          "rating": "Outstanding",
+          "reportDate": "2019-10-18",
+          "reportLinkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-10-18",
+          "reportLinkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a"
+        },
+        {
+          "name": "Effective",
+          "rating": "Outstanding",
+          "reportDate": "2019-10-18",
+          "reportLinkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a"
+        }
+      ]
+    },
+    "reportDate": "2019-10-18"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2016-07-08",
+      "reportLinkId": "60f960c1-84f3-453f-ac10-3b8d21493ab8",
+      "organisationId": "1-175044237",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "636500cc-a08d-41f2-88af-32bc0d8a1a4a",
+      "reportDate": "2019-10-18",
+      "firstVisitDate": "2019-08-06",
+      "reportUri": "/reports/636500cc-a08d-41f2-88af-32bc0d8a1a4a?20210115032649",
+      "reportType": "Location"
+    }
+  ]
+}

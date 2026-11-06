@@ -1,0 +1,98 @@
+{
+  "locationId": "1-23284614788",
+  "providerId": "1-23113825465",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "360 CAMHS",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-09-22",
+  "dormancy": "N",
+  "onspdLatitude": 51.5037571,
+  "onspdLongitude": -0.0150663,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "We Work, 30 Churchill Place",
+  "postalAddressLine2": "Canary Wharf",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E14 5RE",
+  "uprn": "6191682",
+  "mainPhoneNumber": "03456466360",
+  "website": "www.360camhs.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Poplar and Limehouse",
+  "localAuthority": "Tower Hamlets",
+  "relationships": [
+    {
+      "relatedLocationId": "1-13038295800",
+      "relatedLocationName": "Bleep 360 Care Canary Wharf",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Personal care",
+      "code": "RA1",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "S2",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,244 @@
+{
+  "locationId": "RRPXX",
+  "providerId": "RRP",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Trust Headquarters",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2024-11-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.580625,
+  "onspdLongitude": -0.092097,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "St Ann\u0027s Road",
+  "postalAddressLine2": "Tottenham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N15 3TH",
+  "mainPhoneNumber": "02084425732",
+  "website": "www.beh-mht.nhs.uk",
+  "constituency": "Tottenham",
+  "localAuthority": "Haringey",
+  "lastInspection": {
+    "date": "2019-06-27"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "a6298edf-6c7d-4897-b661-fef59b828349",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        },
+        {
+          "inspectionId": "SPL1-2266004049",
+          "reportLinkId": "2ab407dc-2480-49aa-a1f8-b3037e9a2180",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "63a14b0f-7b43-4dd2-86ff-ba95061731dd",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2266004049",
+          "reportLinkId": "1bd88f48-a822-44e5-9e62-2415a4b16a3c",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "3c67e0af-8730-49b0-ae45-7ba2da1d8270",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2266004049",
+          "reportLinkId": "be6210e8-0174-40bf-8b04-264ae1de9006",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "d8822c03-23bd-4df7-a4b3-54f63753bb93",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhls",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2923009860",
+          "reportLinkId": "20bcadc9-b24b-4b74-9b70-ac5649d8cb20",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-5859304281",
+          "reportLinkId": "ca00aa3b-b6cc-4e27-8c8e-44491f1529ef",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        },
+        {
+          "inspectionId": "SPL1-2266004049",
+          "reportLinkId": "d391ac0d-9aeb-443d-afb5-a2c10555833b",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "9381d497-48ad-431c-8825-4eb7da33106d",
+          "providerId": "RRP",
+          "locationId": "RRPXX"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "83c69e87-d802-47ba-830a-b71c49052fde",
+      "reportDate": "2014-06-25",
+      "firstVisitDate": "2014-06-09",
+      "reportUri": "/reports/83c69e87-d802-47ba-830a-b71c49052fde?20151016191357"
+    },
+    {
+      "linkId": "e5840408-b9e6-4fb8-9084-54150f89331d",
+      "reportDate": "2014-05-08",
+      "firstVisitDate": "2014-03-10",
+      "reportUri": "/reports/e5840408-b9e6-4fb8-9084-54150f89331d?20151016191357"
+    },
+    {
+      "linkId": "89910a2c-3332-4edb-8996-9084e3a2b88b",
+      "reportDate": "2014-03-25",
+      "firstVisitDate": "2014-03-04",
+      "reportUri": "/reports/89910a2c-3332-4edb-8996-9084e3a2b88b?20200129163919"
+    },
+    {
+      "linkId": "6ca322e3-8e24-4e5b-9058-3b95b27a8f1e",
+      "reportDate": "2013-10-29",
+      "firstVisitDate": "2013-08-19",
+      "reportUri": "/reports/6ca322e3-8e24-4e5b-9058-3b95b27a8f1e?20200129163919"
+    },
+    {
+      "linkId": "9ae9e1c0-af8a-40bc-8d13-ff9aa8e99ba6",
+      "reportDate": "2013-07-25",
+      "firstVisitDate": "2013-05-14",
+      "reportUri": "/reports/9ae9e1c0-af8a-40bc-8d13-ff9aa8e99ba6?20200129163919"
+    },
+    {
+      "linkId": "3ce4bd18-af78-4108-87d3-5d1565f1d361",
+      "reportDate": "2013-06-29",
+      "firstVisitDate": "2013-05-08",
+      "reportUri": "/reports/3ce4bd18-af78-4108-87d3-5d1565f1d361?20200129163919"
+    }
+  ]
+}

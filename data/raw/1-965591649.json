@@ -1,0 +1,103 @@
+{
+  "locationId": "1-965591649",
+  "providerId": "1-952205581",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Thames Clinic",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-10-09",
+  "deregistrationDate": "2015-08-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.412131,
+  "onspdLongitude": -0.296996,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "28-33 Cromwell Road",
+  "postalAddressLine2": "Kingston-upon-Thames",
+  "postalAddressTownCity": "Surrey",
+  "region": "London",
+  "postalCode": "KT2 6RN",
+  "numberOfBeds": 6,
+  "constituency": "Kingston and Surbiton",
+  "localAuthority": "Kingston upon Thames",
+  "lastInspection": {
+    "date": "2014-08-27"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-824657265",
+      "relatedLocationName": "Thames Clinic",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "a676f064-9819-48dc-948f-46029c728934",
+      "reportDate": "2014-09-30",
+      "firstVisitDate": "2014-08-27",
+      "reportUri": "/reports/a676f064-9819-48dc-948f-46029c728934?20151016191357"
+    },
+    {
+      "linkId": "132c849e-721b-4052-b503-b22ec0b554c2",
+      "reportDate": "2014-04-11",
+      "firstVisitDate": "2014-03-05",
+      "reportUri": "/reports/132c849e-721b-4052-b503-b22ec0b554c2?20200129163919"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "locationId": "1-1390031272",
+  "providerId": "1-396186283",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Linom Road",
+  "brandId": "BD434",
+  "brandName": "BRAND Perry Clayman Project",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-05-16",
+  "deregistrationDate": "2016-08-16",
+  "dormancy": "N",
+  "onspdLatitude": 51.460903,
+  "onspdLongitude": -0.127526,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "16 Linom Road",
+  "postalAddressTownCity": "Clapham",
+  "postalAddressCounty": "London",
+  "region": "London",
+  "postalCode": "SW4 7PD",
+  "mainPhoneNumber": "02074987659",
+  "website": "www.rehabtoday.com",
+  "numberOfBeds": 0,
+  "constituency": "Clapham and Brixton Hill",
+  "localAuthority": "Lambeth",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

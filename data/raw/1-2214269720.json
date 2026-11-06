@@ -1,0 +1,157 @@
+{
+  "locationId": "1-2214269720",
+  "providerId": "1-1150689944",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Big White Wall Head Office",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-09-17",
+  "deregistrationDate": "2017-10-17",
+  "dormancy": "N",
+  "onspdLatitude": 51.526889,
+  "onspdLongitude": -0.130789,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Regus Offices, 3rd Floor",
+  "postalAddressLine2": "16 Upper Woburn Place",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "WC1H 0BS",
+  "mainPhoneNumber": "02037418080",
+  "numberOfBeds": 0,
+  "constituency": "Holborn and St Pancras",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2016-05-20"
+  },
+  "lastReport": {
+    "publicationDate": "2016-08-08"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-4329101365",
+      "relatedLocationName": "Big White Wall Head Office",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-1702765277",
+      "relatedLocationName": "Big White Wall Head Office",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhworkingage",
+      "inspectionAreaName": "Community-based mental health services for adults of working age",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2016-08-08",
+      "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2016-08-08",
+          "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2016-08-08",
+          "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2016-08-08",
+          "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2016-08-08",
+          "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2016-08-08",
+          "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5"
+        }
+      ]
+    },
+    "reportDate": "2016-08-08",
+    "serviceRatings": [
+      {
+        "name": "mhworkingage",
+        "rating": "Good",
+        "reportDate": "2016-08-08",
+        "reportLinkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "a0ca29a2-423f-48c6-b67c-237f29bd46a5",
+      "reportDate": "2016-08-08",
+      "firstVisitDate": "2016-05-19",
+      "reportUri": "/reports/a0ca29a2-423f-48c6-b67c-237f29bd46a5?20210123021559",
+      "reportType": "Location"
+    }
+  ]
+}

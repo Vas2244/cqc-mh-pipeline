@@ -1,0 +1,109 @@
+{
+  "locationId": "RATHC",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Hawkwell Court",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2015-05-28",
+  "dormancy": "N",
+  "onspdLatitude": 51.62114,
+  "onspdLongitude": -0.001509,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "34 Colvin Gardens",
+  "postalAddressLine2": "Chingford",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E4 6PF",
+  "mainPhoneNumber": "08446001201",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Chingford and Woodford Green",
+  "localAuthority": "Waltham Forest",
+  "lastInspection": {
+    "date": "2013-07-15"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "92785fde-c131-4e42-81fb-fb1695fe9871",
+      "reportDate": "2013-08-09",
+      "firstVisitDate": "2013-07-15",
+      "reportUri": "/reports/92785fde-c131-4e42-81fb-fb1695fe9871?20200129163919"
+    }
+  ]
+}

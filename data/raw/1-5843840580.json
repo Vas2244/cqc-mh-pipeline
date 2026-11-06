@@ -1,0 +1,155 @@
+{
+  "locationId": "1-5843840580",
+  "providerId": "1-116865897",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Eden House",
+  "brandId": "BD144",
+  "brandName": "BRAND Priory Group",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2018-10-17",
+  "dormancy": "N",
+  "dormancyEndDate": "2025-10-23",
+  "onspdLatitude": 51.617692,
+  "onspdLongitude": -0.222444,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "The Ridgeway",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW7 1RH",
+  "registeredManagerAbsentDate": "2025-11-07",
+  "website": "www.priorygroup.com",
+  "numberOfBeds": 16,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "lastInspection": {
+    "date": "2019-12-10"
+  },
+  "lastReport": {
+    "publicationDate": "2020-02-06"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Accommodation for persons who require treatment for substance misuse",
+      "code": "RA3",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2020-02-06",
+      "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4"
+        }
+      ]
+    },
+    "reportDate": "2020-02-06",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2020-02-06",
+        "reportLinkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "7d6e4733-7b51-444c-9d18-c2dd5a36f2b4",
+      "reportDate": "2020-02-06",
+      "firstVisitDate": "2019-12-10",
+      "reportUri": "/reports/7d6e4733-7b51-444c-9d18-c2dd5a36f2b4?20210114105252",
+      "reportType": "Location"
+    }
+  ]
+}

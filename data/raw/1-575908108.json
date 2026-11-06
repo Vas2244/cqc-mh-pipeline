@@ -1,0 +1,98 @@
+{
+  "locationId": "1-575908108",
+  "providerId": "1-516591398",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Lambeth Harbour",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-01-07",
+  "deregistrationDate": "2014-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.465031,
+  "onspdLongitude": -0.102954,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "245 Coldharbour Lane",
+  "postalAddressLine2": "Brixton",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW9 8RR",
+  "mainPhoneNumber": "02088754400",
+  "website": "www.blenheimcdp.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Dulwich and West Norwood",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2013-12-19"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "b5342c74-56f8-4579-92de-d5371139dbf8",
+      "reportDate": "2014-02-05",
+      "firstVisitDate": "2013-12-19",
+      "reportUri": "/reports/b5342c74-56f8-4579-92de-d5371139dbf8?20151016191357"
+    }
+  ]
+}

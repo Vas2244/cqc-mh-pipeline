@@ -1,0 +1,313 @@
+{
+  "locationId": "1-549237033",
+  "providerId": "1-199724395",
+  "organisationType": "Location",
+  "type": "Primary Medical Services",
+  "name": "Lisson Grove Health Centre",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "E87011",
+  "registrationStatus": "Registered",
+  "registrationDate": "2013-04-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.5247374,
+  "onspdLongitude": -0.1692984,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "Gateforth Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW8 8EG",
+  "uprn": "100023121821",
+  "mainPhoneNumber": "02033701940",
+  "website": "www.lissongrovehealthcentre.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Queen\u0027s Park and Maida Vale",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2022-10-19"
+  },
+  "lastReport": {
+    "publicationDate": "2022-11-08"
+  },
+  "relationships": [],
+  "locationTypes": [
+    {
+      "type": "GP Practice"
+    }
+  ],
+  "regulatedActivities": [
+    {
+      "name": "Maternity and midwifery services",
+      "code": "RA11",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Brinda",
+          "personFamilyName": "Kamalarajah",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Family planning",
+      "code": "RA15",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Brinda",
+          "personFamilyName": "Kamalarajah",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Brinda",
+          "personFamilyName": "Kamalarajah",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Brinda",
+          "personFamilyName": "Kamalarajah",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Brinda",
+          "personFamilyName": "Kamalarajah",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "P2",
+      "primary": "true",
+      "name": "GP Practices"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-11-08",
+      "reportLinkId": "914000d8-2c40-4b54-a3fb-b92ae94cc251",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2019-12-06",
+          "reportLinkId": "f21aa674-169e-4709-a961-6b3bc685158f"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2019-12-06",
+          "reportLinkId": "f21aa674-169e-4709-a961-6b3bc685158f"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-12-06",
+          "reportLinkId": "f21aa674-169e-4709-a961-6b3bc685158f"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-12-06",
+          "reportLinkId": "f21aa674-169e-4709-a961-6b3bc685158f"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-11-08",
+          "reportLinkId": "914000d8-2c40-4b54-a3fb-b92ae94cc251"
+        }
+      ]
+    },
+    "reportDate": "2022-11-08"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-12-06",
+      "reportLinkId": "f21aa674-169e-4709-a961-6b3bc685158f",
+      "serviceRatings": [
+        {
+          "name": "conditions",
+          "rating": "Good"
+        },
+        {
+          "name": "mothers",
+          "rating": "Inadequate"
+        },
+        {
+          "name": "old",
+          "rating": "Good"
+        },
+        {
+          "name": "population",
+          "rating": "Requires improvement"
+        },
+        {
+          "name": "problems",
+          "rating": "Good"
+        },
+        {
+          "name": "vulnerable",
+          "rating": "Good"
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2019-06-26",
+      "reportLinkId": "53959116-01c0-42be-9b39-019069d7af93",
+      "overall": {
+        "rating": "Inspected but not rated"
+      }
+    },
+    {
+      "reportDate": "2016-05-24",
+      "reportLinkId": "2a81886d-f7aa-4dbd-9b16-f3ecbfecc163",
+      "serviceRatings": [
+        {
+          "name": "conditions",
+          "rating": "Good"
+        },
+        {
+          "name": "mothers",
+          "rating": "Good"
+        },
+        {
+          "name": "old",
+          "rating": "Good"
+        },
+        {
+          "name": "population",
+          "rating": "Good"
+        },
+        {
+          "name": "problems",
+          "rating": "Good"
+        },
+        {
+          "name": "vulnerable",
+          "rating": "Good"
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "914000d8-2c40-4b54-a3fb-b92ae94cc251",
+      "reportDate": "2022-11-08",
+      "firstVisitDate": "2022-10-19",
+      "reportUri": "/reports/914000d8-2c40-4b54-a3fb-b92ae94cc251?20221108080455",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "f21aa674-169e-4709-a961-6b3bc685158f",
+      "reportDate": "2019-12-06",
+      "firstVisitDate": "2019-06-05",
+      "reportUri": "/reports/f21aa674-169e-4709-a961-6b3bc685158f?20210114233137",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "53959116-01c0-42be-9b39-019069d7af93",
+      "reportDate": "2019-06-26",
+      "firstVisitDate": "2019-03-20",
+      "reportUri": "/reports/53959116-01c0-42be-9b39-019069d7af93?20210114235838",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "2a81886d-f7aa-4dbd-9b16-f3ecbfecc163",
+      "reportDate": "2016-05-24",
+      "firstVisitDate": "2016-01-27",
+      "reportUri": "/reports/2a81886d-f7aa-4dbd-9b16-f3ecbfecc163?20210123130103",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "locationId": "RV504",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Maudsley Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.4687703,
+  "onspdLongitude": -0.0914425,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Denmark Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE5 8AZ",
+  "uprn": "200003459506",
+  "mainPhoneNumber": "02032282457",
+  "registeredManagerAbsentDate": "2010-06-10",
+  "website": "www.slam.nhs.uk",
+  "numberOfBeds": 18,
+  "constituency": "Peckham",
+  "localAuthority": "Southwark",
+  "lastInspection": {
+    "date": "2023-02-20"
+  },
+  "lastReport": {
+    "publicationDate": "2022-03-18"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    },
+    {
+      "name": "Urgent care centres",
+      "description": "Urgent care services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "b26f8824-f85a-42e1-807d-6f47465ca373",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "INS2-9488419671",
+          "reportLinkId": "b8c79a80-28c1-4712-913c-95438d29a95e",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "b5afe9e2-6f59-481d-b74a-dd1bf9fcab85",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityautism",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "31be1b3f-e94b-4cbc-a358-0356bc3a148b",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "reports": [
+        {
+          "inspectionId": "INS2-5450922119",
+          "reportLinkId": "63f1ad66-cf64-489a-8c03-0a8c134ad9b9",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "9d51c9b4-f51f-43f0-b07d-5ab34aedfcf2",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-5450922119",
+          "reportLinkId": "872a53c3-4ab4-4551-92f0-04a2c3d3e0b7",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "aeeca0fe-04f8-420e-8e0c-b4a0542736ee",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-14732366521",
+          "reportLinkId": "e5509042-3611-4552-91f5-37dbc61b7fa6",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-3148149307",
+          "reportLinkId": "485f1645-0d1f-4c6d-bc89-ddbeebaf970b",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "1da8b008-fb3b-405d-8650-467365622598",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-10639861201",
+          "reportLinkId": "388b0f12-e3dc-4417-be5f-becdd0379cc6",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-17711244651",
+          "reportLinkId": "cdb6049b-8287-4910-b16c-b39ce5c273df",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-3104851443",
+          "reportLinkId": "9bd60e7d-cafe-49f7-9172-430850cf8dd3",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-5450922119",
+          "reportLinkId": "fc5da7eb-0ef5-47c2-9305-cd5de2e6edef",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "5160556b-6a55-44e0-91b1-24f760502743",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-9959234531",
+          "reportLinkId": "f2326438-1e91-4aaa-92b7-1760da58d378",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "5b5aa539-2955-4d1e-8b41-1aa1cb75b6c1",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2700739716",
+          "reportLinkId": "6adcce87-bec7-434a-abb6-556ab6772c32",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-10639861201",
+          "reportLinkId": "2a742eb0-89c3-4720-922f-e7bddd5308e4",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-3898492365",
+          "reportLinkId": "9e7ed136-0289-4561-81f9-ee2301a8699c",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "2f6b1875-524f-4c10-96ff-22463cca1eb3",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "808c7d5f-a76f-42ae-aa14-02140d2b3d32",
+          "providerId": "RV5",
+          "locationId": "RV504"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2022-03-18",
+      "reportLinkId": "09eb990e-8af7-4047-866c-0c66948e8b56",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2022-03-18",
+          "reportLinkId": "09eb990e-8af7-4047-866c-0c66948e8b56"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2022-03-18",
+          "reportLinkId": "09eb990e-8af7-4047-866c-0c66948e8b56"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2022-03-18",
+          "reportLinkId": "09eb990e-8af7-4047-866c-0c66948e8b56"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2022-03-18",
+          "reportLinkId": "09eb990e-8af7-4047-866c-0c66948e8b56"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2022-03-18",
+          "reportLinkId": "09eb990e-8af7-4047-866c-0c66948e8b56"
+        }
+      ]
+    },
+    "reportDate": "2022-03-18"
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2020-12-15"
+    },
+    {
+      "firstVisitDate": "2021-09-27"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "09eb990e-8af7-4047-866c-0c66948e8b56",
+      "reportDate": "2022-03-18",
+      "firstVisitDate": "2022-02-01",
+      "reportUri": "/reports/09eb990e-8af7-4047-866c-0c66948e8b56?20220318080224",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "d8ebee97-f7b4-446b-835e-3ae3af330537",
+      "reportDate": "2013-11-29",
+      "firstVisitDate": "2013-10-29",
+      "reportUri": "/reports/d8ebee97-f7b4-446b-835e-3ae3af330537?20200129163919"
+    },
+    {
+      "linkId": "c35355cc-edb7-4d02-99f5-4a46ad0c3649",
+      "reportDate": "2013-10-08",
+      "firstVisitDate": "2013-09-11",
+      "reportUri": "/reports/c35355cc-edb7-4d02-99f5-4a46ad0c3649?20151016191357"
+    },
+    {
+      "linkId": "58c1ce78-eaed-4a5a-9ea2-0d76d178b316",
+      "reportDate": "2013-04-12",
+      "firstVisitDate": "2013-03-21",
+      "reportUri": "/reports/58c1ce78-eaed-4a5a-9ea2-0d76d178b316?20200129163919"
+    },
+    {
+      "linkId": "ac0dd65a-cccf-47d8-b233-bd2e9902287d",
+      "reportDate": "2012-01-19",
+      "firstVisitDate": "2011-12-13",
+      "reportUri": "/reports/ac0dd65a-cccf-47d8-b233-bd2e9902287d?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "locationId": "1-23287852705",
+  "providerId": "1-21817368762",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "360 Complex Care - London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "odsCode": "VMAQK",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-09-22",
+  "dormancy": "Y",
+  "dormancyStartDate": "2025-09-23",
+  "onspdLatitude": 51.5037571,
+  "onspdLongitude": -0.0150663,
+  "careHome": "N",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "WeWork, 30 Churchill Place",
+  "postalAddressLine2": "Canary Wharf",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E14 5RE",
+  "uprn": "6191681",
+  "mainPhoneNumber": "03456465360",
+  "website": "www.360complexcare.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Poplar and Limehouse",
+  "localAuthority": "Tower Hamlets",
+  "relationships": [
+    {
+      "relatedLocationId": "1-13038295800",
+      "relatedLocationName": "Bleep 360 Care Canary Wharf",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Personal care",
+      "code": "RA1",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Ann Mary",
+          "personFamilyName": "Prankard",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Ann Mary",
+          "personFamilyName": "Prankard",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

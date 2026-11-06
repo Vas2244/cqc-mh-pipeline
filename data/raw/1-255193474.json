@@ -1,0 +1,41 @@
+{
+  "locationId": "1-255193474",
+  "providerId": "1-127891911",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Drug and Alcohol Service for London (Bexley office)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-06-06",
+  "deregistrationDate": "2013-02-25",
+  "dormancy": "N",
+  "onspdLatitude": 51.463576,
+  "onspdLongitude": 0.101632,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "108 Bellegrove Road",
+  "postalAddressTownCity": "Welling",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "DA16 3QD",
+  "constituency": "Old Bexley and Sidcup",
+  "localAuthority": "Bexley",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionAreas": []
+}

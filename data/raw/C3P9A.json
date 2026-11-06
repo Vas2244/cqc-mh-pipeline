@@ -1,0 +1,101 @@
+{
+  "locationId": "C3P9A",
+  "providerId": "G6V2S",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The Tavistock Centre",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "C3P9A",
+  "registrationStatus": "Registered",
+  "registrationDate": "2026-07-02",
+  "dormancy": "N",
+  "onspdLatitude": 51.5469007,
+  "onspdLongitude": -0.175418,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "120 Belsize Lane",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW3 5BA",
+  "uprn": "5023739",
+  "mainPhoneNumber": "02074357111",
+  "numberOfBeds": 0,
+  "constituency": "Hampstead and Highgate",
+  "localAuthority": "Camden",
+  "relationships": [
+    {
+      "relatedLocationId": "RNK01",
+      "relatedLocationName": "The Tavistock Centre",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  }
+}

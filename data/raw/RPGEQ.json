@@ -1,0 +1,91 @@
+{
+  "locationId": "RPGEQ",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Hazelwood",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2017-12-18",
+  "dormancy": "N",
+  "onspdLatitude": 51.468597,
+  "onspdLongitude": 0.064009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Memorial Hospital",
+  "postalAddressLine2": "Shooters Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 3RZ",
+  "uprn": "10010234854",
+  "mainPhoneNumber": "02088368566",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Erith and Thamesmead",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2023-02-24"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "INS2-15358091511",
+          "reportLinkId": "5f30bf59-21f5-4a14-b62f-30a0a75db9fe",
+          "providerId": "RPG",
+          "locationId": "RPGEQ"
+        }
+      ]
+    }
+  ]
+}

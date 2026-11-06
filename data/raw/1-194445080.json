@@ -1,0 +1,109 @@
+{
+  "locationId": "1-194445080",
+  "providerId": "1-149412601",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Bromley YPS and Shared Care Services",
+  "brandId": "BD273",
+  "brandName": "BRAND KCA (UK)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-06-10",
+  "deregistrationDate": "2015-07-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.406192,
+  "onspdLongitude": 0.016079,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "19A Widmore Road",
+  "postalAddressTownCity": "Bromley",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR1 1RL",
+  "mainPhoneNumber": "02084609952",
+  "website": "www.kca.org.uk",
+  "constituency": "Bromley and Biggin Hill",
+  "localAuthority": "Bromley",
+  "lastInspection": {
+    "date": "2014-02-07"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2110805294",
+      "relatedLocationName": "Bromley YPS and Shared Care Services",
+      "type": "HSCA Successor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "8e917729-857e-4d89-b79a-1eeb71b1fe83",
+      "reportDate": "2014-03-11",
+      "firstVisitDate": "2014-02-07",
+      "reportUri": "/reports/8e917729-857e-4d89-b79a-1eeb71b1fe83?20200129163919"
+    },
+    {
+      "linkId": "a44f554c-7c40-4548-9a4a-52525c4579e8",
+      "reportDate": "2013-02-21",
+      "firstVisitDate": "2013-01-18",
+      "reportUri": "/reports/a44f554c-7c40-4548-9a4a-52525c4579e8?20200129163919"
+    }
+  ]
+}

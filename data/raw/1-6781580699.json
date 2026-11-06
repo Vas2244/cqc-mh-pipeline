@@ -1,0 +1,161 @@
+{
+  "locationId": "1-6781580699",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "CGL Lewisham New Direction",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2019-04-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.451404,
+  "onspdLongitude": -0.017425,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "410 Lewisham High Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE13 6LJ",
+  "uprn": "10091838540",
+  "mainPhoneNumber": "07920473228",
+  "website": "www.changegrowlive.org",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham East",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2022-07-13"
+  },
+  "lastReport": {
+    "publicationDate": "2022-09-16"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Natalie Simmone",
+          "personFamilyName": "Campbell",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-09-16",
+      "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-09-16",
+          "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-09-16",
+          "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-09-16",
+          "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-09-16",
+          "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-09-16",
+          "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188"
+        }
+      ]
+    },
+    "reportDate": "2022-09-16",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Good",
+        "reportDate": "2022-09-16",
+        "reportLinkId": "0f785b50-3ee6-470c-be53-e11f410d7188",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "0f785b50-3ee6-470c-be53-e11f410d7188",
+      "reportDate": "2022-09-16",
+      "firstVisitDate": "2022-07-06",
+      "reportUri": "/reports/0f785b50-3ee6-470c-be53-e11f410d7188?20220916080050",
+      "reportType": "Location"
+    }
+  ]
+}

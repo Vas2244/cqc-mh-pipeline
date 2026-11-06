@@ -1,0 +1,166 @@
+{
+  "locationId": "RV312",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Park Royal Centre for Mental Health",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-09-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.530936,
+  "onspdLongitude": -0.269161,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Central Way (off Acton Lane)",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW10 7NS",
+  "uprn": "202140127",
+  "mainPhoneNumber": "02089554506",
+  "website": "www.cnwl.nhs.uk",
+  "constituency": "Brent East",
+  "localAuthority": "Brent",
+  "lastInspection": {
+    "date": "2016-06-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "10839b3f-f13a-4a42-9770-7d2e28043330",
+          "providerId": "RV3",
+          "locationId": "RV312"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "e726529e-f52a-4bdf-b479-d8f63bed6053",
+          "providerId": "RV3",
+          "locationId": "RV312"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-5438737561",
+          "reportLinkId": "efe43540-3136-4567-9dd3-1323a420060d",
+          "providerId": "RV3",
+          "locationId": "RV312"
+        },
+        {
+          "inspectionId": "SPL1-1949648396",
+          "reportLinkId": "c01e2ee7-bb4e-42c6-87b6-85465db70dee",
+          "providerId": "RV3",
+          "locationId": "RV312"
+        },
+        {
+          "inspectionId": "SPL1-2823534174",
+          "reportLinkId": "eb78c6ae-7c8a-41e8-9585-b16b965ee8a8",
+          "providerId": "RV3",
+          "locationId": "RV312"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2016-06-20"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "abe49945-ff77-49e2-8740-87a0d399445c",
+      "reportDate": "2012-02-10",
+      "firstVisitDate": "2011-11-14",
+      "reportUri": "/reports/abe49945-ff77-49e2-8740-87a0d399445c?20200430120000"
+    }
+  ]
+}

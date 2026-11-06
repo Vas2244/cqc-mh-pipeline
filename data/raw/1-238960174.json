@@ -1,0 +1,52 @@
+{
+  "locationId": "1-238960174",
+  "providerId": "1-101644365",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Shared Lives Scheme",
+  "alsoKnownAs": "SHARED LIVES LEARNING DISABILITY PROJECT",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-07-07",
+  "deregistrationDate": "2012-05-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.5873969,
+  "onspdLongitude": -0.0288617,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "30 Coleridge Road",
+  "postalAddressLine2": "Walthamstow",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E17 6QU",
+  "uprn": "200001448287",
+  "mainPhoneNumber": "02087085204",
+  "website": "www.redbridge.gov.uk",
+  "constituency": "Walthamstow",
+  "localAuthority": "Waltham Forest",
+  "relationships": [
+    {
+      "relatedLocationId": "1-421271226",
+      "relatedLocationName": "Shared Lives Scheme",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionAreas": []
+}

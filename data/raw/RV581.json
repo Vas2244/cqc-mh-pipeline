@@ -1,0 +1,92 @@
+{
+  "locationId": "RV581",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Heather Close",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2014-02-27",
+  "dormancy": "N",
+  "onspdLatitude": 51.4475514,
+  "onspdLongitude": -0.0049851,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "1, 3 and 5 Heather Close",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE13 6UG",
+  "uprn": "100021967587",
+  "mainPhoneNumber": "02032280720",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham East",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2023-03-07"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-14732366521",
+          "reportLinkId": "56111481-f328-48c8-820d-acd5e0d44c72",
+          "providerId": "RV5",
+          "locationId": "RV581"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "87e42a93-4f5d-4693-8a2d-b6192ff7ee10",
+          "providerId": "RV5",
+          "locationId": "RV581"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "locationId": "RV357",
+  "providerId": "RV3",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Rosedale Court",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-09-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.560505,
+  "onspdLongitude": -0.333896,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "75-79 Greenford Road",
+  "postalAddressTownCity": "Harrow",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "HA1 3QF",
+  "uprn": "100023028302",
+  "mainPhoneNumber": "02088642925",
+  "website": "www.cnwl.nhs.uk",
+  "constituency": "Harrow West",
+  "localAuthority": "Harrow",
+  "lastInspection": {
+    "date": "2015-02-24"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-16414795201",
+          "reportLinkId": "791f2ce8-18d2-4563-a19b-ad3bccc0587b",
+          "providerId": "RV3",
+          "locationId": "RV357"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "14e4aabf-c4ae-4ec3-a2f2-b2ca38697f0e",
+      "reportDate": "2012-10-31",
+      "firstVisitDate": "2012-10-04",
+      "reportUri": "/reports/14e4aabf-c4ae-4ec3-a2f2-b2ca38697f0e?20151016191357"
+    }
+  ]
+}

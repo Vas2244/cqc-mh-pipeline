@@ -1,0 +1,87 @@
+{
+  "locationId": "RQY12",
+  "providerId": "RQY",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Old Church",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-07-22",
+  "deregistrationDate": "2012-12-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.439119,
+  "onspdLongitude": -0.148147,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "146A Bedford Hill",
+  "postalAddressLine2": "Balham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW12 9HW",
+  "mainPhoneNumber": "02086752100",
+  "website": "www.swlstg-tr.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Tooting",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2012-02-03"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "cb34762f-fa64-4c87-bc72-8eed861aa5c7",
+      "reportDate": "2012-02-28",
+      "firstVisitDate": "2012-02-03",
+      "reportUri": "/reports/cb34762f-fa64-4c87-bc72-8eed861aa5c7?20200430120000"
+    }
+  ]
+}

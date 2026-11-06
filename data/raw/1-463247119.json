@@ -1,0 +1,218 @@
+{
+  "locationId": "1-463247119",
+  "providerId": "1-216234545",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Global House",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-03-12",
+  "deregistrationDate": "2021-04-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.376989,
+  "onspdLongitude": 0.0100521,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "10 Station Approach",
+  "postalAddressLine2": "Hayes",
+  "postalAddressTownCity": "Bromley",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR2 7EH",
+  "uprn": "100022891874",
+  "website": "www.bromleyhealthcare.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Bromley and Biggin Hill",
+  "localAuthority": "Bromley",
+  "lastInspection": {
+    "date": "2016-10-19"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-7745377256",
+      "relatedLocationName": "Bromley Healthcare Central Court",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Phone/online advice",
+      "description": "Remote clinical advice service"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "inspectionAreaName": "Community health services for adults",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "communitysexual",
+      "inspectionAreaName": "Community health sexual health services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2017-06-07",
+      "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2017-06-07",
+          "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2017-06-07",
+          "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2017-06-07",
+          "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2017-06-07",
+          "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2017-06-07",
+          "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4"
+        }
+      ]
+    },
+    "reportDate": "2017-06-07",
+    "serviceRatings": [
+      {
+        "name": "chsadults",
+        "rating": "Good",
+        "reportDate": "2017-06-07",
+        "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "communitysexual",
+        "rating": "Good",
+        "reportDate": "2017-06-07",
+        "reportLinkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4",
+      "reportDate": "2017-06-07",
+      "firstVisitDate": "2016-10-18",
+      "reportUri": "/reports/d5e74e0a-cd72-44c9-ac4d-31db8dec7bf4?20210119033408",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "8abda740-2a73-469d-9ae3-55ef95830d70",
+      "reportDate": "2014-03-13",
+      "firstVisitDate": "2014-02-26",
+      "reportUri": "/reports/8abda740-2a73-469d-9ae3-55ef95830d70?20200129163919"
+    }
+  ]
+}

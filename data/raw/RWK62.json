@@ -1,0 +1,173 @@
+{
+  "locationId": "RWK62",
+  "providerId": "RWK",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Adult Mental Health Services - City and Hackney Directorate",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.550634,
+  "onspdLongitude": -0.046099,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "City and Hackney Centre for Mental Health",
+  "postalAddressLine2": "Homerton Row. Hackney",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E9 6SR",
+  "mainPhoneNumber": "02076554000",
+  "website": "www.eastlondon.nhs.uk",
+  "constituency": "Hackney South and Shoreditch",
+  "localAuthority": "Hackney",
+  "lastInspection": {
+    "date": "2023-02-09"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "4b4125f2-08bb-42c4-b12f-63104fb3b9a3",
+          "providerId": "RWK",
+          "locationId": "RWK62"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-14789521761",
+          "reportLinkId": "2da26f27-0c46-497b-b919-ecc2c454e0d2",
+          "providerId": "RWK",
+          "locationId": "RWK62"
+        },
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "89f46cc0-fdd6-4971-bc47-ee58133aa7cd",
+          "providerId": "RWK",
+          "locationId": "RWK62"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2521638976",
+          "reportLinkId": "dba096fc-bd9b-45c8-b572-a9f12d56743f",
+          "providerId": "RWK",
+          "locationId": "RWK62"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "58dae106-7f3e-47dc-9f27-0820cadf5ee5",
+      "reportDate": "2014-02-22",
+      "firstVisitDate": "2013-12-13",
+      "reportUri": "/reports/58dae106-7f3e-47dc-9f27-0820cadf5ee5?20200129163919"
+    },
+    {
+      "linkId": "f79c93c2-95f0-4621-b343-df3936742213",
+      "reportDate": "2011-03-28",
+      "firstVisitDate": "2010-11-25",
+      "reportUri": "/reports/f79c93c2-95f0-4621-b343-df3936742213?20200430120000"
+    }
+  ]
+}

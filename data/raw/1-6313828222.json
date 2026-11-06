@@ -1,0 +1,154 @@
+{
+  "locationId": "1-6313828222",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Newham Rise",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2019-02-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.5371615,
+  "onspdLongitude": -0.002639,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "327 High Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E15 2TF",
+  "uprn": "10008987454",
+  "registeredManagerAbsentDate": "2026-06-22",
+  "numberOfBeds": 0,
+  "constituency": "Stratford and Bow",
+  "localAuthority": "Newham",
+  "lastInspection": {
+    "date": "2022-02-04"
+  },
+  "lastReport": {
+    "publicationDate": "2022-04-11"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-04-11",
+      "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-04-11",
+          "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-04-11",
+          "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-04-11",
+          "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-04-11",
+          "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-04-11",
+          "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b"
+        }
+      ]
+    },
+    "reportDate": "2022-04-11",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2022-04-11",
+        "reportLinkId": "363b1554-7ac8-470e-829d-74a5eed1a86b",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "363b1554-7ac8-470e-829d-74a5eed1a86b",
+      "reportDate": "2022-04-11",
+      "firstVisitDate": "2022-02-01",
+      "reportUri": "/reports/363b1554-7ac8-470e-829d-74a5eed1a86b?20220411080045",
+      "reportType": "Location"
+    }
+  ]
+}

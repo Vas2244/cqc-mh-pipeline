@@ -1,0 +1,70 @@
+{
+  "locationId": "1-490710407",
+  "providerId": "1-468267562",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Brevin Home Care Limited",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-10-11",
+  "deregistrationDate": "2013-10-17",
+  "dormancy": "N",
+  "onspdLatitude": 51.475875,
+  "onspdLongitude": -0.283117,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "22 High Park Road",
+  "postalAddressTownCity": "Richmond",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "TW9 4BH",
+  "numberOfBeds": 0,
+  "constituency": "Richmond Park",
+  "localAuthority": "Richmond upon Thames",
+  "relationships": [
+    {
+      "relatedLocationId": "1-923830778",
+      "relatedLocationName": "Brevin Home Care",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

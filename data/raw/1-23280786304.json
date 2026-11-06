@@ -1,0 +1,107 @@
+{
+  "locationId": "1-23280786304",
+  "providerId": "1-22152238445",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "360 Supported Living - London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "odsCode": "VMAQF",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-09-22",
+  "dormancy": "Y",
+  "dormancyStartDate": "2025-09-23",
+  "onspdLatitude": 51.5037571,
+  "onspdLongitude": -0.0150663,
+  "careHome": "N",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "WeWork, 30 Churchill Place",
+  "postalAddressLine2": "Canary Wharf",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E14 5RE",
+  "uprn": "6191681",
+  "mainPhoneNumber": "03456466360",
+  "website": "www.360camhs.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Poplar and Limehouse",
+  "localAuthority": "Tower Hamlets",
+  "relationships": [
+    {
+      "relatedLocationId": "1-13038295800",
+      "relatedLocationName": "Bleep 360 Care Canary Wharf",
+      "type": "HSCA Predecessor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Personal care",
+      "code": "RA1",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Leroy",
+          "personFamilyName": "Msika",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Leroy",
+          "personFamilyName": "Msika",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Supported living",
+      "description": "Supported living service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

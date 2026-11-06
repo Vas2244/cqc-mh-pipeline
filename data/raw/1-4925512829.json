@@ -1,0 +1,173 @@
+{
+  "locationId": "1-4925512829",
+  "providerId": "1-126775066",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Via - Merton",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2018-03-31",
+  "dormancy": "N",
+  "onspdLatitude": 51.4048603,
+  "onspdLongitude": -0.163319,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "7-8 Langdale Parade",
+  "postalAddressLine2": "Upper Green East",
+  "postalAddressTownCity": "Mitcham",
+  "region": "London",
+  "postalCode": "CR4 2PF",
+  "uprn": "48101121",
+  "mainPhoneNumber": "03003034610",
+  "numberOfBeds": 0,
+  "constituency": "Mitcham and Morden",
+  "localAuthority": "Merton",
+  "lastInspection": {
+    "date": "2019-11-08"
+  },
+  "lastReport": {
+    "publicationDate": "2020-02-12"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Elizabeth Ann",
+          "personFamilyName": "Campbell",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        },
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Alexander Robert Vernon",
+          "personFamilyName": "Hatfield",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2020-02-12",
+      "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2020-02-12",
+          "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2020-02-12",
+          "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2020-02-12",
+          "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Outstanding",
+          "reportDate": "2020-02-12",
+          "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2020-02-12",
+          "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c"
+        }
+      ]
+    },
+    "reportDate": "2020-02-12",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Good",
+        "reportDate": "2020-02-12",
+        "reportLinkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c",
+      "reportDate": "2020-02-12",
+      "firstVisitDate": "2019-11-07",
+      "reportUri": "/reports/794fd6ad-7f4a-42f6-a1f0-4280bb3d9c9c?20210114104905",
+      "reportType": "Location"
+    }
+  ]
+}

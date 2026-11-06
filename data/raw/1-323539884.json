@@ -1,0 +1,95 @@
+{
+  "locationId": "1-323539884",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Greenwich Primary Care Drug and Alcohol Service",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-02-12",
+  "deregistrationDate": "2014-11-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.492421,
+  "onspdLongitude": 0.044314,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "821 Woolwich Road",
+  "postalAddressLine2": "Charlton",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE7 8LJ",
+  "numberOfBeds": 0,
+  "constituency": "Greenwich and Woolwich",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2014-01-14"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "2256e9d7-345b-4c99-99b3-a93ed3674205",
+      "reportDate": "2014-01-23",
+      "firstVisitDate": "2014-01-14",
+      "reportUri": "/reports/2256e9d7-345b-4c99-99b3-a93ed3674205?20200916120000"
+    },
+    {
+      "linkId": "2ed2f2ff-1b5c-408e-a67d-dcdb939ba98a",
+      "reportDate": "2013-03-20",
+      "firstVisitDate": "2013-02-19",
+      "reportUri": "/reports/2ed2f2ff-1b5c-408e-a67d-dcdb939ba98a?20151016191357"
+    }
+  ]
+}

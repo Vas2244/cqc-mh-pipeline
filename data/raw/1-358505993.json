@@ -1,0 +1,264 @@
+{
+  "locationId": "1-358505993",
+  "providerId": "1-101614301",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Haven",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "VLTVR",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-04-23",
+  "deregistrationDate": "2021-10-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.5717932,
+  "onspdLongitude": -0.1174202,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "280 Holly Park",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N4 4AQ",
+  "uprn": "10090548873",
+  "mainPhoneNumber": "02072633315",
+  "numberOfBeds": 27,
+  "constituency": "Islington North",
+  "localAuthority": "Islington",
+  "lastInspection": {
+    "date": "2021-07-27"
+  },
+  "lastReport": {
+    "publicationDate": "2021-10-08"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-118656698",
+      "relatedLocationName": "The Haven",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdetoxification",
+      "inspectionAreaName": "Residential substance misuse services",
+      "status": "Inactive",
+      "endDate": "2021-10-08"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inadequate",
+      "reportDate": "2021-10-08",
+      "reportLinkId": "accff956-e4d2-4743-acbf-32f6c23f21a2",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inadequate",
+          "reportDate": "2021-10-08",
+          "reportLinkId": "accff956-e4d2-4743-acbf-32f6c23f21a2"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inadequate",
+          "reportDate": "2021-10-08",
+          "reportLinkId": "accff956-e4d2-4743-acbf-32f6c23f21a2"
+        },
+        {
+          "name": "Caring",
+          "rating": "Requires improvement",
+          "reportDate": "2021-10-08",
+          "reportLinkId": "accff956-e4d2-4743-acbf-32f6c23f21a2"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Requires improvement",
+          "reportDate": "2021-10-08",
+          "reportLinkId": "accff956-e4d2-4743-acbf-32f6c23f21a2"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inadequate",
+          "reportDate": "2021-10-08",
+          "reportLinkId": "accff956-e4d2-4743-acbf-32f6c23f21a2"
+        }
+      ]
+    },
+    "reportDate": "2021-10-08"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2021-07-23",
+      "reportLinkId": "3c70a9f9-2a1c-4256-858b-5541920dfd85",
+      "serviceRatings": [
+        {
+          "name": "mhdetoxification",
+          "rating": "Inadequate",
+          "keyQuestionRatings": [
+            {
+              "name": "Safe",
+              "rating": "Inadequate"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inadequate"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inadequate",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2019-11-29",
+      "reportLinkId": "b1e58b1f-a009-43f4-99af-3ce636f86dee",
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-12-21",
+      "reportLinkId": "0dac3ce5-efc0-4f1a-a108-957788658b68",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "accff956-e4d2-4743-acbf-32f6c23f21a2",
+      "reportDate": "2021-10-08",
+      "firstVisitDate": "2021-07-15",
+      "reportUri": "/reports/accff956-e4d2-4743-acbf-32f6c23f21a2?20211008210506",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "3c70a9f9-2a1c-4256-858b-5541920dfd85",
+      "reportDate": "2021-07-23",
+      "firstVisitDate": "2021-02-02",
+      "reportUri": "/reports/3c70a9f9-2a1c-4256-858b-5541920dfd85?20210723100050",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b1e58b1f-a009-43f4-99af-3ce636f86dee",
+      "reportDate": "2019-11-29",
+      "firstVisitDate": "2019-08-20",
+      "reportUri": "/reports/b1e58b1f-a009-43f4-99af-3ce636f86dee?20210115002036",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "0dac3ce5-efc0-4f1a-a108-957788658b68",
+      "reportDate": "2016-12-21",
+      "firstVisitDate": "2016-08-31",
+      "reportUri": "/reports/0dac3ce5-efc0-4f1a-a108-957788658b68?20210121060856",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a49cccde-9e86-4709-a1db-7ec45a6fd08b",
+      "reportDate": "2014-06-14",
+      "firstVisitDate": "2014-04-28",
+      "reportUri": "/reports/a49cccde-9e86-4709-a1db-7ec45a6fd08b?20200129163919"
+    },
+    {
+      "linkId": "f59279ee-da0e-409a-8231-eaff3e9fec9c",
+      "reportDate": "2013-07-23",
+      "firstVisitDate": "2013-06-07",
+      "reportUri": "/reports/f59279ee-da0e-409a-8231-eaff3e9fec9c?20151016191357"
+    },
+    {
+      "linkId": "485dadc9-a6eb-40be-b224-1f6285e9fa11",
+      "reportDate": "2012-08-16",
+      "firstVisitDate": "2012-07-13",
+      "reportUri": "/reports/485dadc9-a6eb-40be-b224-1f6285e9fa11?20200430120000"
+    }
+  ]
+}

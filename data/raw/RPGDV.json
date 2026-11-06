@@ -1,0 +1,122 @@
+{
+  "locationId": "RPGDV",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Highpoint House",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-15",
+  "deregistrationDate": "2020-11-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.468597,
+  "onspdLongitude": 0.064009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Memorial Hospital",
+  "postalAddressLine2": "Shooters Hill Road, Woolwich",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 3RZ",
+  "mainPhoneNumber": "01322625700",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Erith and Thamesmead",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2017-03-09"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "5A803",
+      "relatedLocationName": "Highpoint House",
+      "type": "HSCA Predecessor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H2",
+      "name": "Acute hospital - NHS specialist"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "INS2-3177018976",
+          "reportLinkId": "8e9e48a1-2441-4a86-a6fe-635ad9605e93",
+          "providerId": "RPG",
+          "locationId": "RPGDV"
+        },
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "7735e6e8-0194-450b-aaed-2a9a5f097a4c",
+          "providerId": "RPG",
+          "locationId": "RPGDV"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "4729366c-6f18-4000-b01f-df1a7638af0d",
+          "providerId": "RPG",
+          "locationId": "RPGDV"
+        }
+      ]
+    }
+  ]
+}

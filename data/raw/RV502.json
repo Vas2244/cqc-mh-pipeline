@@ -1,0 +1,246 @@
+{
+  "locationId": "RV502",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Lambeth Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.4653159,
+  "onspdLongitude": -0.1222234,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "108 Landor Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW9 9NU",
+  "uprn": "100023388590",
+  "mainPhoneNumber": "02032286342",
+  "registeredManagerAbsentDate": "2010-06-10",
+  "website": "www.slam.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Clapham and Brixton Hill",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2023-03-06"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "aeeca0fe-04f8-420e-8e0c-b4a0542736ee",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhforensic",
+      "reports": [
+        {
+          "inspectionId": "INS2-5450922119",
+          "reportLinkId": "919317e3-d65f-41db-b7ec-6992f666b86d",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhlongstay",
+      "reports": [
+        {
+          "inspectionId": "INS2-14732366521",
+          "reportLinkId": "56111481-f328-48c8-820d-acd5e0d44c72",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "b4047e6b-60c0-4bf5-b6a7-373770c29842",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "87e42a93-4f5d-4693-8a2d-b6192ff7ee10",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhperinatal",
+      "reports": [
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "210d4f3c-8df5-487a-9cc8-ec8f4f89677a",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-10639861201",
+          "reportLinkId": "388b0f12-e3dc-4417-be5f-becdd0379cc6",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "INS2-13599624691",
+          "reportLinkId": "6248a2b6-b93f-4d1d-a605-c047114ccc25",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "INS2-17711244651",
+          "reportLinkId": "cdb6049b-8287-4910-b16c-b39ce5c273df",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "INS2-3104851443",
+          "reportLinkId": "9bd60e7d-cafe-49f7-9172-430850cf8dd3",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "INS2-5450922119",
+          "reportLinkId": "fc5da7eb-0ef5-47c2-9305-cd5de2e6edef",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "INS2-5829310491",
+          "reportLinkId": "5160556b-6a55-44e0-91b1-24f760502743",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        },
+        {
+          "inspectionId": "SPL1-2131450146",
+          "reportLinkId": "5b5aa539-2955-4d1e-8b41-1aa1cb75b6c1",
+          "providerId": "RV5",
+          "locationId": "RV502"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "2432d2c9-7a0a-4cd4-94be-c35372447b5b",
+      "reportDate": "2014-03-01",
+      "firstVisitDate": "2014-01-16",
+      "reportUri": "/reports/2432d2c9-7a0a-4cd4-94be-c35372447b5b?20200129163919"
+    },
+    {
+      "linkId": "307a33f7-dc75-4907-a81e-c0b1dee83707",
+      "reportDate": "2014-01-11",
+      "firstVisitDate": "2013-12-13",
+      "reportUri": "/reports/307a33f7-dc75-4907-a81e-c0b1dee83707?20200129163919"
+    },
+    {
+      "linkId": "f1739873-071f-42e6-b0db-98ccfaed5c72",
+      "reportDate": "2013-03-12",
+      "firstVisitDate": "2013-01-14",
+      "reportUri": "/reports/f1739873-071f-42e6-b0db-98ccfaed5c72?20151016191357"
+    },
+    {
+      "linkId": "d05cadf4-7676-40f3-b6cf-9e23efd41578",
+      "reportDate": "2011-11-23",
+      "firstVisitDate": "2011-10-13",
+      "reportUri": "/reports/d05cadf4-7676-40f3-b6cf-9e23efd41578?20200430120000"
+    }
+  ]
+}

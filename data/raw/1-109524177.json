@@ -1,0 +1,133 @@
+{
+  "locationId": "1-109524177",
+  "providerId": "1-101678548",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Consensa Care Limited - Colegrave Road",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-30",
+  "deregistrationDate": "2014-04-10",
+  "dormancy": "N",
+  "onspdLatitude": 51.551237,
+  "onspdLongitude": -0.001834,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "77-79 Colegrave Road",
+  "postalAddressLine2": "Strafford",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E15 1DZ",
+  "mainPhoneNumber": "02085341101",
+  "website": "www.consensacare.com",
+  "numberOfBeds": 7,
+  "constituency": "Stratford and Bow",
+  "localAuthority": "Newham",
+  "lastInspection": {
+    "date": "2013-12-02"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "S1",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "86558a31-a628-45bc-8451-7e821a53f1aa",
+      "reportDate": "2014-03-29",
+      "firstVisitDate": "2013-11-13",
+      "reportUri": "/reports/86558a31-a628-45bc-8451-7e821a53f1aa?20200129163919"
+    },
+    {
+      "linkId": "cbaa88eb-a546-4fce-ab36-1f9de194d45b",
+      "reportDate": "2013-09-06",
+      "firstVisitDate": "2013-06-06",
+      "reportUri": "/reports/cbaa88eb-a546-4fce-ab36-1f9de194d45b?20200129163919"
+    },
+    {
+      "linkId": "d4a3348e-91de-4d11-abb7-434116f568ab",
+      "reportDate": "2013-05-16",
+      "firstVisitDate": "2013-02-27",
+      "reportUri": "/reports/d4a3348e-91de-4d11-abb7-434116f568ab?20151016191357"
+    },
+    {
+      "linkId": "aa3b9cfd-150e-4564-a540-0e6709e70f01",
+      "reportDate": "2013-03-07",
+      "firstVisitDate": "2012-12-19",
+      "reportUri": "/reports/aa3b9cfd-150e-4564-a540-0e6709e70f01?20200129163919"
+    },
+    {
+      "linkId": "e217a6ba-990e-43bf-92af-a16e63224838",
+      "reportDate": "2011-10-18",
+      "firstVisitDate": "2011-09-15",
+      "reportUri": "/reports/e217a6ba-990e-43bf-92af-a16e63224838?20200430120000"
+    }
+  ]
+}

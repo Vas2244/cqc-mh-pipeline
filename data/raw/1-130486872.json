@@ -1,0 +1,1247 @@
+{
+  "locationId": "1-130486872",
+  "providerId": "1-102643425",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cygnet Lodge Lewisham",
+  "brandId": "BD205",
+  "brandName": "BRAND Cygnet Health Care",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-11-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.4520402,
+  "onspdLongitude": -0.0108922,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "44 Lewisham Park",
+  "postalAddressLine2": "Lewisham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE13 6QZ",
+  "uprn": "100021979056",
+  "mainPhoneNumber": "02083145123",
+  "website": "www.cygnethealth.co.uk",
+  "numberOfBeds": 20,
+  "constituency": "Lewisham North",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2019-07-24"
+  },
+  "lastReport": {
+    "publicationDate": "2019-09-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Nnennaya Annabel",
+          "personFamilyName": "Aitalegbe",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Nnennaya Annabel",
+          "personFamilyName": "Aitalegbe",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "inspectionAreaName": "Long stay or rehabilitation mental health wards for working age adults",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2016-09-20",
+      "reportLinkId": "40f297f5-b79e-477a-8567-a2258504a601",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2015-04-07",
+      "reportLinkId": "524f5396-8f3d-4365-8336-95f7306020ce",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Inspected but not rated"
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2019-09-20",
+      "reportLinkId": "d43c9ad6-90e0-4941-9338-124125c9ddbd",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "d43c9ad6-90e0-4941-9338-124125c9ddbd",
+      "reportDate": "2019-09-20",
+      "firstVisitDate": "2019-07-23",
+      "reportUri": "/reports/d43c9ad6-90e0-4941-9338-124125c9ddbd?20210115205037",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "40f297f5-b79e-477a-8567-a2258504a601",
+      "reportDate": "2016-09-20",
+      "firstVisitDate": "2016-06-29",
+      "reportUri": "/reports/40f297f5-b79e-477a-8567-a2258504a601?20210122070233",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "524f5396-8f3d-4365-8336-95f7306020ce",
+      "reportDate": "2015-04-07",
+      "firstVisitDate": "2014-12-04",
+      "reportUri": "/reports/524f5396-8f3d-4365-8336-95f7306020ce?20210121032641",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "ce77028a-2b7f-4aff-af43-dfa7ac992f32",
+      "reportDate": "2014-03-27",
+      "firstVisitDate": "2014-02-04",
+      "reportUri": "/reports/ce77028a-2b7f-4aff-af43-dfa7ac992f32?20151016191357"
+    },
+    {
+      "linkId": "476a726d-26f8-4f38-90f3-339432ab105c",
+      "reportDate": "2013-04-19",
+      "firstVisitDate": "2013-03-18",
+      "reportUri": "/reports/476a726d-26f8-4f38-90f3-339432ab105c?20200129163919"
+    },
+    {
+      "linkId": "e9f49ba8-8468-4a15-b4ad-f0fa98036d01",
+      "reportDate": "2011-10-04",
+      "firstVisitDate": "2011-09-12",
+      "reportUri": "/reports/e9f49ba8-8468-4a15-b4ad-f0fa98036d01?20200430120000"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "239",
+      "assessmentServiceName": "Long stay or rehabilitation mental health wards for working age adults",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2025-07-18 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-01688",
+            "commentary": "\u003Cp\u003EDate of assessment: 28 to 29 May 2025.\u003C/p\u003E\u003Cp\u003ECygnet Lodge Lewisham provides independent high support rehabilitation for males. Following this assessment, the location was rated as good.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EIn our assessment of this location, we found improvements had been made to the environment, and the hospital was no longer in breach of regulations. Staff, patients and carers spoke positively about the care and treatment being provided by this location.\u0026nbsp;\u003C/p\u003E",
+            "commentaryDate": "2025-07-18",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EOur overall rating of caring at Cygnet Lodge Lewisham has improved and is now outstanding.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "narrative": "This service is exceptionally caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EOur overall rating of effective at Cygnet Lodge Lewisham remains good.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EOur overall rating of responsive at Cygnet Lodge Lewisham remains good.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EOur overall rating of safe at Cygnet Lodge Lewisham has improved and is now good.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EOur overall rating of well-led at Cygnet Lodge Lewisham remains good.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP12932",
+            "title": "Ongoing Assessment for Cygnet Lodge Lewisham",
+            "assessmentDate": "2025-05-12",
+            "assessmentPlanStatus": "Active",
+            "name": "Long stay or rehabilitation mental health wards for working age adults",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EWe carried out a comprehensive assessment of Cygnet Lodge Lewisham on 28 and 29 May 2025.\u003C/p\u003E\u003Cp\u003EWe rated this service as good.\u003C/p\u003E\u003Cp\u003ECygnet Lodge Lewisham is an independent high support rehabilitation hospital for 19 male adult patients. At the time of the assessment, 17 patients were receiving treatment at the service.\u003C/p\u003E\u003Cp\u003EThis service was last inspected in July 2019 and the service was rated good overall. At that inspection, we found that some legal requirements were not met. We had concerns that the hospital did not provide an environment that was well maintained and clean for patients. We issued one requirement notice for a breach of the Health and Social Care Act (Regulated Activities) Regulations 2014. This notice related to a breach of regulation 15 (Premises and equipment).\u003C/p\u003E\u003Cp\u003EAt this assessment we rated the service as good. We found that improvements had been made to the environment, and they were no longer in breach of this regulation.\u003C/p\u003E\u003Cp\u003EWe spoke with 18 members of staff, 10 patients and 5 carers. We also reviewed the care and treatment records of 5 patients.\u003C/p\u003E\u003Cp\u003EAt this assessment we found several areas of good practice. Staff knew what incidents to report, and how to report them. All records had risk assessments that were regularly updated and contained all relevant risk information. Staff told us they avoided using restraint by using de-escalation techniques, and we saw this in practice. All staff completed key mandatory training. All staff had completed monthly supervision. Most staff were up to date with their yearly appraisals. Patients could access a range of interventions and activities in line with national guidance. Ward activities helped promote a healthy lifestyle for patients. Patients told us staff were kind and treated them well. They told us staff were available on the ward to support them when needed. Patients had access to spiritual, religious and cultural support. All staff told us they felt respected, supported and valued by their colleagues and managers.\u003C/p\u003E\u003Cp\u003EHowever, we did find areas of improvement. We saw some examples where intermittent observations were not being carried out in line with hospital policy. There were often no clear action plans when areas for improvements were found following audits or simulation training sessions. Care plans did not always reflect the individual work staff were doing with patients. Most patients told us they were not aware of what a care plan was, and were not involved in creating these documents. Some patients told us they did not have copies of their care plans. Staff told us there was sometimes a duplication of documents on paper and electronic forms, meaning this took staff more time to complete and there was sometimes confusion on where to find up to date information.\u003C/p\u003E",
+            "commentaryDate": "2025-07-18",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with 10 patients and 4 carers.\u003C/p\u003E\u003Cp\u003EPatients were very positive about the service. They told us staff were friendly, respectful and helpful. They told us there were enough staff available to meet their needs and they met with their named nurse regularly.\u0026nbsp;\u003C/p\u003E\u003Cp\u003ECarers told us staff had positive attitudes, and they had good communication with the ward and managers. All carers told us they felt involved in their relatives\u2019 care, such as through attending ward round meetings or having regular phone calls.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EWhilst at the hospital, we saw examples of staff supporting patients in a kind and caring manner.\u003C/p\u003E\u003Cp\u003EThe hospital collected feedback from patients about their care through surveys and community meetings.\u003C/p\u003E\u003Cp\u003E\u0026nbsp;\u003C/p\u003E\u003Cp\u003EMental Health Act and Mental Capacity Act Compliance\u003C/p\u003E\u003Cp\u003EMental Health Act\u003C/p\u003E\u003Cp\u003EAll staff had completed training in the Mental Health Act and the Mental Health Act Code of Practice.\u003C/p\u003E\u003Cp\u003EPatients had easy access to information about advocacy services. Patients and staff told us advocates visited the ward regularly and attended ward meetings.\u003C/p\u003E\u003Cp\u003EThe service did not have a contract with a provider for independent mental health advocates, which they should have done. The contract with their advocacy service was for general advocacy.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EStaff had easy access to administrative support and legal advice on implementation of the Mental Health Act and its Code of Practice. The hospital\u2019s site resources manager was the Mental Health Act lead for the site.\u003C/p\u003E\u003Cp\u003ERecords showed staff explained to each patient their rights under the Mental Health Act and repeated this as necessary. Most patients we spoke with were aware of their rights, however 2 patients told us their rights were not explained regularly enough.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EStaff requested an opinion from a Second Opinion Appointed Doctor (SOAD) when they needed to.\u003C/p\u003E\u003Cp\u003EStaff stored copies of patients\u0027 detention papers and associated records correctly and they were available to all staff that needed access to them. Staff understood Section 17 leave and how to manage this. This is permission to leave the hospital agreed with the Responsible Clinician and/or with the Ministry of Justice.\u003C/p\u003E\u003Cp\u003EStaff did regular audits to ensure that the Mental Health Act was being applied correctly. The most recent Mental Health Act audit showed that staff were following hospital policy 98.9% of the time.\u0026nbsp;\u003C/p\u003E\u003Cp\u003E\u0026nbsp;\u003C/p\u003E\u003Cp\u003EMental Capacity Act\u003C/p\u003E\u003Cp\u003EAll staff had completed training in the Mental Capacity Act and deprivation of liberty safeguards.\u003C/p\u003E\u003Cp\u003EFor patients who may have had impaired mental capacity, staff assessed and recorded capacity to consent appropriately. They did this on a decision-specific basis with regard to significant decisions. We saw evidence of these assessments in patient\u2019s care records.\u003C/p\u003E\u003Cp\u003EStaff took all practical steps to enable patients to make their own decisions\u003C/p\u003E\u003Cp\u003EWhen staff assessed patients as not having capacity, they made decisions in the best interest of patients and considered the patient\u2019s wishes, feelings, culture and history. Staff kept clear, detailed records of this.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2025-07-18",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has changed to outstanding.\u003C/p\u003E\u003Cp\u003EThis meant people were truly respected and valued as individuals; and empowered as partners in their care in an exceptional service.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "narrative": "This service is exceptionally caring",
+                "percentageScore": "90",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients had regular ward rounds where they met with the multidisciplinary team to discuss their care and treatment. We observed 4 ward rounds and saw detailed discussions with patients, their carers and their community teams.\u003C/p\u003E\u003Cp\u003EPatients were supported to maintain relationships and networks that were important to them. We saw evidence of staff arranging family visits, and supporting a patient to attend a church in their native language, helping them to engage with their community.\u003C/p\u003E\u003Cp\u003EPatients had access to activities and opportunities in the local community, promoting their independence and wellbeing. This included football groups, voluntary work and educational courses. The hospital had supported patients to attend a local football match, allowing them to attend activities they enjoyed. When appropriately risk assessed, the hospital supported patients to access Section 17 leave to support their hobbies, interests and work. For example, the hospital agreed for a patient to have extended day leave to be able to attend music festivals as part of their interests and work as a photographer.\u003C/p\u003E\u003Cp\u003EStaff supported patients to be more independent with their activities of daily living. For example, they assisted and encouraged their patients to change their bedsheets, do their laundry, shop for their own food and to cook and prepare their own meals and snacks.\u003C/p\u003E\u003Cp\u003ELast year, patients were supported to create a Christmas song. The song was written, played and sung by patients, with the support of the music therapist. A patient also video recorded patients and staff singing the song, which was uploaded onto their website.\u003C/p\u003E\u003Cp\u003EAn advocate visited the service each week and told us they observed patients were involved in their care, and that patients could meet with doctors to discuss treatment plans regularly outside of ward rounds.\u003C/p\u003E\u003Cp\u003EWe met with 2 members of the team who were an expert by experience, that is, they had experience of using services. One worked for the provider and the other worked for an external agency. The external expert by experience told us they attend community meetings, join in activities, and met with staff and patients. They also told us they are involved in creating recovery plans to support a patient\u2019s discharge.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff attitudes and behaviours when interacting with patients showed that they were respectful and responsive, providing patients with help, emotional support and advice at the time they needed it.\u003C/p\u003E\u003Cp\u003EStaff consistently spoke about patients in a respectful, caring and compassionate way during meetings. We observed many positive interactions between staff and patients. Staff knew their patients well, discussed their preferences when making decisions and sharing information, and the patients appeared comfortable around staff.\u003C/p\u003E\u003Cp\u003EStaff celebrated their patient\u2019s achievements and milestones, for example, having a special meal on their birthday and holding graduation ceremony parties when their patient\u2019s completed educational courses.\u003C/p\u003E\u003Cp\u003EIn the dining room, a large board had information for patients related to the hospital for that day. For example, how many staff were working and what was on the food menu.\u003C/p\u003E\u003Cp\u003EWe spoke with 10 patients and 4 carers.\u003C/p\u003E\u003Cp\u003EPatients told us staff were kind and treated them well. They told us staff were available on the ward to support them when needed. A patient told us \u2018the staff are the best thing about this place\u2019. All patients told us they were shown around the ward and were introduced to staff and patients when admitted.\u003C/p\u003E\u003Cp\u003ECarers told us staff had positive attitudes and were kind. A carer told us their relative received \u2018great treatment and excellent care\u2019. One carer told us they felt the service had improved over the last year, especially in their communication with them. Another carer told us the hospital had been very supportive in their son\u2019s autism diagnosis and that he had \u2018made more progress here, than anywhere else\u2019.\u003C/p\u003E\u003Cp\u003EStaff maintained the confidentiality of information about patients. Documentation was stored in locked rooms, not accessible to patients.\u003C/p\u003E\u003Cp\u003EStaff upheld patients\u2019 privacy and dignity. For example, patient bedroom viewing panels were seen to be closed, protecting the individual\u2019s privacy.\u003C/p\u003E\u003Cp\u003EStaff told us they could raise concerns about disrespectful behaviour or attitudes towards patients without fear of the consequences. For example, we were told some staff were speaking their native language in patient areas. Staff were able to raise these concerns with managers, and felt the issue had been taken seriously and was being addressed.\u003C/p\u003E\u003Cp\u003EThe service carried out surveys with patients and carers in order to continually improve the service and experience for patients. The most recent survey was in April 2025. All 5 patients reported staff were caring and supportive. They all reported they were involved in decisions about their care and felt they were treated as individuals. All 5 carers reported they were involved in their relative\u2019s care and were kept updated. All carers reported staff were polite and approachable.\u003C/p\u003E\u003Cp\u003EA patient at the service recently died following an unexpected heart attack. The hospital held a ceremony for their patients and staff, where they planted a tree in their garden in their former patient\u2019s memory. The service also provided debriefs for staff and patients following this sudden incident.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients told us staff gave them emotional support and advice when they needed it.\u003C/p\u003E\u003Cp\u003EStaff identified and responded to changing risks to, or posed by, patients. Staff met daily to discuss the needs of the patients. We saw examples of multidisciplinary staff updating risk and care plans when patient needs changed. For example, a patient with a newly identified risk of falls was moved to a ground floor bedroom.\u003C/p\u003E\u003Cp\u003EStaff knew their patients and they were aware of their specific risks. For example, some patients had diabetes and epilepsy. Appropriate care plans were in place to support the physical health needs of these patients, as well as detail the plan for staff to follow, should there be any incidents.\u003C/p\u003E\u003Cp\u003EStaff used de-escalation techniques to reduce the need for physical interventions when patients\u2019 behaviours became heightened. We saw examples of staff de-escalating situations well.\u003C/p\u003E\u003Cp\u003EPatients we spoke with told us they felt able to raise any concerns they had with the ward staff or ward manager. Patients also had access to weekly community meetings where they could raise their concerns about issues on the wards. When patients raised concerns in these meetings, we saw actions being documented and followed up.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff made adjustments to support patients where needed. For example, providing information in easy read format. We observed staff in the handover meeting discussing providing a patient with easy read information on their medicines.\u003C/p\u003E\u003Cp\u003EPatients had access to spiritual, religious and cultural support. There was a small multifaith room in the hospital, which contained religious text. Patients were also supported to attend church.\u003C/p\u003E\u003Cp\u003EThe hospital had a multicultural week, where they celebrated a different culture each day. Staff and patients were involved in creating different foods and a range of activities from different regions, including music, games and dancing. \u003C/p\u003E\u003Cp\u003EThe hospital was not accessible for disabled patients. The hospital had stairs leading to the front door, and was set over 3 floors. The manager spoke of plans to add a ramp and disabled parking to make the hospital more accessible. They had approval to create the dropped curb, however, were awaiting approval to remove a tree from the front garden.\u003C/p\u003E\u003Cp\u003EThe hospital did not have a sensory room to support neurodivergent patients. The service did however have adjustable lighting. Some doors had soft closure fittings, and the hospital had a plan to fit all doors with soft close fittings in 2026. Managers told us they carried out extensive assessments prior to admission, and patients were not admitted if their needs could not be met on the ward. They did have neurodivergent patients on the ward; however, they did not require adjustments to the environment. One patient required a more structured routine, and staff were allocated to support them with activities. A carer told us they felt their son\u2019s autism was managed well by the service, and told us the team took his autism into consideration when creating his treatment plans.\u003C/p\u003E\u003Cp\u003EThe service provided a variety of food to meet the dietary and cultural needs of individual patients\u003C/p\u003E\u003Cp\u003EWe saw staff had created an information board to share how lesbian, gay, bisexual and transgender (LGBT\u002B) patients would be welcomed and supported at the hospital. They had also allocated a staff member to be their LGBT\u002B lead, and this information was visible on the ward for patients to see.\u003C/p\u003E\u003Cp\u003EStaff ensured that patients could obtain information on treatments, local services, patients\u2019 rights, and how to complain. We observed leaflets and posters on the walls with information for patients.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EAll staff told us they felt respected, supported and valued by their colleagues and managers. They spoke very positively about working at the hospital and they were proud of the work of their team. One staff member told us this was \u2018the best place I have worked\u2019. Many staff had worked at this hospital for a number of years, and told us a key reason for this was the support they received and a positive team culture.\u003C/p\u003E\u003Cp\u003EThe hospital recognised staff success within the service. For example, employee of the month awards, voted for by their peers. The staff member received some chocolates and a certificate. We also saw photos of staff members celebrating birthdays and work milestones with their colleagues.\u003C/p\u003E\u003Cp\u003EStaff had access to support for their own physical and emotional health needs through an occupational health service. Staff told us they received support from managers when they were involved in distressing incidents, as well as meeting with specially trained trauma informed practitioners.\u003C/p\u003E\u003Cp\u003EStaff appraisals included conversations about career development and how it could be supported. Staff told us the hospital supported their professional development. For example, they offered nursing and occupational therapy apprenticeship programmes to staff.\u003C/p\u003E\u003Cp\u003EThe hospital had a recent team away day, where they focused on improving patient care and team bonding.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "narrative": "This service is effective",
+                "percentageScore": "79",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe looked at 5 care and treatment records at the hospital.\u003C/p\u003E\u003Cp\u003EStaff completed a comprehensive mental health assessment of patients in a timely manner at, or soon after, admission. Care plans and risk assessments matched the needs identified in a patient\u2019s assessment.\u003C/p\u003E\u003Cp\u003EPatients had a number of care plans in place and these were updated regularly. We saw examples of staff providing individualised care to patients. However, care plan documents were not always personalised and sometimes had generic plans in place for patients. For example, we saw 2 patients with the same generic action plans for religious needs. This was despite staff having worked closely with the patients and supported them to attend different local churches.\u003C/p\u003E\u003Cp\u003EStaff involved patients in discussions about their care and treatment. We saw examples of patient led discussions about treatment occurring in ward rounds. Some care plans had patient views recorded on them. Patients told us they met regularly with their named nurses. However, most of the patients we spoke with told us they were not aware of what a care plan was, and were not involved in creating these documents. Six patients told us they did not have copies of their care plans. Following the assessment, managers told us they had added a new tick box to show if a care plan had been signed and a copy given to patients. They were also planning to use visual aids and simplified summaries of care plans to enhance understanding of care planning sessions.\u003C/p\u003E\u003Cp\u003EStaff assessed patients\u2019 physical health needs in a timely manner after admission. Staff used the national early warning score (NEWS) system to detect and respond to clinical deterioration of physical health. We saw regular reviews of physical health in patient records. We saw examples of staff creating individual care plans to meet patient\u2019s physical health needs, such as, management of epilepsy or diabetes.\u003C/p\u003E\u003Cp\u003EPatient\u2019s physical health observations were seen to be occurring in communal areas. Staff told us this was due to the lack of space in the clinic room. More invasive treatment, such as injections, would occur in the clinic room. Although this could have negative impacts on patient privacy and dignity, patients did not raise this as a concern.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff took all practical steps to enable patients to make their own decisions.\u003C/p\u003E\u003Cp\u003EFor patients who might have impaired mental capacity, staff assessed and recorded capacity to consent appropriately. They did this on a decision-specific basis with regard to significant decisions. For example, we saw doctors documenting capacity in ward round meetings, stating if patients had the capacity to consent to their medication. \u003C/p\u003E\u003Cp\u003EWhen patients lacked capacity, staff made decisions in their best interests, recognising the importance of the person\u2019s wishes, feelings, culture and history.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff provided a range of care and treatment interventions suitable for the patient group. The interventions were those recommended by, and were delivered in line with, guidance from the National Institute for Health and Care Excellence (NICE). These included medication and psychological therapies, as well as supporting daily living skills. The psychological therapies offered were tailored to the individual\u2019s needs, and patients were offered both group and 1:1 sessions.\u003C/p\u003E\u003Cp\u003EThe hospital supported patients to integrate with their local community. Patients were supported to attend voluntary work places, attend educational courses and access community activity groups. One patient had a voluntary job in a charity shop, and others had completed courses in maths, English and bike maintenance. Patients were also able to attend community football sessions with a local football club.\u003C/p\u003E\u003Cp\u003EStaff ensured that patients had good access to physical healthcare, including access to specialists when needed. For example, we saw patients being supported to attend the dentist and to register with a GP.\u003C/p\u003E\u003Cp\u003EWard teams included a range of specialists to meet the needs of patients. This included nurses, healthcare assistants, doctors, psychologists, occupational therapists, a fitness instructor, a social worker and a physical health nurse. A music therapist and an art therapist also provided sessions for patients each week.\u003C/p\u003E\u003Cp\u003EStaff were experienced and qualified, and had the right skills and knowledge to meet the needs of the patient group.\u003C/p\u003E\u003Cp\u003EPatient\u2019s had access to a range of activities throughout the day. The timetable changed every 3 months. At the time of assessment, the planned activities included, swimming, psychology chuckle therapy, newspaper group, a healthy eating group, a substance misuse group and a garden volunteer session. There were also sessions focusing on activities of daily living, such as cooking and food shopping. There were a number of community trips, such as to museums, the cinema, football matches and beach trips.\u003C/p\u003E\u003Cp\u003EWe saw activities taking place as planned, as well as pool tournaments with staff each day. An occupational therapy assistant worked on Saturdays to provide group sessions and activities at the weekend. However, a number of patients told us they would like more TV channels and access to online streaming services to be able to watch more movies and sports events.\u003C/p\u003E\u003Cp\u003EWhere the hospital had identified specific areas of learning needed, they had arranged for this training to be delivered to staff. For example, staff were able to access training on learning disabilities and personality disorders prior to new patients being admitted. Staff also told us they were given training on specific areas following incidents, such as training on how to administer medicines for a patient having a seizure.\u003C/p\u003E\u003Cp\u003EManagers provided new staff with appropriate induction. Staff told us they had received an induction, which included time to shadow staff on the ward before starting their role.\u003C/p\u003E\u003Cp\u003EStaff received monthly clinical supervision. In these meetings they were able to discuss clinical cases, safeguarding, audits and learning. Every 3 months staff received managerial supervision. This included topics such as staff wellbeing and the hospital\u2019s values. All staff had monthly logged supervision. \u003C/p\u003E\u003Cp\u003EIn May 2025, 94% of staff had completed their appraisal. This included discussions around staff\u2019s achievements and strengths as well as a development plan.\u003C/p\u003E\u003Cp\u003EStaff had access to monthly reflective practice, led by the hospital\u2019s psychologist. Staff told us they found these sessions useful and supportive.\u003C/p\u003E\u003Cp\u003EManagers ensured that staff had access to regular team meetings. Team meetings were held monthly, and staff could attend in person, or remotely. Minutes from the meeting were saved on the hospital\u2019s shared drive, which all staff accessed, and was also emailed to the team.\u003C/p\u003E\u003Cp\u003EManagers identified the learning needs of staff and provided them with opportunities to develop their skills and knowledge. Staff told us they had been able to access nursing apprenticeships, and the psychologist had recently completed training in Eye Movement Desensitisation and Reprocessing (EMDR) therapy. The manager told us he was completing a hospital manager development programme.\u003C/p\u003E\u003Cp\u003EManagers dealt with poor staff performance promptly and effectively. Managers told us they worked closely with the staff team and picked up any concerns as they happened. They had not needed to performance manage any staff member.\u003C/p\u003E\u003Cp\u003EStaff participated in clinical audit and quality improvement initiatives. Staff completed audits in a range of areas, such as, documentation, physical health and medicines. Staff shared the findings of audits in team meetings and via email. In most cases audits led to improvements in care. Such as implementing a second named nurse for each patient to follow up on outstanding documentation and actions when the primary named nurse was not at work. However, in the documentation audit we saw the same outstanding documents in consecutive audits, meaning there was not always an effective action plan put in place following these findings. For example, a violence and aggression care plan was missing for one patient for 3 weekly audits, and a patient was missing a care plan on self-neglect for 2 weekly audits.\u003C/p\u003E\u003Cp\u003EThe hospital was completing a quality improvement project looking into patient constipation, as this was a common side effect of frequently prescribed medicines. The project aimed to increase conversation around bowel movements, and ensure staff spoke with patients daily about this topic. The hospital was also in the process of starting a formal project looking into patient\u2019s physical health.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff shared key information to keep patients safe when handing over their care to others. Handover meetings occurred at the beginning of nursing shifts, as well as on weekday mornings for the multidisciplinary team. Staff told us handover meetings were effective in sharing key risks and plans for the next shift. We observed a multidisciplinary handover meeting and patient\u2019s ward rounds. These meetings contained detailed patient-led discussions. All staff were seen to contribute their views in these meetings.\u003C/p\u003E\u003Cp\u003EThe wards had effective working relationships with teams outside the organisation. For example, we saw community teams attending ward rounds and the hospital\u2019s social worker spoke with the local authority on safeguarding matters. Staff told us they also communicated with supported accommodation to support patient discharges.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff used recognised rating scales to assess and record severity and outcomes. For example, to measure side effects of medication. Doctors also used the Global Assessment of Progress (GAP) to measure patients progress and outcomes\u003C/p\u003E\u003Cp\u003EStaff had access to technology to support patients effectively. For example, patients were able to video call their families using the ward\u2019s computers.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported patients to live healthier lives. For example, through participation in smoking cessation schemes, healthy eating advice and supporting issues relating to substance misuse. A carer told us their relative had been referred to a dietitian to support him with healthy eating.\u003C/p\u003E\u003Cp\u003EWard activities helped promote a healthy lifestyle for patients, for example, a healthy eating group, walking groups and sports activities. The hospital had a fitness instructor come into the service 2 days per week. They supported patients in activities on the ward, as well as in the local community. The hospital was opposite a park and near to a gym and swimming pool where patients received free memberships. The hospital also took part in events, such as, \u2018marathon in a month\u2019 where patients walked the distance of a marathon in a month, patients were supported to make t-shirts for this event. They also celebrated national fitness day where patients and staff took part in activities in the local park and had certificates for participation.\u003C/p\u003E\u003Cp\u003EPatients had access to a kitchen where they were able to make their own food, with support from staff. The hospital\u2019s occupational therapy team supported patients in being able to cook for themselves. The hospital recently bought an air fryer and they helped their patients learn to cook, using an air fryer cookbook they had developed with patients, to increase their confidence. Staff were able to print out this cookbook for patients upon their discharge, increasing their independence when in the community. There was also another cookbook, created by the patients, filled with recipes they had chosen and cooked themselves. This was also available for patients to have and use once in the community.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "narrative": "This service is responsive",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff worked with external organisations which allowed patients to engage with opportunities and activities in the community. For example, patients were involved in educational courses, voluntary work and community football groups. They also attempted to source courses for individual interests, such as supporting patients to write, play and record their own music.\u003C/p\u003E\u003Cp\u003EStaff supported patients to maintain contact with their families and carers.\u003C/p\u003E\u003Cp\u003EStaff communicated with external services when someone was being discharged.\u003C/p\u003E\u003Cp\u003EStaff supported patients to access their chosen place of worship within the community. Staff told us they had supported patients to attend church services on Sundays.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe hospital accepted patients following an assessment process. The service did not accept patients where their needs could not be met. For example, the hospital did not accept patients with mobility issues or those that had sensory needs. This was due to the hospital lay out and environment. A number of staff told us they would like more facilities to support neurodivergent patients on the ward, such as a sensory room.\u003C/p\u003E\u003Cp\u003EStaff did however make reasonable adjustments for patients where possible. For example, providing a more structured routine for an autistic patient and providing information in easy read formats.\u003C/p\u003E\u003Cp\u003EStaff planned for patient discharge and liaised with care coordinators and external services about discharge.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ELeaders and staff were alert to discrimination and inequality that could disadvantage different groups of people in accessing care, treatment and support.\u003C/p\u003E\u003Cp\u003EAll staff had received and completed training in equality and diversity.\u003C/p\u003E\u003Cp\u003EThe hospital had equality and diversity champions, for example an LGBT\u002B and a multicultural lead. This information was displayed in patient areas for all patients to see.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service displayed information about how to raise a concern in patient areas. Staff understood the policy on complaints and knew how to handle them.\u003C/p\u003E\u003Cp\u003EManagers investigated complaints and learned lessons from the results. Staff received feedback on the outcome of investigation of complaints and acted on the findings. For example, staff were reminded to keep carers updated on information related to their family members.\u003C/p\u003E\u003Cp\u003EIn the 12 months prior to the assessment, the hospital received 1 complaint. This complaint was acknowledged within 5 days. We reviewed this complaint, and we saw the complaint was reported, escalated and dealt with appropriately.\u003C/p\u003E\u003Cp\u003EAll patients were aware that they could raise concerns in community meetings and there was a complaints form should they need it. Patients told us they would like more formal and regular surveys to give feedback about their care. The hospital had last completed a patient survey in April 2025, where 5 patients had provided feedback.\u003C/p\u003E\u003Cp\u003EOne carer told us they did not feel their complaint was resolved effectively, this complaint was however raised a few years ago. This carer told us communication had improved at the hospital and felt the newer manager was effective at managing their concerns.\u003C/p\u003E\u003Cp\u003EThe service used compliments to learn, celebrate success and improve the quality of care. Compliments were displayed on the ward and in nursing offices. Managers shared compliments with staff through email and in team meetings.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EEach patient had their own bedroom and privacy windows they could adjust. Some bedrooms had ensuites, others had shared toilets and showers.\u003C/p\u003E\u003Cp\u003EPatients could keep possessions in their bedrooms or their secure lockers. There was also a locked storage cupboard for larger patient property.\u003C/p\u003E\u003Cp\u003EWhen risk assessed, patients were able to have keys to their bedrooms. Patients could use mobile phones to make phone calls in private and could also access a ward phone or ward video call technology.\u003C/p\u003E\u003Cp\u003EPatients had access to a well equipped kitchen to support activities of daily living sessions with the occupational therapy team. Patients feedback on food was mixed, with most patients liking something on offer. One patient told us there was not enough food provided. Some patients told us they would like more fruit available to them each day. Patients told us they had takeaway food 2 nights per week. The days for takeaways was discussed and agreed by patients in a community meeting.\u003C/p\u003E\u003Cp\u003EWe saw examples of staff supporting patients based on their individual needs and preferences. For example, staff found a specific diabetes group for Afro-Caribbean men, which increased the patient\u2019s engagement with their diabetes understanding and management. They also found a Polish speaking church for a patient to attend. Staff were also supporting a patient to attend music events where they were able to support their work as a photographer.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWhere appropriate, staff supported patients to consider longer term decisions about their care, treatment and discharge.\u003C/p\u003E\u003Cp\u003EStaff ensured all relevant healthcare professionals and other relevant bodies were involved in planning the care and treatment of people with complex needs. For example, ward staff liaised with supported accommodations and substance misuse services when appropriate.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff ensured that patients could obtain information on treatments, local services, patients\u2019 rights and how to complain. This could be provided in different languages if needed.\u003C/p\u003E\u003Cp\u003EStaff supported, informed and involved families or carers. Families or carers were invited to ward rounds, where appropriate. Carers told us they were in regular contact with the ward and manager. However, one carer told us they were not informed when changes were made to their relatives\u2019 medicines.\u003C/p\u003E\u003Cp\u003EInformation governance systems included confidentiality of patient records. All staff had completed training on information governance awareness. Some staff told us there was a duplication of information as they were completing electronic forms, as well as paper forms. This sometimes led to confusion and misinformation. For example, the blood test tracker, which all staff had access to, did not always have the most up to date information. But the most recent dates were logged on patient notes. This could lead to confusion if a staff member only checked the tracker.\u003C/p\u003E\u003Cp\u003ESome staff also had difficulty in locating certain documents, for example, an incident form and an epilepsy log for their patient.\u003C/p\u003E\u003Cp\u003EStaff made notifications to external bodies as needed. For example, CQC statutory notifications.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question requires improvement. The service was in breach of legal regulation in relation to the premises and equipment. The service had made improvements to their environment and is no longer in breach of this regulation. At this assessment the rating has changed to good.\u003C/p\u003E\u003Cp\u003EThis meant people were safe and protected from avoidable harm.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "narrative": "This service is safe",
+                "percentageScore": "69",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EAll ward areas were clean, had good furnishings and were well-maintained. We saw housekeeping staff cleaning ward areas throughout the day, and they kept records of their work.\u003C/p\u003E\u003Cp\u003EStaff maintained equipment well and kept it clean. Staff kept logs of cleaning equipment and the clinic room. Whilst the clinic room was clean, some areas were cluttered, and there were heavy carboard boxes on top of the cupboards, which could pose as a falling risk.\u003C/p\u003E\u003Cp\u003EStaff adhered to infection control principles, including handwashing.\u003C/p\u003E\u003Cp\u003EStaff carried out an infection control audit every 3 months. The most recent audit showed 98.4% compliance with policy.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe reviewed 5 patient care records at the hospital. All records had risk assessments that were regularly updated and contained all relevant risk information.\u003C/p\u003E\u003Cp\u003EStaff also completed a daily risk assessment for all patients, which included a summary of any concerns over the past 24 hours. During the week this was completed by a multidisciplinary team member in the handover meeting. At the weekend, this was completed by the nurse in charge.\u003C/p\u003E\u003Cp\u003ECare plans were created for patient risks. For example, there were care plans in place to manage a patient\u2019s epilepsy, a patient\u2019s aggressive behaviours and a patient\u2019s finances where there were concerns around exploitation from others. \u003C/p\u003E\u003Cp\u003EAll staff received and completed training on prevention and management of violence and aggression.\u003C/p\u003E\u003Cp\u003EStaff told us they avoided using restraint by using de-escalation techniques and restrained patients only when these were not effective and when necessary to keep the patient or others safe. In the past 6 months there had been 2 incidents of full restraint at the hospital. During the inspection we observed staff verbally de-escalating situations successfully.\u003C/p\u003E\u003Cp\u003EManagers told us they continued to talk about de-escalation techniques in team meetings and supervision. They had a noticeboard in the lounge area with staff pictures and some information about them. Staff told us this helped patients feel more comfortable with staff.\u003C/p\u003E\u003Cp\u003EMultidisciplinary staff met with patients regularly to discuss their risks, care and treatment plans. Patients told us they regularly met with their named nurse. However, one patient told us he would like to meet with staff more regularly.\u003C/p\u003E\u003Cp\u003EStaff carried out different levels of observations, determined by assessed need. Observations were mostly carried out in line with hospital policy. However, we did see some examples where intermittent observations were being carried out at pre-determined intervals. Following the assessment, managers have re-shared hospital policy with staff, and met with the nursing team at handover meetings to remind them of the policy. They also made this policy their policy of the month for June. Staff were required to review a different policy each month and sign to say they had read and understood its contents.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff knew what incidents to report and how to report them. All staff had access to the hospital\u2019s incident reporting systems and were able to report incidents when needed.\u003C/p\u003E\u003Cp\u003EIn the last 6 months, there had been 77 incidents at the hospital. Of those, 13 were related to contraband illicit substances being brought onto the ward and 12 were instances of violence and aggression. Managers told us the majority of the drug related incidents were related to one patient who has since been discharged from the hospital.\u003C/p\u003E\u003Cp\u003EManagers reviewed all reported incidents. Incidents were discussed in daily handover meetings and monthly team meetings.\u003C/p\u003E\u003Cp\u003EStaff understood the duty of candour. They were open and transparent and gave patients and families a full explanation if and when things went wrong.\u003C/p\u003E\u003Cp\u003EStaff received feedback from investigations of incidents. We saw evidence of this in team meeting minutes and staff emails. For example, the hospital manager shared an email with staff in their hospital, and the wider Cygnet group, following a patient buying vapes with illicit substances in them from local shops. The email contained pictures and details of the incident.\u003C/p\u003E\u003Cp\u003EMost staff we spoke with were able to tell us about recent incidents and the learning that came from those incidents. For example, staff told us they were now extra vigilant in monitoring and escalating patient vital signs. This was following an incident where a patient had a prolonged epileptic seizure.\u003C/p\u003E\u003Cp\u003EThere was evidence that changes had been made as a result of learning from incidents. For example, changes had been made to the garden fence to reduce the likelihood of patients being able to climb it. Additional training had also been provided to all staff around epilepsy and medicines following a seizure incident on the ward. Following a rise in incidents related to illicit substances being brought onto the unit, the hospital implemented routine visits from dogs who have been trained to find illicit substances, and more robust person and room searches.\u003C/p\u003E\u003Cp\u003EStaff were debriefed and received support after a serious incident. Staff told us they also had reflective practice where they were able to discuss serious incidents with a psychologist. Incident reports documented that debriefs happened with staff and patients. However, 2 patients told us they did not have a debrief following a restraint incident.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EMedicines were generally managed in line with national guidance and legislation. The service had clear processes for ordering, storing, administered and disposing of medication. Controlled drugs were managed in line with national guidance and legislation.\u003C/p\u003E\u003Cp\u003EWe saw that the service ensured that people always had enough medicines. However, we saw that there was excess stock of some high-risk medicines that could not be explained by staff. This was raised with leaders to review.\u003C/p\u003E\u003Cp\u003EWe also saw that medicines for people on leave were not being supplied in line with the services policy. Staff did not keep records of people\u0027s medicines that they re-dispensed from the pharmacy supplied packaging when people went on leave. This meant the process was not auditable to ensure it was being carried out safely. However, staff could clearly describe how they carry out the process to ensure risks of mistakes were reduced.\u003C/p\u003E\u003Cp\u003EPeople\u0027s physical health was monitored in line with guidance which was overseen by a nurse practitioner. This included when people who were prescribed high risk medicines and needed regular assessing. The service had completed a quality improvement project in ensuring physical health monitoring was carried out for all patients. We saw the actions and learning from the project were embedded into staff\u0027s usual practice.\u003C/p\u003E\u003Cp\u003EStaff were provided medicines management training, and their competencies were assessed. They knew how to report incidents. We saw incidents were reviewed, discussed and learning shared with staff.\u003C/p\u003E\u003Cp\u003EThe service was supported and overseen by corporate leaders. Staff spoke highly of this support.\u003C/p\u003E\u003Cp\u003EPeople\u0027s behaviour was not inappropriately controlled using medicines. We saw positive behaviour support plans to help staff support people, including supporting them to take their medicines.\u003C/p\u003E\u003Cp\u003EThe service was supported by an external pharmacy for clinical support and auditing. The service had a process for managing patient safety alerts and we saw this in use.\u003C/p\u003E\u003Cp\u003EMedicines were given in line with the Mental Health Act consent to treatment authorisations. All consent to treatment forms we reviewed were up to date.\u003C/p\u003E\u003Cp\u003EPeople generally received their medicines as prescribed. People received their regular medicines on time, and we observed staff following care plans to support people with their compliance. However, we saw when required (PRN) medicines were not always given as prescribed. We found for one patient, there had been multiple instances where medicines that required a specific interval between administrations was not being followed. This had been identified prior to the inspection by the services supporting pharmacist, but we did not see evidence of actions or improvement.\u003C/p\u003E\u003Cp\u003EMost patients told us they knew what medicines they took, and the side effects had been explained. However, one patient told us he did not know what his medicines were. We saw staff discussing medicine side effects in ward round meetings.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EAll patients told us there were enough staff on each shift, who were available to support them. One patient mentioned there seemed to be less staff at the weekend. Patients told us they regularly met with staff for 1:1 sessions, however one patient said they would like to meet with staff more often.\u003C/p\u003E\u003Cp\u003EStaff told us they felt adequately staffed through the week. Managers told us they adjusted staffing levels according to the needs of the hospital and patients. For example, when a patient was being nursed on enhanced observations or there was a ward round happening that day.\u003C/p\u003E\u003Cp\u003EThere were no staff vacancies at this hospital. Bank and agency use for nurses and healthcare assistants was low. In the last 3 months. the hospital used bank staff 9% of the time and agency staff 0.2% of the time. When agency and bank nursing staff were used, those staff received an induction and were familiar with the ward. There were no unfilled shifts in the last 6 months.\u003C/p\u003E\u003Cp\u003EStaff turnover was low, with only one staff member leaving in the last 6 months. This was an occupational therapy assistant who left for further development opportunities.\u003C/p\u003E\u003Cp\u003EThere was adequate medical cover day and night, and a doctor could attend the ward quickly in an emergency. The hospital had one consultant and one specialist doctor. An on-call rota covered out of hours emergencies.\u003C/p\u003E\u003Cp\u003EStaff were required to complete mandatory training. The training was appropriate for the patient group using the service. Managers were able to source specific training to meet patient\u2019s needs, for example, on learning disabilities and personality disorders. However, one patient told us they felt staff needed more training in their condition, which was a personality disorder. All staff had completed basic life support or immediate life support training, depending on their role.\u003C/p\u003E\u003Cp\u003EThe hospital provided monthly face to face emergency physical health and resuscitation simulation training. The hospital\u2019s physical health nurse led these scenario training sessions and documented the outcomes. However, it was not clear what action had been taken when areas of learning had been identified. For example, we saw for the last 3 months it was documented that staff did not carry out chest compression in line with best practice. There were actions for this to be shared with the hospital manager, but there was no specific action plan documented to improve this finding of concern.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff completed and updated risk assessments of all ward areas. This risk assessment had pictures of ligature anchor points, as well as pictures of the ligature cutters. It contained the location of these risks and the mitigations in place.\u003C/p\u003E\u003Cp\u003EThe hospital was across 3 floors, with patient bedrooms on all floors. Staff were therefore not able to observe all parts of the hospital. There were blind spots and ligature points throughout the hospital. These were managed through convex mirrors, staff observations and individual risk assessments of patients. Managers told us their current patients were low risk for self-harming behaviours and staff knew their patient\u2019s risks. Staff were aware of the ligature points and where the ligature cutters were stored.\u003C/p\u003E\u003Cp\u003EWhilst their current patient group was low risk, there was a potential for new admissions to have these risks. We noted ligature anchor points which could be made safer, for example, the stair rails in the garden. The service should consider whether the ligature anchor point risks in the garden could be reduced.\u003C/p\u003E\u003Cp\u003EEach room within the hospital had a purpose. Some staff told us there were not enough rooms, which made it difficult to find space for 1:1 sessions or group activities. The hospital had one quiet room, a small multifaith room, an OT kitchen and a cabin in the garden where sessions could take place. However, if meetings were scheduled, or there were visitors, these rooms were often occupied.\u003C/p\u003E\u003Cp\u003EAt the time of the assessment, the alarm system had been deactivated as it had broken. There was a plan in place for the new alarm system to be fitted the following week. In the meantime, staff were using radios to communicate and signal for help where needed. Staff told us the radios worked well for safety, and staff came to support them when they signalled for help. At this time, patients did not have access to a call bell system.\u003C/p\u003E\u003Cp\u003EPatients told us they felt safe on the ward. However, some said the ward was on occasions unsettled with unwell, and sometimes violent, patients. They reported staff intervened promptly and tried to keep all patients safe.\u003C/p\u003E\u003Cp\u003EClinic rooms were fully equipped with accessible resuscitation equipment and emergency drugs that staff checked regularly. The emergency resuscitation equipment was stored in the nursing office.\u003C/p\u003E\u003Cp\u003EThe hospital was compliant with fire safety requirements and carried out regular fire drills. A fire risk assessment was completed by an external agency which recommended a number of actions. These actions were showing as pending; however, the majority of these recommendations had been actioned.\u003C/p\u003E\u003Cp\u003EAll patients had personal emergency evacuation plan\u2019s (PEEP) in place. A PEEP is a personalised plan to support a patient who may need assistance evacuating a building during an emergency, ensuring their safe and timely evacuation. However, these plans were a number of pages long, with lots of text, potentially making it difficult to see important information in an emergency. Managers told us these forms were newly implemented across the whole provider.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe hospital\u2019s referral processes ensured that essential information about the patient was received to determine if the patient\u2019s needs could safely be met by the service. The provider had a central team to accept and initially assess all referrals. Once deemed appropriate for the hospital, a team from the hospital would meet with the patient to assess their needs. This assessment process also involved speaking with community teams and carers, where appropriate.\u003C/p\u003E\u003Cp\u003EManagers told us they do not accept patients with a moderate to severe learning disability. Due to the environment, they would also not be able to accept a patient who required a wheelchair, or someone with high sensory needs. Managers told us they assessed patients with these factors in mind, and would only accept a patient if they felt their needs could be met by the hospital.\u003C/p\u003E\u003Cp\u003EStaff involved the necessary healthcare and social care services to ensure patients had continuity of safe care, both within the service and post-discharge. We saw evidence of community teams being invited to ward rounds.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff received training on how to recognise and report abuse, appropriate for their role. All staff were up to date with their safeguarding training. Staff who worked closely with patients were required to complete level 3 safeguarding training; this was also completed by 100% of staff. The service did not specifically have children\u2019s safeguarding training; however, managers told us the training that staff received contained information on both children and adults.\u003C/p\u003E\u003Cp\u003EIn the past 6 months, 10 safeguarding referrals had been made to the local authority. The majority of these referrals were following violence and aggression on the ward.\u003C/p\u003E\u003Cp\u003EThe hospital had a social worker who took the lead on managing safeguarding referrals. They had links with their local authority safeguarding team and discussed cases with their allocated local authority social worker as needed.\u003C/p\u003E\u003Cp\u003EStaff knew how to recognise adults at risk of or suffering harm and worked with other agencies to protect them. Staff could give examples of safeguarding concerns. For example, financial exploitation. The hospital\u2019s social worker told us staff reported safeguarding concerns as an incident and shared the concerns at multidisciplinary handovers. The social worker or hospital manager would then make a referral to the local authority, after reviewing the incident. In February\u2019s team meeting minutes, the hospital manager reminded staff that they should follow the safeguarding procedures outside of multidisciplinary work hours. We did not see any evidence of delayed referrals to the local authority.\u003C/p\u003E\u003Cp\u003EThe hospital did not have a formal procedure in place to manage children visiting the service. Managers told us there had not been any requests for children to visit the service. They told us, if a request was made it would be risk assessed and planned on an individual basis.\u003C/p\u003E\u003Cp\u003EThe hospital had some blanket restrictions in place that were appropriate and to keep people safe. For example, not having plastic bags in patient areas.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003C/p\u003E",
+                "commentaryDate": "2025-07-18",
+                "narrative": "This service is well-led",
+                "percentageScore": "71",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EManagers had the skills, knowledge and experience to perform their roles. They had a good understanding of the hospital they managed. They could explain clearly how the team was working together to provide care to their patients. At the time of assessment, the hospital manager had been in post for 11 months.\u003C/p\u003E\u003Cp\u003EAll staff told us managers were visible in the service and approachable. They reported managers were supportive when approached.\u003C/p\u003E\u003Cp\u003EStaff were very positive when speaking about their hospital manager. They told us they were making positive changes at the hospital, for example, improving team-working within the nursing team. Carers and patients also told us the manager was helpful and approachable.\u003C/p\u003E\u003Cp\u003ESenior staff appeared proactive and responded quickly when areas of improvements were identified.\u003C/p\u003E\u003Cp\u003ELeaders recognised success and celebrated their staff, for example, their employee of the month scheme and recognising milestones within the service.\u003C/p\u003E\u003Cp\u003EDevelopment opportunities were available. The hospital manager was attending the hospital managers development programme. Apprenticeships were also available to nursing support staff.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff we spoke with stated that they felt able to raise concerns and were aware of the whistleblowing policy.\u003C/p\u003E\u003Cp\u003EThe provider had a freedom to speak up policy and system in place. The hospital had a local lead. This information was displayed for staff to see.\u003C/p\u003E\u003Cp\u003EPatients had opportunities to give feedback on the service they received. For example, through community meetings, one-to-ones with staff and the complaints form. However, patients told us they had not been asked for feedback on a regular basis, such as through frequent surveys.\u003C/p\u003E\u003Cp\u003EPatients and carers were able to meet with the hospital manager to give feedback if needed.\u003C/p\u003E\u003Cp\u003EManagers and staff had access to the feedback from patients, carers and staff and used it to make improvements. For example, patients and staff had requested a multifaith room, which was created. Patients were also able to re-arrange their food menu to suit their needs. Patients were able to raise issues in weekly community meetings. We saw staff were responsive to these requests and actioned them, providing feedback at the next meeting.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EAll findings from the other key questions demonstrated that most localised governance processes were effective in identifying issues and driving improvement. We found a small number of areas where further work was needed.\u003C/p\u003E\u003Cp\u003EThe hospital had a framework of what must be discussed in team and governance meetings to ensure that essential information, such as learning from incidents and complaints, was shared and discussed. \u003C/p\u003E\u003Cp\u003EThe ward team had a monthly meeting where they discussed health and safety, incidents, audits, hospital performance and team goals. The hospital manager chaired this meeting. Staff could join the meeting in person, or remotely via online video calls. There was also a nurses forum, attended by registered nurses where they discussed clinical matters in more detail, such as medicines management and specific audits.\u003C/p\u003E\u003Cp\u003EA monthly governance meeting was held jointly with another local Cygnet hospital. They discussed matters such as incidents, safeguarding, training compliance and shared learning across the hospitals.\u003C/p\u003E\u003Cp\u003EManagers and senior staff were able to manage performance issues appropriately. Managers and senior staff had access to a range of information about the performance of the service, staffing and patient care.\u003C/p\u003E\u003Cp\u003EStaff knew how to report incidents on their internal system. We saw incidents and learning being discussed in team meeting minutes. Meeting minutes contained pictures and details of incidents from within the hospital, as well as incidents that happened at other Cygnet hospitals. Staff were able to tell us examples of recent incidents and the learning that came from the investigations.\u003C/p\u003E\u003Cp\u003EThe hospital raised safeguarding concerns when needed with the local authority. The hospital\u2019s social worker managed all referrals and followed up areas as needed. They regularly discussed cases with the local authority to support their patients. However, nursing staff did not routinely raise safeguarding concerns themselves with the local authority. Staff told us concerns were raised as an incident, and the social worker or hospital manager sent the safeguarding referral. We did not see any evidence of delayed referrals to the local authority.\u003C/p\u003E\u003Cp\u003EThe hospital had a local risk register, maintained by the hospital manager. Staff concerns matched those on the risk register, such as, the nurse alarm system being updated.\u003C/p\u003E\u003Cp\u003EThe hospital had a business continuity recovery plan in place. They had plans for emergency situations, such as, a loss of electricity, a fire or water leakages.\u003C/p\u003E\u003Cp\u003EThe hospital carried out yearly staff surveys. At the time of assessment, the 2025 staff survey was being completed. The last staff survey was carried out in April 2024. This survey showed 100% of staff said they received the training to do their job well. That 96% of staff felt informed about news and updates from the hospital, and 88% of staff were able to contribute their ideas. However, 56% of staff were satisfied with their working hours and conditions, and 21% were happy with their pay. On this assessment, we did not receive any negative feedback from staff in relation to their working hours, their conditions, or their pay.\u003C/p\u003E\u003Cp\u003EWe found a few small areas for improvement around some actions plans relating to audits and simulations, and having both a paper and electronic system.\u003C/p\u003E\u003Cp\u003EStaff participated in local clinical audits. The audits were sufficient to provide assurance and in most cases, staff acted on the results when needed. We did however see one audit where the same learning around documentation was identified for 3 weeks in a row, meaning an effective action plan had not been created.\u003C/p\u003E\u003Cp\u003EThe hospital ran scenario-based simulations for emergency events. The type of scenarios in the simulations would reflect the needs of the patients and where they had experienced recent incidents, such as the management of seizures. However, where gaps in staff knowledge were noted, we did not always see specific action plans in place. For example, for 3 consecutive months the simulation training showed staff were not carrying out chest compressions in line with recommendations. There was no specific and detailed action plan to follow up this finding at the hospital.\u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology needed to do their work. However, some staff told us there was duplication of information as there was often an online form as well as a paper copy of some documents. Staff told us this took extra time to complete, as well as added confusion as to where the most up to date information was. For example, the spreadsheet for blood tests reviews showed some patients as outstanding, despite other information stating the blood tests had happened. We observed some staff had difficulties in locating some documents, for example, when trying to find incident forms.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe hospital had a positive approach to quality improvement.\u003Cstrong\u003E\u003C/strong\u003EQuality improvement projects were ongoing at this hospital. For example, there were projects looking at reducing constipation and promoting physical health.\u003C/p\u003E\u003Cp\u003EThere were examples of innovative care at this hospital. For example, supporting patients to increase their physical activity by employing a fitness instructor and having events to increase involvement, such as the \u2018marathon in a month\u2019 and the \u2018national fitness day\u2019 events. They also supported patients to learn how to cook their own meals, and patients were able to have copies of the cookbooks they used on the ward to use once discharged from the hospital. One of these cookbooks had been created by patients.\u003C/p\u003E\u003Cp\u003EStaff were offered opportunities to develop and reflect. Mandatory training and supervision was completed by 100% of staff. Team meetings, nursing forums and clinical governance meetings all took place in line with their recommended time frames.\u003C/p\u003E\u003Cp\u003EThe provider had a green energy initiative in place for all Cygnet services. Their goal was to become a net zero company by 2040. The provider plans was to implement electric vehicles, solar panels, energy efficient lighting upgrades and increase their recycling. \u003C/p\u003E\u003Cp\u003EThe hospital\u2019s consultant had recently been elected onto the Faculty of Rehabilitation and Social Psychiatry for the Royal College of Psychiatrists.\u003C/p\u003E\u003Cp\u003EThe hospital had submitted their application to become accredited through the Quality Network for Mental Health Rehabilitation Services.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ELeaders understood who their partners and communities were and engaged with external stakeholders, for example, commissioners.\u003C/p\u003E\u003Cp\u003EPatients and staff could meet with members of the hospital\u2019s senior leadership team to give feedback\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff knew and understood the hospital\u2019s vision and values and how they were applied in the work of their team. Staff could explain to us how they were working together to deliver care to their patients.\u003C/p\u003E\u003Cp\u003EStaff had the opportunity to contribute to discussions about changes within the hospital. For example, about changes to the staff room, and the newer multidisciplinary team offices.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe provider valued diversity in the workforce and had several initiatives to promote an inclusive and fair culture for their staff.\u003C/p\u003E\u003Cp\u003EStaff were able to access several staff networks through the wider provider. These included, LGBTQ\u002B network, women\u2019s network, disability network and a multicultural network.\u003C/p\u003E\u003Cp\u003EThere were also equality and diversity champions at a local level within the hospital, for example LGBT\u002B and a multicultural lead.\u003C/p\u003E",
+                        "commentaryDate": "2025-07-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

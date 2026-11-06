@@ -1,0 +1,49 @@
+{
+  "locationId": "1-156749380",
+  "providerId": "1-132104872",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Kaleidoscope Project: Kingston",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-03-18",
+  "deregistrationDate": "2012-11-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.412131,
+  "onspdLongitude": -0.296996,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "28-46 Cromwell Road",
+  "postalAddressTownCity": "Kingston Upon Thames",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "KT2 6RN",
+  "numberOfBeds": 0,
+  "constituency": "Kingston and Surbiton",
+  "localAuthority": "Kingston upon Thames",
+  "relationships": [
+    {
+      "relatedLocationId": "1-429212558",
+      "relatedLocationName": "Addaction - Kaleidoscope",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

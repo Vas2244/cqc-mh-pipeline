@@ -1,0 +1,67 @@
+{
+  "locationId": "1-109524028",
+  "providerId": "1-101678548",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Consensa Care Limited - Chadwin Road",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-30",
+  "deregistrationDate": "2015-10-28",
+  "dormancy": "N",
+  "onspdLatitude": 51.51806,
+  "onspdLongitude": 0.028194,
+  "careHome": "Y",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "81-83 Chadwin Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E13 8ND",
+  "mainPhoneNumber": "02085510030",
+  "website": "www.consensacare.com",
+  "numberOfBeds": 7,
+  "constituency": "West Ham and Beckton",
+  "localAuthority": "Newham",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    },
+    {
+      "name": "Supported living",
+      "description": "Supported living service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

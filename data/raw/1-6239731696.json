@@ -1,0 +1,953 @@
+{
+  "locationId": "1-6239731696",
+  "providerId": "1-5995110820",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Dr Todd Mitchell, Consultant Psychiatrist",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2019-02-13",
+  "dormancy": "N",
+  "onspdLatitude": 51.517391,
+  "onspdLongitude": -0.146009,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "10 Harley Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1G 9PF",
+  "mainPhoneNumber": "07535636831",
+  "website": "www.harleytherapy.co.uk/todd-mitchell.htm",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2022-09-06"
+  },
+  "lastReport": {
+    "publicationDate": "2022-11-02"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P7",
+      "primary": "true",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "historicRatings": [
+    {
+      "reportDate": "2022-11-02",
+      "reportLinkId": "bf34ef79-79da-4ab2-9ac1-d2e28452517d",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "bf34ef79-79da-4ab2-9ac1-d2e28452517d",
+      "reportDate": "2022-11-02",
+      "firstVisitDate": "2022-08-30",
+      "reportUri": "/reports/bf34ef79-79da-4ab2-9ac1-d2e28452517d?20221102090053",
+      "reportType": "Location"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "284",
+      "assessmentServiceName": "Independent Consulting Doctors",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-09-23 12:21:29",
+      "ratings": {
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP24604",
+            "title": "Ongoing Assessment for Dr Todd Mitchell, Consultant Psychiatrist",
+            "assessmentDate": "2026-04-16",
+            "assessmentPlanStatus": "Active",
+            "name": "Independent Consulting Doctors",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EDr Todd Mitchell is the registered provider and manager of an independent consultant-led outpatient psychiatry service for adults aged 18 and over. The service provides assessment, diagnosis and treatment for a range of general psychiatric conditions. It is registered to provide treatment of disease, disorder or injury, and diagnostic and screening procedures.\u003Cbr /\u003EThe service offered remote consultations and face-to-face appointments at 10 Harley Street, London. It operated on Tuesdays, Wednesdays and Thursdays from 9am to 2pm. Clinical care was delivered by the consultant psychiatrist. Administrative support was provided through arrangements with Harley Therapy.\u003Cbr /\u003EWe rated the service good overall and good for safe, effective, caring, responsive and well-led. The service had clear processes to assess referrals and manage risk, and patients received personalised care in line with relevant guidance. Patients gave consistently positive feedback about access, communication, involvement and the way they were treated. Governance arrangements were proportionate to the size and nature of the service and included audit, peer review, appraisal and risk oversight.\u003Cbr /\u003EThe provider should strengthen arrangements for people who require language support. The service did not have a formal system for professional interpreting, and family members had sometimes supported communication during consultations.\u003Cbr /\u003EDuring the inspection visit to the clinic, the inspection team:\u003Cbr /\u003E\u2022 Carried out an environmental tour of the site, including the shared reception area and the consultant psychiatrist\u2019s office.\u003Cbr /\u003E\u2022 Spoke with 7 patients.\u003Cbr /\u003E\u2022 Reviewed 2 online feedback forms completed by patients using the service.\u003Cbr /\u003E\u2022 Spoke with the consultant psychiatrist.\u003Cbr /\u003E\u2022 Spoke with the remote administrative assistant.\u003Cbr /\u003E\u2022 Reviewed 6 patient care and treatment records.\u003Cbr /\u003E\u2022 Checked how prescription stationery was stored and managed.\u003Cbr /\u003E\u2022 Reviewed information and documents relating to the operation and management of the service.\u003Cbr /\u003E\u2022 Reviewed policies and procedures relating to the running of the service.\u003Cbr /\u003EOur rating of safe stayed the same. We rated it as good. The premises were clean, the consultant\u2019s office was furnished, well-maintained and fit for purpose. The number of patients on the consultant psychiatrist\u2019s caseload was well managed. The consultant did not keep a waiting list. Patients told us the service was flexible regarding appointments and appointments ran on time.\u003Cbr /\u003EOur rating of effective stayed the same. We rated it as good. The consultant psychiatrist delivered a holistic, recovery-oriented service, offering pharmacological and psychological interventions where appropriate. The consultant psychiatrist completed comprehensive mental health assessments on admission and considered relevant physical health needs. They developed personalised care plans with patients, which were regularly reviewed. Treatment and care were delivered in line with national guidance and best practice to support patients\u2019 recovery and wellbeing.\u003Cbr /\u003EOur rating of caring stayed the same. We rated it as good. The consultant psychiatrist treated patients with compassion, kindness and respect. Patients\u2019 privacy and dignity were maintained through confidential consultations, private treatment environments, and by involving patients in decisions about their care. Patients were actively involved in care planning and risk assessment, and their feedback was sought to improve the quality of care and treatment provided.\u003Cbr /\u003EOur rating of responsive stayed the same. We rated it as good. The consultant psychiatrist carried out comprehensive clinical, psychosocial and mental health assessments to develop personalised care plans that reflected each patient\u2019s individual needs, preferences, values and recovery goals. Care was tailored and reviewed to ensure it remained responsive to patients\u2019 changing circumstances.\u003Cbr /\u003EOur rating of well-led stayed the same. We rated it as good. The consultant psychiatrist had the skills, knowledge and experience to carry out their role effectively. Governance was monitored through regular audits, patient record reviews and risk oversight processes. Findings were used to address shortfalls, monitor quality and support continuous improvement.\u003C/p\u003E\u003Cp\u003EPeople\u2019s experience commentary\u003C/p\u003E\u003Cp\u003EFeedback from patients was consistently positive. People described timely access to initial appointments, reliable appointment arrangements and flexibility to move between face-to-face and online consultations.\u003C/p\u003E\u003Cp\u003EPatients said they were treated with kindness, dignity and respect. They felt listened to and had enough time to explain their concerns. They said the consultant psychiatrist explained diagnoses, treatment options, medicines and potential side effects clearly, and involved them in decisions about their care.\u003C/p\u003E\u003Cp\u003EPatients knew how to seek support if their mental health deteriorated. They described prompt responses to queries, including questions about medicines. They also reported that the administrative support was helpful and responsive.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\u00A0\u003C/p\u003E",
+            "commentaryDate": "2026-09-18",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "",
+            "overallPeopleExperienceDate": "",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EWe looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment, we rated this key question as good. At this assessment, the rating remains good.\u003C/p\u003E",
+                "commentaryDate": "2026-09-18",
+                "narrative": "This service is caring",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service promoted people\u2019s independence and supported choice and control over care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EPatients were supported to make informed decisions. Patients told us the consultant psychiatrist explained potential risks associated with treatment options, including the possible side effects of prescribed medicines, enabling them to understand their choices and actively participate in decisions about their care. People could choose the pharmacy that dispensed their prescription. \u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service treated people with kindness, empathy and compassion and respected their privacy and dignity.\u003C/p\u003E\u003Cp\u003EPatients said they felt listened to, treated with kindness and respect, and involved in decisions about care and treatment. Feedback was consistently positive.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist supported patients to understand and manage their care, treatment and condition. They were flexible and made reasonable adjustments to meet individual needs where possible. \u003C/p\u003E\u003Cp\u003EPatients said the clinician explained treatment options, prescribed medicines, and potential side effects, enabling them to make informed decisions. Medication reviews were described as collaborative, with treatment adjusted where appropriate to meet individual needs.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service listened to and understood people\u2019s needs, views and wishes and responded to minimise concern or distress.\u003C/p\u003E\u003Cp\u003EPatients said appointments were flexible and generally ran on time. Requests for urgent contact were triaged and responded to as appropriate.\u003C/p\u003E\u003Cp\u003EThe service had clear acceptance and exclusion criteria and made clear that it did not provide emergency or crisis support. Referral processes sought the information needed to determine whether a person\u2019s needs could be safely met. \u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service treated people as individuals and made sure care and treatment reflected their needs, preferences, strengths, backgrounds and circumstances.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist took a personalised approach to care, ensuring that treatment options and decisions were tailored to each patient\u2019s individual needs, preferences and circumstances. Records showed that different options and solutions were discussed with patients to support shared decision-making.\u003C/p\u003E\u003Cp\u003EPatients told us the service was flexible and responsive to their needs. One patient said that if they experienced a crisis, the consultant psychiatrist would rearrange appointments to ensure they were seen promptly. Another patient told us they had been referred to a specialist when this was considered more appropriate to meet their needs.\u003C/p\u003E\u003Cp\u003EThe service accommodated communication preferences. For example, correspondence was sent by post when a patient preferred this to email.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist had access to professional and peer support that supported their wellbeing and ability to deliver person-centred care.\u003C/p\u003E\u003Cp\u003EThe service was clinically led and delivered by a sole consultant psychiatrist. Appointment management, billing, marketing and general administration were provided through Harley Therapy.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist attended regular meetings with professional peers and collaborating clinicians which supported their own wellbeing. These arrangements supported peer discussion, reflective practice, professional connection and ongoing development.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EWe looked for evidence that staff involved people in decisions about their care and treatment, provided advice and support, reviewed care and worked with other services to achieve good outcomes.\u003C/p\u003E\u003Cp\u003EAt our last assessment, we rated this key question as good. At this assessment, the rating remains good.\u003C/p\u003E",
+                "commentaryDate": "2026-09-18",
+                "narrative": "This service is effective",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist completed comprehensive mental health assessments with each patient over 2 to 6 sessions after accepting a patient into the service. Assessments considered clinical, psychosocial, mental health and communication needs.\u003C/p\u003E\u003Cp\u003EThe service also offered pharmacogenetic testing using a cheek swab to provide information about genetic variability that could affect how a person processes medicines. Patients said the consultant psychiatrist took time to understand their individual needs when discussing diagnosis and treatment. Patients felt that their needs were assessed in a person-centred way.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist understood how to manage consent to care and treatments and gave patients information about this. Records indicated that all patients had provided their consent to treatment and this was clearly recorded.\u003C/p\u003E\u003Cp\u003EThe service had a consent form for remote consultations that explained the potential benefits and risks of telepsychiatry, the alternatives available, including face-to-face appointments or no treatment, and patients\u2019 rights.\u003C/p\u003E\u003Cp\u003EPatients told us they could choose between in-person and virtual appointments, depending on their preferences and circumstances.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards. \u003C/p\u003E\u003Cp\u003ECare records showed that the consultant psychiatrist assessed immediate and ongoing needs and used relevant National Institute for Health and Care Excellence guidance. The service worked with GPs, NHS services and specialists to support physical health assessment and monitoring. For example, we saw records where the consultant psychiatrist had used his clinical judgement and referred an at-risk patient to perinatal services and a specialist team.\u003C/p\u003E\u003Cp\u003EPatients could be referred for psychological interventions, including cognitive behavioural therapy and dialectical behaviour therapy. The consultant psychiatrist reviewed side effects and discussed whether patients wished to continue treatment or consider alternatives.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked effectively with external healthcare professionals to deliver coordinated, person-centred care and treatment.\u003C/p\u003E\u003Cp\u003ECare records showed communication and referrals involving GPs, psychologists and perinatal psychiatrists. Before prescribing or starting treatment, the consultant psychiatrist sought relevant medical history, test results and information about current medicines. Treatment was not started when essential information was unavailable and safe care could not be assured, and patients were signposted to more appropriate services to ensure safe care.\u003C/p\u003E\u003Cp\u003EThe service sought consent at each consultation before sharing consultation outcomes and prescribing information with a patient\u2019s GP. Where consent was declined, the consultant psychiatrist discussed the risks and considered whether treatment could safely continue. The service audited compliance with its consent process.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service routinely monitored people\u2019s care and treatment to continuously improve it. They ensured that outcomes were positive and consistent, and that they met both clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EThe service had audit systems in place so improvements could be made. For example, the consultant psychiatrist had recently reviewed clinical records for evidence of recorded consent, which demonstrated that consent had been documented in 100% of cases. The service also completed audits relating to patients who did not attend appointments.\u003C/p\u003E\u003Cp\u003EPatients we spoke with said the treatment they received had positive outcomes on their mental health and overall wellbeing.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003EWhere patients required specialist treatment not provided by the consultant, such as dialectical behaviour therapy, they could be referred to appropriate specialist services.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service supported people to manage their health and wellbeing and maximise their independence.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist promoted self-care and gave personalised advice about anxiety reduction, stress management, sleep hygiene and lifestyle measures. Individual risk factors were discussed and reflected in care plans. People were referred for specialist assessment where appropriate. For example, patients presenting with symptoms consistent with attention deficit hyperactivity disorder were referred to specialist services.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EWe looked for evidence that the service met people\u2019s needs and treated people equally and without discrimination.\u003C/p\u003E\u003Cp\u003EAt our last assessment, we rated this key question as good. At this assessment, the rating remains good. \u003C/p\u003E",
+                "commentaryDate": "2026-09-18",
+                "narrative": "This service is responsive",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service understood the needs of its patient group and worked with other providers to support continuity of care.\u003C/p\u003EThe service had arrangements to support continuity when the consultant psychiatrist was unavailable. Administrative support coordinated alternative arrangements and, where necessary, the consultant psychiatrist arranged cover through a suitably qualified psychiatric colleague.\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure people could access care and treatment within appropriate timescales and referred them elsewhere when it could not meet their needs.\u003C/p\u003E\u003Cp\u003EPatients described timely access to assessment and treatment. Appointments were arranged promptly and the service offered both online and face-to-face consultations.\u003C/p\u003E\u003Cp\u003EThe service took steps to ensure that patients received the right care from the right professional at the right time. Where a person\u2019s needs were outside the service\u2019s scope, the consultant psychiatrist referred or signposted them to an appropriate professional or specialist service.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist demonstrated an understanding of the importance of providing equitable care and ensuring that patients were not disadvantaged because of protected characteristics or personal circumstances. Patients told us they felt respected and valued as individuals. \u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service sought to provide equitable care and positive outcomes for patients from different backgrounds and with different needs.\u003C/p\u003E\u003Cp\u003EPatients said they felt respected, listened to and involved. Care was tailored to clinical, psychological and social needs, and referrals were made where additional or specialist support was required. The consultant psychiatrist was aware of the importance of an inclusive approach to care and adjusted the support they provided to ensure equity in people\u2019s experience and outcomes, including offering longer appointments to those who needed more time. \u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made it easy for people to share feedback, raise concerns and participate in decisions about their care.\u003C/p\u003E\u003Cp\u003EPatients knew how to provide feedback, raise concerns or make a complaint. They felt comfortable approaching either the administrative assistant or the consultant psychiatrist and could also provide feedback through an online link.\u003C/p\u003E\u003Cp\u003EThe service had received no formal complaints in the 12 months before the assessment. Patient feedback described the service as supportive, responsive and person-centred.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service placed people at the centre of their care and treatment choices and responded to changes in their needs.\u003C/p\u003E\u003Cp\u003EPatients\u2019 immediate and ongoing needs were assessed through comprehensive, holistic and person-centred care. The consultant psychiatrist completed detailed clinical, psychosocial and mental health assessments and developed care plans around each person\u2019s circumstances, preferences, values and goals.\u003C/p\u003E\u003Cp\u003EWe saw evidence of person-centred care in practice. Patients were actively involved in developing their treatment plans and were supported to make informed decisions about their care. The psychiatrist explored patients\u2019 personal goals and where appropriate, family members or carers were involved in discussions with the patient\u2019s consent. Follow-up arrangements were adapted to meet individual needs, and care plans were reviewed regularly to reflect changes in patients\u2019 circumstances.\u003C/p\u003E\u003Cp\u003EPatients said they felt respected, listened to and involved.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service supported people to plan their ongoing care and involved other healthcare professionals where necessary.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist discussed patients\u2019 long-term goals, preferences and concerns and considered these when developing and reviewing treatment plans. Records showed that care planning addressed immediate needs while supporting longer-term wellbeing, recovery and independence. Referrals were made where additional professional input was required.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service provided appropriate and up-to-date information in formats intended to meet individual needs.\u003C/p\u003E\u003Cp\u003EPatients said they received clear explanations about diagnosis, treatment options, medicines and available support. They could ask questions and discuss concerns. The service ensured information about local support, rights, complaints and access to care records was available.\u003C/p\u003E\u003Cp\u003EThe service reported that information could be provided in easy-read formats. Family members had sometimes supported communication where a patient did not speak English fluently.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "We looked for evidence that people were protected from abuse and avoidable harm.At our last assessment, we rated this key question as good. At this assessment, the rating remains good.",
+                "commentaryDate": "2026-09-18",
+                "narrative": "This service is safe",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service assessed and managed the risk of infection. Staff followed infection control guidelines, including handwashing. Cleaning records were up to date, and we observed that all areas were clean, tidy and well maintained. Cleaning was provided by the building landlord, including infection prevention and control procedures. The infection prevention and control policy had been updated to support the safe delivery of services. Audits were reviewed annually.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with people to understand and manage risks holistically so that care was safe, supportive and met their needs.\u003C/p\u003E\u003Cp\u003ECare records showed that patients\u2019 risks were assessed at referral and reviewed during treatment. The consultant psychiatrist gathered relevant information to determine whether the service could safely meet each person\u2019s needs. There were clear processes in place to assess whether patients could be safely managed within the service and what their risks were. People were given clear information about what to do in a crisis as the service did not provide emergency or crisis care.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had a proactive and positive culture of safety based on openness and honesty. Staff understood how to raise concerns and report incidents, and there were systems to investigate safety events and support learning.\u003C/p\u003E\u003Cp\u003EThere had been no reported incidents in the 12 months before the assessment. The consultant psychiatrist and administrative staff understood what constituted an incident, adverse incident or near miss and knew how to report concerns.\u003C/p\u003E\u003Cp\u003EA sample of the Service User Incident / Adverse Incident / Near Miss Report Form and procedures were reviewed. This confirmed that the service had structured processes in place to document, report, and monitor incidents should they occur. The consultant psychiatrist attended monthly meetings with Harley Therapy senior management, where incidents could be shared and discussed. The consultant psychiatrist understood the duty of candour and had a policy in place.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure medicines and treatments were safe and met people\u2019s needs, capacities and preferences. People were involved when treatment changed.\u003C/p\u003E\u003Cp\u003EThe service did not administer medicines or store medicines onsite. It had systems for safe prescribing and secure management of prescription stationery. The consultant psychiatrist was the only authorised signatory for prescriptions.\u003C/p\u003E\u003Cp\u003ECare records showed prescribing followed relevant national guidance. The consultant psychiatrist reviewed the effects of medicines on people\u2019s mental and physical health, discussed side effects and alternatives, and worked with GPs and other professionals to arrange monitoring. We saw letters sent to GPs with patients\u2019 consent, including for people prescribed antipsychotic medicines.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist followed General Medical Council principles for prescribing when treatment was delivered online.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service made sure there were qualified, skilled and experienced people who received effective professional support and development.\u003C/p\u003E\u003Cp\u003EThe service was clinically led and delivered by the consultant psychiatrist. Administrative support was provided through Harley Therapy rather than directly employed by the service.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist was registered with the General Medical Council, held a current licence to practise and met appraisal and revalidation requirements. The consultant psychiatrist completed annual appraisals through the Independent Doctors Federation. The most recent appraisal was completed in January 2026, and revalidation was undertaken every five years in line with GMC requirements. Evidence of appraisal and revalidation was available for review.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist maintained professional competence through ongoing Continuing Professional Development including participation in the American Board of Psychiatry and Neurology\u0027s Continuous Maintenance of Certification programme and regular review of professional journals. They were also fully licensed and board-certified by the American Board of Psychiatry. The consultant psychiatrist attended monthly peer review meetings with other psychiatrists to discuss clinical cases, share learning and promote reflective practice.\u003C/p\u003E\u003Cp\u003EMandatory training was up to date and included safeguarding adults and children and adult and paediatric resuscitation.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service detected and controlled potential risks in the care environment and made sure facilities and equipment supported safe care.\u003C/p\u003E\u003Cp\u003EThe shared reception areas, waiting rooms and consultant psychiatrist\u2019s office were clean, well maintained and fit for purpose. The office was on the third floor and the building had a lift for people with restricted mobility.\u003C/p\u003E\u003Cp\u003EThe provider conducted safety risk assessments. There were appropriate safety policies, which were regularly reviewed. They outlined clearly who to go to for further guidance. There were no clinical examination rooms. Where a physical examination was needed, people were directed to their GP. The landlord completed premises risk assessments, maintained fire safety arrangements and serviced equipment. Fire exits were clearly marked and an automated external defibrillator was available in the main reception area.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with people and external partners to establish and maintain safe systems of care. It supported continuity when people moved between services.\u003C/p\u003E\u003Cp\u003EThe service had clear operational boundaries and accepted people whose needs could be safely met in a non-acute outpatient setting. It did not provide emergency or crisis care. Exclusion criteria included acute or crisis presentations, active substance use, court-ordered treatment and people requiring immediate intervention.\u003C/p\u003E\u003Cp\u003EReferrals included self-referrals and referrals from professional colleagues and psychotherapists. The service did not accept walk-in (drop-in) patients or referrals from medical services. People whose needs were outside the scope of the service were signposted or referred to appropriate specialist services. \u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with people and healthcare partners to understand and manage safeguarding risks. It protected people\u2019s right to live in safety, free from abuse, discrimination, avoidable harm and neglect.\u003C/p\u003E\u003Cp\u003EThe service had systems to safeguard adults and children from abuse. The safeguarding policy had been updated in February 2026. The consultant psychiatrist and administrative staff had completed relevant safeguarding training and knew how to identify and report concerns. The service only assessed and treated adults aged 18 and over.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained the same.\u003C/p\u003E",
+                "commentaryDate": "2026-09-18",
+                "narrative": "This service is well-led",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe consultant psychiatrist had the skills, knowledge and experience to lead the service effectively.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist maintained professional competence through annual appraisal, continuing professional development, peer review and revalidation. They demonstrated a caring and compassionate focus on patients\u2019 needs and a commitment to keeping clinical practice up to date. Patients described the consultant psychiatrist as open and clear in their communication.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service aimed to create a positive culture where people felt they could speak up and their voice would be heard.\u003C/p\u003E\u003Cp\u003EThere were positive working relationships between the consultant psychiatrist, the remote Harley Therapy administrative team, and the premises management team at 10 Harley Street Ltd.\u003C/p\u003E\u003Cp\u003EStaff described effective communication and collaborative working arrangements, which supported an open and positive culture where people felt able to speak up, share feedback and raise concerns. Staff were confident that their views would be listened to and acted upon where appropriate.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had clear responsibilities, systems of accountability and governance arrangements that supported good-quality, sustainable care.\u003C/p\u003E\u003Cp\u003EThe service held regular monthly team meetings to discuss service delivery, governance matters and opportunities for improvement. The consultant psychiatrist had implemented a comprehensive range of policies and procedures to support the safe and effective delivery of care. These included policies relating to complaints, chaperones, infection prevention and control, controlled drugs, prescribing, safeguarding adults and children, data protection, governance, patient safety and consultancy arrangements. Policies and audits were reviewed annually to provide assurance that systems were operating as intended.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist was aware of and had systems in place to meet the requirements of the duty of candour. They participated in an annual appraisal process through the Independent Doctors Federation, which included reflection on clinical practice, continuing professional development and personal development objectives. The consultant psychiatrist was supported to meet professional revalidation requirements and was allocated protected time for professional development activities, including appraisals, peer review and clinical audit. These arrangements supported professional accountability and provided assurance that the consultant psychiatrist maintained the knowledge and skills required for their role.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist maintained a risk register to identify, monitor and mitigate risks within the service. Risks were regularly reviewed, and appropriate controls were implemented. For example, professional isolation had been identified as a potential risk and was mitigated through regular collegial contact with collaborating clinicians for case-based discussions six to eight times per year, active membership of professional networks, and regular consultative dialogues with the leadership team at Harley Therapy.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service focused on continuous learning and improvement.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist engaged with a range of professional networks and external organisations to support ongoing service development and maintain awareness of developments in mental health care.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist participated in regular discussions with professional colleagues to reflect on clinical practice, share learning and consider developments in assessment and treatment approaches. This supported opportunities to consider different perspectives, identify improvements where appropriate and maintain awareness of emerging practice within the wider mental health sector.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist also collaborated and consulted with other local clinicians and maintained links with specialist services, enabling the service to learn from wider professional experience and support continuous improvement in the care provided to patients.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-23"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service worked with GPs, NHS services and other specialists to support coordinated care and physical health monitoring.\u003C/p\u003E\u003Cp\u003ECare records showed communication with specialist teams and other professionals. The service sought patients\u2019 consent before sharing information with other healthcare providers and used this communication to support continuity and safe care.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "The service was led by the consultant psychiatrist, who was also the registered manager and registered provider. They worked closely with Harley Therapy, which managed the operational aspects of the service, to ensure patients received a high-quality, responsive and efficient service.The consultant psychiatrist and administrative support staff shared a commitment to delivering safe, effective and person-centred care. Effective communication between the clinical and administrative functions supported the day-to-day delivery of the service.",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service valued equality, diversity and inclusion and sought to ensure people were treated fairly, with dignity and respect.\u003C/p\u003E\u003Cp\u003EThe consultant psychiatrist understood the importance of equitable care and of responding to protected characteristics and individual circumstances. Patients said they felt respected and valued as individuals.\u003C/p\u003E\u003Cp\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-09-18"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

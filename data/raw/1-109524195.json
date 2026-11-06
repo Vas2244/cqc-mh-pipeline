@@ -1,0 +1,95 @@
+{
+  "locationId": "1-109524195",
+  "providerId": "1-101678548",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Consensa Care Limited - 91 Chandos Road",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-30",
+  "deregistrationDate": "2013-02-21",
+  "dormancy": "N",
+  "onspdLatitude": 51.550372,
+  "onspdLongitude": 0.000927,
+  "careHome": "Y",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "91 Chandos Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "E15 1TT",
+  "mainPhoneNumber": "02085510030",
+  "website": "www.consensacare.com",
+  "numberOfBeds": 3,
+  "constituency": "Stratford and Bow",
+  "localAuthority": "Newham",
+  "lastInspection": {
+    "date": "2011-08-30"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "c9a2ee8c-0157-4637-9b8a-e18ed3597725",
+      "reportDate": "2011-10-18",
+      "firstVisitDate": "2011-08-30",
+      "reportUri": "/reports/c9a2ee8c-0157-4637-9b8a-e18ed3597725?20200430120000"
+    }
+  ]
+}

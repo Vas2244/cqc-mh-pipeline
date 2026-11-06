@@ -1,0 +1,63 @@
+{
+  "locationId": "1-1230645125",
+  "providerId": "1-1024727717",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Tara Treatment and Diagnostics Limited",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-03-05",
+  "deregistrationDate": "2015-12-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.517391,
+  "onspdLongitude": -0.146009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "10 Harley Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1G 9PF",
+  "mainPhoneNumber": "07801786592",
+  "website": "www.tarahealth.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "relationships": [
+    {
+      "relatedLocationId": "1-2368122057",
+      "relatedLocationName": "Dr Francesca Maggioni",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

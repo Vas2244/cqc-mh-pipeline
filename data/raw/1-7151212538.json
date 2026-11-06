@@ -1,0 +1,111 @@
+{
+  "locationId": "1-7151212538",
+  "providerId": "1-126775024",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Insight Platform",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-07-09",
+  "deregistrationDate": "2020-06-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.6017446,
+  "onspdLongitude": -0.066985,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "40 Bromley Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N17 0AR",
+  "uprn": "100023656632",
+  "mainPhoneNumber": "02084938525",
+  "numberOfBeds": 0,
+  "constituency": "Tottenham",
+  "localAuthority": "Haringey",
+  "lastReport": {
+    "publicationDate": "2017-04-18"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2650278775",
+      "relatedLocationName": "Insight Platform",
+      "type": "HSCA Predecessor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-04-18",
+      "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+          "organisationId": "1-2650278775"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+          "organisationId": "1-2650278775"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+          "organisationId": "1-2650278775"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+          "organisationId": "1-2650278775"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+          "organisationId": "1-2650278775"
+        }
+      ]
+    },
+    "reportDate": "2017-04-18"
+  }
+}

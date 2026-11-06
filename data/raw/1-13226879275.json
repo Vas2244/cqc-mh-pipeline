@@ -1,0 +1,77 @@
+{
+  "locationId": "1-13226879275",
+  "providerId": "1-101678209",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cranstoun Inspire",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "registrationStatus": "Registered",
+  "registrationDate": "2022-05-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.358752,
+  "onspdLongitude": -0.188473,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Orion House",
+  "postalAddressLine2": "19 Cedar Road",
+  "postalAddressTownCity": "Sutton",
+  "region": "London",
+  "postalCode": "SM2 5JG",
+  "mainPhoneNumber": "02087739393",
+  "website": "www.cranstoun.org",
+  "numberOfBeds": 0,
+  "constituency": "Sutton and Cheam",
+  "localAuthority": "Sutton",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Lindi Janine",
+          "personFamilyName": "Smith Cox",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Lindi Janine",
+          "personFamilyName": "Smith Cox",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

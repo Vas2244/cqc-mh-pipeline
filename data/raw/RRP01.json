@@ -1,0 +1,245 @@
+{
+  "locationId": "RRP01",
+  "providerId": "RRP",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Edgware Community Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-14",
+  "deregistrationDate": "2024-11-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.606478,
+  "onspdLongitude": -0.271248,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Burnt Oak Broadway",
+  "postalAddressTownCity": "Edgware",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "HA8 0AD",
+  "mainPhoneNumber": "02087326547",
+  "website": "www.beh-mht.nhs.uk",
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "lastInspection": {
+    "date": "2023-05-17"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "TAF003",
+      "relatedLocationName": "Edgware Community Hospital",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "INS2-10711697551",
+          "reportLinkId": "351984b9-c286-47d5-be6b-cb13490fd679",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "INS2-9580848821",
+          "reportLinkId": "70f7aee0-d70c-4bd0-94ab-7b603a459220",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "9c473bb8-42c8-4511-9c2c-d43c00561016",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "90b0ae60-b3c1-40df-a08c-1c5d85c95b3b",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "INS2-15225351431",
+          "reportLinkId": "5a13a331-6dfa-4d49-809b-cc2b8d728b13",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "INS2-5859304281",
+          "reportLinkId": "e9759949-8efa-46ab-a26b-37ca71de9885",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "ce594c73-0e7e-4dc1-bccf-c7192895755c",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2266004049",
+          "reportLinkId": "24b54cff-682c-4b07-9f5a-ef6c4520c7dd",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "460704f4-007a-47ab-8db3-af0a6c7c39a0",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "INS2-5859304281",
+          "reportLinkId": "668a5053-1815-4d30-acdf-4e6b580cace3",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "b871d1ec-db14-488e-a247-ca39b5b6eb73",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "INS2-11580954541",
+          "reportLinkId": "9da2f169-4016-4264-af06-c530fdcca75c",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "SPL1-2266004049",
+          "reportLinkId": "d391ac0d-9aeb-443d-afb5-a2c10555833b",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        },
+        {
+          "inspectionId": "SPL1-3798332500",
+          "reportLinkId": "9381d497-48ad-431c-8825-4eb7da33106d",
+          "providerId": "RRP",
+          "locationId": "RRP01"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "4d876c61-70a5-4a21-b9fb-54a6637fa2da",
+      "reportDate": "2013-07-31",
+      "firstVisitDate": "2013-06-14",
+      "reportUri": "/reports/4d876c61-70a5-4a21-b9fb-54a6637fa2da?20200129163919"
+    },
+    {
+      "linkId": "fb83a7da-69f2-4350-b448-e0b62aa8205e",
+      "reportDate": "2011-12-08",
+      "firstVisitDate": "2011-09-27",
+      "reportUri": "/reports/fb83a7da-69f2-4350-b448-e0b62aa8205e?20200430120000"
+    }
+  ]
+}

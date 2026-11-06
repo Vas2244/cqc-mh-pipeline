@@ -1,0 +1,159 @@
+{
+  "locationId": "RPGAR",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Oaktree Lodge",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.468597,
+  "onspdLongitude": 0.064009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Memorial Hospital",
+  "postalAddressLine2": "Shooters Hill Road, Woolwich",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 3RZ",
+  "mainPhoneNumber": "02088368543",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Erith and Thamesmead",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2018-06-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-4755311091",
+          "reportLinkId": "cb8371f9-9c66-4e17-9425-e1592de31e11",
+          "providerId": "RPG",
+          "locationId": "RPGAR"
+        },
+        {
+          "inspectionId": "INS2-5242845401",
+          "reportLinkId": "27805736-c276-4b3a-b06a-d6179e5b2be0",
+          "providerId": "RPG",
+          "locationId": "RPGAR"
+        },
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "62449580-1683-441f-9737-5837ea8fef0e",
+          "providerId": "RPG",
+          "locationId": "RPGAR"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "unpublishedReports": [
+    {
+      "firstVisitDate": "2018-06-20"
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "90f04d91-cb43-45f2-9c0a-0c2768ed229a",
+      "reportDate": "2015-01-14",
+      "firstVisitDate": "2014-11-27",
+      "reportUri": "/reports/90f04d91-cb43-45f2-9c0a-0c2768ed229a?20200129163919"
+    },
+    {
+      "linkId": "0b2d217d-5da0-477a-a7ee-07a279c95a48",
+      "reportDate": "2013-10-31",
+      "firstVisitDate": "2013-09-30",
+      "reportUri": "/reports/0b2d217d-5da0-477a-a7ee-07a279c95a48?20200129163919"
+    }
+  ]
+}

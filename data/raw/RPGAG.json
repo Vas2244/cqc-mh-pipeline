@@ -1,0 +1,142 @@
+{
+  "locationId": "RPGAG",
+  "providerId": "RPG",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Memorial Hospital",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-06-15",
+  "deregistrationDate": "2020-12-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.4685969,
+  "onspdLongitude": 0.064008,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Shooters Hill Road",
+  "postalAddressLine2": "Woolwich",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 3RZ",
+  "uprn": "100023243301",
+  "mainPhoneNumber": "02088368543",
+  "website": "www.oxleas.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Erith and Thamesmead",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2018-12-03"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "5fe12c9d-b79d-48eb-8571-4b4d3c6b052d",
+          "providerId": "RPG",
+          "locationId": "RPGAG"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "7735e6e8-0194-450b-aaed-2a9a5f097a4c",
+          "providerId": "RPG",
+          "locationId": "RPGAG"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "4729366c-6f18-4000-b01f-df1a7638af0d",
+          "providerId": "RPG",
+          "locationId": "RPGAG"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "ed7cac1d-1646-4ca5-a7a3-e80ca8655c49",
+          "providerId": "RPG",
+          "locationId": "RPGAG"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "reports": [
+        {
+          "inspectionId": "INS2-1052992921",
+          "reportLinkId": "05a07edc-fce4-4694-8388-b605410df564",
+          "providerId": "RPG",
+          "locationId": "RPGAG"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhworkingage",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1579651419",
+          "reportLinkId": "dd981fcf-738d-4ad4-996f-f280c87f08bb",
+          "providerId": "RPG",
+          "locationId": "RPGAG"
+        }
+      ]
+    }
+  ]
+}

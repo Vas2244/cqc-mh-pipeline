@@ -1,0 +1,132 @@
+{
+  "locationId": "1-329773978",
+  "providerId": "1-126775082",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Claverings",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-12-01",
+  "deregistrationDate": "2017-09-22",
+  "dormancy": "N",
+  "onspdLatitude": 51.627899,
+  "onspdLongitude": -0.043503,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "12A Centre Way",
+  "postalAddressLine2": "Claverings Industrial Estate",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N9 0AH",
+  "mainPhoneNumber": "02083796970",
+  "website": "www.compass-uk.org",
+  "numberOfBeds": 0,
+  "constituency": "Edmonton and Winchmore Hill",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2016-07-27"
+  },
+  "lastReport": {
+    "publicationDate": "2016-10-13"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RRPX2",
+      "relatedLocationName": "Enable Enfield Alcohol and Drug Service",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-10-13",
+      "reportLinkId": "393814ee-797c-4f66-a53f-1504a39f66e2",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-13",
+          "reportLinkId": "393814ee-797c-4f66-a53f-1504a39f66e2"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-13",
+          "reportLinkId": "393814ee-797c-4f66-a53f-1504a39f66e2"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-13",
+          "reportLinkId": "393814ee-797c-4f66-a53f-1504a39f66e2"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-13",
+          "reportLinkId": "393814ee-797c-4f66-a53f-1504a39f66e2"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-13",
+          "reportLinkId": "393814ee-797c-4f66-a53f-1504a39f66e2"
+        }
+      ]
+    },
+    "reportDate": "2016-10-13"
+  },
+  "reports": [
+    {
+      "linkId": "393814ee-797c-4f66-a53f-1504a39f66e2",
+      "reportDate": "2016-10-13",
+      "firstVisitDate": "2016-07-25",
+      "reportUri": "/reports/393814ee-797c-4f66-a53f-1504a39f66e2?20210122032037",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "6cd3649d-a3ed-4080-9164-3f854ae440ac",
+      "reportDate": "2013-11-20",
+      "firstVisitDate": "2013-10-18",
+      "reportUri": "/reports/6cd3649d-a3ed-4080-9164-3f854ae440ac?20200129163919"
+    },
+    {
+      "linkId": "fbcb800d-3b52-4b77-8588-7608f961348c",
+      "reportDate": "2013-06-28",
+      "firstVisitDate": "2013-02-18",
+      "reportUri": "/reports/fbcb800d-3b52-4b77-8588-7608f961348c?20151016191357"
+    }
+  ]
+}

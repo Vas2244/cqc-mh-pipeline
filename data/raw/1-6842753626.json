@@ -1,0 +1,216 @@
+{
+  "locationId": "1-6842753626",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Camden Community Drug Treatment Service",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-05-17",
+  "deregistrationDate": "2024-08-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.5417338,
+  "onspdLongitude": -0.1973533,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "210 Kilburn High Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW6 4JH",
+  "uprn": "5007950",
+  "mainPhoneNumber": "02073283470",
+  "website": "www.changegrowlive.org",
+  "numberOfBeds": 0,
+  "constituency": "Hampstead and Highgate",
+  "localAuthority": "Camden",
+  "lastInspection": {
+    "date": "2023-08-01"
+  },
+  "lastReport": {
+    "publicationDate": "2023-11-20"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-09-29",
+      "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-09-29",
+          "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-09-29",
+          "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-09-29",
+          "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-09-29",
+          "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-09-29",
+          "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99"
+        }
+      ]
+    },
+    "reportDate": "2022-09-29",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Good",
+        "reportDate": "2022-09-29",
+        "reportLinkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2023-11-20",
+      "reportLinkId": "b45f90fa-a216-4830-90f1-c7e7caa2b66e",
+      "serviceRatings": [
+        {
+          "name": "comsubstance",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Effective",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Safe",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inspected but not rated"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "b45f90fa-a216-4830-90f1-c7e7caa2b66e",
+      "reportDate": "2023-11-20",
+      "firstVisitDate": "2023-07-19",
+      "reportUri": "/reports/b45f90fa-a216-4830-90f1-c7e7caa2b66e?20231120080349",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "c5ac41f8-360c-4365-aaf3-d03fc19bbf99",
+      "reportDate": "2022-09-29",
+      "firstVisitDate": "2022-08-03",
+      "reportUri": "/reports/c5ac41f8-360c-4365-aaf3-d03fc19bbf99?20220929080045",
+      "reportType": "Location"
+    }
+  ]
+}

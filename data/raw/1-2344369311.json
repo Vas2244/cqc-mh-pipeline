@@ -1,0 +1,151 @@
+{
+  "locationId": "1-2344369311",
+  "providerId": "1-2184117148",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Lanes",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-04-20",
+  "deregistrationDate": "2020-02-11",
+  "dormancy": "N",
+  "onspdLatitude": 51.339417,
+  "onspdLongitude": -0.118284,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "3-5 Foxley Lane",
+  "postalAddressTownCity": "Purley",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR8 3EF",
+  "mainPhoneNumber": "02087634243",
+  "constituency": "Croydon South",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2016-12-08"
+  },
+  "lastReport": {
+    "publicationDate": "2017-03-07"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-144206360",
+      "relatedLocationName": "The Lanes",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2017-03-07",
+      "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2017-03-07",
+          "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2017-03-07",
+          "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2017-03-07",
+          "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2017-03-07",
+          "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2017-03-07",
+          "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6"
+        }
+      ]
+    },
+    "reportDate": "2017-03-07"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-03-07",
+      "reportLinkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6",
+      "serviceRatings": [
+        {
+          "name": "mhother",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6",
+      "reportDate": "2017-03-07",
+      "firstVisitDate": "2016-12-07",
+      "reportUri": "/reports/a6ac36ef-cd97-4a54-9cd1-b2e80fb3dcc6?20210118222837",
+      "reportType": "Location"
+    }
+  ]
+}

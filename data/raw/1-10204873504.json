@@ -1,0 +1,1390 @@
+{
+  "locationId": "1-10204873504",
+  "providerId": "1-9928054001",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Active Neuro Blackheath London",
+  "brandId": "BD529",
+  "brandName": "BRAND Active Care",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2021-03-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.4719407,
+  "onspdLongitude": -0.0108474,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "80 - 82 Blackheath Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE10 8AD",
+  "uprn": "10091637972",
+  "mainPhoneNumber": "02086924007",
+  "website": "www.activecaregroup.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham North",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2022-11-11"
+  },
+  "lastReport": {
+    "publicationDate": "2023-02-14"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-126333080",
+      "relatedLocationName": "Thames Brain Injury Unit",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "John William",
+          "personFamilyName": "Ward",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "John William",
+          "personFamilyName": "Ward",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "John William",
+          "personFamilyName": "Ward",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhbraininjury",
+      "inspectionAreaName": "Services for people with acquired brain injury",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2018-09-12",
+      "reportLinkId": "d2e1e7ad-4ef8-4e18-9b89-88457629d915",
+      "organisationId": "1-126333080",
+      "serviceRatings": [
+        {
+          "name": "mhbraininjury",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-02-10",
+      "reportLinkId": "5fa15c5b-2275-4d5b-8f58-25b468bd6e45",
+      "organisationId": "1-126333080",
+      "serviceRatings": [
+        {
+          "name": "mhbraininjury",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-08-11",
+      "reportLinkId": "f3db2233-d587-4799-aae9-dbb46de275fc",
+      "organisationId": "1-126333080",
+      "serviceRatings": [
+        {
+          "name": "mhbraininjury",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Inadequate"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2015-11-23",
+      "reportLinkId": "d6342c0d-d833-4476-ba73-902bf81b2858",
+      "organisationId": "1-126333080",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2015-05-22",
+      "reportLinkId": "e7a146cf-8eac-456c-94a0-4904c3411774",
+      "organisationId": "1-126333080",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2023-02-14",
+      "reportLinkId": "37d73db6-a317-49af-b6ea-b432fcd2a654",
+      "serviceRatings": [
+        {
+          "name": "mhbraininjury",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "37d73db6-a317-49af-b6ea-b432fcd2a654",
+      "reportDate": "2023-02-14",
+      "firstVisitDate": "2022-11-02",
+      "reportUri": "/reports/37d73db6-a317-49af-b6ea-b432fcd2a654?20230214120039",
+      "reportType": "Location"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "259",
+      "assessmentServiceName": "Services for people with acquired brain injury",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2025-11-09 10:15:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02569",
+            "commentary": "\u003Cp\u003EBlackheath Brain Injury Rehabilitation Centre is provided by Active Neuro Limited. Blackheath Brain Injury Rehabilitation Centre is a South-east London service providing specialist inpatient rehabilitation for individuals with an acquired brain injury or other complex neurological conditions. The service comprises of 2 units and provides 39 beds for male and female patients. Thames unit admitted patients with complex cognitive or behavioural problems following a brain injury or because of neurological conditions. Heathside unit mostly admits people requiring Level 2 complex disability management and restorative rehab following a traumatic or acquired brain injury.\u003C/p\u003E\u003Cp\u003EThis was an unannounced, focused inspection carried out in response to concerns raised with us about the service\u2019s culture. The service was last inspected in 2023, when it was rated requires improvement. Since then, the provider had made several improvements, and during this inspection we saw further positive progress. However, we also identified several concerns in specific areas of practice. Taking all the evidence into account, the service\u2019s overall rating has improved to good.\u003C/p\u003E\u003Cp\u003EThe inspection team found three breaches of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014:\u003Cbr\u003ERegulation 12 (Safe care and treatment): While some improvements had been made in medicines management, including the availability of emergency medicines, issues remained with stock control, storage, and oversight of \u2018when required\u2019 medicines. Care plans were not consistently updated to reflect current risks, which limited assurance that risks were effectively monitored.\u003Cbr\u003ERegulation 15 (Premises and equipment): At the time of inspection, some bathrooms and toilets were out of service, hot water was unavailable in parts of the service, and furniture and facilities were not always well maintained. These issues affected the quality and suitability of the environment.\u003Cbr\u003ERegulation 17 (Good governance): Governance systems had developed, including structured meetings and improved incident reporting. However, gaps in assurance remained and improvements were not consistently embedded. Staff reported mixed experiences with leadership, and communication was not always effective. These issues limited the effectiveness of oversight.\u003C/p\u003E\u003Cp\u003EThe provider had made progress since the last inspection. We saw improvements in incident management, with staff demonstrating a clear understanding of reporting processes and engaging in regular discussions of incidents. A monthly \u201Clessons learned\u201D bulletin supported shared learning. Training compliance had improved significantly, particularly in the Mental Capacity Act and Deprivation of Liberty Safeguards (DoLS), rising from 62% to 91%. The service had also strengthened its approach to promoting healthier lifestyles through smoking cessation programmes, exercise sessions, and dietary support integrated into care planning.\u003C/p\u003E\u003Cp\u003EThe provider is required to continue addressing the identified breaches to ensure compliance with all relevant regulations and improve the overall quality and safety of the service.\u003C/p\u003E",
+            "commentaryDate": "2026-03-09",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question good. At this inspection, the rating has remained good. This meant people were supported and treated with dignity and respect; and involved as partners in their care.\u003C/p\u003E\u003Cp\u003EPatients said staff treated them with respect. A patient described how a staff member stayed with them beyond the end of their shift to offer support during a period of physical discomfort. We observed staff engaging with patients in a professional and caring manner. Staff were approachable and responded to individual needs. Most patients reported no cultural or spiritual needs, though 1 confirmed access to a multi-faith room. Another patient had care tailored to their dietary needs. In another case, a patient described how staff supported them to visit their dog, which positively impacted their wellbeing. Interpreters were available to support communication where required.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we recommended that the provider ensure staff were aware of the 5 requirements of the Accessible Information Standard. At this inspection, we found this had improved. Staff IDs now displayed these 5 key requirements, and posters were clearly visible throughout the service.\u003C/p\u003E\u003Cp\u003EFamily members told us that the service offered a good range of activities that supported patient engagement and recovery.\u003C/p\u003E\u003Cp\u003EThe provider had a process in place to support carer involvement in patient care and treatment. This included a quarterly carers\u2019 newsletter, a family summer barbecue, and invitations to carers for afternoon tea events.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question requires improvement. At this inspection, while positive developments were observed in care delivery and outcomes, the overall rating remains requires improvement due to the way scores are determined under the Single Assessment Framework (SAF).\u003C/p\u003E\u003Cp\u003EThe provider had made progress since the last inspection. At our previous inspection, we advised the provider to ensure patients were confident in using mobility aids. At this inspection, staff assessed patients\u2019 physical needs and involved occupational therapy in the care process. Staff had been trained in the use of equipment such as hoists and did not use equipment they were not trained to operate. During our visit, we observed no patients requiring support with mobility aids. The quality of meals had improved, with menus tailored to dietary needs and allergies. Meal planning was strengthened through input from dietitians, kitchen staff, chefs, and speech and language therapists, and patient feedback was gathered through regular catering meetings. Staff completed nutritional screening on admission and supported patients with healthy eating and lifestyle choices. There was also progress in promoting smoking cessation and physical health through personalised activity timetables, including physiotherapy, tai chi, and exercise sessions. Multidisciplinary working was evident through daily handovers, governance meetings, and joint discharge planning with external stakeholders. Staff supported patients throughout their admission and recovery, and there were links with a local GP and therapy providers. Patients received timely physical health support, and staff responded promptly to emerging health concerns.\u003C/p\u003E\u003Cp\u003EHowever, some patients reported that they had not received a copy of their care plan or felt only partially involved in its development. Although records showed patients were offered opportunities to participate, implementation was inconsistent. Access to advocacy services was limited, with most patients unaware of how to access support, despite the provider reporting that advocacy was available. Wards also lacked accessible information about treatment and patient rights, reducing opportunities for patients to engage independently in their care. Therapy services continued to experience staffing vacancies across all disciplines. While this had not yet negatively impacted patient care, recruitment remained ongoing. Some staff also reported challenges in working with other internal teams, although overall collaboration was observed to be effective.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "rating": "Requires Improvement",
+                "status": "Assessed",
+                "narrative": "This service is not always effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question good. At this inspection, the rating has remained good. This meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we found the provider had breached Regulation 17 due to the absence of a formal process for collecting feedback from patients, families, and carers about the quality and safety of the service. At this inspection, we found the provider had addressed this. The service had implemented structured systems to gather feedback, and patients and family members confirmed they knew how to provide it. Feedback was collected through questionnaires, forums, and surveys, with actions coordinated by a senior staff member. Patients were also able to give feedback during community meetings. Contact details for the advocate were displayed throughout the service.\u003C/p\u003E\u003Cp\u003EThe provider had established processes to support carer involvement, including bi-monthly carers\u2019 forums and family meetings every 6 to 8 weeks. A senior staff member managed concerns and escalated issues when required. Monthly walkarounds were conducted to identify and respond to patient feedback. Meeting minutes were shared on the same day. A post-discharge patient survey was in development at the time of the inspection.\u003C/p\u003E\u003Cp\u003EMonthly patient meetings took place, although staff reported inconsistent attendance. There was evidence of action taken in response to some areas of feedback, such as food quality and therapy provision.\u003C/p\u003E\u003Cp\u003EThe provider had suitable policies in place to meet legal requirements around equality and human rights. Staff understood the importance of avoiding discrimination, considering the needs of people with protected characteristics, and making reasonable adjustments to support fair outcomes.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm. At our last inspection, we rated this key question requires improvement. At that time, the provider was in breach of Regulation 12 (Safe care and treatment) and Regulation 11 (Need for consent). At this assessment, the rating has improved to good.\u003C/p\u003E\u003Cp\u003EThe service had strengthened several aspects of safety. Staff understood incident\u2011reporting processes and received monthly lessons\u2011learned bulletins. Compliance with Mental Capacity Act (MCA) training had increased, and there was oversight of Deprivation of Liberty Safeguards (DoLS) applications. Safeguarding systems were in place, and staff knew how to raise concerns. Most patients reported feeling safe. Family members reported involvement in discharge planning. Staff were trained in safeguarding and infection prevention, and regular audits supported oversight.\u003C/p\u003E\u003Cp\u003ESince the last inspection, the provider had made improvements in medicines practice. Staff ordered and administered medicines on time, including time\u2011specific prescriptions. Records showed checks were completed, and medicines were documented accurately. No medicine errors were observed.\u003Cbr\u003ESome areas required further improvement, including aspects of the environment. Patients raised concerns about cleanliness, broken facilities, and limited therapeutic space. Although refurbishment was planned, issues including mould, out\u2011of\u2011service toilets, and some clinic room conditions remained. Hot water was unavailable in some areas. Oxygen cylinders were not always stored safely, and some clinic rooms were small and cluttered. These issues resulted in a breach of Regulation 15 (Premises and equipment).\u003C/p\u003E\u003Cp\u003ECare planning and medicines oversight also required improvement. Care plans were not consistently updated to reflect current risks. Medicines management, particularly on the Thames unit, showed shortfalls in storage, stock control, and oversight of \u2018when required\u2019 (PRN) medicines. Although emergency medicines were available, these issues resulted in a breach of Regulation 12 (Safe care and treatment).\u003C/p\u003E\u003Cp\u003EAt the last inspection, we recommended improvements in the timely completion of appraisals. At this inspection, most staff reported receiving supervision and appraisals, which were discussed at monthly clinical governance meetings. Staff confirmed access to core and specialist training, including Parkinson\u2019s disease, pressure ulcer prevention, and seizure management, and took part in reflective practice.\u003C/p\u003E\u003Cp\u003EWe also recommended previously that areas used for patient examinations comply with infection prevention and control (IPC) policies. The provider continued to use an IPC checklist and discussed findings at monthly clinical governance meetings. A weekly environmental walkaround checklist supported compliance monitoring.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high\u2011quality, person\u2011centred care, supported learning and innovation, and promoted an open and fair culture.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question requires improvement. At that time, the provider was in breach of Regulation 17 (Good governance). While the service had addressed the areas relating to that breach, there were still areas where improvements were needed. At this inspection, the rating has improved to good.\u003C/p\u003E\u003Cp\u003EThe provider had made improvements since the last inspection. The governance structure had developed, with monthly local governance meetings led by a senior clinical representative. These meetings covered health and safety, infection prevention and control, audits and catering, with representation from all disciplines to support collaborative service oversight. Operational group meetings fed into the governance structure, providing updates and action plans from specific service areas.\u003C/p\u003E\u003Cp\u003EThe quality team monitored performance against internal and external standards, including CQC methodology, and used an internal data system to track physical health needs and incidents of challenging behaviour. Relevant data was shared in governance meetings, and key updates were communicated to staff through team meetings and notice boards. The provider had introduced a monthly lessons\u2011learned bulletin, which included learning from incidents and safety updates.\u003C/p\u003E\u003Cp\u003EThe provider had a Freedom to Speak Up policy, and staff were aware of it. Posters promoted the speak\u2011up guardian. Staff told us they could contact the guardian by phone or through an app. Although the guardian had not visited the service in person since February 2024, staff confirmed they could access the guardian through the available channels. The monthly bulletin included a section on staff wellbeing.\u003C/p\u003E\u003Cp\u003EA Service Level Agreement with a local GP surgery supported continuity of care, with the GP conducting regular ward rounds and clinical assessments. The provider had policies in place to support equality and human rights. Staff demonstrated an understanding of how to support patients with protected characteristics and how to prevent discrimination and harassment.\u003C/p\u003E\u003Cp\u003ESome areas still required improvement. While governance systems had developed, including structured meetings and improved incident reporting, gaps in assurance remained and improvements were not consistently embedded. Staff reported mixed experiences with leadership, and communication was not always effective. These issues resulted in a breach of Regulation 17 (Good governance).\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP22971",
+            "title": "Ongoing Assessment for Blackheath Brain Injury Rehabilitation Centre",
+            "assessmentDate": "2026-03-06",
+            "assessmentPlanStatus": "Active",
+            "name": "Services for people with acquired brain injury",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EBlackheath Brain Injury Rehabilitation Centre is provided by Active Neuro Limited. Blackheath Brain Injury Rehabilitation Centre is a South-east London service providing specialist inpatient rehabilitation for individuals with an acquired brain injury or other complex neurological conditions. The service comprises of 2 units and provides 39 beds for male and female patients. Thames unit admitted patients with complex cognitive or behavioural problems following a brain injury or because of neurological conditions. Heathside unit mostly admits people requiring Level 2 complex disability management and restorative rehab following a traumatic or acquired brain injury.\u003C/p\u003E\u003Cp\u003EThis was an unannounced, focused inspection carried out in response to concerns raised with us about the service\u2019s culture. The service was last inspected in 2023, when it was rated requires improvement. Since then, the provider had made several improvements, and during this inspection we saw further positive progress. However, we also identified several concerns in specific areas of practice. Taking all the evidence into account, the service\u2019s overall rating has improved to good.\u003C/p\u003E\u003Cp\u003EThe inspection team found three breaches of the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014:\u003Cbr\u003ERegulation 12 (Safe care and treatment): While some improvements had been made in medicines management, including the availability of emergency medicines, issues remained with stock control, storage, and oversight of \u2018when required\u2019 medicines. Care plans were not consistently updated to reflect current risks, which limited assurance that risks were effectively monitored.\u003Cbr\u003ERegulation 15 (Premises and equipment): At the time of inspection, some bathrooms and toilets were out of service, hot water was unavailable in parts of the service, and furniture and facilities were not always well maintained. These issues affected the quality and suitability of the environment.\u003Cbr\u003ERegulation 17 (Good governance): Governance systems had developed, including structured meetings and improved incident reporting. However, gaps in assurance remained and improvements were not consistently embedded. Staff reported mixed experiences with leadership, and communication was not always effective. These issues limited the effectiveness of oversight.\u003C/p\u003E\u003Cp\u003EThe provider had made progress since the last inspection. We saw improvements in incident management, with staff demonstrating a clear understanding of reporting processes and engaging in regular discussions of incidents. A monthly \u201Clessons learned\u201D bulletin supported shared learning. Training compliance had improved significantly, particularly in the Mental Capacity Act and Deprivation of Liberty Safeguards (DoLS), rising from 62% to 91%. The service had also strengthened its approach to promoting healthier lifestyles through smoking cessation programmes, exercise sessions, and dietary support integrated into care planning.\u003C/p\u003E\u003Cp\u003EThe provider is required to continue addressing the identified breaches to ensure compliance with all relevant regulations and improve the overall quality and safety of the service.\u003C/p\u003E",
+            "commentaryDate": "2026-03-09",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with 16 patients and 6 family members. Patients said staff treated them with kindness and respect, felt safe on the ward, and found staff approachable and caring. They said they knew how to raise concerns and were engaged in their care, often involving family members in decisions. Most said staff were available when needed and they received their medicines as prescribed. People described positive experiences of the support received, including help with cooking, personalised exercise plans, and encouragement around healthy eating. One person shared that staff had identified a serious health issue, arranged urgent care, and accompanied them to hospital. Patients said they knew how to provide feedback, although most reported they could not access an advocate while on the ward.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-03-09",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question good. At this inspection, the rating has remained good. This meant people were supported and treated with dignity and respect; and involved as partners in their care.\u003C/p\u003E\u003Cp\u003EPatients said staff treated them with respect. A patient described how a staff member stayed with them beyond the end of their shift to offer support during a period of physical discomfort. We observed staff engaging with patients in a professional and caring manner. Staff were approachable and responded to individual needs. Most patients reported no cultural or spiritual needs, though 1 confirmed access to a multi-faith room. Another patient had care tailored to their dietary needs. In another case, a patient described how staff supported them to visit their dog, which positively impacted their wellbeing. Interpreters were available to support communication where required.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we recommended that the provider ensure staff were aware of the 5 requirements of the Accessible Information Standard. At this inspection, we found this had improved. Staff IDs now displayed these 5 key requirements, and posters were clearly visible throughout the service.\u003C/p\u003E\u003Cp\u003EFamily members told us that the service offered a good range of activities that supported patient engagement and recovery.\u003C/p\u003E\u003Cp\u003EThe provider had a process in place to support carer involvement in patient care and treatment. This included a quarterly carers\u2019 newsletter, a family summer barbecue, and invitations to carers for afternoon tea events.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe spoke with 6 family members as part of the assessment. Family members told us there was a good level of activities available to support patients.\u003C/p\u003E\u003Cp\u003EStaff and leaders told us they supported people to maintain their independence and make informed choices about their care.\u003C/p\u003E\u003Cp\u003EStaff used clear, respectful communication and adjusted their approach based on people\u2019s responses\u003Cbr\u003EThe provider had a process in place to ensure carers were involved in care and treatment. This included carers quarterly newsletter, a family summer BBQ, and an afternoon tea invitation for family and carers.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients felt treated with kindness and respect. One patient we spoke with who had an ongoing physical health concern, told us how a staff member stayed with them hours after their shift had ended, to ensure they felt supported and cared for.\u003C/p\u003E\u003Cp\u003EStaff reported mixed experiences. Some described good teamwork, supportive colleagues, and effective communication, with differences resolved constructively.\u003C/p\u003E\u003Cp\u003EWe observed good evidence of caring and professional staff who knew the patients. Staff were approachable to patients and responsive to individual needs.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe did not look at Responding to peoples immediate needs during this assessment. The score for this quality statement is based on the previous rating for Caring.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EMost patients said they had no cultural or spiritual needs, but 1 patient noted they had access to a multi-faith room. Staff supported another patient by taking them out in a wheelchair to visit their dog, which improved their well-being. Another patient received a soft food diet tailored to their care and treatment needs.\u003C/p\u003E\u003Cp\u003EPatients receive a holistic assessment from a multi-disciplinary team upon admission and are involved in goal reviews with their family and carers. Access to interpreters is provided when needed to support effective communication.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we suggested that the service should ensure staff are aware of the 5 requirements of the Accessible Information Standard. At this inspection, we found that staff were now aware of these requirements. Staff IDs had the 5 key requirements printed on the back, and posters were visibly displayed on the walls throughout the service.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EDue to the numbers of vacancies within the therapy department, some staff told us they felt their workload was unmanageable.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Requires Improvement",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question requires improvement. At this inspection, while positive developments were observed in care delivery and outcomes, the overall rating remains requires improvement due to the way scores are determined under the Single Assessment Framework (SAF).\u003C/p\u003E\u003Cp\u003EThe provider had made progress since the last inspection. At our previous inspection, we advised the provider to ensure patients were confident in using mobility aids. At this inspection, staff assessed patients\u2019 physical needs and involved occupational therapy in the care process. Staff had been trained in the use of equipment such as hoists and did not use equipment they were not trained to operate. During our visit, we observed no patients requiring support with mobility aids. The quality of meals had improved, with menus tailored to dietary needs and allergies. Meal planning was strengthened through input from dietitians, kitchen staff, chefs, and speech and language therapists, and patient feedback was gathered through regular catering meetings. Staff completed nutritional screening on admission and supported patients with healthy eating and lifestyle choices. There was also progress in promoting smoking cessation and physical health through personalised activity timetables, including physiotherapy, tai chi, and exercise sessions. Multidisciplinary working was evident through daily handovers, governance meetings, and joint discharge planning with external stakeholders. Staff supported patients throughout their admission and recovery, and there were links with a local GP and therapy providers. Patients received timely physical health support, and staff responded promptly to emerging health concerns.\u003C/p\u003E\u003Cp\u003EHowever, some patients reported that they had not received a copy of their care plan or felt only partially involved in its development. Although records showed patients were offered opportunities to participate, implementation was inconsistent. Access to advocacy services was limited, with most patients unaware of how to access support, despite the provider reporting that advocacy was available. Wards also lacked accessible information about treatment and patient rights, reducing opportunities for patients to engage independently in their care. Therapy services continued to experience staffing vacancies across all disciplines. While this had not yet negatively impacted patient care, recruitment remained ongoing. Some staff also reported challenges in working with other internal teams, although overall collaboration was observed to be effective.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "narrative": "This service is not always effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EAt this inspection, we found that staff developed individual care plans and involved family members in the process. There was evidence that patients were offered opportunities to be involved in planning their care, although this was not consistent, and some patients told us they had not received a copy of their care plan or felt fully involved.\u003C/p\u003E\u003Cp\u003ESome staff we spoke to told us they developed individualised care plans, which were reviewed regularly through multidisciplinary discussions and updated as needed. Some care plans were recovery-oriented, focusing on strengths and goals. \u003C/p\u003E\u003Cp\u003EAt our previous inspection, we suggested that the service should ensure all patients are shown how to use and feel confident using any mobility aids they are provided with. At this inspection, we found that patients were assessed for their physical needs during the assessment process and had access to occupational therapy.\u003C/p\u003E\u003Cp\u003EDuring the inspection, we did not observe any patients needing assistance with mobility aids.\u003C/p\u003E\u003Cp\u003EStaff told us they had been trained to use equipment such as hoists and did not use equipment they had not been trained to use. Staff said there was a full range of activities available during weekdays and the therapy department set weekend activities for staff to carry out with patients.\u003C/p\u003E\u003Cp\u003EStaff checked, maintained, and cleaned specialist and adaptive equipment, including hoists. The service was wheelchair accessible and had a range of rehabilitation equipment to support patient care and treatment.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EMost patients told us they were unaware of how to access advocacy support while on the ward. The provider stated that an advocacy service was available through the local authority, and one patient had received support from their social worker. \u003C/p\u003E\u003Cp\u003EHowever, access to advocacy was not consistently understood or experienced by patients, which limited their ability to seek independent support in understanding or consenting to their care and treatment.\u003Cbr\u003EThere was lack of visible and accessible information for patients regarding their treatment and rights. Notice boards throughout the ward did not display relevant treatment information.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EMost patients felt involved in their care, and there was evidence that staff were adhering to relevant legislation. Members of the multidisciplinary team met with patients as part of the admissions process and provided support to patients and their families throughout recovery.\u003C/p\u003E\u003Cp\u003EWe spoke with members of the multi-disciplinary team as part of the on-site activity, including occupational therapists and psychologists. Staff were able to describe a varied activity timetable that worked towards a defined model of practice, with standardised clinical assessment and treatment pathways. At the time of inspection, there were vacancies in areas of the therapy department.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we suggested that the service work with patients to improve the quality of meals. At this inspection, we found that the provider had taken steps to address this. The service had previously worked on improving menus, including considerations for allergies. Patient feedback was now being gathered through regular catering meetings, and the involvement of a dietitian, kitchen staff, chef, and Speech and Language Therapists had enhanced the meal planning process.\u003C/p\u003E\u003Cp\u003EStaff carried out a nutrition screening as part of the initial assessment process, and the service had access to a dietitian to support patients in making healthy lifestyle and dietary decisions.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff familiarised most patients with the ward within a day of admission. Patients were invited to multidisciplinary team (MDT) meetings and ward rounds, facilitating involvement in their care. Nonetheless, some inconsistencies in communication between teams were identified. Overall, multidisciplinary working was effective, but there remained opportunities to improve consistency in team coordination to enhance patient experience.\u003C/p\u003E\u003Cp\u003EStaff told us they met regularly to discuss patient care, and information was shared among multiple disciplines during clinical governance meetings and morning handovers.\u003C/p\u003E\u003Cp\u003EHowever, some staff reported challenges with working effectively with other internal teams.\u003C/p\u003E\u003Cp\u003EWe observed onsite staff working practices, multidisciplinary meetings, and, as part of the assessment, reviewed care records. These demonstrated effective collaboration across teams and services to support people. We also reviewed discharge planning and liaison with external stakeholders.\u003C/p\u003E\u003Cp\u003EThe provider had a service level agreement with a local GP surgery and with an organisation that provided music therapy. The allocated GP carried out a weekly ward round and patient assessments.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EAt this inspection, we found that patients were kept informed about their treatment and had opportunities to review their personalised care plans, with at least one patient attending a review after four weeks on the ward. Outcomes measures reports demonstrated that the service monitored patients\u2019 progress.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported patients with step-by-step cooking recipes and personalised exercise plans, including gym access. 1 patient with a physical health condition said alternative food options were not always available but felt encouraged to eat fruit. Another patient said staff identified a potentially serious health condition, escalated their care, and escorted them to the hospital, staying with them into the early hours to provide support.\u003C/p\u003E\u003Cp\u003EStaff ensured patients had access to physical health care, including specialists such as dentists. They assessed and supported patients to improve their physical health by providing information and access to groups aimed at improving health and well-being, such as smoking cessation.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we recommended that the service continue working towards promoting smoking cessation and becoming a smoke-free environment. At this inspection, we found continued progress. The provider had supported healthier lifestyles through personalised patient timetables that included physiotherapy, exercise groups, tai chi, and smoking cessation support.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question good. At this inspection, the rating has remained good. This meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we found the provider had breached Regulation 17 due to the absence of a formal process for collecting feedback from patients, families, and carers about the quality and safety of the service. At this inspection, we found the provider had addressed this. The service had implemented structured systems to gather feedback, and patients and family members confirmed they knew how to provide it. Feedback was collected through questionnaires, forums, and surveys, with actions coordinated by a senior staff member. Patients were also able to give feedback during community meetings. Contact details for the advocate were displayed throughout the service.\u003C/p\u003E\u003Cp\u003EThe provider had established processes to support carer involvement, including bi-monthly carers\u2019 forums and family meetings every 6 to 8 weeks. A senior staff member managed concerns and escalated issues when required. Monthly walkarounds were conducted to identify and respond to patient feedback. Meeting minutes were shared on the same day. A post-discharge patient survey was in development at the time of the inspection.\u003C/p\u003E\u003Cp\u003EMonthly patient meetings took place, although staff reported inconsistent attendance. There was evidence of action taken in response to some areas of feedback, such as food quality and therapy provision.\u003C/p\u003E\u003Cp\u003EThe provider had suitable policies in place to meet legal requirements around equality and human rights. Staff understood the importance of avoiding discrimination, considering the needs of people with protected characteristics, and making reasonable adjustments to support fair outcomes.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe did not look at Care provision, Integration and continuity during this assessment. The score for this quality statement is based on the previous rating for Responsive.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe did not look at Equity in access during this assessment. The score for this quality statement is based on the previous rating for Responsive.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPeople said staff treated them as individuals and took their background, preferences and needs into account when delivering care.\u003C/p\u003E\u003Cp\u003EStaff and leaders told us the service aimed to be inclusive and responsive to everyone who used it.\u003Cbr\u003EThe provider complied with legal equality and human rights requirements, including avoiding discrimination, having regard to the needs of people with different protected characteristics and making reasonable adjustments to support equity in experience and outcomes. \u003C/p\u003E\u003Cp\u003EThe provider had appropriate equality, diversity and human rights policies in place. Overall, 98% of staff had completed equality and diversity training.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients were aware of how to provide feedback.\u003C/p\u003E\u003Cp\u003EThe service gathers patient feedback through questionnaires, forums, and surveys, with the lead nurse taking responsibility for actions. Common concerns include food quality and therapy provision, with previous menu improvements made. Carers\u2019 forums are held bi-monthly, with additional family meetings every 6-8 weeks. A post-discharge patient survey is in development, and meeting minutes are shared on the same day.\u003C/p\u003E\u003Cp\u003EThe lead nurse oversees concerns, escalating them as needed. The senior nurse conducts monthly walkarounds to monitor patient issues. Monthly patient meetings are held, though attendance varies. However, there is no evidence of changes made in response to weekend activity feedback.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, the provider was in breach of Regulation 17 for not having a formal process to collect feedback from patients, families, and carers regarding the quality and safety of the service. At this inspection, we found improvements. Family members and patients were aware of how to provide feedback, which was now gathered through questionnaires, forums, and surveys. Additionally, patients had the opportunity to provide feedback during community meetings.\u003C/p\u003E\u003Cp\u003EPatients attended community meetings, where they were able to give feedback and request improvements for the service and themselves. Information on how to contact the advocate was on display throughout the hospital.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe did not look at Person-centred Care during this assessment. The score for this quality statement is based on the previous rating for Responsive.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe did not look at Planning for the future during this assessment. The score for this quality statement is based on the previous rating for Responsive.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe did not look at Providing information during this assessment. The score for this quality statement is based on the previous rating for Responsive.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm. At our last inspection, we rated this key question requires improvement. At that time, the provider was in breach of Regulation 12 (Safe care and treatment) and Regulation 11 (Need for consent). At this assessment, the rating has improved to good.\u003C/p\u003E\u003Cp\u003EThe service had strengthened several aspects of safety. Staff understood incident\u2011reporting processes and received monthly lessons\u2011learned bulletins. Compliance with Mental Capacity Act (MCA) training had increased, and there was oversight of Deprivation of Liberty Safeguards (DoLS) applications. Safeguarding systems were in place, and staff knew how to raise concerns. Most patients reported feeling safe. Family members reported involvement in discharge planning. Staff were trained in safeguarding and infection prevention, and regular audits supported oversight.\u003C/p\u003E\u003Cp\u003ESince the last inspection, the provider had made improvements in medicines practice. Staff ordered and administered medicines on time, including time\u2011specific prescriptions. Records showed checks were completed, and medicines were documented accurately. No medicine errors were observed.\u003Cbr\u003ESome areas required further improvement, including aspects of the environment. Patients raised concerns about cleanliness, broken facilities, and limited therapeutic space. Although refurbishment was planned, issues including mould, out\u2011of\u2011service toilets, and some clinic room conditions remained. Hot water was unavailable in some areas. Oxygen cylinders were not always stored safely, and some clinic rooms were small and cluttered. These issues resulted in a breach of Regulation 15 (Premises and equipment).\u003C/p\u003E\u003Cp\u003ECare planning and medicines oversight also required improvement. Care plans were not consistently updated to reflect current risks. Medicines management, particularly on the Thames unit, showed shortfalls in storage, stock control, and oversight of \u2018when required\u2019 (PRN) medicines. Although emergency medicines were available, these issues resulted in a breach of Regulation 12 (Safe care and treatment).\u003C/p\u003E\u003Cp\u003EAt the last inspection, we recommended improvements in the timely completion of appraisals. At this inspection, most staff reported receiving supervision and appraisals, which were discussed at monthly clinical governance meetings. Staff confirmed access to core and specialist training, including Parkinson\u2019s disease, pressure ulcer prevention, and seizure management, and took part in reflective practice.\u003C/p\u003E\u003Cp\u003EWe also recommended previously that areas used for patient examinations comply with infection prevention and control (IPC) policies. The provider continued to use an IPC checklist and discussed findings at monthly clinical governance meetings. A weekly environmental walkaround checklist supported compliance monitoring.\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EFamily members we spoke with said they felt the environment was clean. However, they all commented that it was outdated, with some damaged furniture, and in need of refurbishment, though these observations did not raise concerns about infection risk or cleanliness.\u003C/p\u003E\u003Cp\u003EStaff followed infection control policies, including handwashing, and managers ensured staff received appropriate infection control training. At the time of the assessment, the compliance rate for infection prevention and control training was 97%.\u003C/p\u003E\u003Cp\u003EStaff told us there was an infection prevention and control lead in place.\u003C/p\u003E\u003Cp\u003EDuring the inspection, the clinic room on Thames unit was small, cluttered with stock medication, and not clean. Oxygen cylinders were not stored safely, with some rubbish on top, and these issues had not been identified through routine audits. Medicines belonging to discharged patients or not currently prescribed were also present. On Heathside unit, the medicines trolley was broken, although staff confirmed a replacement was on order. Staff reported plans to convert a larger room for clinical use.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we suggested that the service ensure areas used for examining patients comply with infection prevention and control policies. At this inspection, we found that the provider continued to use an infection prevention control checklist to monitor compliance. Findings and areas for improvement were discussed at the monthly clinical governance meetings. The weekly environment walkaround checklist, which included waste disposal, further supported this.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ESome patients told us they had not received a copy of their care plan or were not fully involved in developing it. However, most patients said they felt engaged in their care and were able to involve family members in decisions. On Heathside ward, one patient described how a staff member stayed beyond their shift to offer ongoing reassurance and support. These examples reflected variable experiences across the service. The provider had taken steps to strengthen personalised care planning and multidisciplinary input.\u003C/p\u003E\u003Cp\u003EStaff told us there was a multi-disciplinary team approach to formulating care plans for risk, using a recognised risk assessment tool. These plans were expected to be reviewed monthly or in response to changes in risk. In our review of five care records, risk management plans were in place for four patients. However, we found that some risk assessments had not been recently reviewed. For example, one patient with a known risk of absconding had no documented review of their care plan since July 2024.\u003C/p\u003E\u003Cp\u003EThe provider had a falls prevention and care policy in place, which included guidance for falls risk assessments. Clinical risk was discussed at monthly clinical governance meetings. However, in the small sample of care records reviewed, we did not consistently see evidence that falls risk was assessed or documented.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe spoke with 6 family members as part of this assessment. They told us they knew how to make a complaint, although none had needed to use the provider\u2019s formal complaints process. Family members said staff responded promptly to any concerns they raised, and these were resolved quickly.\u003Cbr\u003ELeaders told us there was a process in place to ensure incidents and complaints were reported and investigated appropriately. They said no themes had been identified from complaints raised in the past 6 months.\u003Cbr\u003EStaff we spoke with understood what types of incidents required reporting and were able to discuss learning identified from these.\u003Cbr\u003EPage 4 of 19\u003Cbr\u003EAt our previous inspection, the provider had not embedded learning from incidents, which breached Regulation 17. At this inspection, the provider had taken action to improve. Staff were able to discuss learning from incidents, and a monthly lessons learned bulletin supported this process.\u003Cbr\u003EThe provider made the bulletin available to all staff and updated it monthly. It included information about recent incidents and other relevant safety updates.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients received their medicines as prescribed, and staff recorded medication administration. However, during the assessment, we observed a staff member administering medication to 2 patients without explaining to them what medication was being given.\u003C/p\u003E\u003Cp\u003EStaff were trained and assessed to safely administer medicines. They also received additional training to support people with specific needs, such as those experiencing seizures.\u003C/p\u003E\u003Cp\u003EThe clinic room on the Thames unit had significant limitations. There was insufficient storage space for patients\u2019 own medicines, and large quantities of stock were retained that were not currently prescribed, including medicines belonging to patients who had been discharged. Oversight of stock levels was lacking, and these were not regularly reviewed. Although emergency medicines were available and checked, oxygen cylinders were not stored safely. In contrast, medicines on Heathside were stored safely, demonstrating that safe practice was in place in other areas of the service.\u003C/p\u003E\u003Cp\u003EAt our last inspection, we identified a breach of regulation as medicines were out of stock when needed, and 360 medicine errors had been recorded. At this inspection, we found improvements had been made. Staff were able to order and administer medicines on time, including those prescribed at specific times. Records showed that medicines were checked and accurately documented. The service had appropriate emergency medicines available, and we found no evidence of medicine errors during this inspection. Although the service was no longer in breach, we continue to have concerns about some aspects of medicines management, which require further oversight and sustained improvement.\u003C/p\u003E\u003Cp\u003EMonthly audits were completed by the service; however, issues found during the inspection had not been identified, such as unsafe storage of oxygen. There was a process in place to record medicine errors and incidents, with actions taken and some lessons shared through staff newsletters.\u003C/p\u003E\u003Cp\u003EMedicines prescribed on a \u0027when required\u0027 basis were recorded when administered. However, staff were unable to demonstrate how they monitored the frequency of \u0027when required\u0027 medicines. We could not be assured that there was effective oversight of the management of patients with long-term conditions.\u003C/p\u003E\u003Cp\u003EThere was a process for staff to order and receive medicines from the pharmacy, and patients\u0027 medicines were reviewed by clinical teams. There was also a process to ensure patients received their medicines when on leave from the service, with staff checking and recording what patients had taken upon their return.\u003C/p\u003E\u003Cp\u003EThe service had appropriate emergency medicines available, and these were checked daily.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EMost patients said staff were available when they needed support.\u003C/p\u003E\u003Cp\u003EAt our previous inspection, we suggested that the service ensure staff appraisals are completed on time. At this inspection, we found that most staff reported having supervision and appraisals, and there was evidence that these matters were discussed at monthly clinical governance meetings.\u003C/p\u003E\u003Cp\u003EStaff we spoke with told us they had access to training, including additional or specialist training on topics such as Parkinson\u2019s Disease, pressure ulcer prevention and management, and seizures. They also confirmed they had access to reflective practice sessions.\u003C/p\u003E\u003Cp\u003EAt the time of inspection, there were vacancies in the therapy department, including the Lead Occupational Therapist role. The service had access to bank staff if required, although it was not confirmed whether bank staff were being used during the inspection. There was no evidence that these vacancies had affected patient care. The provider was actively progressing recruitment, and staffing in this area remained under review to ensure continuity of therapy provision.\u003C/p\u003E\u003Cp\u003EIn August 2024, supervision compliance was 95% for Heathside Ward, 96% for Thames Ward, and 93% for non-clinical staff. Therapy staff supervision compliance was lower at 67%, and the provider told us they were addressing this through ongoing recruitment and workforce planning. Overall, appraisal compliance was above 85%, and mandatory training compliance reached 92% in September 2024. These indicators were reviewed at monthly clinical governance meetings, demonstrating a structured approach to staff oversight. While therapy staff compliance was an outlier, the provider had appropriate governance in place to identify and respond to this.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EDuring the inspection, none of the wards had hot water, and both patients and the inspection team raised concerns. The boiler was broken, mould was present, and most toilets were out of order. On Thames ward, the clinic room was not clean, despite a completed cleaning schedule. Staff told us they had completed an environmental risk assessment and recorded actions to address the issues.\u003C/p\u003E\u003Cp\u003EStaff told us that refurbishment of toilets and bathrooms was scheduled to begin in the weeks following the inspection, with wider plans for redecoration and new furniture across the location. They also confirmed that weekly fire alarm tests and monthly environmental audits were in place to support safety and compliance. The provider later confirmed that hot water had been restored shortly after the inspection.\u003C/p\u003E\u003Cp\u003EThe environment required improvement. There was limited space for therapeutic engagement, and therapy rooms were very small. We found patches of mould, and most toilets were out of order at the time of the inspection. Bedrooms needed redecoration, and furnishings such as chairs showed visible wear and tear. The provider informed us of ongoing refurbishment plans, which included addressing these issues through redecoration and maintenance. A cleaning schedule had been completed on the Thames ward.\u003C/p\u003E\u003Cp\u003EAt this inspection, staff told us there was a risk register and a site improvement plan, both of which were reported to be regularly reviewed at governance meetings. Staff also told us that environmental risk assessments were completed regularly. The service carried out an annual ligature audit and only admitted patients assessed as low risk in terms of self-harm. Staff used observations and admission screening to help mitigate risks.\u003C/p\u003E\u003Cp\u003EWhile these arrangements were described by staff, we observed unresolved environmental issues, including mould, broken toilets, and wear and tear in therapy areas, which reduced the effectiveness of the reported processes in practice. The reliance on staff-reported measures, rather than verified implementation, limited assurance that risks were being fully mitigated\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EFamily members we spoke with as part of the assessment were able to discuss patients\u2019 ongoing discharge planning. They confirmed they were invited to attend discharge planning meetings. Family members also said they could attend regular multi-agency family meetings, either in person or virtually.\u003Cbr\u003EStaff told us they attended joint referral meetings and signposted patients to the most appropriate service based on factors such as therapy needs and location. They also said they had established close working relationships with commissioners.\u003C/p\u003E\u003Cp\u003EThe provider regularly attended the Specialised Rehabilitation Collaborative Meeting and had effective working relationships with external teams within the organisation. Care records showed updates on patient care shared with other external organisations, including the local authority and physical health NHS teams.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPatients told us they felt safe and knew how to raise concerns. They said staff were approachable and caring.\u003Cbr\u003EAt our last inspection, the service had failed to ensure Deprivation of Liberty Safeguards (DoLS) applications were submitted in a timely manner. At this inspection, we found clear evidence of sustained improvement. Staff training in the Mental Capacity Act (MCA) had increased significantly, from 62% at the time of the last inspection to 91%. DoLS remained a standing item in the provider\u2019s clinical governance meetings, where applications were reviewed and discussed regularly. We found no evidence of delayed DoLS applications during this inspection.\u003Cbr\u003EThe provider had a clear policy on the MCA and DoLS, which staff could describe and access when needed. Staff knew where to seek accurate advice on the MCA and DoLS, and they understood how to make a safeguarding referral and who to speak with if they had concerns.\u003Cbr\u003EThe service attended monthly provider safeguarding meetings and quarterly external meetings.\u003Cbr\u003EThe provider\u2019s processes promoted people\u2019s safety, protecting them from abuse, neglect, and avoidable harm. We saw evidence of effective systems, processes, and practices in place to ensure people were safeguarded from abuse and neglect. The service had a comprehensive local safeguarding procedure, which included strong working relationships with external agencies, including the local authority. Overall, 91% of staff had completed Mental Capacity Act training, and over 90% were trained in safeguarding adults and children.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high\u2011quality, person\u2011centred care, supported learning and innovation, and promoted an open and fair culture. \u003C/p\u003E\u003Cp\u003EAt our last inspection, we rated this key question requires improvement. At that time, the provider was in breach of Regulation 17 (Good governance). While the service had addressed the areas relating to that breach, there were still areas where improvements were needed. At this inspection, the rating has improved to good.\u003C/p\u003E\u003Cp\u003EThe provider had made improvements since the last inspection. The governance structure had developed, with monthly local governance meetings led by a senior clinical representative. These meetings covered health and safety, infection prevention and control, audits and catering, with representation from all disciplines to support collaborative service oversight. Operational group meetings fed into the governance structure, providing updates and action plans from specific service areas.\u003C/p\u003E\u003Cp\u003EThe quality team monitored performance against internal and external standards, including CQC methodology, and used an internal data system to track physical health needs and incidents of challenging behaviour. Relevant data was shared in governance meetings, and key updates were communicated to staff through team meetings and notice boards. The provider had introduced a monthly lessons\u2011learned bulletin, which included learning from incidents and safety updates.\u003C/p\u003E\u003Cp\u003EThe provider had a Freedom to Speak Up policy, and staff were aware of it. Posters promoted the speak\u2011up guardian. Staff told us they could contact the guardian by phone or through an app. Although the guardian had not visited the service in person since February 2024, staff confirmed they could access the guardian through the available channels. The monthly bulletin included a section on staff wellbeing.\u003C/p\u003E\u003Cp\u003EA Service Level Agreement with a local GP surgery supported continuity of care, with the GP conducting regular ward rounds and clinical assessments. The provider had policies in place to support equality and human rights. Staff demonstrated an understanding of how to support patients with protected characteristics and how to prevent discrimination and harassment.\u003C/p\u003E\u003Cp\u003ESome areas still required improvement. While governance systems had developed, including structured meetings and improved incident reporting, gaps in assurance remained and improvements were not consistently embedded. Staff reported mixed experiences with leadership, and communication was not always effective. These issues resulted in a breach of Regulation 17 (Good governance).\u003C/p\u003E",
+                "commentaryDate": "2026-03-09",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ESome staff reported they did not feel able to be open with leaders when things went wrong, indicating concerns about psychological safety within the service. However, other staff described feeling valued and supported by executive leadership. These mixed views reflect variability in staff experience of leadership openness and suggest the need for ongoing improvement to foster a consistently supportive culture.\u003C/p\u003E\u003Cp\u003ESome staff reported that communication from leaders could be clearer, and a small number felt excluded or de-motivated. Overall, the service had established structured communication processes, including governance meetings and lesson-learned bulletins.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe provider had a Freedom to Speak Up policy in place, and staff were aware of it. Posters promoted the speak up guardian. Staff told us they could contact the guardian by phone and through an app, which offered flexible communication options. The guardian had not visited the service in person since February 2024, but staff confirmed they could access the guardian through these channels. The monthly bulletin included a section on staff wellbeing, which promoted openness.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EAt our previous inspection, the provider was in breach of Regulation 17(1)(2) for failing to ensure that systems to assess, monitor, and improve the quality and safety of the service were effective. At this inspection, we found improvements in the existing governance structure. Monthly local governance meetings continued, with a focus on areas such as health and safety, infection prevention and control, audits, and catering. These meetings now included representatives from each discipline, ensuring a more effective and collaborative approach to improvement.\u003C/p\u003E\u003Cp\u003EThe service holds monthly local governance meetings, led by a senior clinical representative, covering health and safety, infection prevention and control, audits, and catering. Representatives from each discipline attend, ensuring a multidisciplinary approach.\u003C/p\u003E\u003Cp\u003ESub-meetings within the organisation contribute to governance by feeding in action plans. The quality team conducts reviews using CQC methodology and reports on findings with corresponding actions. Data on physical health and challenging behaviour is processed through an internal data management system and shared at governance meetings.\u003C/p\u003E\u003Cp\u003EKey information is communicated through team meetings and displayed on office notice boards to keep staff informed and engaged.\u003C/p\u003E\u003Cp\u003EManagers did not have consistent quality assurance systems in place to ensure safe medicine storage and recording.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff received encouragement to learn and develop.\u003C/p\u003E\u003Cp\u003EThe provider had a lesson learnt bulletin, which was available to all staff and changed monthly. The bulletin included incidents, as well as other safety updates.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPeople said the service supported them to maintain links with other services and local resources.\u003C/p\u003E\u003Cp\u003EJoint working arrangements and regular communication with partner organisations.\u003C/p\u003E\u003Cp\u003EWe observed examples of collaborative working during the inspection.\u003C/p\u003E\u003Cp\u003EService Level Agreement (SLA) with local GP surgery.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ESome staff feel that frustration from colleagues impacts patient interactions and team morale. Concerns were raised about a blame culture and lack of respect from senior management. Despite regular discussions on mutual respect, staff feel this is not always demonstrated by leadership. However, improvements in accountability have been noted.\u003C/p\u003E\u003Cp\u003EConcerns have been reported through internal speaking-up channels. No evidence this was followed up robustly. There is recognition that ethnic minority staff may require more support. Some staff have highlighted the need for pastoral care, particularly for BAME colleagues who feel overstretched.\u003C/p\u003E\u003Cp\u003EConcerns about leadership approachability were raised, with staff requesting an anonymous suggestions box. While management agreed, delays were attributed to building work, though staff believe a temporary solution could be implemented.\u003C/p\u003E\u003Cp\u003EWhile some senior staff feel respected and supported, others report feeling unsupported by leadership. In 1 case, staff faced ongoing harassment from a patient\u2019s relative, with no clear guidance or senior support on boundary setting. Staff suggested a scripted response but feared repercussions if complaints arose.\u003Cbr\u003EDespite these concerns, some staff feel valued, and executive teams are seen as supportive and engaged with frontline staff.\u003C/p\u003E\u003Cp\u003EHowever, others felt leadership did not trust them to carry out their roles and raised concerns about the conduct of some senior managers. Staff also highlighted barriers to speaking up and a fear of repercussions. 1 staff member described instances of \u0022victimisation and harassment\u0022 and believed raising concerns would lead to negative consequences. Since our visit, the provider has informed us of changes to the senior management structure.\u003C/p\u003E\u003Cp\u003EOverall, 98% of staff had completed training in equality and diversity. Staff we spoke with were able to give examples of how to protect patients from harassment and discrimination, including those with protected characteristics under the Equality Act.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff provided mixed feedback about workforce morale during the inspection; some described it as poor at the time, while others reported feeling valued and supported by leadership. This reflects ongoing challenges as well as positive engagement efforts by executive leaders.\u003C/p\u003E\u003Cp\u003EThe provider had policies valuing diversity and promoting fair and equitable treatment of staff. Training in equality and diversity was completed by 98% of staff, who demonstrated awareness of supporting individuals with protected characteristics under the Equality Act.\u003C/p\u003E",
+                        "commentaryDate": "2026-03-09"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

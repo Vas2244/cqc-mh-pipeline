@@ -1,0 +1,288 @@
+{
+  "locationId": "1-233070238",
+  "providerId": "1-216234545",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Beckenham Beacon",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2011-04-01",
+  "dormancy": "N",
+  "onspdLatitude": 51.4052306,
+  "onspdLongitude": -0.0331825,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "379 Croydon Road",
+  "postalAddressTownCity": "Beckenham",
+  "postalAddressCounty": "Kent",
+  "region": "London",
+  "postalCode": "BR3 3QL",
+  "uprn": "100022894315",
+  "mainPhoneNumber": "01689866740",
+  "website": "www.bromleyhealthcare.nhs.uk",
+  "constituency": "Beckenham and Penge",
+  "localAuthority": "Bromley",
+  "lastInspection": {
+    "date": "2021-10-06"
+  },
+  "lastReport": {
+    "publicationDate": "2017-07-12"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "5A720",
+      "relatedLocationName": "Beckenham Beacon",
+      "type": "HSCA Predecessor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Fiona Eleanor Morrison",
+          "personFamilyName": "Christie",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Fiona Eleanor Morrison",
+          "personFamilyName": "Christie",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Fiona Eleanor Morrison",
+          "personFamilyName": "Christie",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors consultation service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "inspectionAreaName": "Community health services for adults",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "chschildren",
+      "inspectionAreaName": "Community health services for children, young people and families",
+      "status": "Active (Rated)"
+    }
+  ],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "INS2-11134911721",
+          "reportLinkId": "489c3d6e-572a-4a5b-88f2-7b4a9b1efe5e",
+          "providerId": "1-216234545",
+          "locationId": "1-233070238"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsdental",
+      "reports": [
+        {
+          "inspectionId": "INS2-11673960191",
+          "reportLinkId": "419d1408-0481-4823-a63d-511cf2fd4c75",
+          "providerId": "1-216234545",
+          "locationId": "1-233070238"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2017-07-12",
+      "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2017-07-12",
+          "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2017-07-12",
+          "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce"
+        },
+        {
+          "name": "Caring",
+          "rating": "Outstanding",
+          "reportDate": "2017-07-12",
+          "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2017-07-12",
+          "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2017-07-12",
+          "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce"
+        }
+      ]
+    },
+    "reportDate": "2017-07-12",
+    "serviceRatings": [
+      {
+        "name": "chsadults",
+        "rating": "Good",
+        "reportDate": "2017-07-12",
+        "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      },
+      {
+        "name": "chschildren",
+        "rating": "Good",
+        "reportDate": "2017-07-12",
+        "reportLinkId": "0aba240a-c56e-41f3-abef-1a5803109bce",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "0aba240a-c56e-41f3-abef-1a5803109bce",
+      "reportDate": "2017-07-12",
+      "firstVisitDate": "2016-12-13",
+      "reportUri": "/reports/0aba240a-c56e-41f3-abef-1a5803109bce?20220715130819",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "3a3462f4-c277-455c-8050-febd73aa8972",
+      "reportDate": "2014-01-30",
+      "firstVisitDate": "2014-01-13",
+      "reportUri": "/reports/3a3462f4-c277-455c-8050-febd73aa8972?20200129163919"
+    },
+    {
+      "linkId": "5fd23856-c29e-450e-a659-d9396797d8e4",
+      "reportDate": "2012-04-03",
+      "firstVisitDate": "2012-01-30",
+      "reportUri": "/reports/5fd23856-c29e-450e-a659-d9396797d8e4?20200430120000"
+    }
+  ]
+}

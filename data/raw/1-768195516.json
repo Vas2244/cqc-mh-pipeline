@@ -1,0 +1,128 @@
+{
+  "locationId": "1-768195516",
+  "providerId": "1-101654007",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Galley House",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-12-23",
+  "deregistrationDate": "2016-04-07",
+  "dormancy": "N",
+  "onspdLatitude": 51.65479,
+  "onspdLongitude": -0.199434,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Galley House",
+  "postalAddressLine2": "Montana Suites, Moon Lane",
+  "postalAddressTownCity": "Barnet",
+  "postalAddressCounty": "Hertfordshire",
+  "region": "London",
+  "postalCode": "EN5 5YL",
+  "mainPhoneNumber": "02077683400",
+  "numberOfBeds": 0,
+  "constituency": "Chipping Barnet",
+  "localAuthority": "Barnet",
+  "lastInspection": {
+    "date": "2014-01-16"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2385182469",
+      "relatedLocationName": "Health Personnel",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Supported living",
+      "description": "Supported living service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "b8b18b93-aa07-4eb5-b0d0-1d53a24dc58f",
+      "reportDate": "2014-02-18",
+      "firstVisitDate": "2014-01-16",
+      "reportUri": "/reports/b8b18b93-aa07-4eb5-b0d0-1d53a24dc58f?20200129163919"
+    }
+  ]
+}

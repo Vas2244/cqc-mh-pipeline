@@ -1,0 +1,146 @@
+{
+  "locationId": "1-112342387",
+  "providerId": "1-101726537",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Belgravia Clinic",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-24",
+  "deregistrationDate": "2016-07-22",
+  "dormancy": "N",
+  "onspdLatitude": 51.494757,
+  "onspdLongitude": -0.148858,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "25a Eccleston Street",
+  "postalAddressLine2": "Belgravia",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW1W 9NP",
+  "mainPhoneNumber": "02078236840",
+  "website": "www.staplefordcentre.com",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2014-02-13"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2781482256",
+      "relatedLocationName": "The OAD Clinic",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "fd2afa59-b76d-4454-a5bb-9bf0cc9ae620",
+      "reportDate": "2014-03-22",
+      "firstVisitDate": "2014-02-13",
+      "reportUri": "/reports/fd2afa59-b76d-4454-a5bb-9bf0cc9ae620?20151016191357"
+    },
+    {
+      "linkId": "a16fbe2f-fdb7-46b5-8deb-bca942eaaa10",
+      "reportDate": "2012-11-24",
+      "firstVisitDate": "2012-10-24",
+      "reportUri": "/reports/a16fbe2f-fdb7-46b5-8deb-bca942eaaa10?20151016191357"
+    },
+    {
+      "linkId": "15f1ae89-d68c-4dd7-98cf-1b384ea87d3b",
+      "reportDate": "2012-04-12",
+      "firstVisitDate": "2012-03-05",
+      "reportUri": "/reports/15f1ae89-d68c-4dd7-98cf-1b384ea87d3b?20200430120000"
+    },
+    {
+      "linkId": "a7c667db-5e34-4ea5-88d1-724486026c1e",
+      "reportDate": "2012-01-27",
+      "firstVisitDate": "2012-01-09",
+      "reportUri": "/reports/a7c667db-5e34-4ea5-88d1-724486026c1e?20200430120000"
+    },
+    {
+      "linkId": "ab96aa4f-67cc-4197-b5b2-66534e773ff1",
+      "reportDate": "2011-12-05",
+      "firstVisitDate": "2011-12-15",
+      "reportUri": "/reports/ab96aa4f-67cc-4197-b5b2-66534e773ff1?20200430120000"
+    },
+    {
+      "linkId": "610c6deb-2ec5-41fd-8efd-af6e5cb70f41",
+      "reportDate": "2011-11-11",
+      "firstVisitDate": "2011-09-27",
+      "reportUri": "/reports/610c6deb-2ec5-41fd-8efd-af6e5cb70f41?20200430120000"
+    },
+    {
+      "linkId": "1a28af23-5bde-4729-94f9-325ba58cfc25",
+      "reportDate": "2011-06-16",
+      "firstVisitDate": "2011-05-05",
+      "reportUri": "/reports/1a28af23-5bde-4729-94f9-325ba58cfc25?20200430120000"
+    }
+  ]
+}

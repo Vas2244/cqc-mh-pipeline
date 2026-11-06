@@ -1,0 +1,1306 @@
+{
+  "locationId": "1-519868002",
+  "providerId": "1-101728109",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cygnet Bostall House",
+  "brandId": "BD205",
+  "brandName": "BRAND Cygnet Health Care",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2012-11-27",
+  "dormancy": "N",
+  "onspdLatitude": 51.48292,
+  "onspdLongitude": 0.120554,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Bostall Heath",
+  "postalAddressLine2": "Knee Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE2 0AT",
+  "mainPhoneNumber": "02083197954",
+  "website": "www.cygnethealth.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Erith and Thamesmead",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2023-07-12"
+  },
+  "lastReport": {
+    "publicationDate": "2023-09-04"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Imutinyan Elizabeth",
+          "personFamilyName": "Ughu",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Imutinyan Elizabeth",
+          "personFamilyName": "Ughu",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H4",
+      "name": "Acute hospital - Independent specialist"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhdisabilities",
+      "inspectionAreaName": "Wards for people with learning disabilities or autism",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2020-03-04",
+      "reportLinkId": "c4c3b380-55c0-4aa7-9646-c83a3497d3e4",
+      "serviceRatings": [
+        {
+          "name": "mhdisabilities",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Outstanding"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Outstanding"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-07-24",
+      "reportLinkId": "e5e9e5c3-260e-494b-b188-e34b378c8caf",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-05-06",
+      "reportLinkId": "55867115-49ff-4bf2-9a37-916a2ed3498f",
+      "serviceRatings": [
+        {
+          "name": "mhdisabilities",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2023-09-04",
+      "reportLinkId": "f9a88c12-f277-4c09-b9c1-e988b1f34b25",
+      "serviceRatings": [
+        {
+          "name": "mhdisabilities",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "f9a88c12-f277-4c09-b9c1-e988b1f34b25",
+      "reportDate": "2023-09-04",
+      "firstVisitDate": "2023-06-21",
+      "reportUri": "/reports/f9a88c12-f277-4c09-b9c1-e988b1f34b25?20230904120040",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "c4c3b380-55c0-4aa7-9646-c83a3497d3e4",
+      "reportDate": "2020-03-04",
+      "firstVisitDate": "2020-01-13",
+      "reportUri": "/reports/c4c3b380-55c0-4aa7-9646-c83a3497d3e4?20210114085324",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "e5e9e5c3-260e-494b-b188-e34b378c8caf",
+      "reportDate": "2017-07-24",
+      "firstVisitDate": "2017-05-09",
+      "reportUri": "/reports/e5e9e5c3-260e-494b-b188-e34b378c8caf?20210118215405",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "55867115-49ff-4bf2-9a37-916a2ed3498f",
+      "reportDate": "2016-05-06",
+      "firstVisitDate": "2015-11-17",
+      "reportUri": "/reports/55867115-49ff-4bf2-9a37-916a2ed3498f?20210120060722",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "ffa0d411-453a-48b1-bd31-817fba679f6e",
+      "reportDate": "2014-03-27",
+      "firstVisitDate": "2014-02-12",
+      "reportUri": "/reports/ffa0d411-453a-48b1-bd31-817fba679f6e?20200129163919"
+    },
+    {
+      "linkId": "adaa0d27-918e-4ba3-ab40-3d1cef7c3399",
+      "reportDate": "2013-11-09",
+      "firstVisitDate": "2013-09-09",
+      "reportUri": "/reports/adaa0d27-918e-4ba3-ab40-3d1cef7c3399?20200129163919"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "270",
+      "assessmentServiceName": "Wards for people with learning disabilities or autism",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-11-05 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02926",
+            "commentary": "\u003Cp\u003EDate of assessment: 21 and 22 September 2026\u003C/p\u003E\u003Cp\u003ECygnet Bostall House is a high dependency complex care rehabilitation service for up to 6 men living with a learning disability and associated complex needs. They are an independent service and accept people funded by the NHS.\u00A0\u003C/p\u003E\u003Cp\u003EFollowing this assessment, the location was rated as good.\u00A0\u003C/p\u003E",
+            "commentaryDate": "2026-11-05",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the hospital involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good.\u00A0At this inspection, the rating has remained as good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on the best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good.\u00A0At this inspection, the rating has remained as good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the hospital met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good.\u00A0At this inspection, the rating has remained as good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained as good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that hospital leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good.\u00A0At this inspection, the rating has remained as good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP27190",
+            "title": "Ongoing Assessment for Cygnet Bostall House",
+            "assessmentDate": "2026-06-16",
+            "assessmentPlanStatus": "Active",
+            "name": "Wards for people with learning disabilities or autism",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EWe carried out a comprehensive assessment of Cygnet Bostall House on 21 and 22 September 2026. This was a routine assessment that took place due to time since last inspection.\u00A0\u003C/p\u003E\u003Cp\u003ECygnet Bostall House was last inspected by the CQC in June 2023. \u00A0The hospital was rated good overall.\u003C/p\u003E\u003Cp\u003EAt this assessment we rated the ward as good.\u00A0\u003C/p\u003E\u003Cp\u003EWe spoke with 10 members of staff, 4 people using the service and 1 carer. We also reviewed the care and treatment records of 4 people.\u003C/p\u003E\u003Cp\u003EWe assessed the service against \u2018Right support, right care, right culture\u2019 guidance to make judgements about whether the provider guaranteed autistic people and people with a learning disability respect, equality, dignity, choices, independence and good access to local communities that most people take for granted.\u00A0\u003C/p\u003E",
+            "commentaryDate": "2026-11-05",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with 4 people using the service and 1 carer during this inspection.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Ci\u003EMental Health Act\u003C/i\u003E\u003Cbr\u003EThe hospital admitted people under the Mental Health Act 1983.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff had completed training in the Mental Health Act 1983 and its Code of Practice and demonstrated an understanding of their responsibilities. Training on the Mental Health Act was mandatory for staff, and the compliance rate was 100%.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EPeople had access to information about advocacy and Independent Mental Health Advocacy (IMHA) services.\u00A0\u003Cbr\u003EStaff had access to administrative support and legal advice to support the appropriate implementation of the Mental Health Act and its Code of Practice. A Mental Health Act administrator was based remotely and provided regular reminders to staff to ensure people were informed of their rights under Section 132 of the Mental Health Act.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003ERecords showed staff informed people of their rights under the Mental Health Act and repeated this information where required. Most people we spoke with demonstrated an awareness of their rights.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff requested an opinion from a Second Opinion Appointed Doctor (SOAD) when required.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EDetention documentation was stored securely and was accessible to relevant staff. Staff demonstrated an understanding of Section 17 leave procedures and the requirements for people who were authorised to leave the hospital.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service completed regular audits to monitor compliance with the Mental Health Act and identify whether it was being applied appropriately.\u003C/p\u003E\u003Cp\u003E\u003Ci\u003EMental Capacity Act\u003C/i\u003E\u003Cbr\u003EStaff had completed training in the Mental Capacity Act 2005 and Deprivation of Liberty Safeguards (DoLS), with the service reporting 100% compliance. The provider had a policy on the Mental Capacity Act, including deprivation of liberty safeguards. Staff were aware of the policy and had access to it.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff took all practical steps to enable people to make their own decisions. Where people may have lacked capacity to make a specific decision, staff appropriately assessed and documented their capacity to consent, providing evidence that decisions about capacity were considered and recorded when required.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EWhen people lacked capacity, staff made decisions in their best interests, recognising the importance of the person\u2019s wishes, feelings, culture and history.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service had arrangements to monitor adherence to the Mental Capacity Act.\u00A0\u003Cbr\u003E\u00A0\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-11-05",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EOur overall rating of caring at Cygnet Bostall House, Wards for people with learning disabilities or autism is good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EPeople were involved in discussions and decisions about their care and treatment. People attended fortnightly ward rounds where they met with the multidisciplinary team to review and discuss their care and treatment.\u003C/p\u003E\u003Cp\u003EStaff supported people to maintain relationships with others who were important to them and encouraged independence in daily living activities. For example, staff encouraged and supported people to complete their own laundry where appropriate.\u003C/p\u003E\u003Cp\u003EInformation about independent advocacy services was displayed on the ward through posters and leaflets. People could access IMHA services when requested. However, the service did not have established arrangements for advocates to attend the ward on a regular basis. This meant people relied on staff making referrals rather than having routine opportunities to meet independently with an advocate. This meant it was not as easy as it could be to access an IMHA.\u00A0\u003C/p\u003E\u003Cp\u003EStaff supported people to understand their rights and provided information about how to raise concerns or make a complaint. Information about Mental Health Act rights and the complaints process was displayed on notice boards within the ward.\u00A0\u003C/p\u003E\u003Cp\u003EThe service provided information in easy-read formats to support people with different communication and information needs to access and understand relevant information.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff demonstrated empathy, kindness and respect in their interactions with people. During the inspection, we observed staff engaging with people in a responsive and respectful manner. Staff maintained regular engagement with people, recognised when they required additional support and responded promptly to their needs.\u003C/p\u003E\u003Cp\u003EStaff spoke about people with kindness and respect and demonstrated a strong understanding of their individual needs, preferences and backgrounds. They were aware of people\u2019s personal, cultural, social and religious needs and took these into account when planning and delivering care. For example, staff told us the service had changed to providing halal meat to ensure all people could access food that met their cultural and religious requirements. This demonstrated the service\u2019s commitment to promoting equality, dignity and person-centred care.\u003C/p\u003E\u003Cp\u003EStaff maintained people\u2019s privacy and confidentiality. We did not observe confidential or personal information displayed in areas accessible to non-staff members.\u00A0\u003C/p\u003E\u003Cp\u003EWe spoke with 4 people using the service and 1 carer. Most people told us staff were kind, caring and treated them with respect. One person described staff as \u0022really supportive\u0022 and said they felt listened to when they needed help. Another person told us staff took time to understand them and supported them through difficult periods. A carer spoke positively about the care provided and told us staff communicated well and kept them informed about their relative\u0027s progress where appropriate.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff monitored changes in risks to people\u2019s safety and wellbeing, including risks people may pose to themselves or others. We saw examples of multidisciplinary staff reviewing and updating risk assessments and care plans when people\u2019s needs or risks changed.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff demonstrated a good understanding of people\u2019s individual needs and known risk factors. Care plans were in place to support people\u2019s physical health needs and included guidance for staff on how to respond to identified risks and incidents.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff used de-escalation techniques to manage situations and reduce the need for restrictive interventions. There had been 1 incident in the previous 6 months where staff had used physical restraint. This did not involve prone restraint. There had been no use of rapid tranquillisation in the previous 12 months, and staff told us chemical restraint was not used at the service.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EMost people we spoke with told us they felt comfortable approaching staff if they had concerns. The service scheduled monthly people community meetings, known as Empower meetings, which provided people with an opportunity to discuss their experiences, raise concerns and provide feedback about the service.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe premises and environment were laid out and decorated in a way that ensured they were not impersonal, intimidating or institutional. The environment supported people to maintain dignity and privacy. The service had considered how to meet people\u0027s sensory needs and preferences and had made adaptations to support this. For example, a sensory room had been established within the garden area and provided a calm space equipped with sensory lighting, soft furnishings, music and sensory resources.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff told us they considered sensory needs when supporting people and encouraged use of quieter areas when people became overwhelmed or distressed. During the inspection, we found the environment to be calm and well maintained. There was minimal excessive noise and we did not observe doors banging or other unnecessary environmental disruption. People could choose between communal areas and quieter spaces depending on their preferences and needs.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service had also considered how routine activities could affect people. Staff told us they gave people advance notice of activities such as fire alarm testing and took steps to minimise any distress or disruption these may cause. People had access to private spaces where they could spend time alone or meet visitors in confidence.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service considered people\u0027s individual needs and made reasonable adjustments where these were identified. Staff demonstrated an understanding of people\u0027s communication, cultural, spiritual and religious needs and supported people to access advocacy where required. Care records included information about people\u0027s preferred methods of communication and any adjustments required to support their engagement in care and treatment. Staff told us they adapted their approach to meet individual needs, including using easy-read information, simplified language and allowing additional time for discussions to support understanding and decision-making.\u003C/p\u003E\u003Cp\u003EPeople had access to information about the ward, their treatment, local services and their rights. Staff considered people\u0027s communication and accessibility needs and adapted information where necessary to support understanding. Information was available in easy-read formats and staff discussed this information with people to ensure they understood the content. Care plans reflected people\u0027s views and preferences and, where appropriate, included guidance for staff on effective communication approaches.\u003C/p\u003E\u003Cp\u003EStaff supported people to meet their spiritual and religious needs. We found examples where adjustments had been made to respect individual beliefs and preferences. For example, staff supported people who wished to fast during religious observance by adapting meal times and monitoring their wellbeing. Staff also supported people to access places of worship, religious services and faith leaders where requested. People were able to observe religious festivals and cultural events important to them.\u003C/p\u003E\u003Cp\u003EManagers completed assessments before admission to determine whether the service could meet each person\u0027s identified needs. The service also provided a range of food options to meet people\u0027s dietary, cultural and religious requirements.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff described a positive and supportive working culture. All staff we spoke with told us they felt respected, supported and valued by their colleagues and managers. Staff spoke positively about working at the service and expressed pride in the work of their teams.\u003C/p\u003E\u003Cp\u003EStaff told us senior managers were visible and accessible within the service and provided practical support when required, including assisting staff with people care on the ward. Staff also told us managers supported them following distressing or challenging incidents.\u003C/p\u003E\u003Cp\u003EStaff appraisals included discussions about career development and opportunities for professional growth. Staff told us they felt able to approach managers to request training relevant to their roles. We were also given examples of how the service had supported staff to undertake further qualifications and develop professionally. Staff and their families are able to access free, confidential Employee Assistance Programme (EAP), which can provide support with financial worries and debt management, legal matters, relationships, counselling, consumer issues, childcare, eldercare, and medical information.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EOur overall rating of effective at Cygnet Bostall House, Wards for people with learning disabilities or autism is good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff demonstrated an understanding of people\u0027s communication needs and adapted their approach accordingly. Care records included information about people\u0027s preferred methods of communication and any support required to express their views and wishes. Staff told us they used a range of communication methods to support engagement, including simplifying information, allowing additional time for discussions and using written information where appropriate.\u003C/p\u003E\u003Cp\u003EWe saw evidence that people\u0027s views, preferences and goals were reflected within care records. Care plans recorded people\u0027s wishes and perspectives in a personalised way and included direct statements about what was important to them. Staff were able to describe how they sought people\u0027s views during reviews, keyworking sessions and daily interactions to ensure care remained responsive to their changing needs.\u003C/p\u003E\u003Cp\u003EInformation was available in formats designed to improve accessibility. This included easy-read documentation and patient information designed to support understanding of care, treatment and service expectations. Staff told us they would adapt information according to individual need and communication ability.\u003C/p\u003E\u003Cp\u003ERecords demonstrated that staff routinely sought and documented people\u0027s views regarding their care and treatment. Where people found verbal communication difficult, staff used alternative approaches to support participation and decision-making.\u003C/p\u003E\u003Cp\u003EWe reviewed 4 people\u2019s care and treatment records. People had care plans in place which reflected their identified needs, and these were reviewed and updated regularly.\u00A0\u003C/p\u003E\u003Cp\u003ERecords demonstrated that care was individualised and reflected people\u2019s preferences and needs. Care plans consistently included people\u2019s views in their own words and, where appropriate, the views of carers.\u003C/p\u003E\u003Cp\u003EPeople told us they met regularly with their named nurses, supporting their involvement in ongoing care and treatment.\u003C/p\u003E\u003Cp\u003EStaff assessed people\u2019s physical health needs promptly following admission, with no evidence of delays. Records showed people received regular physical health reviews and appropriate ongoing monitoring.\u003C/p\u003E\u003Cp\u003EStaff regularly used the National Early Warning Score (NEWS2), a standard clinical assessment tool to detect acute illness and clinical deterioration in adult peoples.\u00A0\u003C/p\u003E\u003Cp\u003EStaff we spoke with showed a good level of understanding for each person and their individual needs, including their personal, cultural, social and religious needs.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported \u00A0people to understand and exercise their rights around consent and respected their choices when providing care and treatment. Staff assessed and recorded people\u2019s capacity to consent to admission and treatment and continued to review capacity through multidisciplinary meetings and when specific decisions were required.\u003C/p\u003E\u003Cp\u003EStaff supported people to make their own decisions wherever possible. Where there were concerns about a person\u0027s capacity to make a specific decision, staff considered what support could be provided to help the person make the decision before concluding they lacked capacity. During the inspection, staff demonstrated a good understanding of the principles of the Mental Capacity Act and were able to explain the importance of supporting people to make their own choices and involving them in decisions about their care and treatment.\u003C/p\u003E\u003Cp\u003EWe observed staff offering people choices throughout the inspection and respecting their preferences regarding daily activities, routines and care. People told us staff listened to their views and involved them in decisions about their care whenever possible. One person told us they felt able to express their views and that staff took their wishes into account when planning their care.\u003C/p\u003E\u003Cp\u003EWhere people were assessed as lacking capacity to make a specific decision, staff completed decision-specific capacity assessments and made decisions in people\u0027s best interests. We reviewed records which demonstrated that multidisciplinary teams considered people\u0027s wishes, feelings, beliefs, values, culture and history when making best interest decisions. Records were detailed and clearly documented the rationale for decisions, who had been consulted and how the least restrictive option had been considered.\u003C/p\u003E\u003Cp\u003ECapacity assessments and best interest decisions were recorded in a consistent location within the electronic record system, making them accessible to staff involved in people\u0027s care. Staff we spoke with knew where to find and record this information and demonstrated an understanding of how capacity assessments and best interest decisions should be documented and reviewed.\u003C/p\u003E\u003Cp\u003EStaff told us they respected people\u2019s choices when providing care and support. People confirmed this and told us they felt staff involved them and talked to them about their care and treatment.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had a multidisciplinary staff team with the range of skills required to meet a person\u2019s needs. \u00A0This included a consultant psychiatrist, ward manager, psychologist, clinical services lead, registered mental health nurses, a learning disability nurse, support workers, occupational therapy assistant, speech and language therapist, chef, housekeepers, administrators and maintenance staff. Staff were appropriately experienced and qualified.\u00A0\u003C/p\u003E\u003Cp\u003EWe observed a range of care and treatment interventions tailored to people\u2019s individual needs. Interventions were delivered in line with relevant National Institute for Health and Care Excellence (NICE) guidance.\u003C/p\u003E\u003Cp\u003EThe service supported people to develop and maintain the skills, confidence and independence needed for community living. People had access to a range of activities to enhance skills of daily living, including cooking and self-medication programmes. People had access to an activities of daily living (ADL) kitchen, which was normally kept unlocked. Staff encouraged people to develop their independent living skills, including doing their own laundry.\u00A0\u003C/p\u003E\u003Cp\u003EThe service had good access to the local community and its amenities, and it had developed links with community resources to provide people with leisure and vocational opportunities.\u00A0 People could participate in leisure and social activities every day, including at weekends.\u00A0\u003C/p\u003E\u003Cp\u003EStaff had the skills and knowledge to develop and implement effective positive behaviour support (PBS) plans. PBS plans were personalised and identified people\u0027s triggers, early warning signs, proactive strategies and preferred interventions. Staff were able to describe how they used these plans in practice to understand the reasons behind behaviours of concern and support people in the least restrictive way possible. Care records demonstrated that staff reviewed incidents with people where appropriate and adapted support strategies in response to changing needs. During the inspection, staff spoke confidently about specific people\u0027s behavioural support needs and described how they used distraction techniques, meaningful activity, sensory interventions and therapeutic engagement to reduce distress and prevent escalation. For example, one PBS plan identified that a person\u0027s anxiety increased in busy environments. Staff described how they supported the person to access quieter areas, offered reassurance and provided advance notice of changes to routine, which helped reduce distress and maintain engagement in daily activities.\u003C/p\u003E\u003Cp\u003EPeople had good access to physical healthcare, and staff arranged access to specialist healthcare services when required. Staff assessed and met people\u2019s needs for food and drink and for specialist nutrition and hydration.\u00A0\u003C/p\u003E\u003Cp\u003EManagers identified areas where staff required additional knowledge and skills and responded by arranging relevant training. For example, staff had received training in positive behaviour support, safeguarding, autism, communication needs and de-escalation techniques to support the specific needs of people using the service. Managers monitored staff competency through supervision, observation and reflective practice discussions. Staff told us they felt training met the needs of the people they supported and helped them develop confidence in their roles.\u003C/p\u003E\u003Cp\u003EPeople had good access to physical healthcare and specialist input when required. A speech and language therapist (SALT) formed part of the multidisciplinary team and completed assessments where people had communication difficulties, eating and drinking concerns or swallowing risks. Recommendations were clearly documented in care records and staff demonstrated an understanding of how these should be implemented. Where required, people had individual guidance relating to food textures, fluid consistencies and safe swallowing techniques. Staff monitored people\u0027s dietary intake and sought further specialist advice if concerns about nutrition, hydration or swallowing were identified.\u003C/p\u003E\u003Cp\u003EDischarge planning and rehabilitation formed an integral part of people\u2019s\u2019 care from the point of admission. At the previous inspection, we identified that the service should ensure people were supported to move on to appropriate accommodation in a timely manner. During this inspection, we observed that improvements had been made and people were being supported to access suitable accommodation and progress through their rehabilitation pathways without unnecessary delay.\u003C/p\u003E\u003Cp\u003EStaff worked collaboratively with people to stabilise their mental health symptoms and develop the practical skills, independence and confidence required for a successful transition back into the community. Rehabilitation planning began from admission, with staff working alongside people to identify personalised goals and regularly reviewing progress.\u003C/p\u003E\u003Cp\u003EWe reviewed care records which demonstrated how staff supported people to develop skills associated with independent living. For example, people were supported to manage activities of daily living, including meal preparation, budgeting, shopping, personal care and accessing community activities. Staff gradually increased opportunities for independence as people progressed through their rehabilitation programme.\u003C/p\u003E\u003Cp\u003EStaff gave examples of people achieving rehabilitation goals, including developing confidence to use public transport independently, managing aspects of their own medication, engaging in education or volunteering opportunities, and successfully progressing to less restrictive environments. Care records demonstrated that goals were regularly reviewed and updated to reflect people\u0027s progress and changing aspirations.\u003C/p\u003E\u003Cp\u003EPeople told us staff supported them to become more independent and prepare for life outside hospital. One person said staff encouraged them to develop practical skills and make decisions about their future. Carers told us they had seen positive progress in their relatives\u0027 confidence, daily living skills and ability to engage with community activities.\u003C/p\u003E\u003Cp\u003EThe service had considered the therapeutic and recreational nature of facilities to support people\u2019s wellbeing and recovery, as required by national guidance for Providing care services to autistic people and people with a learning disability. A garden area provided a welcoming and engaging outdoor space, containing raised planting beds, flower boxes, outdoor seating, and a secure area with a badminton net. This provided safe and well maintained spaces for people to participate in leisure activities and spend time outdoors.\u003C/p\u003E\u003Cp\u003EWe observed a sensory room located within a cabin in the front garden. The room had recently been redecorated and was equipped with beanbags, speakers, sensory resources and sensory lighting to provide people with a calming and therapeutic environment. At the previous inspection, we identified that consideration should be given to providing a sensory room within the service. During this inspection, we found this had been addressed, with the sensory room now established and available for people to use as part of their care and recovery. Staff told us the room was used to support emotional regulation, reduce distress and provide a therapeutic space away from the ward environment. People spoke positively about having access to the sensory room and told us it provided a quiet space where they could relax and manage periods of anxiety or overwhelm. One person told us, \u0022I like using the sensory room when I need some time out. It helps me feel calmer.\u0022\u003C/p\u003E\u003Cp\u003EThe size, scale (number of beds) and design of the premises did not compromise the quality of care, people\u2019s safety or their human rights. The service allowed people\u2019s dignity and privacy to be maintained, with each person having their own bedroom and bathroom. \u00A0\u003C/p\u003E\u003Cp\u003EStaff participated in quality improvement initiatives which had led to positive changes within the service. For example, following feedback and previous inspection findings, the provider established a sensory room to support people\u0027s emotional regulation and wellbeing. Staff described how ongoing review and evaluation of the service environment helped ensure facilities continued to meet people\u0027s therapeutic needs.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff shared key information about people\u2019s needs, risks and planned care to promote safe and consistent care. Nursing handovers took place at the start of each shift, with multidisciplinary handovers held on weekday mornings. We observed a multidisciplinary handover and found discussions were detailed, person-centred and focused on current needs.\u003C/p\u003E\u003Cp\u003EStaff reviewed any changes in people\u2019s presentation, risks and support needs since the previous handover, ensuring relevant information was shared across the team. Actions were clearly identified, allocated and monitored to ensure they had been completed, supporting effective communication, continuity of care and patient safety.\u003C/p\u003E\u003Cp\u003EStaff worked effectively with professionals and teams outside the service to coordinate people\u2019s care. This included care coordinators, local authority social services, community mental health teams, GPs and community learning disability services. Staff invited care coordinators and other relevant professionals to ward rounds and meetings about people\u2019s\u2019 care, although external professionals did not always attend. Regular multidisciplinary meetings and effective shift-to-shift handovers supported continuity of care and enabled staff to review people\u2019s individual needs, risks and care plans.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff routinely monitored people\u2019s care and treatment to assess their progress and support positive outcomes. Staff monitored people\u2019s physical health, mental state and wellbeing. During handovers, staff shared information about people\u2019s sleep, food and fluid intake, personal hygiene, medicines and engagement in activities. Any changes in a person\u2019s presentation, needs or risks were discussed at the daily multidisciplinary team meeting to inform ongoing care and treatment.\u003C/p\u003E\u003Cp\u003EStaff used recognised outcome measures to assess people\u2019s needs, monitor changes in their presentation and evaluate the effectiveness of treatment and interventions. These included the Health of the Nation Outcome Scales (HoNOS), People Health Questionnaire-9 (PHQ-9) and Generalised Anxiety Disorder-7 (GAD-7). Records showed that these measures were completed regularly and used alongside clinical review to monitor people\u2019s symptoms, wellbeing and progress.\u003C/p\u003E\u003Cp\u003EPeople\u2019s progress was reviewed during ward rounds and clinical improvement meetings and against their individual recovery goals. Staff also used a safety formulation tool to map each person\u2019s journey from admission through to discharge, supporting an ongoing understanding of their needs, risks, strengths and progress.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported people to maintain and improve their physical health and wellbeing and to live healthier lives. Staff worked with people to identify and record their physical health needs within care plans and monitored progress over time. Staff regularly completed physical health observations, including pulse, temperature, weight, height and blood pressure. Staff also recorded information about people\u0027s medicines, food and fluid intake, personal hygiene and sleep in daily records.\u00A0\u003C/p\u003E\u003Cp\u003EPeople had access to physical healthcare and specialist input when required. People were reviewed promptly by a doctor if they became physically unwell.\u003C/p\u003E\u003Cp\u003EPeople were supported to make healthier lifestyle choices and encouraged to engage in activities that promoted their overall wellbeing. Staff supported people to access smoking cessation services, and the service continued to operate as a smoke-free and vape-free site. At the previous inspection, we identified that further consideration was required regarding the implementation of the smoke-free policy. At this inspection, we found that appropriate action had been taken to address this, and the policy was being effectively embedded within the service.\u003C/p\u003E\u003Cp\u003EPeople also had access to a range of groups and activities designed to support healthy living, including opportunities to develop knowledge and skills to maintain a healthier lifestyle. These included activities focused on physical exercise, community walks, access to local gyms and sports facilities, healthy eating sessions, meal planning and cooking activities within the activities of daily living (ADL) kitchen. Staff also supported people to access smoking cessation support and encouraged participation in outdoor activities to promote physical wellbeing. Managers demonstrated a commitment to further enhancing people\u0027s physical wellbeing and were exploring plans to install an outdoor gym, which would provide additional opportunities for people to participate in regular physical activity.\u003C/p\u003E\u003Cp\u003EThese arrangements supported people to manage their health and wellbeing, maintain their independence and make informed choices about living healthier lives.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EOur overall rating of responsive at Cygnet Bostall House, Wards for people with learning disabilities or autism is good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff worked with external organisations to provide people with opportunities to take part in activities that reflected their individual interests and preferences. For example, staff supported one person to attend a non-contact boxing session each week.\u003C/p\u003E\u003Cp\u003EStaff supported people to maintain relationships with their families and carers. They worked with external services when people were preparing for discharge to support continuity of care and ensure appropriate arrangements were in place. The service offered individualised transition periods to support people moving to a new placement. This could include staff from the receiving service spending time with the person at Bostall House before discharge, or Bostall House staff supporting the person at their new service for an agreed period. This helped people become familiar with new staff and environments and supported continuity during the transition between services.\u003C/p\u003E\u003Cp\u003EDuring the inspection, we observed that there was only one multifunctional meeting room available for one-to-one and group sessions. The service was aware of the impact of having limited spaces for therapeutic activities and private meetings and encouraged staff to report when this impacted their work. \u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure that people could access the care, support and treatment they needed when they needed it.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had a structured referral and assessment process to determine whether it could safely meet people\u2019s needs before admission. Managers considered people\u2019s individual needs and current risks as part of the assessment. The service did not accept people whose level of acuity was assessed as too high for the service to safely manage. Where appropriate, reasonable adjustments were considered to support individual needs. For example, staff assessed and planned for the needs of people with mobility difficulties to ensure the environment, equipment and support arrangements enabled them to access the service safely and participate in rehabilitation activities. Care plans reflected individual mobility needs and identified any assistance, aids or adaptations required to promote independence and reduce the risk of falls or injury\u00A0\u003C/p\u003E\u003Cp\u003EStaff planned for discharge and worked with care coordinators and relevant external services once people were identified as ready to leave the service. Staff told us people were not discharged until a suitable and safe placement had been identified that could meet their ongoing needs. This supported continuity of care and reduced the risk of people being discharged without appropriate support in place. During our inspection, we observed that 2 people were actively being prepared for discharge over the following weeks. Staff were working with the individuals, their care coordinators and community services to ensure appropriate accommodation, support arrangements and follow-up care were in place prior to discharge. This demonstrated a proactive and person-centred approach to discharge planning, aimed at supporting positive outcomes and reducing the risk of readmission.\u003C/p\u003E\u003Cp\u003EThere was adequate medical cover available during the day and at night. Medical staff could attend the ward promptly in an emergency, and people could access acute hospital services when required.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EManagers and staff demonstrated an understanding of how discrimination and inequality could affect people from diverse backgrounds. They understood their responsibilities to promote equality, respect people\u2019s rights and ensure care and support was provided in a fair and inclusive way. Information displayed throughout the service promoted equality, diversity and inclusion and reflected the diverse needs of people using the service. The service recognised and celebrated a range of cultural, religious and awareness events throughout the year, including Eid, Diwali, Christmas, Pride Month, Black History Month and Mental Health Awareness Week. Information about these events was shared with people and activities were arranged to support participation where appropriate. This helped promote understanding, inclusion and a culture where people felt respected, valued and supported to express their individual identities, beliefs and backgrounds.\u003C/p\u003E\u003Cp\u003EStaff considered people\u2019s individual needs and protected characteristics when planning and delivering care. Organisational policies and procedures supported staff to promote equality, diversity and people\u2019s human rights. In line with national guidance, all staff had completed autism awareness and learning disability training, supporting their understanding of how care may need to be adapted to meet the needs of people at the service.\u003C/p\u003E\u003Cp\u003EThe service supported people from a range of religious and cultural backgrounds. We saw that staff routinely asked people about their religious and cultural needs as part of the admission process and recorded these so they could be considered when planning and providing care. Staff described how they made adjustments to support people\u2019s individual cultural and religious needs where these were identified. For example, meat provided at the service was changed to Halal.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service supported people and carers to provide feedback, raise concerns and make complaints about their care and treatment. People and their families told us they understood how to make a complaint and felt comfortable raising concerns with staff, including the ward manager. Information about how to raise concerns or make a complaint was displayed in communal areas in an accessible format and included in the people information pack.\u003C/p\u003E\u003Cp\u003ECommunity meeting minutes showed that people had regular opportunities to raise concerns and provide feedback. Staff provided updates at the start of meetings about actions taken in response to issues raised previously, helping people to understand how their feedback had been acted on.\u003C/p\u003E\u003Cp\u003EStaff understood the complaints policy and knew how to support people to raise concerns. Managers investigated complaints, provided feedback following investigations and shared learning with staff. Complaints, themes and trends were reviewed through clinical governance and improvement meetings and discussed with ward teams to support learning and improvements in care. Compliments were also shared to recognise good practice.\u003C/p\u003E\u003Cp\u003ERecords showed that complaints were generally responded to within expected timescales, and where there were delays, people were kept informed. In the 6 months before the assessment, the service had received 2 complaints, which were investigated and not upheld. Complaints were reviewed to identify learning and staff were informed of investigation outcomes and any actions required.\u003C/p\u003E\u003Cp\u003EStaff understood the importance of ensuring people who raised concerns were treated fairly and were not subject to discrimination or harassment as a result of making a complaint.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service placed people at the centre of their care and treatment. People were involved in decisions about their care and worked with staff to respond to changes in their needs and preferences.\u003C/p\u003E\u003Cp\u003EStaff met with people regularly to seek their views about their care and treatment. This included one-to-one sessions with named nurses and discussions during multidisciplinary team meetings. Staff monitored people\u2019s wellbeing and shared relevant changes in their needs or risks during daily handovers to support continuity of care.\u003C/p\u003E\u003Cp\u003EPeople Bedrooms were spacious, with en-suite wet rooms and views over either the front or rear garden. Bedrooms contained a bed, desk, chair and wardrobe, and people could personalise their rooms with their own televisions and stereos or radios. People had access to a safe for their personal belongings, for which they held the key, and people had keys to their own bedrooms.\u003C/p\u003E\u003Cp\u003EPeople could use smartphones and other electronic devices, subject to individual risk assessments. Where a person was assessed as unable to safely use their own phone, they could access a unit phone, which was for calls only and did not provide access to the internet. This supported people to maintain contact with others who were important to them while managing identified risks.\u003C/p\u003E\u003Cp\u003EStaff recognised and respected people\u2019s individual needs, preferences and backgrounds. They considered people\u2019s personal, cultural, social and religious needs and took time to understand what was important to each person. We observed examples of staff supporting people to choose activities that reflected their individual interests and preferences, including how they wished to use their Section 17 leave. This supported people to exercise choice and receive person-centred care.\u003C/p\u003E\u003Cp\u003EA laundry room was located on the second floor, where peoples could complete their own laundry with staff support.\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported people, where appropriate, to consider longer-term decisions about their care, treatment and discharge. For example, one person was self-administering their medicines to support the development of skills and independence in preparation for discharge into the community.\u003C/p\u003E\u003Cp\u003EStaff worked collaboratively with the multidisciplinary team and relevant external agencies to plan and coordinate care for people with complex needs. Ward staff liaised with a supported accommodation provider and supported a planned transition period between the ward and the new provider. This helped promote continuity of care and supported the person\u2019s transition to their new placement.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff supported people to understand their rights and how to raise concerns or make a complaint. We observed posters and leaflets throughout the service containing information about people\u2019s rights, complaints, safeguarding, treatment and local services. Key information was available in easy-read formats to support people\u2019s understanding and accessibility.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service monitored people\u2019s rights under Section 132 of the Mental Health Act, which requires detained peoples to be provided with information about their legal rights and detention.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff involved families and carers in people\u2019s care where appropriate and with people\u2019s consent. People were provided with information about their treatment.\u00A0\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe service had systems in place to maintain the confidentiality and security of people records. All staff had completed information governance awareness training.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff understood their responsibilities for notifying relevant external organisations of specified events and incidents. This included submitting statutory notifications to CQC when required.\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EOur overall rating of safe at Cygnet Bostall House, Wards for people with learning disabilities or autism is good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had systems in place to assess, monitor and manage infection risks and to share concerns with relevant external agencies when required.\u003C/p\u003E\u003Cp\u003EAll areas we visited were clean, well maintained and appropriately furnished. People who used the service raised no concerns about cleanliness. During our inspection, we observed housekeeping staff regularly cleaning high-touch areas.\u003C/p\u003E\u003Cp\u003EStaff followed infection prevention and control procedures, including appropriate hand hygiene practices. Hand sanitiser was readily available throughout the service.\u003C/p\u003E\u003Cp\u003EThe service completed regular infection prevention and control audits, including hand hygiene audits. Findings and any actions identified were shared with staff through handovers and team meetings.\u003C/p\u003E\u003Cp\u003EStaff completed infection prevention and control training, with the service reporting 100% compliance.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service always worked well with people to fully understand and manage risks by thinking holistically. They provided care that fully met people\u2019s needs and was safe, supportive and enabled people to do the things that mattered to them. Staff assessed and managed risks to people and themselves well and followed best practice in anticipating, de-escalating and managing agitation.\u00A0\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWe reviewed 4 people\u2019s care records. Records showed staff completed comprehensive risk assessments that considered people\u2019s individual risk factors. Risk assessments were reviewed fortnightly as part of ward rounds and following incidents and were updated when new or changing risks were identified. Each record also contained a safety formulation tool to support staff\u0027s understanding and management of individual risks.\u003C/p\u003E\u003Cp\u003EStaff discussed people\u2019s current risks at daily multidisciplinary team meetings, including recent incidents, emerging concerns and any changes to risk, any actions discussed during meetings were assigned to a named member of staff and follow up on. We observed one of these meetings and saw these were facilitated effectively, well attended with minimal disruptions, and discussions were appropriately detailed and people-focused.\u00A0\u003C/p\u003E\u003Cp\u003EStaff told us they used de-escalation techniques before considering physical restraint and that restraint was only used when necessary to maintain the safety of a person and others. In the previous 6 months, there had been 1 incident where staff used a physical hold as a restraint. This did not involve prone (face-down) restraint.\u003C/p\u003E\u003Cp\u003ERecords showed that staff met regularly with people to review their risks and involve them in discussions about their care and treatment plans. People told us they felt involved in decisions about their care and were able to discuss their goals, progress and support needs with staff. One person said staff listened to their views and worked with them to adjust their support when their needs changed.\u003C/p\u003E\u003Cp\u003EEvery person had an individualised care plan which included guidance for staff on how to support them when they became distressed. These plans identified personal triggers, early warning signs and preferred de-escalation strategies, helping staff to respond in a person-centred way and reduce the likelihood of restrictive interventions. Records demonstrated that these plans were reviewed regularly with people and updated to reflect their current needs and preferences\u003C/p\u003E\u003Cp\u003EManagers told us the service did not use chemical restraint and described this as part of its approach to reducing inappropriate psychotropic medication use.\u003C/p\u003E\u003Cp\u003EWe reviewed a sample of people engagement and observation records. The records were completed thoroughly, with no gaps identified.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service had a positive culture of safety based on openness and honesty. Safety events were reported and investigated thoroughly and lessons were learned to continually identify and embed good practices.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff understood which incidents and near misses should be reported and how to report them. All staff had access to the electronic incident reporting system and told us they felt able to raise concerns.\u003C/p\u003E\u003Cp\u003EManagers reviewed reported incidents. Incidents as well as learning were discussed at daily handovers, multidisciplinary team meetings and monthly clinical governance and team meetings. Most staff we spoke with were able to describe recent incidents and the learning arising from them.\u003C/p\u003E\u003Cp\u003EThere had been no serious incidents in the previous 12 months. Managers told us that, should a serious incident occur, it would be investigated and the findings, actions and learning would be shared with staff.\u003C/p\u003E\u003Cp\u003EThe service monitored incidents to identify trends, including patterns relating to individual people, and took action in response to identified risks. For example, managers identified an increase in incidents of violence and aggression following the admission of a new person. The multidisciplinary team reviewed the person\u0027s needs and risks and determined that the service was not the most appropriate environment to meet their needs safely. A plan was developed to support the person to move to a more suitable setting.\u003C/p\u003E\u003Cp\u003ERecords showed that staff and people accessing the service were offered support and debriefs following incidents. Nurses led post-incident debriefs to consider what had happened, what had worked well and what could have been done differently.\u00A0\u003C/p\u003E\u003Cp\u003EThe service considered learning from incidents across the wider organisation, including incidents at other hospitals. Where needed, learning was shared and embedded across hospital sites.\u00A0\u003C/p\u003E\u003Cp\u003EStaff understood the duty of candour and their responsibility to be open and transparent with people and their families when things went wrong.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure that medicines and treatments were safe and met people\u2019s needs, capacities and preferences. They involved people in planning, including when changes happened.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff stored and managed medicines and prescribing records safely. We reviewed 4 peoples medicines administration records. Records contained relevant information, including known allergies, and staff recorded when medicines had been administered as prescribed.\u003C/p\u003E\u003Cp\u003EThe service had introduced an electronic medicines management system. We observed that people\u2019s photographs were not included on the electronic system to support identification before medicines were administered. Staff told us they would seek a person\u2019s consent to add photographs. In the interim, staff had access to people\u2019s paper records containing additional identifying information, which could be used to confirm a people\u0027s identity before administering medicines.\u003C/p\u003E\u003Cp\u003EAccess to medicines storage areas was restricted to authorised staff. In line with national guidance, controlled drugs were stored securely, and staff maintained appropriate records of controlled drugs held at the service. The service had established processes for the ordering, storage, administration and disposal of medicines.\u003C/p\u003E\u003Cp\u003EMedicines records were regularly reviewed by the ward manager to support safe prescribing and administration. An external pharmacist attended the service regularly and completed medicines audits. Staff reviewed audit findings, acted where improvements were identified and shared learning through staff meetings. Medicines safety alerts and learning from medicines incidents were also used to support improvements in practice.\u003C/p\u003E\u003Cp\u003EThe service had arrangements for medicines reconciliation when people were admitted or transferred between services. Medicines information was obtained before admission and used by the doctor when prescribing. Nurses checked the information for discrepancies before administering medicines, and an external pharmacist completed further medicines reconciliation when attending the service.\u003C/p\u003E\u003Cp\u003EStaff monitored the effects of medicines on people\u2019s physical health and medicines were reviewed by prescribers. Staff understood and applied the principles of STOMP (Stopping Over-Medication of People with a Learning Disability, Autism or Both). Positive behaviour support plans were in place, and staff supported people to be involved in decisions about their medicines wherever possible. Information was shared with the person prescribed the medication, in an accessible format via leaflets and print outs where easy read format was used.\u003C/p\u003E\u003Cp\u003EAt the time of our inspection, 1 person was self-administering their medicines. The person had been risk assessed to ensure this could be done safely, and the ward manager completed monthly audits of the arrangements.\u003C/p\u003E\u003Cp\u003ERelevant staff completed medicines management training and a competency assessment as part of their induction. Managers reassessed staff competency when concerns or patterns were identified, for example, following medicines administration errors.\u003C/p\u003E\u003Cp\u003EMedicines were administered in accordance with Mental Health Act consent to treatment requirements, and the forms we reviewed reflected this. The service also had arrangements to ensure people had a sufficient supply of their prescribed medicines.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EManagers had calculated the number and skill mix of nurses and healthcare assistants required to safely meet people\u0027 needs. Staffing levels were adjusted according to people\u2019s needs and risks, including when people required enhanced observations or following a new admission.\u003C/p\u003E\u003Cp\u003EStaff told us there were enough staff on each shift to meet people\u2019s needs. This included supporting enhanced observations, regular people engagement, escorted leave and activities both within and outside the service, while ensuring staff were able to take appropriate breaks.\u003C/p\u003E\u003Cp\u003EPeople using the service told us their escorted leave was rarely cancelled because of staffing levels. During the inspection, we observed staff supporting people to access their leave. Staff and people using the service attended a planning meeting each morning to help coordinate planned escorted leave and activities. The staffing arrangements also ensured there were sufficient, appropriately trained staff available to carry out physical interventions safely when required.\u003C/p\u003E\u003Cp\u003EThere was adequate medical cover during the day and at night, and a doctor could attend the service promptly in an emergency.\u003C/p\u003E\u003Cp\u003ENew staff completed an induction before commencing their duties. This included an induction booklet containing relevant policies and important information about the service, which staff completed with the nurse in charge. Bank staff also received an induction and were required to understand the service\u0027s procedures before starting their shift. Bank use was low and, where bank staff were used, managers sought to use staff who had previously worked at the service or regularly worked there and were familiar with people.\u003C/p\u003E\u003Cp\u003EStaff were required to complete mandatory training relevant to the needs of the people group. All staff had completed training in autism and learning disabilities in line with national guidance. Refresher training was provided where required.\u003C/p\u003E\u003Cp\u003EStaff received monthly clinical and managerial supervision, which provided opportunities to discuss people\u2019s care, safeguarding, audits and identified learning. Supervision also included discussions about staff wellbeing, sickness and annual leave. Completion of monthly supervision averaged 91% over the previous 6 months. Managers told us that periods of increased acuity on the ward could affect their ability to complete supervision as planned. The annual appraisal completion rate for 2026 was 87%.\u003C/p\u003E\u003Cp\u003EStaff and managers described positive staff morale, and staff told us they felt supported by colleagues and managers.\u003C/p\u003E\u003Cp\u003EPeople using the service had regular one-to-one meetings with their named nurse and told us they saw their named nurse regularly.\u003C/p\u003E\u003Cp\u003EThe service completed appropriate pre-employment checks, including criminal record checks, verification of qualifications and right-to-work checks. Managers told us criminal record checks were renewed every 3 years, with the human resources team monitoring when renewals were due.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EAlthough the service detected and controlled potential risks in the care environment well in most areas, there were a small number of areas where this could be improved.\u00A0\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EIn the garden, a stone staircase had fallen into disrepair and had been fenced off. A temporary staircase had been installed; however, the steps were uneven and some people may have required support to use them safely. The provider should consider reviewing the garden environment to ensure it fully meets the needs of the people using the service and supports safe and accessible access to outdoor spaces.\u003C/p\u003E\u003Cp\u003EAlthough the service completed ligature risk reviews of the environment and we observed several environmental adaptations already in place and designed to reduce ligature risks, including anti-ligature curtain rails and bathroom door handles, \u00A0we identified ligature risks associated with window handles and bedroom door handles in several bedrooms at the front of the building. Managers responded promptly and ordered ligature-reduction equipment for installation. Similar concerns regarding door handles had been identified at the previous inspection, indicating environmental risks had not been fully addressed in a timely way and required continued management and oversight. At the time of inspection, these risks were being mitigated through individual risk assessments, staff observations and risk management plans. The effectiveness of these controls depended on the level of risk presented by the people accommodated at the service and ongoing staff vigilance. While managers recognised and managed ligature risks, further work was required to ensure the environment was as safe as reasonably practicable.\u003C/p\u003E\u003Cp\u003EThe service had several blanket restrictions in place which managers told us reflected the current risks presented by the patient group. We saw evidence that these restrictions were linked to identified risks and were reviewed when people\u0027s needs or risk profiles changed. However, the provider should ensure there is clear oversight of blanket restrictions, including maintaining a record of all restrictions in place and demonstrating they are regularly reviewed, proportionate and removed when no longer required.\u003C/p\u003E\u003Cp\u003EWe found several areas of good practice. Staff demonstrated awareness of both environmental hazards and risks specific to individual people. Staff knew where ligature cutters were located and people had individual risk management plans in place.\u003C/p\u003E\u003Cp\u003EMost people we spoke with told us they felt safe at the service. The design of the building presented some observation challenges. People could move freely throughout the three-storey service, including between bedrooms, communal areas and external spaces. Convex mirrors had been installed on stairwells between the ground and first floors to improve visibility; however, similar measures had not been implemented between the first and second floors. This created areas where people could not be directly observed at all times. Despite this, the service had measures in place to mitigate these risks, including staff observations, CCTV monitoring and individual risk assessments completed prior to and during admission to ensure the environment remained suitable for people\u0027s needs. Staff demonstrated awareness of individual risks and how these should be managed. Overall, staff were able to mitigate many of the limitations created by the building layout, although opportunities remained to further improve observation of all areas.\u003C/p\u003E\u003Cp\u003EWe saw current personal emergency evacuation plans (PEEPs) for all people using the service. Copies were stored in an emergency grab bag in the nurses\u0027 office on the ground floor.\u00A0\u003C/p\u003E\u003Cp\u003EStaff had easy access to personal alarms and radios to summon assistance and communicate with colleagues in an emergency. People had access to nurse call systems in their bedrooms, enabling them to request staff assistance when needed.\u003C/p\u003E\u003Cp\u003EPeople had access to communal areas and could move freely around them. There was a small television lounge which benefited from natural light and provided access to the front garden. It contained seating and a television.\u003C/p\u003E\u003Cp\u003EPeople had access to two garden areas. The rear garden provided a large outdoor space with a freestanding basketball hoop, seating, and two decked areas. The garden was steep and may have been difficult for some people to access independently. Staff told us they supported people to use the garden where required and remained present when people were accessing the area.\u003C/p\u003E\u003Cp\u003EThe dining room included an activity of daily living (ADL) kitchen, which people could be used with staff support. People had access to an unlocked fridge containing water and their own food. Utensils, food and other equipment were stored in locked cupboards where appropriate. Sharps and potentially dangerous utensils were securely stored and had to be signed out when required.\u00A0\u003C/p\u003E\u003Cp\u003EEmergency resuscitation equipment was available in the nurses\u0027 office on the ground floor and an office on the second floor. Staff knew where the equipment was located.\u003C/p\u003E\u003Cp\u003EThe service met fire safety requirements and completed regular fire drills. There was a fire warden allocated at each shift and staff knew who this was\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service had a referral and assessment process in place to ensure it received relevant information to determine whether people\u0027 needs could be safely met. Most referrals came from integrated care boards (ICBs).\u003C/p\u003E\u003Cp\u003EWhen a referral was considered potentially appropriate, staff from the service met with the person to assess their individual needs and risks. The assessment included liaison with community teams and carers, where appropriate, to gather additional information and support decisions about whether the service could safely meet the person\u0027s needs.\u003C/p\u003E\u003Cp\u003EStaff worked with relevant health and social care services to coordinate care and support continuity, both during the person\u0027s admission and when planning for discharge.\u003C/p\u003E\u003Cp\u003EPolicies and the approach to care and treatment to support people\u2019s behavioural needs were not reliant on restrictive practices or seclusion.\u003C/p\u003E\u003Cp\u003EThe provider understood the inherent risk associated with closed cultures. They had measures in place to ensure these cannot develop. This included site visits from senior managers, on site leadership who led by example and addressed any poor conduct immediately. Rotas were not too rigid to allow cliques or isolated work habits to take root. The service actively invited relatives and external advocates into the environment as equal partners in care. Staff shared that they were comfortable to challenge colleagues as they felt the open culture allowed them to, without this being used against each other.\u003C/p\u003E\u003Cp\u003EThe care model focused on people\u2019s strengths, discovering and promoting what individuals can do and focussing on how this could be encouraged and supported within the local community amenities.\u00A0\u003C/p\u003E\u003Cp\u003EThe service had established positive working relationships with integrated care boards and other commissioning bodies responsible for funding people\u2019s care. These relationships supported effective communication, service planning, and continuity of care.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service worked with people and healthcare partners to understand what being safe meant to them and the best way to achieve that. They concentrated on improving people\u2019s lives while protecting their right to live in safety, free from bullying, harassment, abuse, discrimination, avoidable harm and neglect. The service shared concerns quickly and appropriately.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EIn line with national guidance, staff received level 3 safeguarding training for adults and children. This covered how to identify people at risk of, or experiencing, abuse or harm and how to work with other agencies to protect them. Most staff were up to date with this training, with a compliance rate of 87%.\u003C/p\u003E\u003Cp\u003EThe service had a named safeguarding lead, and staff knew who this was and how to access safeguarding advice and support.\u003C/p\u003E\u003Cp\u003EStaff understood their safeguarding responsibilities and were able to describe examples of safeguarding concerns. We saw evidence that concerns were referred to the local authority within appropriate timescales and that staff worked with external agencies to protect people from harm.\u003C/p\u003E\u003Cp\u003EThe service had safeguarding information and its safeguarding policy available in formats that were accessible to people. This supported people to understand safeguarding, the processes in place to protect them from harm, and how to raise a concern if they felt unsafe.\u00A0\u003C/p\u003E\u003Cp\u003EThe service had an overarching approach to reducing restrictive practices and promoting the least restrictive care possible. Staff demonstrated an understanding of restrictive practice and considered alternative strategies before implementing any restrictions. Restrictions were individualised, risk-assessed and proportionate to people\u0027s needs.\u003C/p\u003E\u003Cp\u003ETo help maintain the safety and wellbeing of people under 18 years of age, children were not permitted to visit people at the service. Where visits involving children were appropriate, these were arranged to take place in the community rather than on the service premises. This was made clear to people and their families and we did not hear from anything that this had been an issue for them.\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EOur overall rating of well-led at Cygnet Bostall House, Wards for people with learning disabilities or autism is good.\u003C/p\u003E",
+                "commentaryDate": "2026-11-05",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation.\u00A0\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EManagers had the skills, knowledge and experience to lead the service effectively. They demonstrated a good understanding of the service and were able to explain how staff worked together to provide safe and person-centred care. At the time of the inspection, the service manager had been in post for 9 years, providing stable leadership and oversight.\u003C/p\u003E\u003Cp\u003EStaff spoke positively about their managers, describing them as visible, approachable and supportive. They told us managers were accessible and fostered a positive working environment. Senior staff demonstrated a proactive approach to quality improvement, responding promptly to concerns and taking action to address identified areas for development.\u003C/p\u003E\u003Cp\u003EThe service supported staff learning and development. Opportunities were available for staff to progress their skills and careers, and we saw examples of staff being supported to undertake relevant qualifications while working within the service. This helped develop staff knowledge, competence and professional growth.\u003C/p\u003E\u003Cp\u003EAt the previous inspection, we identified that improvements were required in relation to the completion of staff surveys and the implementation of actions arising from feedback. During this inspection, we found that progress had been made in this area. Survey completion rates had improved, and managers demonstrated that they were reviewing responses, developing action plans, and implementing changes in response to feedback received. Learning and improvements arising from staff surveys were shared with staff, helping to promote engagement, transparency, and a culture of continuous improvement.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff told us they felt able to raise concerns and were aware of the provider\u2019s whistleblowing procedures. They described a culture in which concerns could be raised without fear of detriment and felt confident that issues would be acted upon appropriately.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EThe provider had a Freedom to Speak Up process in place to support staff in raising concerns. Information about this was displayed within the service and staff were aware of the Freedom to Speak Up Champion, providing an additional route for escalating concerns and seeking advice.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EPeople were given opportunities to provide feedback about the care and treatment they received. This included participation in community meetings, discussions during one-to-one sessions with staff, and access to the complaints process.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EManagers and staff had access to feedback from people using the service, carers and staff and used this information to drive service improvements. For example, people were involved in decisions about menu planning. The service adapted food choices to reflect individual preferences, needs and cultural requirements.\u00A0\u003Cbr\u003E\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe findings from the other key questions demonstrated that local governance arrangements were generally effective in identifying issues, monitoring performance, and implementing improvements.\u003C/p\u003E\u003Cp\u003EThe service had a structured framework for team and governance meetings, which ensured key areas were routinely reviewed and discussed, including incidents, complaints, audits, and lessons learned. This supported ongoing service development and continuous improvement.\u003C/p\u003E\u003Cp\u003EManagers held regular monthly governance meetings to review a range of operational and quality indicators, including health and safety, incidents, audit outcomes, and complaints. These meetings promoted a culture of openness, accountability, and learning.\u003C/p\u003E\u003Cp\u003EManagers and senior staff had access to a range of information relating to service performance, staffing, and peoples care, which enabled them to monitor quality and address concerns in a timely manner. Performance issues were identified and managed appropriately.\u003C/p\u003E\u003Cp\u003EStaff understood how to report incidents using the provider\u0027s electronic reporting system. Incidents were routinely discussed within team meetings, supporting shared learning and helping to reduce the risk of recurrence.\u003C/p\u003E\u003Cp\u003EStaff understood the arrangements for working with other teams, both within the provider and external, to meet the needs of the peoples.\u00A0\u00A0The service made safeguarding referrals to the local authority when concerns were identified and demonstrated an understanding of its safeguarding responsibilities.\u003C/p\u003E\u003Cp\u003EStaff maintained and had access to the risk register at ward and organisational level and were able to escalate concerns when required. Managers reviewed risks regularly and implemented actions to mitigate identified concerns. Staff demonstrated an awareness of current risks affecting the service and understood the processes for raising and managing these. The service also had a business continuity plan in place which outlined arrangements for responding to emergencies and maintaining safe service delivery during disruptive events. This included contingency plans for situations such as power outages, adverse weather conditions, staffing shortages and infectious disease outbreaks, including flu. The plan set out actions to minimise disruption, maintain essential services and ensure people continued to receive safe care during emergencies. This provided assurance that the service had considered potential risks and had arrangements in place to support continuity of care.\u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology needed to do their work. The information technology infrastructure, including the telephone system, worked well and helped to improve the quality of care.\u00A0\u00A0\u003C/p\u003E\u003Cp\u003EInformation governance systems included confidentiality of people\u2019s records.\u00A0\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff were provided with opportunities to develop their skills, knowledge, and professional practice. Mandatory training was available to all staff, alongside regular supervision and annual appraisals, supporting staff development and ensuring they remained competent in their roles.\u003C/p\u003E\u003Cp\u003EThe service had established systems to support staff reflection, learning, and continuous improvement. Team meetings, nursing forums, and clinical governance meetings were held in line with the provider\u2019s expected timescales, ensuring staff had regular opportunities to discuss service developments, share information, and raise concerns.\u003C/p\u003E\u003Cp\u003EClear processes were in place to identify, review, and disseminate learning from incidents, complaints, audits, and examples of good practice. Learning was routinely shared through team meetings and governance structures, enabling staff to reflect on practice and implement improvements where required. These arrangements supported a positive learning culture, with staff encouraged to develop professionally and contribute to the ongoing improvement of the service.\u003C/p\u003E\u003Cp\u003EThe service participated in relevant accreditation schemes. \u00A0This hospital had been accredited By the Royal College of Psychiatrists\u2019 quality network for learning disability services. This quality network supports services to evaluate and improve management processes and standards of care through a process of self and peer review.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003ELeaders demonstrated a clear understanding of their key partners and the communities they served, and actively engaged with external stakeholders, including commissioners, care coordinators, and other healthcare professionals, to support the delivery and development of services.\u003C/p\u003E\u003Cp\u003EPeople using the service, carers, and staff had opportunities to meet with members of the senior leadership team to provide feedback, share experiences, and contribute to service improvement. This helped ensure leaders remained visible and informed about issues affecting the service.\u003C/p\u003E\u003Cp\u003EThe service had developed strong links with community organisations and local services to support people\u2019s engagement in meaningful activities and promote social inclusion. Staff worked effectively in partnership with a wide range of external agencies, including health and social care professionals, local authority safeguarding teams, and other specialist services, to ensure people received coordinated and person-centred care.\u003C/p\u003E\u003Cp\u003EThe service had established positive working relationships with integrated care boards and other commissioning bodies responsible for funding people\u2019s care. These relationships supported effective communication, service planning, and continuity of care.\u003C/p\u003E\u003Cp\u003EStaff engaged with their respective professional bodies and, in some cases, contributed to the wider sector through undertaking specific professional roles and responsibilities. They worked collaboratively with multidisciplinary teams to deliver holistic care that met people\u2019s individual needs, supporting access to a variety of health, social care, and community-based services.\u003C/p\u003E\u003Cp\u003EEffective communication systems were in place between the service and partner organisations, enabling information to be shared appropriately and ensuring people experienced seamless, joined-up care across different providers and agencies.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and understanding challenges and the needs of people and their communities.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff demonstrated an understanding of, and commitment to, the service\u2019s vision and values, applying these consistently in their day-to-day practice. They described working collaboratively to deliver care, highlighting effective communication and teamwork across the multidisciplinary team.\u003C/p\u003E\u003Cp\u003EStaff were encouraged to contribute to discussions about developments and changes within the service and told us they had opportunities to share their views and provide feedback. Staff also reported that senior leaders operated an open-door policy and were approachable and responsive to concerns. This supported a culture of openness, engagement and continuous improvement.\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service demonstrated a clear commitment to valuing diversity within its workforce and fostering an inclusive and equitable working culture. Leaders showed awareness of the potential impact of discrimination and inequality on a diverse workforce and took steps to promote fairness and inclusion across the service.\u003C/p\u003E\u003Cp\u003EThe workforce was diverse, with staff employed from a range of international and cultural backgrounds. Recruitment and employment practices supported equality of opportunity, and managers described a culture in which discrimination was not tolerated. Staff did not raise any concerns regarding discrimination and felt that they were treated fairly and with respect.\u003C/p\u003E\u003Cp\u003EManagers made reasonable adjustments where required to enable staff to undertake their roles effectively. Staff told us they felt well supported in meeting their individual needs and described managers as responsive, approachable, and understanding.\u003C/p\u003E\u003Cp\u003EStaff also reported positive experiences of flexible working arrangements. Managers held regular conversations with staff to understand their circumstances, identify any support requirements, and implement appropriate adjustments where possible. This proactive approach contributed to a supportive, inclusive, and positive working environment in which said they staff felt valued and respected.\u003C/p\u003E\u003Cp\u003EThe overall provider had several staff networks that staff were able to become part of. This included an LGBTQ\u002B network, a women\u2019s network, disability network, multicultural network, men\u2019s health network and a staff carers network.\u00A0\u003C/p\u003E\u003Cp\u003EThe overall provider was accredited under several schemes supporting diversity and inclusion in the workforce. For example, they were accredited as a disability confident employer and age-friendly employer.\u00A0\u003C/p\u003E",
+                        "commentaryDate": "2026-11-05"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

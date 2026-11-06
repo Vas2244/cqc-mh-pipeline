@@ -1,0 +1,67 @@
+{
+  "locationId": "RRPT4",
+  "providerId": "RRP",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Enable Enfield Alcohol and Drug Service",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2017-11-03",
+  "deregistrationDate": "2024-11-05",
+  "dormancy": "N",
+  "onspdLatitude": 51.6621266,
+  "onspdLongitude": -0.0843775,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Vincent House",
+  "postalAddressLine2": "Nags Head Road",
+  "postalAddressTownCity": "Enfield",
+  "postalAddressCounty": "Middlesex",
+  "region": "London",
+  "postalCode": "EN3 7FN",
+  "uprn": "207171300",
+  "mainPhoneNumber": "02083794909",
+  "numberOfBeds": 0,
+  "constituency": "Enfield North",
+  "localAuthority": "Enfield",
+  "relationships": [
+    {
+      "relatedLocationId": "TAF004",
+      "relatedLocationName": "Enable Enfield Alcohol and Drug Service (EN3 7FN)",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

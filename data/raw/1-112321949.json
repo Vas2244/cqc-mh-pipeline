@@ -1,0 +1,117 @@
+{
+  "locationId": "1-112321949",
+  "providerId": "1-101655374",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Weka House",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-09",
+  "deregistrationDate": "2013-12-17",
+  "dormancy": "N",
+  "onspdLatitude": 51.597736,
+  "onspdLongitude": -0.072161,
+  "careHome": "Y",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "4 Elsden Road",
+  "postalAddressLine2": "Tottenham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N17 6RY",
+  "mainPhoneNumber": "02088088428",
+  "website": "www.akwacarehome.com",
+  "numberOfBeds": 4,
+  "constituency": "Tottenham",
+  "localAuthority": "Haringey",
+  "lastInspection": {
+    "date": "2013-09-13"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-1109298305",
+      "relatedLocationName": "Weka House",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "70102d8f-ec1b-42e7-972e-4987e208102c",
+      "reportDate": "2013-10-16",
+      "firstVisitDate": "2013-09-13",
+      "reportUri": "/reports/70102d8f-ec1b-42e7-972e-4987e208102c?20151016191357"
+    },
+    {
+      "linkId": "5d7b1e16-23ea-4a4f-9b99-8902388f29b7",
+      "reportDate": "2013-05-30",
+      "firstVisitDate": "2013-04-30",
+      "reportUri": "/reports/5d7b1e16-23ea-4a4f-9b99-8902388f29b7?20200129163919"
+    },
+    {
+      "linkId": "b10c0db9-7c19-4c6f-95bf-d692dd9ce2e1",
+      "reportDate": "2012-07-13",
+      "firstVisitDate": "2012-06-28",
+      "reportUri": "/reports/b10c0db9-7c19-4c6f-95bf-d692dd9ce2e1?20200430120000"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "locationId": "1-2341914794",
+  "providerId": "1-516591398",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "CASA Family Service, Resource Centre",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-03-07",
+  "deregistrationDate": "2018-11-29",
+  "dormancy": "N",
+  "onspdLatitude": 51.564945,
+  "onspdLongitude": -0.1134,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "86 Durham Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N7 7DT",
+  "numberOfBeds": 0,
+  "constituency": "Islington North",
+  "localAuthority": "Islington",
+  "lastInspection": {
+    "date": "2016-10-25"
+  },
+  "lastReport": {
+    "publicationDate": "2017-01-16"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-01-16",
+      "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-16",
+          "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-16",
+          "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-16",
+          "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-16",
+          "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-01-16",
+          "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60"
+        }
+      ]
+    },
+    "reportDate": "2017-01-16",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Inspected but not rated",
+        "reportDate": "2017-01-16",
+        "reportLinkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "4ec9793b-532e-42f9-9f37-70bf88d15d60",
+      "reportDate": "2017-01-16",
+      "firstVisitDate": "2016-10-25",
+      "reportUri": "/reports/4ec9793b-532e-42f9-9f37-70bf88d15d60?20210121004813",
+      "reportType": "Location"
+    }
+  ]
+}

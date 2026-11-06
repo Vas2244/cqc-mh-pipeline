@@ -1,0 +1,62 @@
+{
+  "locationId": "1-149806203",
+  "providerId": "1-128021566",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Cambian - Churchill Hospital",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-26",
+  "deregistrationDate": "2011-06-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.4972074,
+  "onspdLongitude": -0.1095606,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "22 Barkham Terrace",
+  "postalAddressLine2": "80 Lambeth Road, Lambeth",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE1 7PW",
+  "uprn": "200003374966",
+  "mainPhoneNumber": "02087356150",
+  "website": "www.cambiangroup.com",
+  "numberOfBeds": 70,
+  "constituency": "Bermondsey and Old Southwark",
+  "localAuthority": "Southwark",
+  "relationships": [
+    {
+      "relatedLocationId": "1-207202943",
+      "relatedLocationName": "Cygnet Churchill",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

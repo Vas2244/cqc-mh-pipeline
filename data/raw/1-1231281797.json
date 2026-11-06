@@ -1,0 +1,70 @@
+{
+  "locationId": "1-1231281797",
+  "providerId": "1-127871479",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "1st Stage",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-03-14",
+  "deregistrationDate": "2016-06-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.422799,
+  "onspdLongitude": -0.132424,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "2A Lewin Road",
+  "postalAddressLine2": "Streatham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW16 6JR",
+  "mainPhoneNumber": "02036594809",
+  "website": "www.hopeworldwide.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Streatham and Croydon North",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2014-07-09"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2681929277",
+      "relatedLocationName": "2nd Stage House",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-233460010",
+      "relatedLocationName": "1st Stage House",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

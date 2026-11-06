@@ -1,0 +1,59 @@
+{
+  "locationId": "1-408691234",
+  "providerId": "1-101683067",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Outreach Service (CDIS)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2012-05-03",
+  "deregistrationDate": "2013-11-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.37595,
+  "onspdLongitude": -0.00551,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Hawes Down Centre",
+  "postalAddressLine2": "Hawes Lane",
+  "postalAddressTownCity": "West Wickham",
+  "region": "London",
+  "postalCode": "BR4 9AE",
+  "numberOfBeds": 0,
+  "constituency": "Beckenham and Penge",
+  "localAuthority": "Bromley",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    }
+  ],
+  "inspectionAreas": []
+}

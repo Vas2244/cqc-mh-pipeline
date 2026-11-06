@@ -1,0 +1,1033 @@
+{
+  "locationId": "1-15767330198",
+  "providerId": "1-5959023839",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Orri Wimpole Street",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2023-06-27",
+  "dormancy": "N",
+  "onspdLatitude": 51.5171374,
+  "onspdLongitude": -0.1480263,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "80-81 Wimpole Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1G 9RE",
+  "uprn": "100023464823",
+  "mainPhoneNumber": "02039186340",
+  "website": "www.orri-uk.com",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Kerrie Louise",
+          "personFamilyName": "Jones",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "262",
+      "assessmentServiceName": "Specialist eating disorder services",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-07-24 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing exceptionally well.",
+            "rating": "Outstanding",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02309",
+            "commentary": "\u003Cp\u003EWe rated this service as outstanding. We found no breaches of regulation. \u003C/p\u003E",
+            "commentaryDate": "2026-07-24",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis is the first assessment for this service. This key question has been rated Outstanding. This meant people were truly respected and valued as individuals; and empowered as partners in their care in an exceptional service.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "narrative": "This service is exceptionally caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis is the first assessment for this service. This key question has been rated Good. This meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis is the first assessment for this service. This key question has been rated Outstanding. This meant services were tailored to meet the needs of individuals and delivered to ensure flexibility, choice and continuity of care.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "narrative": "This service is exceptionally responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis is the first assessment for this service. This key question has been rated\u003Cstrong\u003E \u003C/strong\u003EGood.\u003Cstrong\u003E \u003C/strong\u003EThis meant people were safe and protected from avoidable harm. \u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EThis is the first assessment for this service. This key question has been rated Good. This meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP19939",
+            "title": "Ongoing Assessment for Orri Wimpole Street",
+            "assessmentDate": "2025-12-18",
+            "assessmentPlanStatus": "Active",
+            "name": "Specialist eating disorder services",
+            "rating": "Outstanding",
+            "status": "Current",
+            "commentary": "\u003Cp\u003E\u003Cstrong\u003EDate of assessment:\u003C/strong\u003E17 and 18 March 2026\u003C/p\u003E\u003Cp\u003EThe service registered with CQC in June 2023 to deliver the regulated activity: Treatment of disease, disorder or injury. This was the first inspection of the registered Wimpole Street location following the relocation of the service from its previous premises in Hallam Street. Orri has been providing specialist eating disorder services since 2019, previously operating from Hallam Street, where it was inspected by CQC in 2021. \u003C/p\u003E\u003Cp\u003EORRI provides specialist intensive eating disorder treatment services to patients aged 13 and above who are living in the community. The service operates 5 days a week, including evenings, and offers patients the options of face-to-face day care, outpatient, and online therapy programmes. The therapeutic programmes involved individual therapies, groups, specialist dietician input and support with mealtimes and food preparation.\u003C/p\u003E\u003Cp\u003EThe service worked with patients within the United Kingdom and international patients. This is a privately funded service with some NHS contracts. The service has a registered manager and a nominated individual in place.\u003C/p\u003E\u003Cp\u003EORRI is registered to provide the following regulated activity:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003ETreatment of disease, disorder and injury\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EWe rated the service Outstanding.\u003C/p\u003E\u003Cp\u003EThe service demonstrated an exceptional standard of care, consistently treating people with remarkable kindness, empathy and compassion. Patients, carers and commissioners told us the staff were highly skilled, trained and compassionate about supporting people with an eating disorder. Patients and carers gave examples of where the service had gone above and beyond to support them.\u003C/p\u003E\u003Cp\u003EThe service fostered a proactive and deeply embedded culture of safety, built on openness, honesty and a genuine commitment to continuous improvement. Patients and staff felt confident to raise concerns, knowing they would be listened to, taken seriously and their concerns acted upon. The service demonstrated a good ability to learn from incidents, using learning to drive meaningful change and continually strengthen safe practice. Learning actions were monitored so that learning translated into sustained improvements.\u003C/p\u003E\u003Cp\u003EStaff completed all mandatory and specialist training, and leaders ensured they had the expertise, confidence and advanced skills required to deliver highly effective care. Care and treatment were consistently aligned with national guidance, evidence\u2011based practice and emerging best practice, demonstrating a strong commitment to continuous improvement.\u003C/p\u003E\u003Cp\u003EStaff reported feeling respected, supported and valued, which contributed to a positive, motivated culture focused entirely on delivering the best possible outcomes for people receiving care.\u003C/p\u003E\u003Cp\u003EThe online and in\u2011person services were very accessible, offering highly flexible and personalised options that were tailored to the individual needs, preferences and circumstances of the people using them. The service provided genuine flexibility, choice and control.\u003C/p\u003E\u003Cp\u003EThere was a deeply embedded culture of diversity, equality and inclusion, evident across all areas of the service. Staff consistently promoted inclusive practice, ensuring that people from all backgrounds felt welcomed, respected and fully supported.\u003C/p\u003E\u003Cp\u003EThe leadership, governance and culture in the service were used to drive and improve the delivery of high-quality, person-centred care. Leadership was strong. Leaders were visible, knowledgeable and highly supportive, fostering a culture of learning, development and professional growth.\u003C/p\u003E",
+            "commentaryDate": "2026-07-24",
+            "narrative": "The service is performing exceptionally well.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with 9 patients and 4 carers and reviewed patient feedback received by the service and commissioners.\u003C/p\u003E\u003Cp\u003EAll patients, carers and families we spoke with were overwhelmingly positive about the care and treatment they received from staff.\u003C/p\u003E\u003Cp\u003EPatients told us they were fully involved in all aspects of their care and worked collaboratively with staff to achieve their recovery goals. They described staff as \u201Ccaring\u201D, \u201Ccompassionate\u201D, \u201Crespectful\u201D, \u201Ckind\u201D \u201Cperson centred\u201D, \u201Cnon-judgemental\u201D and \u201Dprofessional\u201D. Patients reported feeling safe, had positive relationships with staff, and collaboratively worked with them to develop care plans and manage risk. Patients told us they had a voice and that staff acted on any feedback and concerns raised.\u003C/p\u003E\u003Cp\u003EPatients told us they enjoyed the wide number of therapies that were on offer.\u003C/p\u003E\u003Cp\u003ECarers told us they were involved in care discussions as appropriate and that the staff also provided them with support through one-to-one meetings, family therapy, the carers support groups and psycho-education. One carer told us, \u2018The people who run the service know what they are doing, I have the upmost respect and confidence in what they are doing\u2019.\u003C/p\u003E\u003Cp\u003EPatient feedback included: \u201Ctaking accountability for my recovery, having to be prepared, to shop and to meal plan and prep on a daily basis has given me the confidence that I am able to continue my journey with a newfound confidence and motivation\u201D. \u201CThere are lots of positives about Orri. It meets you where you are at, in your own environment at your own pace. They are caring, they are compassionate and they treat you as a human being rather than a patient which is not often felt in therapy\u201D. \u201CThe therapy is the best therapy I\u2019ve received, and all their staff are really well trained and understand eating disorders\u201D. \u0022I wish Orri was what everybody had, this is what treatment should be\u201D.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-07-24",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis was the first inspection of the registered Wimpole Street location following the relocation of the service from its previous premises in Hallam Street. This key question has been rated Outstanding. This meant people were truly respected and valued as individuals; and empowered as partners in their care in an exceptional service.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "narrative": "This service is exceptionally caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was exceptional at promoting people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EPatients were actively encouraged to work collaboratively with staff throughout their recovery journey. The service used a graded approach to developing nutritional independence, supporting patients to gradually take more responsibility for their own eating. Patients worked closely with dietitians to select their meals, helping them build confidence and ownership over their nutritional intake, for example sensory-informed meal support was provided and highly individualised to the needs of individual patients, such as meals adapted to accommodate significant texture sensitivities and avoidance of mixed wet and dry food combinations. Where appropriate, patients were supported to purchase their own snacks, and these were monitored and clearly documented within their care plan. All snacks brought into the service were checked by staff when the patient returned to the building to ensure they met individual dietary and clinical requirements.\u003C/p\u003E\u003Cp\u003EAs part of the admission process, neurodivergent patients were offered tailored support to help them become familiar with the service and environment, whether they were joining an online or in\u2011person programme. For example, the service provided easy read versions of key documents including pre-intake Information, consent forms, dietetic assessment documentation and treatment and intake assessment documentation. Where appropriate and with the patient\u2019s consent, parents and carers were also able to participate in this orientation to ensure a supportive transition into treatment.\u003C/p\u003E\u003Cp\u003EFamilies and carers were invited to attend a portioning clinic alongside staff and patients, so everyone received consistent information about appropriate portion sizes. Patients also had access to a therapeutic kitchen where they could prepare their own drinks and snacks, supporting independence and confidence around food. \u003C/p\u003E\u003Cp\u003EStaff had carefully considered how to support gradual re\u2011integration into food\u2011related activities in the community. They accompanied patients to restaurants to provide real\u2010world exposure to eating out, helping individuals practise skills in a supported environment. Within the dining room, the team created a wide range of experiences through both the food provided and the dining environment designed to simulate external situations. These included practice Christmas dinner, picnics, wedding receptions, Friday night dinners and dinner club where individuals would practice serving themselves and eating with others. Environments with less sensory stimulation were also created to provide environments with less sensory stimulus. Food was provided from different cultures and cuisines to support patients with gradual exposure whilst practicing in a safe environment. Each patients\u2019 needs were individually assessed throughout their treatment to ensure a neurodivergent and specific challenge needs are met. Patients were actively encouraged to request food/occasions and specific environments to address their individual recovery needs.\u003C/p\u003E\u003Cp\u003EThe dining room had been purposefully developed as a therapeutic environment rather than a clinical space. Different chair styles, heights and levels of support have been selected to reflect the range of seating patients were likely to encounter in restaurants, caf\u00E9s, educational settings and family homes. This supported the transfer of recovery skills beyond treatment while enabling personalised adjustments for individuals with sensory processing differences, autism, ADHD, physical needs or anxiety related to specific seating arrangements. \u003C/p\u003E\u003Cp\u003EFamilies and carers could access a range of family support and therapy programmes, ensuring they were fully involved in the person\u2019s recovery. This included a systemic family therapy programme focused on improving communication and family dynamics, an individual psychotherapy programme for parents or loved ones to help carers process their own experiences, and dedicated support for siblings. These interventions provided families with practical tools, emotional support and a shared understanding of the treatment approach. Testimonials received by the service included \u201CWe were met with the same care and understanding as our child. That meant a lot. For the first time we felt less alone\u201D another commented \u201CI still can\u2019t say we understand what we have been through, but with the support of the carers group, family therapy and some helpful straight talking, we are now all making sense of the eating disorder together\u201D.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was exceptional at treating people with kindness, empathy and compassion and in how they respected people\u2019s privacy and dignity. Staff always treated colleagues from other organisations with kindness and respect.\u003C/p\u003E\u003Cp\u003EPatients fed back that staff treated them well and behaved appropriately towards them. They told us they were treated with respect and kindness. People were extremely well-cared for. Staff knew the people they were supporting very well, and care was provided with exceptional patience and kindness. Staff were highly trained, knowledgeable and passionate about the service giving patients the very best experience they could.\u003C/p\u003E\u003Cp\u003EThe service excelled at delivering bespoke, highly individualised care and treatment that adapted to the unique cultural, gender and personal identities of each patient. We observed staff interacting with patients with kindness, empathy and total respect for their dignity. Patients told us about numerous examples where staff went the extra mile and above and beyond what they expected of them. For example, a carer told us the dietician had researched restaurants for their family member who was travelling overseas and created a plan of what the patient could order from the restaurants in the area they were staying. A patient told us that the service went the extra mile by providing support over the weekend when they experienced a deterioration in their mental health. Staff also stayed on site with another patient after the service had closed, remaining with them until an ambulance arrived to take them to hospital.\u003C/p\u003E\u003Cp\u003EStaff supported patients to understand and manage their own care, treatment or condition. Staff understood and respected the individual needs of each patient. They adapted their approach to each individual and worked with patients\u2019 individual preferences, for example staff had developed a structured and collaborative exposure plan to help a patient gradually build confidence and reduce distress around mealtimes. As part of the plan the patient joined the communal dining table for the final five minutes of lunch and dinner. The length of time was increased each week dependent on the progress of the patient. Patients we spoke with told us about their care and treatment, how they were progressing with their recovery goals and aspirations for the future. Staff directed patients to other services when appropriate and, if required, supported them to access those services. The service had supported a young person to access mental health services following a deterioration in mental health.\u003C/p\u003E\u003Cp\u003EWe spoke with 9 patients and 4 carers of people using the service. We also spoke with commissioners and reviewed the patient feedback they had received. Feedback commissioners received from patients included \u201CIt is hard to put into words/explain how different Orri has been for me compared to inpatient (and outpatient) treatments, but I feel like it has already helped more than any admission or intervention that I have had previously.\u201D Another patient reported that \u201CFor the first time I feel heard and seen as a person, not an illness. I have felt understood in ways that I cannot describe and from the start of my treatment, I was given so much time, more than I ever have been before, which has made such a difference.\u201D\u003C/p\u003E\u003Cp\u003ECarers and patients told us that staff were available and very responsive to any concerns that were raised. Carers reported \u201CTeam have always been at the end of the phone when I needed it and I appreciate and feel so grateful to that. Having witnessed my daughter in previous settings, I can see real changes happening for [patient] and I feel so grateful to have been put in touch with Orri.\u201D Another carer reported \u201CI feel so grateful for the carers group and the support that the family have received, alongside our child going through their recovery\u201D. Patients and carers spoke very positively about the way staff interacted with them.\u003C/p\u003E\u003Cp\u003EThe staff team consistently demonstrated genuine compassion and empathy, both in their direct interactions with patients and when discussing their care. This approach contributed to a therapeutic environment in which people said they felt respected, listened to and supported.\u003C/p\u003E\u003Cp\u003EStaff understood the individual needs of patients, including their personal, cultural, social and religious needs. One patient reported that the staff had supported them to observe the Jewish festival Passover by working with them on how they managed family tradition, meal gatherings and food during the festival period. The service had a \u2018Faith\u2019 station in one of the shared spaces which provided an area for information on different faiths and the support available for patients. Dietetic assessments included patient\u2019s cultural and religious food practices. This insured that patients received culturally relevant meal plans.\u003C/p\u003E\u003Cp\u003EStaff said they could raise concerns about disrespectful, discriminatory or abusive behaviour towards patients without fear of consequences. The Diversity, Equity and Inclusion (DEI) Lead facilitated regular, structured 30\u2011minute sessions that provided staff with a safe, supportive space to openly discuss concerns or experiences relating to discriminatory or challenging behaviours from either colleagues or patients. Staff reported that the forums enabled them to raise issues confidently, seek guidance and contribute to continuous improvement in equality and inclusive practice across the service.\u003C/p\u003E\u003Cp\u003EStaff consistently upheld patient confidentiality. All staff had completed mandatory information governance training, and clear GDPR guidance was provided in patient handbooks.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service listened to and understood people\u2019s needs, views and wishes. Staff responded to people\u2019s needs in the moment and acted to minimise any discomfort, concern or distress.\u003C/p\u003E\u003Cp\u003ENursing, dietetic and therapy staff were trained to recognise behavioural triggers before and after meals for individual patients. Where patients became distressed staff were able to respond with kindness, respect and using agreed boundaries. The service had low stimulus sensory rooms which patients could use when they were overwhelmed.\u003C/p\u003E\u003Cp\u003EPatients told us they were clear about who to contact in a crisis and understand out-of-hours support arrangements.\u003C/p\u003E\u003Cp\u003EStaff identified and responded to changing risks to, or posed by, patients. For example, patients were referred to their local mental health services when there was a deterioration in mental health.\u003C/p\u003E\u003Cp\u003EThe staff in the service engaged with a wide range of simulations of emergency situations, which were not standard practice for this type of community service. These covered a large range of physical and mental health incidents and emergencies such as a ligature incident, sudden patient or staff collapse and choking. Staff competencies were assessed and the simulations helped them prepare for real life emergencies.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service treated people as individuals and was exceptional in how they made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. The service took account of people\u2019s strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics.\u003C/p\u003E\u003Cp\u003EPatients\u2019 individual differences were recognised, respected and accommodated without judgement or discrimination, and patients confirmed this during the inspection. Staff consistently spoke about valuing people, upholding their rights to make decisions, being inclusive and responding to individuals\u2019 diverse needs. Staff made reasonable adjustments to ensure care was tailored to each person\u2019s needs. For example, the service arranged for a guide dog to accompany a visually impaired patient, demonstrating a flexible and inclusive approach to support.\u003C/p\u003E\u003Cp\u003EPatients and carers spoke very positively about the way staff interacted with them. They described staff as empathic, respectful and supportive, and inspectors observed warm, person\u2011centred engagement that upheld people\u2019s dignity and individuality. Comments included \u201Cthey are very knowledgeable and my daughter felt safe\u201D, \u201Cthey monitor risk efficiently so are on top of things. Really good service, grateful for the support they offer and the impact they have made\u201D. \u201COrri Online is the most holistic treatment I\u2019ve ever experienced. I\u2019m so grateful for the support, skill and dedication of the staff who truly design a unique programme for each person\u201D.\u003C/p\u003E\u003Cp\u003EPatients and carers received a comprehensive handbook and induction to the service. Handbooks were tailored to both the online and in\u2011person treatment pathways and provided detailed information about what people could expect from the service. The children and young people\u2019s outpatient handbook was also available in an easy\u2011read format to support accessibility.\u003C/p\u003E\u003Cp\u003EStaff had developed separate, bespoke handbooks for the online and in\u2011person programmes. Each contained clear and practical information about the treatment pathway, the support available for families and carers, and guidance to help patients recognise triggers and understand the impact that social media can have on body image and mental health. The handbooks had been co\u2011produced with people who had previously used the service, ensuring they reflected lived experience and the needs of those accessing care.\u003C/p\u003E\u003Cp\u003EThe service had developed a bespoke range of online tools that benefited both patients and staff. One of these was the \u2018My Orri\u2019 web-based application, designed to enhance communication and feedback between patients and the clinical team. The app enabled patients to manage their individual treatment plans, therapy timetable and appointments while staff could use it to monitor patient schedules, engagement, and attendance.\u003C/p\u003E\u003Cp\u003EThe service had a comprehensive website full of information on treatments, eating disorders, complaints, feedback and the information provided was in a form accessible to the patient group. Staff made information leaflets available in languages spoken by patients as appropriate.\u003C/p\u003E\u003Cp\u003EManagers ensured that staff and patients had easy access to interpreters and/or signers as appropriate.\u003C/p\u003E\u003Cp\u003EPatients were offered a choice of food that met the dietary requirements of religious and ethnic groups, as well as individual allergies and intolerances. The service delivered an exemplary and highly individualised approach to meals, snacks and hydration. Each patient\u2019s meals were tailored to their clinical needs and personal preferences, for example for one patient meals were planned so that they avoided known trigger textures including avocado and powdery or grainy textures. Dietitians worked closely with the head chef and catering team to design bespoke menus. All allergens were clearly identified, and every meal was individually prepared and labelled with the patient\u2019s name, specific dietary requirements and any allergy information.\u003C/p\u003E\u003Cp\u003EThe dietetic and catering team were highly responsive to patient feedback. For example, when patients requested a wider range of snacks, the service introduced a \u201Csnack of the week\u201D rota to increase the variety available.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service cared about and promoted the wellbeing of their staff and supported and enabled staff to always deliver person-centred care.\u003C/p\u003E\u003Cp\u003EThe provider nurtured a positive organisational culture characterised by psychological safety, respect, and strong staff support. Staff spoke with enthusiasm about their work with people experiencing eating disorders and described feeling valued and encouraged in their roles. They were proud to work for the provider and highlighted the strong sense of teamwork within the service.\u003C/p\u003E\u003Cp\u003EThe service cared about and promoted the wellbeing of staff and supported and enabled them to deliver person-centred care. Leaders were very aware that there was a high rate of staff \u2018burn out\u2019 in eating disorder services. The service held regular social events for the staff in the service such as pizza evenings and social outings in person and online. Staff received regular supervision, external supervision, reflective practice and debriefs to support their well\u2011being and identify any additional support needs. They were able to feedback directly to the CEO who held monthly \u2018Be in the Know\u2019 meetings.\u003C/p\u003E\u003Cp\u003EStaff had access to support for their own physical and emotional health needs through an occupational health service. The service has created a wellbeing booklet, \u2018Balance\u2019, which included information and self\u2011assessment questionnaires designed to help staff reflect on their health and wellbeing. Team members were supported to develop their own personalised wellbeing plan.\u003C/p\u003E\u003Cp\u003EInterim staff survey findings from March\u202F2026 were predominantly positive, though staff also identified improvement needs around communication, consistent processes, and preserving service quality during ongoing development of the service. Leaders advised they would review the full survey results before implementing a targeted improvement plan.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis was the first inspection of the registered Wimpole Street location following the relocation of the service from its previous premises in Hallam Street. This key question has been rated Good. This meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service always made sure people\u2019s care and treatment was effective by thoroughly assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/p\u003E\u003Cp\u003EAll patients we spoke with told us they worked in collaboration with staff on their plan of care. Feedback about the service included \u201CMy care plan is very clear and is reviewed every 6 weeks. You speak through it together as a team and I am always clear about my goals of treatment. You are very involved and it\u2019s a collaborative process\u201D.\u003C/p\u003E\u003Cp\u003EWe reviewed 9 care records. The records we reviewed demonstrated a consistent, high\u2011quality approach to assessing and reviewing each patient\u2019s physical health, mental health, wellbeing, communication needs, and overall care requirements. Staff completed comprehensive, person\u2011centred mental health, physical health and dietetic assessments. All patients confirmed they had regular reviews of their care with their case managers and that all care was delivered in partnership.\u003C/p\u003E\u003Cp\u003EFor patients attending face\u2011to\u2011face day care or outpatient services, the service carried out all required physical health monitoring directly. This included weight monitoring, BMI (body mass index), height, electrocardiogram (ECG) monitoring, the sit up, squat and stand up (SUSS) test of muscle function in anorexia nervosa, plus dietetic and occupational therapy assessments, which were reviewed regularly.\u003C/p\u003E\u003Cp\u003EFor patients receiving online day care or outpatient support, the service worked closely with the patient and individual GPs to ensure that regular blood tests, electrocardiograms (ECG), and any other necessary physical health checks were completed. For example, patients could provide self\u2011reported weights via email, video, or photograph. Where necessary, weights could also be verified by the patient\u2019s GP or during a video consultation with an Eating Disorder Associate.\u003C/p\u003E\u003Cp\u003EDieticians, therapists, eating disorder associates, nurses, occupational therapists and psychiatrists worked together to plan and deliver care and treatment in conjunction with patients and reviewed this in the weekly multi-disciplinary meeting. This approach ensured that all patients regardless of how they accessed the service, received consistent, safe, and proactive monitoring of their physical health needs.\u003C/p\u003E\u003Cp\u003ECare plans were reflective of patients\u2019 assessed needs, embodied the voice of the patient and their family members and were recovery-orientated in considering how patients could work towards achieving their goals. Care plans were collaborative and staff worked with families to create a shared understanding of individual needs, for example the service developed bespoke care plans for diabetic patients.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a strong commitment to delivering effective, personalised care for neurodivergent patients. Assessments were thorough and explored each individual\u2019s sensory profile, including sensitivities to noise, light, textures, and environmental triggers, ensuring that treatment plans incorporated appropriate reasonable adjustments. For example, for a patient the service agreed flexible arrival arrangements and alternative one to one sessions rather than attending groups to manage sensory overload. Clinicians also used co-produced communication passports and other personalised communication tools such as co-produced traffic light communication cards to understand how patients preferred to receive, process, and express information. This approach supported effective engagement, reduced barriers to participation, and ensured that interventions were adapted to meet diverse cognitive and sensory needs. The service was committed to identifying and supporting neurodiversity. As part of the assessment process the service carried out screening for attention deficit hyperactivity disorder (ADHD), autistic spectrum condition (ASC) and Avoidant/Restrictive Food Intake Disorder (ARFID). Given the number of patients with neurodiverse needs, the service had developed a dedicated dedicated neurodevelopmental pathway to ensure assessments, interventions and adaptations were consistently applied. This enabled staff to provide tailored, inclusive care that recognised and responded to the specific needs of neurodiverse patients.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a comprehensive understanding of the legal frameworks surrounding consent. For adults, staff followed the principles of the Mental Capacity Act 2005 and ensuring that staff took all practical steps to enable patients to make their own decisions. Staff regularly reviewed individual patients\u2019 capacity to consent to treatment as they were aware that each individual\u2019s capacity could fluctuate. Managers completed a quarterly audit to evaluate how well staff applied the Mental Capacity Act.\u003C/p\u003E\u003Cp\u003EPatients were asked for consent to share information and consent to treatment during registration and assessment. Records confirmed that staff documented which other organisations patients agreed to share information with regarding their care and treatment.\u003C/p\u003E\u003Cp\u003EFor patients under the age of 16, staff applied Gillick competence principles to assess whether the young person had sufficient maturity and understanding to make informed decisions about their care and treatment. Where a young person was deemed Gillick competent, they could consent to treatment without parental involvement.\u003C/p\u003E\u003Cp\u003ECompliance for Mental Capacity training was 100%. Managers had created a Mental Capacity Act song for staff to remember the five principles.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards.\u003C/p\u003E\u003Cp\u003EStaff provided an extensive range of care and treatment for patients which went beyond national guidance and best practice. Staff used evidenced based approaches to support the delivery of high-quality care and treatment.\u003C/p\u003E\u003Cp\u003EThe service model of care was based on a biopsychosocial approach which considered the holistic needs of each patient. Staff viewed each patient as a unique individual. The service provided a stepped model of care that offered different programmes which were tailored to the individual. For example, some patients had a blended approach whereby they attended in person and then online. The intensity of each programme varied dependent on the needs of the patient.\u003C/p\u003E\u003Cp\u003EPatients were offered a comprehensive programme of group and individual therapies. This included cognitive behavioural therapy, dialectical behavioural therapy, interpersonal psychotherapy, psychodynamic psychotherapy, creative arts therapies, eye movement desensitisation and reprocessing (EMDR), psycho drama therapy, trauma-based therapy and MANTRA (Maudsley Anorexia Nervosa Treatment for Adults). The service followed a stepped approach so that treatment evolved with each individual patient as they progressed in their recovery. This enabled staff to provide personalised, responsive interventions that supported patients at every stage of their recovery journey.\u003C/p\u003E\u003Cp\u003EThe service was passionate about treating the whole patient, not just their eating disorder, and this involved treating any underlying issues. For example, staff offered Mentalization-Based Therapy for eating disorders and multi-family therapy. Mentalization-Based Therapy is a specialised, long-term psychotherapy designed help someone understand their own emotions and the mental states of others. Carers told us they were offered family therapy and this had supported them to understand the effects of eating disorder on the family and other siblings.\u003C/p\u003E\u003Cp\u003EStaff made sure patients had support for their physical health needs from their GP before they could access this service. Staff helped patients to live healthier lives by supporting them to take part in programmes, giving advice, or referring them to specialist services. One patient told us the service had supported them to access substance misuse services.\u003C/p\u003E\u003Cp\u003EStaff assessed and met patients\u2019 needs for food and drink and for specialist nutrition and hydration effectively. Dieticians carried out comprehensive assessments with each patient. Dietitians and the chef worked collaboratively with patients to develop individualised meal plans tailored to their specific eating requirements. They also promoted a positive and normalised food culture, supporting patients to rebuild healthy relationships with food. The service did not use calorie counting, with the goal to reduce anxiety around meals and maintain a therapeutic, recovery\u2011focused environment.\u003C/p\u003E\u003Cp\u003EStaff participated in clinical audit, benchmarking and quality improvement initiatives. The service had an established programme of clinical audit. Managers maintained clear oversight of audit activity and used the findings to drive improvements in practice. Audits covered key areas of quality and safety, including care planning, risk assessment, discharge planning, health and safety, hydration and nutrition, incident management, complaints and duty of candour, staff induction, physical health monitoring, record keeping and consent. Where audits identified shortfalls, managers developed action plans and monitored progress to ensure improvements were implemented and sustained.\u003C/p\u003E\u003Cp\u003EAll staff were actively engaged in activities to monitor and improve quality and outcomes. The service had a strong and well-established range of quality improvement initiatives that included projects on improving MDT processes, meal service, DEI strategy, education and learning and improving food experience.\u003C/p\u003E\u003Cp\u003EPatients were able to provide feedback on the service through a range of channels, including community meetings, the suggestion box, the complaints process, direct feedback to keyworkers and dedicated patient\u003Cstrong\u003E \u003C/strong\u003Eexpression sessions. Feedback was reviewed regularly, with themes identified and actions implemented to drive improvements. For example, work was undertaken with group facilitators following feedback about the inconsistent application of boundaries, for example the number of minutes a client was able to join a group once it had commenced.\u003C/p\u003E\u003Cp\u003EThe service had a full range of specialists to meet the needs of each patient. This included consultant psychiatrists, dieticians, physiotherapists, occupational therapists, nurses, eating disorder associates, psychologists, psychotherapists. Patients could also access additional specialists to meet their needs, such as a drama therapist, art and yoga and body awareness therapists.\u003C/p\u003E\u003Cp\u003EManagers ensured staff had the right skills, qualifications, knowledge and experience to meet patients\u2019 needs, including bank and agency staff. Staff spoke with passion about working for the service.\u003C/p\u003E\u003Cp\u003EManagers ensured all new staff completed a comprehensive induction, with differentiated levels of training aligned to the competencies and responsibilities of each role.\u003C/p\u003E\u003Cp\u003EAll staff we spoke with confirmed they had regular clinical and managerial supervision. Managers provided staff with supervision (meetings to discuss case management, to reflect on and learn from practice, and for personal support and professional development) and appraisal of their work performance. Teams had weekly reflective practice sessions.\u003C/p\u003E\u003Cp\u003EManagers ensured that staff had access to regular team meetings. All teams within the service had regular team meetings. We reviewed meeting minutes for various teams which evidenced regular updates about the service and team, learning from incidents and problem solving follow up actions.\u003C/p\u003E\u003Cp\u003EThe service demonstrated an exceptional commitment to workforce development, training and ongoing professional growth. Staff told inspectors that developing their skills, competence and knowledge was viewed as essential to delivering high\u2011quality care and treatment. In addition to its mandatory training programme, the service had created a comprehensive training framework for all professional disciplines. The service director used various learning methods to embed learning such as Cake and Capacity, game based learning such as role plays, ligature cutter treasure hunts and a hands up hand hygiene dance.\u003C/p\u003E\u003Cp\u003EManagers identified individual and team learning needs and ensured staff were provided with opportunities to expand their skills and knowledge. Staff received the specialist training and development required for their roles. Leaders monitored uptake and reviews of what was offered, to ensure training remained current and relevant. The service delivered weekly in-house learning sessions, known as Wise Wednesdays, as part of a structured, modular education programme delivered throughout the year. Sessions were led by a combination of internal staff and external specialists, covering core training topics alongside emerging issues relevant to the service. During our inspection, we observed a Wise Wednesday session focused on Avoidant/Restrictive Food Intake Disorder (ARFID), which provided staff with structured learning and opportunities for reflective discussion.This strong focus on professional development contributed to a confident, skilled and well\u2011supported workforce.\u003C/p\u003E\u003Cp\u003EManagers dealt with poor staff performance promptly and effectively.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service worked well across teams and services to support people. They made sure people only needed to tell their story once by sharing their assessment of needs when people moved between different services.\u003C/p\u003E\u003Cp\u003EThe service demonstrated good practice in how staff, teams and external partners worked together to deliver holistic, person-centred care. Staff reported that teams worked well together and that there was a shared culture of openness and transparency.\u003C/p\u003E\u003Cp\u003EStaff held regular and effective multidisciplinary meetings. Records evidenced shared decision making and the patient voice.\u003C/p\u003E\u003Cp\u003EStaff shared information about patients at effective handover meetings. The teams had effective working relationships, including good handovers, with other relevant teams within the service. End of day handovers reviewed any administration or operational challenges that needed review.\u003C/p\u003E\u003Cp\u003EWe saw evidence of proactive partnership working with external professionals. Commissioners we spoke with described the service as a \u2018system leader\u2019, citing excellent communication, responsiveness and focus on achieving the best outcomes for individuals. Other examples included working collaboratively with the London Ambulance Service, local accident and emergency department, schools and universities.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service monitored all people\u2019s care and treatment to continuously improve it. They ensured that outcomes were positive and consistent, and that they fully met both clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EThe service demonstrated consistently high clinical outcomes. Staff routinely used recognised clinical rating scales to assess and record the severity of patients\u2019 symptoms and functional impairment. These included the Eating Disorder Examination Questionnaire (EDE\u2011Q), Clinical Impairment Assessment (CIA), Eating Disorder Stage of Change Questionnaire (EDSOCQ), Depression, Anxiety and Stress Scale (DASS), and the Orri Severity of Eating Disorder (OSED). OSED has been developed by the service Director of Research and Development. The consistent use of these validated tools enabled the service to monitor progress effectively, evaluate treatment impact, and ensure that clinical interventions were responsive to individual need.\u003C/p\u003E\u003Cp\u003EPatients were provided with information in the patient handbook on these self-reporting tools and how the service used the information to understand any improvements in the patient\u2019s progress, understand eating disorder symptoms, support discharge planning and evaluate the effectiveness of the service.\u003C/p\u003E\u003Cp\u003EThe service had completed an outcomes report in November 2025 that highlighted the clinical strengths of its clinical pathways. The report highlighted the success of weight restoration and symptom reduction in the day care pathway and psychological recovery and weight restoration for patients using the outpatient\u2019s service, for example the day care programmes achieved statistically significant weight restoration and substantial reductions in eating disorder symptoms. The outpatient pathway facilitated meaningful psychological recovery. Patients demonstrated significant reductions in depression, anxiety, and stress as measured by the DASS\u201121. The report also highlighted that there was no statistical difference in outcomes between online services, in person or blended programmes. The report concluded that the online pathway was a viable, clinically equivalent alternative to traditional in-person care.\u003C/p\u003E\u003Cp\u003EThe Director of Research and Development undertook a comprehensive quarterly review of patient outcomes, drawing on detailed client\u2011population data to identify trends, monitor progress and evaluate the effectiveness of interventions.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service supported people to manage their health and wellbeing to fully maximise their independence, choice and control. The service supported people to live healthier lives and where possible, reduce their future needs for care and support.\u003C/p\u003E\u003Cp\u003EThe service demonstrated an exceptional commitment to supporting patients in achieving long-term health and wellbeing that extended beyond managing eating disorder symptoms. Staff proactively empowered individuals to take ownership of their recovery by providing high quality accessible information.\u003C/p\u003E\u003Cp\u003EStaff supported patients with their wider health such as psychoeducation groups on smoking cessation, dental health, bone health and physical activity tailored to recovery.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EWe looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EThis was the first inspection of the registered Wimpole Street location following the relocation of the service from its previous premises in Hallam Street. This key question has been rated Outstanding. This meant services were tailored to meet the needs of individuals and delivered to ensure flexibility, choice and continuity of care.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "narrative": "This service is exceptionally responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service had an exceptional understanding of the diverse health and care needs of people and their local communities, so care was joined-up, flexible and supported choice and continuity.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a deep understanding of the health and care needs of people with eating disorders and worked hard to maintain a high standard of care. It was delivering 2 pilot online intensive day\u2011care programmes for NHS patients in partnership with Sussex NHS Foundation Trust and the Adult Eating Disorder Provider Collaborative for Sussex, Kent and Surrey. The pilots involved 107 patients. These pilots enabled patients to access an evidence\u2011based online day programme alternative to inpatient care. Feedback from commissioners and patients was overwhelmingly positive. Patient comments we reviewed included, \u201CI have been so fortunate to be able to work with the Orri team on my recovery journey. The whole team are approachable, kind, caring and honest and I do not have a bad word to say. The level of therapy and the therapeutic interventions used are like no other that I have experienced\u201D. \u201CIt meets you where you are at, in your own environment at your own pace. They are caring, they are compassionate and they treat you as a human being rather than a patient which is not often felt in therapy\u201D and \u201C\u2018The therapy is the best therapy I\u2019ve received, and all their staff are really well trained and understand eating disorders\u201D.\u003C/p\u003E\u003Cp\u003EThe service demonstrated strong, measurable improvements in patient wellbeing and eating disorder symptomatology Outcome measures such as the Depression, Anxiety and Stress Scale showed consistent improvement across all domains, with patients on the pilot. Results from the Eating Disorder Examination Questionnaire (EDE\u2011Q) showed significant improvement with all global scores and demonstrated improvements in eating disorder symptoms.\u003C/p\u003E\u003Cp\u003EFeedback from patients on the pilots was highly positive. Patients highlighted the flexibility of the online programme and how it enabled treatment to be tailored to their individual needs. Patients described engaging in innovative therapeutic activities such as \u2018virtual shopping trips\u2019 during occupational therapy, role\u2011playing supermarket visits, and practising strategies for managing challenging social\u2011eating situations. Patients and carers reported improvements in confidence, coping skills and understanding of their condition, demonstrating the programme\u2019s effectiveness in supporting meaningful progress in recovery.\u003C/p\u003E\u003Cp\u003EPatients and their families told us their care was well co-ordinated, and everyone worked well together and with them. They said they felt in control of planning their own care and support. They told us they could contact the service if they needed further support.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure that people could access the care, support and treatment they needed when they needed it.\u003C/p\u003E\u003Cp\u003EStaff ensured the needs of patients with mobility issues were met. Wheelchair access into the building was via a lift access platform. All doors and corridors were wide enough to accommodate wheelchair users. A lift was available.\u003C/p\u003E\u003Cp\u003EThe service demonstrated equity in access by offering flexible delivery models, including in\u2011person, online, and blended treatment options. This enabled individuals to engage with care in ways that aligned with their personal, educational, and work commitments. The online day treatment programme further widened access by supporting people living outside London and internationally, reducing geographical barriers and ensuring fair access to treatment.\u003C/p\u003E\u003Cp\u003EStaff planned discharge collaboratively with patients and their families, ensuring people were fully involved in decisions about their ongoing care. Each patient received a comprehensive discharge pack containing key information to support their transition out of the service. Staff ensured that individuals had timely access to appropriate post\u2011discharge support, including referrals and follow\u2011up arrangements. Dedicated case managers worked closely with the multidisciplinary team and external healthcare providers to coordinate safe, well\u2011structured discharge plans and reduce the risk of care gaps.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. Staff and leaders were innovative in how they listened to information about people who are most likely to experience inequality in experience or outcomes. Staff and leaders actively used this information to provide exceptionally tailored care, support and treatment in response to this.\u003C/p\u003E\u003Cp\u003EThe service had a robust Diversity, Equity and Inclusion (DEI) strategy, led by a dedicated clinical lead who oversaw its implementation across the organisation. Implementation of the strategy was supported by a multidisciplinary DEI Committee with representatives from across the organisation and all departments, embedding DEI across the organisation. Leaders and staff were alerted to discrimination and inequality that could disadvantage different groups of people using the service. The service proactively addressed these barriers by training staff, holding open conversations with patients, carers and staff, and embedding DEI principles into everyday practice. The DEI strategy was fully integrated into organisational systems, ensuring that equity and inclusion informed policies, recruitment, training, service design and clinical decision\u2011making.\u003C/p\u003E\u003Cp\u003ETo maintain openness and transparency, the Head of DEI hosted regular drop\u2011in sessions and feedback groups where patients could share their lived experience and suggest improvements to the service. Ideas and feedback from patients were routinely gathered and then shared with the wider clinical team through team meetings, clinical governance and operational meetings, ensuring that patient voices directly informed service development and day\u2011to\u2011day practice.\u003C/p\u003E\u003Cp\u003EThe service also introduced a monthly DEI theme for the community which included staff and patients, creating ongoing opportunities for reflection, discussion and learning, for example staff were preparing for Ramadan and Lent and were working closely with the kitchen and dietetic team to celebrate EID and Easter. The staff team were working with patients on faith inclusion, supporting religious practice safely within eating disorder treatment. The organisation worked closely with experts by experience and partnered with \u2018Pink Therapy\u2019 to further develop staff cultural competency and clinical skills in supporting people across the full spectrum of Gender, Sex and Relationship Diversity (GSRD). The service provided specific treatment programmes to meet individuals specific cultural and gender needs. There were specific programmes for male and LGBT\u002B people. This demonstrated a proactive and embedded approach to equity, inclusion and specialist practice.\u003C/p\u003E\u003Cp\u003EThe service held monthly DEI committee meetings. The work of the committee played a central role in fostering a fair, respectful and inclusive organisational culture. Minutes from these meetings showed that the committee systematically reviewed all systems and processes to ensure they were inclusive and free from bias. For example, work was being undertaken regarding preferred pronouns across organisational systems and communications. The service was committed to advancing race equity and improving outcomes for racialised communities in line with the Patient and Carer Race Equality Framework (PCREF). The DEI lead told us of the inequalities experienced by minority ethnic groups within mental health services and the work that had started to take place to embed PCREF principles into governance, workforce development and patient experience initiatives. Staff were encouraged to reflect on cultural competence and anti\u2011racist practice, and training was being reviewed and strengthened to support this.\u003C/p\u003E\u003Cp\u003EStaff within the service and the wider organisation promoted a culture in which the people using the service felt empowered to give their views.\u003C/p\u003E\u003Cp\u003EThe provider had undertaken equality impact assessments of their policies and procedures to ensure they did not place vulnerable people or people with protected characteristics at a disadvantage.\u003C/p\u003E\u003Cp\u003EStaff celebrated cultural and religious events throughout the year. The service maintained a cultural calendar that recognised a wide range of religious and cultural festivals. At the time of our inspection, preparations were underway for Easter. Staff provided enhanced support for patients during holiday periods, including Christmas and the summer holidays, recognising that these times could be particularly challenging for individuals with eating disorders. The chief executive had written a blog highlighting the complex emotions, triggers and distress related to food and body image that patients may experience during these periods.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was exceptional at enabling people to share feedback and ideas, or raise complaints about their care, treatment and support. They always involved people in decisions about their care and told them what had changed as a result\u003Cstrong\u003E.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service demonstrated an exemplary commitment to listening to patients, carers and commissioners, actively using their feedback to drive improvement. We saw clear examples of improvements made as a result of patient and carer feedback. The service had developed a feedback function on its website to enable people to share their views more quickly and easily. It had also updated its editorial guidance for all articles published on the website to ensure information was accurate, accessible and aligned with best practice. The outpatient service had been developed following feedback from patients who had completed their face to face in person programme. These changes demonstrated that the service listened to feedback and took meaningful action to enhance the quality and accessibility of information provided to people.\u003C/p\u003E\u003Cp\u003EPatients knew how to complain or raise concerns. Family members also confirmed they knew how to raise concerns with the service. Details of how to complain or raise concerns were on the service website and in patient and carer handbooks. Options for giving feedback, complaints or compliments included carer forums, direct patient feedback, feedback from therapy sessions, regular patient meetings with the service director.\u003C/p\u003E\u003Cp\u003EThe service reviewed all feedback it received and used this to drive improvement. We reviewed the service\u2019s tracker and saw that all complaints were recorded, monitored, investigated and that required actions were completed. The service analysed all complaints received in 2025 and identified recurring themes relating to communication, discharge planning, case management and psychiatric input. In response, leaders implemented targeted improvements, including reviewing the case management process, launching a central hub to track all sessions and missed appointments, and recruiting a permanent psychiatrist to strengthen clinical input. These actions demonstrated a proactive approach to learning and continuous improvement. Actions were systematically tracked and monitored through the clinical governance meeting. Department leads reviewed outcomes, evaluated effectiveness and ensured that changes were fully embedded into everyday practice.\u003C/p\u003E\u003Cp\u003EWhen patients complained or raised concerns, they received feedback. In response to patients requesting assistance with portions, the occupational therapist had started a portioning clinic. The service displayed \u2018you said, we did\u2019 posters.\u003C/p\u003E\u003Cp\u003EThe service had a strong and embedded focus on co-production. Patients and carers were involved in service innovations. For example, patients and carers were actively involved in the design of the building and the neurodevelopmental pathway. Patients participated in staff recruitment panels for all clinical posts. They were treated as equal partners in the recruitment process. Managers would not recruit a candidate if the patient representative did not feel that they would be suitable for the service. We spoke with a patient who had participated on the panel, and they confirmed they had received support and had undertaken interview training.\u003C/p\u003E\u003Cp\u003ECarers were involved in developing the carers handbook. The service offered family therapy, psycho education, practical cooking, sibling support groups and eating guidance for family members.\u003C/p\u003E\u003Cp\u003EWe reviewed compliments and testimonials from patients and family members. The compliments received by the service were overwhelmingly positive. Examples included \u201CWe were met with the same care and understanding as our child\u201D and \u201CEating disorder assistants, you are the core of Orri and I have appreciated all your empathy and kindness throughout my time here\u201D.\u003C/p\u003E\u003Cp\u003EThe service had a blog space on its website and patients were able to submit pieces of written information about their individual eating disorders. All submissions were monitored by the social impact manager to ensure they were safe to be published.\u003C/p\u003E\u003Cp\u003EThe service had a well-established alumni group, formed of patients who had completed their recovery journey. Patients from this group told us they kept in regular touch with the service, had monthly drop-in calls and carried out supportive webinars for new patients joining the service.\u003C/p\u003E\u003Cp\u003EThe service had developed bespoke handbooks for both the online and in\u2011person treatment programmes. These provided clear information on what patients could expect, including an overview of the treatment pathways and the support available for families and carers. They were co\u2011produced with former patients, whose motivational messages were included throughout to support and encourage new patients.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was exceptional at making sure people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond to any relevant changes in people\u2019s needs.\u003C/p\u003E\u003Cp\u003EThe service demonstrated exceptional practice in keeping people at the centre of their care and treatment planning. Decisions about how to respond to changes in people\u2019s needs were made collaboratively, ensuring support remained personalised and responsive. We saw that staff went the extra mile to behave in a way that met the unique and individual needs of each patient. One carer told us \u201CMy child has thrown a lot of curve balls at them, for example with excessive exercise. They have supported her around her whole care to help her the best they can\u201D. Another carer told us \u201CThey acted very quickly when there was rapid weight loss over Christmas. They were very honest with my family member and helped them to understand how serious the situation could have been\u201D.\u003C/p\u003E\u003Cp\u003EFeedback from patients and commissioners confirmed care was person-centred and unique to each patient, and how the service was exceptional in the way they tailored people\u2019s support.\u003C/p\u003E\u003Cp\u003EThe service made reasonable adjustments so that people with disabilities could access and use it equally. A custom\u2011built ramp enabled wheelchair users to enter the building despite the stepped entrance, and all rooms were accessible and suitable for wheelchair use.\u003C/p\u003E\u003Cp\u003EThe service had been designed to ensure that it would support the recovery of eating disorder patients. The service demonstrated thoughtful design aligned with the sensory needs of people recovering from eating disorders. Therapy rooms were deliberately situated away from food preparation and dining areas to minimise exposure to food smells during treatment. The dining room layout promoted recovery by offering tables at different proximities to the kitchen, enabling personalised re\u2011engagement with the food environment. A dedicated \u2018calm corner\u2019 offered a quiet space for patients to manage sensory overload and regulate their emotions.\u003C/p\u003E\u003Cp\u003EThe service\u2019s colour scheme was informed by research and patient feedback, with neutral, calming tones used throughout. Adjustable lighting enabled patients to control their environment. De\u2011stress diffusers were present in all lounges, and a consistent room spray was used across the building to support patients who benefited from calming olfactory aids.\u003C/p\u003E\u003Cp\u003EThe service demonstrated thoughtful attention to patient needs in its choice of furniture. Seating options varied in size, shape, and style to accommodate patients with low body weight and body\u2011image challenges. Materials were intentionally selected to be sensory\u2011appropriate, helping to create a calming and supportive environment.\u003C/p\u003E\u003Cp\u003EPatients could access a bespoke yoga studio and a roof\u2011terrace garden, providing additional therapeutic and wellbeing spaces. All patient\u2011accessible floors were designed consistently to support familiarity, accessibility and ease of navigation.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. People were given exceptional support to plan for important life changes, so they could make informed decisions about their future.\u003C/p\u003E\u003Cp\u003EStaff developed personalised care plans that reflected each patient\u2019s specific needs, preferences and emotional wellbeing. Care and treatment planning followed a multidisciplinary approach, with all relevant healthcare professionals and external agencies contributing to ensure plans were safe, coordinated and holistic. For example, the service had supported a patient throughout their pregnancy, working collaboratively with external maternity services to ensure their mental health and physical health needs were fully integrated into their care.\u003C/p\u003E\u003Cp\u003EStaff supported patients to develop coping strategies and relapse\u2011prevention skills, so they felt confident managing challenges after leaving the service. Each patient was encouraged to create a personalised self\u2011care plan to help them continue their recovery journey independently. The service also worked closely with universities to create bespoke care plans for young people transitioning into university life, ensuring they had tailored support during a period of significant change.\u003C/p\u003E\u003Cp\u003EThe catering team developed a \u003Ci\u003E\u2018\u003C/i\u003ETaking Orri Home\u2019 menu\u2011planning booklet to support patients after discharge. It provided essential guidance on planning meals and included a range of recipe ideas to help people continue their recovery at home.\u003C/p\u003E\u003Cp\u003EThe service had a well-established alumni group, formed of patients who had completed their recovery journey. Patients were able to keep in touch with the service after discharge, had monthly drop-in calls and also carried out webinars for new patients joining the service.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/p\u003E\u003Cp\u003EPatients and carers told us they were given clear, comprehensive information about the service. Each service line had its own bespoke handbook which had been co-produced with patients and carers outlining what patients could expect from the service and what the service expected from them. This ensured and supported people to understand their treatment pathway, rights, responsibilities, and how to get support. When accepted for treatment, every patient received a structured induction, which helped them become familiar with the service, staff, routines, and therapeutic approach. This supported informed engagement and aimed to reduce any anxiety during the early stages of care.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a strong commitment to being responsive to the needs of patients and carers. Feedback was actively sought and used to make meaningful improvements to the information provided in the handbooks. Patients reported that some sections used language that felt overly complex. In response the service undertook a full review and revised the content to ensure information was clear, concise and accessible. Also, in response to feedback the handbooks were updated with a dedicated section on inclusion and reasonable adjustments available to meet the needs of neurodivergent individual and all people using the service. Staff made the relevant notifications to external bodies such as the Care Quality Commission when incidents occurred and had policies and procedures in place to support staff.\u003C/p\u003E\u003Cp\u003EInformation governance systems ensured the confidentiality and appropriate handling of patient records. All staff had completed mandatory information governance training. Individual patient handbooks clearly outlined how personal information would be managed in accordance with relevant legislation and organisational policies.\u003C/p\u003E\u003Cp\u003EStaff ensured that patients could obtain information on treatments, local services, patients\u2019 rights, how to complain and so on. The service had a very comprehensive website which provided detailed information on the service, what people could expect and a comprehensive amount of information on all aspects of eating disorders. A wide range of eating disorder resources could be downloaded from the website such as eating disorders for men, healing body image and recovering at university workbook. The website detailed a comprehensive section on frequently asked questions, other support organisations and blogs on various aspects of eating disorders.\u003C/p\u003E\u003Cp\u003EThe information provided was in a form accessible to the particular patient group, for example the day treatment guide and key admission documents were available in easy read format.\u003C/p\u003E\u003Cp\u003EStaff made information leaflets available in languages spoken by patients as appropriate.\u003C/p\u003E\u003Cp\u003EStaff ensured carers, families and commissioners were regularly updated about the patient\u2019s progress. Commissioners confirmed that the service submitted quarterly comprehensive performance information.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis was the first inspection of the registered Wimpole Street location following the relocation of the service from its previous premises in Hallam Street.This key question has been rated\u003Cstrong\u003E \u003C/strong\u003EGood.\u003Cstrong\u003E \u003C/strong\u003EThis meant people were safe and protected from avoidable harm.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service assessed and managed the risk of infection. They detected and controlled the risk of it spreading and shared concerns with appropriate agencies promptly.\u003C/p\u003E\u003Cp\u003EStaff maintained equipment well and kept it clean. \u2018Clean\u2019 stickers were visible and in date.\u003C/p\u003E\u003Cp\u003EThe environment was clean, well\u2011maintained and appropriately furnished, supporting both safety and infection\u2011prevention standards. High\u2011touch surfaces were cleaned frequently throughout the day, reducing the risk of cross\u2011contamination and helping maintain a hygienic setting for patients, staff and visitors. A guide dog was present on the premises to support a visually impaired patient, and staff ensured this was managed in line with infection\u2011control procedures.\u003C/p\u003E\u003Cp\u003ECleaning records were up to date and demonstrated that all areas were cleaned regularly.\u003C/p\u003E\u003Cp\u003EStaff adhered to infection control principles, including handwashing. Staff had access to personal protective equipment (PPE), handwashing facilities and training in infection control to keep themselves and patients safe. Training rates for infection control were 100%. Teams followed a bespoke \u2018hands up\u2019 hand washing dance to learn handwashing techniques.\u003C/p\u003E\u003Cp\u003EStaff followed hand hygiene guidelines and regularly completed hand hygiene and infection, prevention and control audits, where shortfalls were identified action plans were in place, for example new signage and disinfectant wipes had been placed beside sensory and fidgety toys for neurodiverse patients.\u003C/p\u003E\u003Cp\u003EThe service had an Infection Prevention and Control lead that staff could contact for support and guidance.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service always worked well with people to fully understand and manage risks by thinking holistically. They provided care that fully met people\u2019s needs and was safe, supportive and enabled people to do the things that mattered to them. Staff assessed and managed risks to patients and themselves well.\u003C/p\u003E\u003Cp\u003EPatients told us they were involved in managing their individual risk and contributed to their risk management plans. Patients were provided with information on who to contact in a crisis and out-of-hours arrangements for support or if their condition worsened. This information was provided through emails, the patient handbook and information on the service website.\u003C/p\u003E\u003Cp\u003EStaff were very proactive in assessing, managing and anticipating risks to patients and themselves. Staff had open conversations with patients concerning their risks and produced a safety plan in collaboration with them. This was updated if there was a change in current risks. All patients we spoke with said they felt safe whilst using the service.\u003C/p\u003E\u003Cp\u003EWe looked at 9 risk assessments and risk management plans. The service had a robust approach to clinical risk management. Staff completed a full medical screening and risk assessment before admission to ensure that the patient\u2019s level of risk was suitable for this service. For patients undertaking online treatment the service had protocols for coordinating physical health care and monitoring with the patient\u2019s named GP.\u003C/p\u003E\u003Cp\u003EAll patients with either acute or chronic physical health needs had a visual flashing flag on their electronic record. This flagging system ensured staff were immediately alerted to any specific physical health risks and were directed to the relevant care plan for guidance on safe and appropriate management.\u003C/p\u003E\u003Cp\u003EStaff used the Medical Emergencies in Eating Disorders (MEED) guidance to risk\u2011assess all patients. Each patient had a completed MEED risk assessment in place. This supported the clinical team to determine each person\u2019s level of medical risk and informed the required frequency of physical\u2011health observations, the level of monitoring and any necessary escalation. Physical health observations included risks such as a BMI below 13, electrolyte imbalance or abnormal ECG. To strengthen oversight across the service, Orri maintained a live care board within the Orri Hub, displaying each patient\u2019s current MEED risk rating. This enabled the clinical team to review risk levels across the entire caseload in real time, identifying patients who may require further assessment, and ensure timely, coordinated responses to emerging concerns.\u003C/p\u003E\u003Cp\u003EThe service also carried out an assessment of whether the patient was at risk of re-feeding syndrome. Re-feeding syndrome is a potentially fatal condition caused by initiation of re-feeding quickly after a period of not eating.\u003C/p\u003E\u003Cp\u003EPatients attending the in-person day care and outpatient programme had their physical health monitored by the nursing team. The service ran planned physical health clinics and physical health drop-in sessions throughout the week. For online patients\u0027, physical health monitoring was carried out by the GP or another healthcare provider. Risks were clearly identified in patient records and were updated after a change in risk or incident, including any safeguarding concerns. Medical risk was also reviewed through regular MDT discussions with oversight from the consultant psychiatrist\u003Cstrong\u003E \u003C/strong\u003Eand ongoing monitoring of the live care board, ensuring that any changes in risk were identified and acted upon promptly. For example, patients were referred to the acute hospital if they had significant electrolyte abnormalities, bradycardia (Low pulse), hypotension, postural instability, significant weight loss or concerns regarding re-feeding syndrome. For patients accessing in person day care the service also used National Early Warning Score 2 (NEWS2) to monitor for acute physical deterioration.\u003C/p\u003E\u003Cp\u003EStaff responded promptly to any changes in risks to patients and sudden deterioration in a patient\u2019s health, for example the service had referred a patient for urgent medical assessment at the local acute hospital due to a very low pulse. Staff discussed patient risk in the daily flash meeting, morning and evening handover meetings. This was for all service lines. The evening handover meeting ensured that staff were able to discuss any patient risks or concerns before the service closed for the evening. The service did not have a waiting list, so there were no patients waiting to be seen where risks were unknown.\u003C/p\u003E\u003Cp\u003EStaff communicated with patients so that they understood their care and treatment, including finding effective ways to communicate with patients with communication difficulties.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed good standard. The service had a strong, proactive and positive culture of safety, based on openness and complete honesty. They actively listened to concerns about safety and thoroughly investigated and reported safety events. Lessons were always learnt to continually identify and embed good practice.\u003C/p\u003E\u003Cp\u003EStaff fostered a proactive and transparent approach to safety. They raised concerns and reported incidents, which managers investigated thoroughly. This meant that opportunities to learn were shared so that improvements to safety could be made.\u003C/p\u003E\u003Cp\u003EThe service had one serious incident in the last 12 months. This had been investigated and an action plan developed to address the shortfalls identified.\u003C/p\u003E\u003Cp\u003EAll staff knew what incidents to report and how to report them through the service electronic reporting system. All staff were open and transparent and fully committed to reporting incidents and near misses. Leaders embedded, maintained, and sought to create a culture of openness and collaboration. The service followed the Patient Safety Incident Response Framework (PSIRF) for reviewing serious incidents.\u003C/p\u003E\u003Cp\u003EStaff understood the duty of candour. They were open and transparent and gave patients and families a full explanation when things went wrong. For example, where changes to individual appointments were necessary, staff apologised when communication about those changes had not been as clear as intended.\u003C/p\u003E\u003Cp\u003EThe service consistently identified lessons learnt and embedded good practice across teams. Managers and leaders routinely discussed incidents during team meetings, daily flash meetings, clinical governance meetings, weekly in-house training sessions, and at the Learning and Outcomes Group. This group reviewed incidents, complaints, and concerns to identify themes, extract learning, and highlight opportunities for continuous service improvement.\u003C/p\u003E\u003Cp\u003EStaff reported that they consistently received debriefs and managerial support following serious incidents. They described the service as having a positive, inclusive learning culture. Teams were given structured opportunities such as team meetings to contribute suggestions in response to emerging themes, and they were supported to embed agreed actions into their everyday practice. All staff reported that the culture was one of openness and reflection so that improvements could be made from any mistakes.\u003C/p\u003E\u003Cp\u003EThe service used every opportunity to learn from internal and external incidents, to support improvement and safety. Staff were consistently encouraged to raise safety concerns and share ideas for improvement. Leaders continually reinforced the value of learning through their actions and communication. For example, following an incident the service had developed a care protocol for managing insulin use in clients with eating disorders and further training diabetes management training.\u003C/p\u003E\u003Cp\u003EManagers completed a monthly audit of incidents, complaints and compliance with the duty of candour. The service used an electronic system to track all incidents, ensuring that actions were completed within agreed timescales to reduce the likelihood of similar events occurring again. Lessons learned were shared through the system, which also recorded when staff had read and acknowledged the information. This provided clear oversight of learning, accountability and staff engagement with safety processes.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure that medicines and treatments were safe and met people\u2019s needs, capacities and preferences. They involved people in planning, including when changes happened.\u003C/p\u003E\u003Cp\u003EThe service told us they did not routinely prescribe medicines and that direct prescribing was only allowed in exceptional situations. Prescribing was normally carried out by the individual\u2019s GP.\u003C/p\u003E\u003Cp\u003EDuring our inspection we found that two psychiatrists had not been following this policy and prescribed medicines more frequently than intended under the service\u0027s policy for day and outpatients. Following the inspection, the service immediately reviewed prescribing practices. Senior leaders initiated a rapid review to understand the scope of the issue and ensure safe, compliant practice. Clear actions were implemented, including reinforcing policy expectations with all prescribers, audit of all prescriptions issued, additional training, clinical oversight, review of medicine processes and ensuring all prescriptions were subject to appropriate checks. The rapid review found there had been no impact on the patients because the prescribing doctors had been liaising with the patients GP. Prescribing compliance was being monitored through regular audits, and clinical governance meetings. This area of risk was added to the service risk register.\u003C/p\u003E\u003Cp\u003EPatients aged 18 and over were permitted to bring in any required medicines. Although the service did not routinely store medication, nursing staff could make appropriate arrangements when clinically necessary, including refrigeration or measures to manage associated risks. For patients under 18 nursing staff carried out individual risk assessments to determine whether medicines could be kept on their person or stored safely by the service.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/p\u003E\u003Cp\u003EPatients told us there were enough staff available.\u003C/p\u003E\u003Cp\u003EThe service had enough staff of different disciplines, who knew the patients and were appropriately trained to keep them safe from avoidable harm. The service had a range of clinicians, administrative staff, therapists, dietetic staff, and eating disorder associates. Managers ensured that vacancies were covered with regular contracted agency staff, who were fully inducted into the service before they started work.\u003C/p\u003E\u003Cp\u003EThere was adequate medical cover within the service. The service had enough medical staff with two consultant psychiatrists and a physician associate in post.\u003C/p\u003E\u003Cp\u003EStaffing for both in person and online services was reviewed at the daily operations meeting. Capacity planning was carried out a patient group level. Each patient group accommodated 8 patients. Groups operated with fixed, protected hours for occupational therapy, nursing, dietetics, psychiatry and individual one\u2011to\u2011one sessions.\u003C/p\u003E\u003Cp\u003EThe number of patients on the caseload of the teams, and of individual members of staff, was not too high to prevent staff from giving each patient the time they needed.\u003C/p\u003E\u003Cp\u003EThe service had a comprehensive programme of mandatory and specialist training, with all mandatory modules tailored to specific staff roles. Completion rates were monitored through an online compliance system. Managers notified staff when updates or refresher training was due. Staff had completed and remained up to date with all required training, achieving a 91% compliance rate. The training provided was appropriate for the needs of the patient group.\u003C/p\u003E\u003Cp\u003EWe saw that there were staff trained in first aid, basic and intermediate life support who could attend to physical health emergencies.\u003C/p\u003E\u003Cp\u003EManagers had developed a bespoke mandatory eating disorder course for all staff. This enabled staff to deepen their knowledge and skills in treating eating disorders using evidence\u2011based approaches. The course was competency\u2011based, ensuring that learning outcomes were measurable and that staff were equipped to deliver safe, effective care.\u003C/p\u003E\u003Cp\u003EThe service carried out employment checks on staff, including criminal background checks, qualifications and right to work at the time of recruitment and on an on-going basis where appropriate.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was fully aware of all potential risks in the care environment and controlled them well. They made sure equipment, facilities and technology supported the delivery of safe care.\u003C/p\u003E\u003Cp\u003EPatients spoke very positively about the environment. We observed patients using the therapy rooms, reception area and the dining room.\u003C/p\u003E\u003Cp\u003EThe environment had been purposefully co\u2011designed with patients to ensure it was both safe and therapeutically supportive. The service had robust health and safety and compliance arrangements in place for managing the environment, maintenance, and staff training. We reviewed monthly meetings where the environment was discussed. These showed discussions were comprehensive, clearly identified any shortfalls, and outlined the actions and arrangements in place to address them.\u003C/p\u003E\u003Cp\u003EStaff carried out regular risk assessments of the care environment to ensure it remained safe for patients, staff and visitors. All staff knew the locations of ligature cutters and had been trained in their correct use. Quality and safety drills were undertaken quarterly, including emergency simulation exercises such as responding to a collapsed patient or managing a ligature incident, to ensure staff were confident and prepared for real\u2011life scenarios. Staff requested additional opportunities to practise cardiopulmonary resuscitation (CPR) to ensure they maintained their confidence and competence. In response, the service purchased a resuscitation manikin and introduced regular practical CPR sessions to support ongoing emergency preparedness.\u003C/p\u003E\u003Cp\u003EAll therapy rooms were locked when not in use.\u003C/p\u003E\u003Cp\u003ENurse call wall alarms were available throughout the building. These were also portable alarms and staff could carry them when supervising patients on the roof terrace garden.\u003C/p\u003E\u003Cp\u003EThe service had closed circuit television (CCTV) in all communal and corridor areas. Managers used CCTV for reviewing incidents that occurred as part of their investigations. CCTV signage was displayed to inform patients and visitors that CCTV monitoring was in operation.\u003C/p\u003E\u003Cp\u003EThe premises were safe, clean, well equipped, well furnished, well maintained and fit for purpose. Clinic rooms were fully equipped with accessible resuscitation equipment and emergency drugs that staff checked regularly. There was an Automated External Defibrillator (AED) machine in the clinic room. Staff checked this regularly to ensure that it worked. There was appropriate signage, so staff knew where it was located. Nursing staff completed daily checks of EpiPens for patients with allergies to ensure they were in date, accessible, and ready for immediate use.\u003C/p\u003E\u003Cp\u003EFire safety arrangements were in place. Of eligible staff, 100% were up to date with day service fire safety training. Fire escapes were clearly signposted on each floor. Fire equipment was regularly checked to ensure it was fit for purpose. For patients with mobility difficulties fire evacuation chairs were available. Where required, staff completed personal emergency evacuation plan (PEEP) for patients who had mobility difficulties. The service conducted regular fire drills four times a year. The most recent fire drills took place in February 2026.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service always worked with people and healthcare partners to design, establish and maintain safe systems of care, in which safety was always well managed and monitored. They made sure there was always continuity of care, including when people moved between different services.\u003C/p\u003E\u003Cp\u003EThe service had a robust referral and admission process to ensure all necessary information was gathered to ensure patient safety. All referrals to the service whether online or face to face were received through Orri\u2019s intake and assessment processes to determine whether the service was appropriate to meet the needs of the individual. The service did not accept patients who were medically unstable or experiencing acute psychiatric illness requiring a different level of care. Once accepted, thorough assessments were carried out to determine if the service could meet the needs of the patients safely, this included clinical suitability, risk and the patients\u2019 ability to engage in treatment. Staff utilised clinical meetings and detailed handovers to communicate any identified risks and ensure a safe transition into the service.\u003C/p\u003E\u003Cp\u003EWe received feedback from commissioners who were very positive about how well the service worked with patients, their families, and system partners to ensure effective admission to the service.\u003C/p\u003E\u003Cp\u003EThe service provided comprehensive information for patients and their families as appropriate. For children and young people, the service involved parents/carers in the assessment process.\u003C/p\u003E\u003Cp\u003EStaff involved all the necessary healthcare and social care services to ensure patients had continuity of safe care, both within the service and post-discharge. Staff worked collaboratively with GPs, inpatient and community mental health services to ensure continuity of care. For example, patients who were pregnant or had diabetes received tailored treatment and care plans to support their needs. Orri worked collaboratively with the patient\u2019s obstetrics or specialist diabetes team to ensure informed, coordinated and multi\u2011agency care.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a well\u2011coordinated and proactive approach to maintaining patient safety, particularly for individuals presenting with severe physiological instability. The service had implemented a clearly defined escalation pathway with the local Accident and Emergency department, ensuring staff understood when urgent medical intervention was required. A structured handover process was in place, enabling the timely and comprehensive transfer of clinical information to the acute hospital team and supporting safe continuity of care.\u003C/p\u003E\u003Cp\u003ECommissioners told us the service was very responsive and effective in managing physical health risks, such as weight loss and abnormal blood results and stabilising the individual.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service worked with people and healthcare partners to understand what being safe meant to them and the best way to achieve that. They concentrated on improving people\u2019s lives while protecting their right to live in safety, free from bullying, harassment, abuse, discrimination, avoidable harm and neglect. The service shared concerns quickly and appropriately.\u003C/p\u003E\u003Cp\u003EPatients using the service told us they felt safe and knew how to raise concerns when they did not feel safe.\u003C/p\u003E\u003Cp\u003EThe service had clearly defined and embedded systems, processes and policies to keep people safe and safeguarded from abuse.\u003C/p\u003E\u003Cp\u003ESafeguarding was embedded within everyday practice across the service. All clinical and non-clinical staff completed mandatory safeguarding training for adults and children. Clinical leads and team leaders completed level 3 safeguarding training. The provider reported that all staff would be trained to level 3 and those that were outstanding of that training would be receiving it in the current quarter. Staff we spoke with demonstrated a proactive, confident and consistent understanding of how to recognise and raise safeguarding concerns. Staff provided clear and relevant examples of how they protected patients from abuse, harassment and discrimination, including those with protected characteristics under the Equality Act. The service had a Head of Diversity, Equity and Inclusion (DEI) lead, supported by a multidisciplinary DEI Committee with representatives from across the organisation and all departments. This promoted an open culture that supported staff to recognise and respond to any unintended or covert discrimination within the service.\u003C/p\u003E\u003Cp\u003EStaff knew how to identify adults and children at risk of, or suffering, significant harm. This included working in partnership with other agencies. Each team had a designated safeguarding lead and an overall safeguarding team that had oversight of safeguarding across all three service lines. The overall service safeguarding lead was due to undertake their level 4 safeguarding training.\u003C/p\u003E\u003Cp\u003EThe service went beyond mandatory training requirements to strengthen safeguarding practice. The service produced a quarterly safeguarding bulletin which detailed any themes and trends identified from safeguarding incidents, training requirements and details of the service safeguarding flow chart. This ensured that beyond the mandatory training staff were always thinking about safeguarding. The service ran safeguarding awareness campaigns such as \u2018Remember, Remember Safeguarding November\u2019.\u003C/p\u003E\u003Cp\u003EStaff told us that safeguarding concerns were routinely discussed during morning flash meetings, multi\u2011disciplinary meetings and handovers, and that safeguarding referrals were reviewed through clinical governance processes. Staff were confident in how to raise a safeguarding referral and understood who to escalate immediate concerns to. They had access to safeguarding leads for advice and support whenever needed.\u003C/p\u003E\u003Cp\u003EThe service worked in collaboration with an external organisation to provide independent case review, oversight of training, and scrutiny of the service\u2019s culture, knowledge and skills. This partnership offered an additional layer of external assurance and helped ensure the service operated in line with national guidance for children, young people and adults. The external organisation provided objective challenge and supported the service to maintain safe, evidence\u2011based practice.\u003C/p\u003E\u003Cp\u003ECommissioners fed back that the service was highly responsive in addressing any safeguarding concerns.\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Capacity Act\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff demonstrated an excellent understanding of the Mental Capacity Act particular the five statutory principles and how they applied the core principles throughout their daily practice. Staff consistently presumed capacity and took practical steps to support patients to make their own decisions. When staff assessed patients as not having capacity, they made decisions in the best interest of patients and considered the patient\u2019s wishes, feelings, culture and history. Staff kept records of capacity assessments and best interest decisions.\u003C/p\u003E\u003Cp\u003EMental Capacity Act training was mandatory and compliance was at 100%. Managers had created a Mental Capacity Act song for staff to remember the five principles. They also held regular social learning sessions called \u2018Cake and Capacity\u2019.\u003C/p\u003E\u003Cp\u003EThe service monitored how well it followed the Mental Capacity Act and made changes to practice when necessary. Staff assessed and recorded capacity to consent clearly each time a patient needed to make an important decision.\u003C/p\u003E\u003Cp\u003EStaff were clear about recording consent for care and treatment, and each patient was expected to complete a consent form upon admission to the service. This included information about whether the patient consented to their information being shared with their family or carers and external services. Managers completed a quarterly audit to evaluate how well staff applied the Mental Capacity Act.\u003C/p\u003E\u003Cp\u003EStaff we spoke with had a good understanding of consent including the Mental Capacity Act. Patients were supported to communicate and make decisions to enable the service to deliver person-centred care and treatment in line with people\u0027s best interests. Multi-disciplinary team discussions involved the patient and patient\u0027s family as appropriate in decision making and planning care and treatment.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EThis was the first inspection of the registered Wimpole Street location following the relocation of the service from its previous premises in Hallam Street. This key question has been rated Good. This meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003C/p\u003E\u003Cp\u003ELeaders had the skills, knowledge and experience to perform their roles. Staff knew and understood the provider\u2019s vision and values and how they applied to the work of their team. Staff felt respected, supported and valued. Governance processes operated effectively. Performance and risk were managed well. Teams had access to the information they needed to provide safe and effective care. Staff collected and analysed data about outcomes and performance. They used this to identify improvements.\u003C/p\u003E",
+                "commentaryDate": "2026-07-24",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation. Leaders had the skills, knowledge, experience and credibility to lead effectively. They did so with integrity, openness and honesty.\u003C/p\u003E\u003Cp\u003EThere was compassionate, inclusive and effective leadership at all levels. Leaders at all levels demonstrated the high levels of experience, capacity and capability needed to deliver excellent, inclusive and sustainable care. The chief executive was also the registered manager and had extensive experience of working in eating disorders. They were supported by an experienced senior leadership team which oversaw all service lines. Leaders were able to explain clearly how they led the service and worked with their staff teams to ensure the quality of the service.\u003C/p\u003E\u003Cp\u003EDuring the inspection, leaders demonstrated high levels of experience, capacity and capability to manage the service effectively. They had a clear understanding of the challenges to quality and sustainability and took appropriate action to address them.\u003C/p\u003E\u003Cp\u003EManagers and leaders were actively seeking solutions to operational challenges and ensuring the service remained accessible to all patients. We saw clear evidence that managers were engaged in both the current and future development of the service, contributing to strategic planning and pathway redesign. The service was working towards a comprehensive service improvement plan that outlined priority areas for development, including enhancements to clinical pathways. This plan clearly identified where improvements were needed and set out the actions required to strengthen the quality, consistency, and responsiveness of care. One example was in strengthening multidisciplinary formulation and review processes.\u003C/p\u003E\u003Cp\u003EPerformance was regularly reviewed through structured leadership meetings, where risks were discussed, monitored and mitigated. This ensured that issues were identified early and that the service remained safe, well\u2011governed and responsive to emerging pressures.\u003C/p\u003E\u003Cp\u003EStaff and patients confirmed that leaders were visible in the service and approachable for patients and staff. Leaders fostered a psychologically safe environment where staff felt empowered to speak up, innovate and contribute to service development.\u003C/p\u003E\u003Cp\u003EAll staff we spoke with told us leaders across the service were highly visible and took time to recognise each individual\u2019s strengths and needs across the organisation.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service fostered a positive culture where people felt they could speak up and their voice would be heard.\u003C/p\u003E\u003Cp\u003ELeaders fostered a positive culture where most patients and their families felt they could speak up and their voice would be heard. Staff and leaders acted with openness, honesty, and transparency. Staff were encouraged to raise concerns with their managers or with the chief executive directly.\u003C/p\u003E\u003Cp\u003EThere was a detailed whistleblowing policy in place. All staff we spoke to felt able to raise concerns with their managers and told us they were approachable and listened. The registered manager was open, honest and transparent. When something went wrong, they apologised to people and explained the actions they were taking to prevent this from happening again.\u003C/p\u003E\u003Cp\u003EPatients and carers had multiple opportunities to provide feedback in ways that reflected their individual needs.\u003C/p\u003E\u003Cp\u003EManagers and staff had access to this feedback and used it to inform service improvements. Patients and carers were actively involved in decision\u2011making about changes to the service and staff recruitment.\u003C/p\u003E\u003Cp\u003EPatients and staff were able to meet with members of the senior leadership team to share their views directly, demonstrating an open culture and a commitment to co\u2011production.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3 The evidence showed a good standard. The service had clear responsibilities, roles, systems of accountability and good governance. They used these to manage and deliver good quality, sustainable care, treatment and support. They act on the best information about risk, performance and outcomes, and share this securely with others when appropriate.\u003C/p\u003E\u003Cp\u003EThe leadership, culture and robust governance arrangements were used effectively to drive and improve the delivery of high\u2011quality, person\u2011centred care. The service systematically monitored standards of care to support continuous improvement in patient outcomes. All teams participated in a structured audit programme covering care and treatment, care planning, staff supervision and appraisals. The audits were sufficient to provide assurance in quality of care and staff acted on the results when needed. However, the service had not identified, and did not have oversight of, the prescribing practices of psychiatrists.\u003C/p\u003E\u003Cp\u003EManagers ensured there was a clear governance structure in place, supported by processes, policies and systems that enabled the service to run effectively and deliver high\u2011quality care. Staff understood lines of accountability. Robust governance mechanisms were established for both the online and in\u2011person treatment pathways.\u003C/p\u003E\u003Cp\u003EManagers reviewed the performance and effectiveness of the service at monthly clinical governance and operational governance meetings. These meetings considered mandatory training and supervision rates, incidents, infection prevention and control, patient feedback (including complaints and compliments), compliance with national guidelines and examples of innovative practice. A clear reporting structure ensured information was shared across the service. Information flowed in both directions, with key updates communicated between the clinical governance meeting, operational governance meeting, staff team meetings and patient meetings. There was a clear framework of what must be discussed at team and clinical governance meetings to ensure that essential information such as incidents, safeguarding, risk, health and safety, audits was shared and discussed. Governance was further strengthened by the oversight of an independent chair, providing additional scrutiny, assurance and external challenge.\u003C/p\u003E\u003Cp\u003EStaff were supported by a management team that worked closely with them to enhance learning and drive continuous improvement. Staff received appropriate mandatory and specialist training, alongside regular supervision and an annual performance appraisal. Opportunities for development were embedded across all roles, and staff were supported to progress through individual training plans and structured appraisal processes. Education and learning were regarded as a cornerstone of the service\u2019s approach to maintaining a skilled and competent workforce.\u003C/p\u003E\u003Cp\u003EStaff understood how to work collaboratively with colleagues across the organisation and with external professionals and services to meet the needs of patients.\u003C/p\u003E\u003Cp\u003EStaff had access to the information they needed to provide safe and effective care and used that information to good effect. There was a robust system for identifying, recording and managing risks, issues and mitigating actions. Risk management was well embedded throughout the service and recognised as a collective responsibility of all the staff. The service had a risk register which listed the key areas of risk to the organisation and service. The risk register was reviewed at clinical governance and the senior leadership meetings.\u003C/p\u003E\u003Cp\u003EThe service had plans for emergencies, for example, adverse weather or a flu outbreak.\u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology required to undertake their roles safely and effectively. The information technology infrastructure functioned reliably and supported the delivery of high\u2011quality care.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service had a strong focus on continuous learning, innovation and improvement across the organisation and local system. They always encouraged creative ways of delivering equality of experience, outcome and quality of life for people. They actively contribute to safe, effective practice and research.\u003C/p\u003E\u003Cp\u003EManagers encouraged staff to contribute ideas for improving the service and developing best practice. Staff told us that continuous learning and development were closely aligned with the organisation\u2019s value of curiosity, and that they were supported to reflect, innovate and share learning across the service.\u003C/p\u003E\u003Cp\u003EQuality improvement (QI) initiatives were strongly embedded within the service. All staff were familiar with the process and methodology of quality improvement. Various QI projects were taking place such as review of the DEI strategy, improving food service experience, education and learning and MDT processes.\u003C/p\u003E\u003Cp\u003EThe service was accredited by the Royal College of Psychiatrists\u2019 Quality Network for Eating Disorders (QED), which works with inpatient and community services to assure and improve the quality of care for people with eating disorders and their carers. At the time of the review the service fully met 85 per cent of standards for community eating disorder services.\u003C/p\u003E\u003Cp\u003EThe service had reviewed the findings from the National Audit of Eating Disorders (NAED) and the key themes from the 2025 service\u2011mapping report, which analysed national and regional data across inpatient and community eating disorder services. The service was using this information to prepare for an upcoming service audit and to benchmark its performance against national standards.\u003C/p\u003E\u003Cp\u003EStaff had opportunities to participate in research activities. They were supported by Orri\u2019s Director of Research and Development who is a leading Professor at University College London, where they lead the world\u2019s only postgraduate programme in eating disorders and Clinical Nutrition. They provided comprehensive training on eating disorders to the staff team and had contributed to the development of the Medical Emergencies in Eating Disorders (MEED) guidelines for both young people and adults. They had also been instrumental in the development of Mentalization\u2011Based Therapy for eating disorders.\u003C/p\u003E\u003Cp\u003EThe service had been recognised nationally for excellence in clinical innovation and high\u2011quality care. Achievements included the Health Service Journal Excellence in Clinical Innovation Award 2026, Best Independent Healthcare Provider 2025, Best Provider of Mental Health Services at the Health Service Journal Independent Healthcare Providers Awards, awarded jointly to Orri and the NHS Kent and Sussex Adult Eating Disorders Provider Collaborative.\u003C/p\u003E\u003Cp\u003EThe service was in the process of piloting an artificial intelligence tool for eating disorders within the day\u2011care treatment programme. Managers were working closely with the app developers to ensure the tool was safe, clinically appropriate and aligned with the service\u2019s therapeutic model before wider implementation.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service clearly understood and carried out their duty to collaborate and work in partnership, and services worked seamlessly for people. They always shared information and learning with partners and collaborated to drive improvement.\u003C/p\u003E\u003Cp\u003EManagers had sought out and built positive and collaborative relationships with external partners to understand the challenges of the local and national population and to meet those needs. Commissioners of the two online pilots told us that the programmes were successfully avoiding avoidable admissions and keeping patients as close to home as possible. Comments from commissioners included \u201Cthe service provides individualised care, that is flexible and collaborative\u201D. \u201CThe service is extraordinarily nurturing and responsive\u201D. Commissioners confirmed the service was very responsive in addressing any risk issues identified with patients, such as safeguarding or physical health concerns.\u003C/p\u003E\u003Cp\u003EManagers engaged actively with other health and social care providers to ensure that an integrated health and care system was commissioned and to meet the needs of those with eating disorders in the local and national population.\u003C/p\u003E\u003Cp\u003EManagers had developed links with other services within the UK. Managers were able to evidence the benefits of an early intervention day service treatment model as an alternative treatment for patients who were not suitable for inpatient eating disorder services.\u003C/p\u003E\u003Cp\u003EThe service had developed links with local universities to share learning and good practice. The service worked with university well being teams to provide awareness training on eating disorders, such as recognising an unhealthy body mass index (BMI) score. They also provided teaching sessions to schools so that teachers could recognise if children had an eating disorder and body image issues.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a proactive approach to digital development and remained committed to adopting technological advancements that enhanced clinical and operational processes. The service had implemented the Orri Hub, which was a unified digital platform that integrated clinical and operational functions. This system strengthened the efficiency of patient diary management and scheduling and supported the creation of accessible platforms for both staff and patients. For children and young people, parents and carers were able to access the Orri Hub, which ensured they remained informed about planned sessions and activities. The service was able to add parents and carers directly to appointments. Carers fed back that this had improved coordination of family therapy sessions, treatment reviews and other carer-related appointments. The Orri hub allowed strengthened use of outcome data within treatment. For example, clinicians could access patient responses in real time, review them collaboratively with patients during sessions and use them to inform care planning and therapeutic discussions. This supported transparency and enabled families to stay engaged in the young person\u2019s care. For adults using the service, access to the individual\u2019s schedule was only provided when the person gave explicit consent, ensuring that information\u2011sharing with parents or carers was managed safely and in line with consent and confidentiality requirements.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and understanding challenges and the needs of people and their communities.\u003C/p\u003E\u003Cp\u003EThe service showed strong leadership, underpinned by a clear strategic vision and an inclusive culture that prioritised patient care, staff engagement, and transparent communication. Staff reported feeling listened to and actively involved in shaping the service.\u003C/p\u003E\u003Cp\u003EThe service aimed to provide people experiencing an eating disorder with high\u2011quality, evidence\u2011based care delivered in a professional and compassionate environment. Staff were highly attuned to each person\u2019s individual story and their unique relationship with food. The provider\u2019s senior leadership team had successfully communicated the provider\u2019s vision and values to the frontline staff in this service.\u003C/p\u003E\u003Cp\u003EThe service\u2019s website clearly articulated its ethos, emphasising a commitment to treating people as individuals, understanding each person\u2019s eating\u2011disorder journey, and supporting them to achieve sustained recovery. The service focused on education for the patients and carers.\u003C/p\u003E\u003Cp\u003EAll staff we spoke with were highly motivated, passionate and positive about their roles. They described a friendly, safety-focused, and open culture, and reported receiving strong support from managers. Staff consistently described a positive working environment and effective teamwork.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "\u003Cp\u003EWe scored the service as 3. The evidence showed a good standard. The service valued diversity in their workforce. They work towards an inclusive and fair culture by improving equality and equity for people who work for them.\u003C/p\u003E\u003Cp\u003EStaff were able to apply to work flexibly. Flexible working agreements took into account personal circumstances such as caring responsibilities and health issues.\u003C/p\u003E\u003Cp\u003EManagers put reasonable adjustments in place for staff members to help them carry out their role.\u003C/p\u003E\u003Cp\u003EThe provider undertook equality monitoring of staff within the service to ensure it is diverse in its make-up and representative of the patient group. The service had a DEI committee that reviewed equality monitoring.\u003C/p\u003E",
+                        "commentaryDate": "2026-07-24"
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

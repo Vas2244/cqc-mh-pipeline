@@ -1,0 +1,72 @@
+{
+  "locationId": "1-23050420962",
+  "providerId": "1-17429779431",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Body and Mind Healthcare clinic Edgware",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2025-06-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.6100609,
+  "onspdLongitude": -0.2780348,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "8th Floor Elizabeth House 54-58",
+  "postalAddressLine2": "High Street",
+  "postalAddressTownCity": "Edgware",
+  "region": "London",
+  "postalCode": "HA8 7EJ",
+  "uprn": "200218527",
+  "mainPhoneNumber": "01923273135",
+  "website": "www.bodymindhealthcareclinic.com",
+  "numberOfBeds": 0,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Adriana",
+          "personFamilyName": "Coelho",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": []
+}

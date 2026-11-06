@@ -1,0 +1,305 @@
+{
+  "locationId": "1-5537570253",
+  "providerId": "1-101725819",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The Huntercombe Hospital - Roehampton",
+  "brandId": "BD192",
+  "brandName": "BRAND Four Seasons",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2018-08-01",
+  "deregistrationDate": "2021-03-08",
+  "dormancy": "N",
+  "onspdLatitude": 51.4477883,
+  "onspdLongitude": -0.2422774,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Holybourne Avenue",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW15 4JL",
+  "uprn": "10024086170",
+  "website": "www.huntercombe.com",
+  "numberOfBeds": 28,
+  "constituency": "Putney",
+  "localAuthority": "Wandsworth",
+  "lastInspection": {
+    "date": "2020-10-06"
+  },
+  "lastReport": {
+    "publicationDate": "2020-11-17"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-144135399",
+      "relatedLocationName": "The Huntercombe Hospital - Roehampton",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    },
+    {
+      "relatedLocationId": "1-10205173491",
+      "relatedLocationName": "Holybourne Hospital",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "inspectionAreaName": "Acute wards for adults of working age and psychiatric intensive care units",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Inactive",
+      "endDate": "2020-11-17"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2020-11-17",
+      "reportLinkId": "9b70bdb7-c3a7-47e7-8876-740cc95a4e38",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2020-11-17",
+          "reportLinkId": "9b70bdb7-c3a7-47e7-8876-740cc95a4e38"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2020-11-17",
+          "reportLinkId": "9b70bdb7-c3a7-47e7-8876-740cc95a4e38"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-04-09",
+          "reportLinkId": "b3d4c626-d4fd-447d-9e5d-5471f24e9087"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-04-09",
+          "reportLinkId": "b3d4c626-d4fd-447d-9e5d-5471f24e9087"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2020-11-17",
+          "reportLinkId": "9b70bdb7-c3a7-47e7-8876-740cc95a4e38"
+        }
+      ]
+    },
+    "reportDate": "2020-11-17",
+    "serviceRatings": [
+      {
+        "name": "mhpsychintensive",
+        "rating": "Good",
+        "reportDate": "2020-11-17",
+        "reportLinkId": "9b70bdb7-c3a7-47e7-8876-740cc95a4e38",
+        "keyQuestionRatings": [
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2020-01-22",
+      "reportLinkId": "a80805c1-186b-4afb-a03b-a83687c9a834",
+      "serviceRatings": [
+        {
+          "name": "mhpsychintensive",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Safe",
+              "rating": "Inadequate"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inadequate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2019-04-09",
+      "reportLinkId": "b3d4c626-d4fd-447d-9e5d-5471f24e9087",
+      "serviceRatings": [
+        {
+          "name": "mhpsychintensive",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        },
+        {
+          "name": "mhsubstance",
+          "rating": "Requires improvement"
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-09-18",
+      "reportLinkId": "094da688-bbaa-400d-8e56-2c8b96c15dd7",
+      "serviceRatings": [
+        {
+          "name": "mhpsychintensive",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Effective",
+              "rating": "Inspected but not rated"
+            },
+            {
+              "name": "Safe",
+              "rating": "Inspected but not rated"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "9b70bdb7-c3a7-47e7-8876-740cc95a4e38",
+      "reportDate": "2020-11-17",
+      "firstVisitDate": "2020-09-24",
+      "reportUri": "/reports/9b70bdb7-c3a7-47e7-8876-740cc95a4e38?20210112182551",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "a80805c1-186b-4afb-a03b-a83687c9a834",
+      "reportDate": "2020-01-22",
+      "firstVisitDate": "2019-11-04",
+      "reportUri": "/reports/a80805c1-186b-4afb-a03b-a83687c9a834?20210114110728",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b3d4c626-d4fd-447d-9e5d-5471f24e9087",
+      "reportDate": "2019-04-09",
+      "firstVisitDate": "2019-01-09",
+      "reportUri": "/reports/b3d4c626-d4fd-447d-9e5d-5471f24e9087?20210116101340",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "094da688-bbaa-400d-8e56-2c8b96c15dd7",
+      "reportDate": "2018-09-18",
+      "firstVisitDate": "2018-07-31",
+      "reportUri": "/reports/094da688-bbaa-400d-8e56-2c8b96c15dd7?20210117144847",
+      "reportType": "Location"
+    }
+  ]
+}

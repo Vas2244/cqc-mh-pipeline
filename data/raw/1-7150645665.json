@@ -1,0 +1,228 @@
+{
+  "locationId": "1-7150645665",
+  "providerId": "1-126775024",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Primary Care Recovery Service (PCRS)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2019-07-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.437793,
+  "onspdLongitude": -0.05413,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "55 Dartmouth Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE23 3HN",
+  "mainPhoneNumber": "02075822200",
+  "website": "www.waythrough.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham West and East Dulwich",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2022-06-07"
+  },
+  "lastReport": {
+    "publicationDate": "2022-08-12"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2620184251",
+      "relatedLocationName": "Primary Care Recovery Service (PCRS)",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Agnieszka",
+          "personFamilyName": "Cadogan",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2022-08-12",
+      "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2022-08-12",
+          "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2022-08-12",
+          "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-08-12",
+          "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-08-12",
+          "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-08-12",
+          "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64"
+        }
+      ]
+    },
+    "reportDate": "2022-08-12",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2022-08-12",
+        "reportLinkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-03-01",
+      "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98",
+      "organisationId": "1-2620184251",
+      "serviceRatings": [
+        {
+          "name": "mhsubstance",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64",
+      "reportDate": "2022-08-12",
+      "firstVisitDate": "2022-06-07",
+      "reportUri": "/reports/7eaed2b1-3ec8-4e16-9ec5-4f0e50959f64?20220812070124",
+      "reportType": "Location"
+    }
+  ]
+}

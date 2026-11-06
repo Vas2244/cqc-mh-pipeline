@@ -1,0 +1,57 @@
+{
+  "locationId": "1-2011817679",
+  "providerId": "1-516591398",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "New Coach House (Primary Care Support Service)",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2015-04-15",
+  "deregistrationDate": "2016-06-02",
+  "dormancy": "N",
+  "onspdLatitude": 51.506638,
+  "onspdLongitude": -0.234086,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "370-376 Uxbridge Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W12 7LL",
+  "numberOfBeds": 0,
+  "constituency": "Hammersmith and Chiswick",
+  "localAuthority": "Hammersmith and Fulham",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": []
+}

@@ -1,0 +1,1030 @@
+{
+  "locationId": "1-19892410790",
+  "providerId": "1-18074085556",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "The London Centre for Eating Disorders and Body Image Ltd",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2024-09-12",
+  "dormancy": "N",
+  "onspdLatitude": 51.517386,
+  "onspdLongitude": -0.1421355,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "97 Mortimer Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "W1W 7SU",
+  "uprn": "100023466843",
+  "mainPhoneNumber": "02031379927",
+  "website": "www.thelondoncentre.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Bryony Helen",
+          "personFamilyName": "Bamford-Murphy",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "262",
+      "assessmentServiceName": "Specialist eating disorder services",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2025-12-12 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-01932",
+            "commentary": "\u003Cp\u003EWe assessed The London Centre for Eating Disorders and Body Image Ltd on 21 October 2025.\u003C/p\u003E\u003Cp\u003EThe service registered with CQC in September 2024 to deliver the regulated activity: Treatment of disease, disorder or injury. This was the first inspection of this service.\u003C/p\u003E\u003Cp\u003EWe rated this service as good. Staff, patients and carers spoke very positively about the service. Patients told us staff were kind and knowledgeable, and that they were involved in their care planning. We found some areas for improvement, such as ensuring audits were carried out on patient care records, ensuring all employed staff had regular documented appraisals and ensuring all staff who had patient contact completed safeguarding training.\u003C/p\u003E",
+            "commentaryDate": "2025-12-12",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EOur overall rating of caring at The London Centre for Eating Disorders and Body Image Ltd was outstanding.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "narrative": "This service is exceptionally caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EOur overall rating of effective at The London Centre for Eating Disorders and Body Image Ltd was good.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EOur overall rating of responsive at The London Centre for Eating Disorders and Body Image Ltd was good.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EOur overall rating of safe at The London Centre for Eating Disorders and Body Image Ltd was good.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EOur overall rating of well-led at The London Centre for Eating Disorders and Body Image Ltd was good.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP15656",
+            "title": "Ongoing Assessment for The London Centre for Eating Disorders and Body Image Ltd",
+            "assessmentDate": "2025-08-06",
+            "assessmentPlanStatus": "Active",
+            "name": "Specialist eating disorder services",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EWe carried out an announced comprehensive inspection of The London Centre for Eating Disorders and Body Image Ltd on 21 October 2025.\u003C/p\u003E\u003Cp\u003EWe rated this service as good.\u003C/p\u003E\u003Cp\u003EThe London Centre for Eating Disorders and Body Image Ltd is an independent eating disorder specialist outpatient service. The service had been operating since 2013, as a psychological therapy service. In September 2024, the service began working with a psychiatrist, and at that point began providing a regulated activity that required them to register with CQC.\u003C/p\u003E\u003Cp\u003EThis inspection focused on the care and treatment of those under the care of the service\u2019s psychiatrist. All patient and carer feedback came from those being supported by the psychiatrist. The care and treatment records we reviewed were for patients who had seen the psychiatrist. We looked at the governance processes as a whole for the provider.\u003C/p\u003E\u003Cp\u003EThe service met with patients of all ages, however the psychiatrist was registered to work with those aged 16 and over. The service offered face to face appointments, as well as remote video appointments.\u003C/p\u003E\u003Cp\u003EAt the time of inspection, the service had an employed clinical director, an employed operational clinic lead and a non-employed contracted personal assistant. The clinical staff were all sessional associate members of staff and were not directly employed by the service. There was 1 consultant psychiatrist, 28 therapists, 3 dietitians and 2 occupational therapists able to work within the service.\u003C/p\u003E\u003Cp\u003EThis was the first inspection of this service.\u003C/p\u003E\u003Cp\u003EWe spoke with 9 members of staff, 3 patients and 4 carers. We reviewed the care and treatment records of 5 patients. We also received written feedback from 3 patients and 1 carer.\u003C/p\u003E\u003Cp\u003EAt this assessment we found several areas of good practice.\u003C/p\u003E\u003Cp\u003EPatients were very positive about the care and treatment they received at the service. All patients told us they felt involved in their treatment plans and felt these reflected their individual needs. Carers were also very positive about the service. They told us they felt informed and involved in their relative\u2019s care and treatment plans.\u003C/p\u003E\u003Cp\u003EStaff spoke positively about working for the service. They told us they felt the management team were approachable, supportive and knowledgeable. Clinical staff told us they received regular supervision from the service. When CQC provided feedback, managers were proactive in creating action plans and improvements where needed.\u003C/p\u003E\u003Cp\u003EHowever, we also found some areas of improvement.\u003C/p\u003E\u003Cp\u003EA formal audit had not been carried out on the patients care and treatment records. Care and treatment records were however reviewed and discussed with clinicians during supervision. The clinic lead had not completed their safeguarding training. They also did not have a documented appraisal. Two staff we spoke with were not aware of the service\u2019s whistleblowing procedure. The calibration records were not available for the three weighing scales at the service. The service made a number of improvements following the initial feedback given onsite.\u003C/p\u003E",
+            "commentaryDate": "2025-12-12",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EWe spoke with 3 patients and 4 carers about their experiences at the service. We also received written feedback from a further 3 patients and 1 carer. \u003C/p\u003E\u003Cp\u003EPatients were very positive about the service. They told us staff were kind, caring and they respected their privacy and dignity. \u003C/p\u003E\u003Cp\u003EPatients told us clinicians were knowledgeable and were flexible in being able to offer appointments. They told us the operations staff were helpful and responded quickly to enquiries. \u003C/p\u003E\u003Cp\u003EPatients said they felt involved in their care and treatment plans. They said when medicines were prescribed, these were explained well, including potential side effects.\u003C/p\u003E\u003Cp\u003ECarers spoke positively about the service. They told us staff were supportive and professional, and they felt involved in their relative\u2019s care.  \u003C/p\u003E\u003Cp\u003EThe service collected feedback from patients via a survey. In September 2025 all 47 patients responded to say they felt supported by the service and that their clinicians listened and understood them.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2025-12-12",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Outstanding",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EThis is the first assessment for this newly registered service. This key question has been rated outstanding.\u003C/p\u003E\u003Cp\u003EThis meant people were truly respected and valued as individuals; and empowered as partners in their care in an exceptional service.\u003C/p\u003E\u003Cp\u003EStaff treated all patients with compassion and kindness. They respected patients\u2019 privacy and dignity. They understood the individual needs of patients and supported patients to understand and manage their care, treatment or condition. Staff involved patients in care planning and risk assessment and actively sought their feedback on the quality of care provided. Staff consistently informed and involved families and carers appropriately.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "narrative": "This service is exceptionally caring",
+                "percentageScore": "95",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was exceptional at promoting people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service promoted people\u2019s independence, so people had choice and control over their own care, treatment and wellbeing. All patients told us they felt they were involved and in control of decisions around their care. One patient told us the clinicians they worked with collaborated with them, going at a pace that suited them, rather than move them onto the next stage of treatment before they were ready. \u003Cbr\u003E\u003Cbr\u003EAll patients told us staff listened to their concerns and made decisions together. They told us treatment options were fully explained and any questions were answered directly and in full.\u003C/p\u003E\u003Cp\u003EPatients and carers said staff provided good, clear information about the service and their treatment plans. Patients who had been prescribed medicines said staff gave them clear information about side effects and helpful information to inform their choice of medicine. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service was exceptional at treating people with kindness, empathy and compassion and in how they respected people\u2019s privacy and dignity.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EPatients told us the staff consistently treated them with kindness, compassion and respected their privacy and dignity.\u003C/p\u003E\u003Cp\u003EAll patients and carers were very positive when talking about the staff and the care they had received. They told us they felt listened to in appointments and that staff were patient and supportive, which helped them to feel safe in appointments. All carers told us they felt involved in discussions and also felt supported.\u003C/p\u003E\u003Cp\u003EPatients commented positively on the flexibility of the service, such as being able to have more regular appointments when needed, at times that suited them.\u003C/p\u003E\u003Cp\u003EStaff supported patients to understand and manage their care, treatment or condition. A carer told us they were offered further discussions with the psychiatrist to discuss their child starting medicine. They described feeling supported to make a decision, and said the psychiatrist was realistic and truthful in their explanations.\u003C/p\u003E\u003Cp\u003EStaff maintained the confidentiality of information about patients. Record systems were secure and patients told us staff asked permission before sharing information with carers and external services. When patients had family therapy, the service ensured this was facilitated by a different therapist than the one seeing the patient for individual work. Patients and carers told us this helped keep the individual sessions a confidential safe place.\u003C/p\u003E\u003Cp\u003EThe service collected feedback from patients and carers. In the most recent survey, all 47 respondents reported feeling safe and supported by the service. All respondents said they felt the service treated them with kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EThe service used feedback from patients and carers to continually improve the service and experience for their patients. For example, redeveloping their website to make it more accessible, creating specific terms and conditions for carers who were also bill payers, and attempting to reduce the number of questionnaires needed before booking an appointment with the service.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service listened to and understood people\u2019s needs, views and wishes. Staff responded to people\u2019s needs in the moment and acted to minimise any discomfort, concern or distress.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EAll patients told us staff gave them the support and treatment to support their individual needs.\u003C/p\u003E\u003Cp\u003EStaff were aware of the specific risks related to the patient group they saw. For example, significant changes in weight, re-feeding syndrome and the need for physical health monitoring.\u003C/p\u003E\u003Cp\u003EThis service was not a crisis service, and they did not accept severe presentations. New referrals were screened to ensure patients could safely be managed by this service. The high-risk screening tool highlighted patients may be inappropriate for the service if they were a high risk of re-feeding syndrome, had experienced rapid weight loss, or had additional specialist needs such as substance misuse. Where severe concerns were noted, a patient was signposted to services such as, a local NHS crisis team or liaison psychiatry.\u003C/p\u003E\u003Cp\u003EIf a patient was not suitable for the service following their initial assessment, the patient was provided with information on where to get support that was more suited to their needs, and a referral was sent if agreed by the patient. For example, a local NHS eating disorder service, or a different private provider to support their individual needs.\u003C/p\u003E\u003Cp\u003EWhen patients already under the service became more unwell, clinicians were able to see their patients more regularly and refer them to see the psychiatrist for a more detailed assessment. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service treated people as individuals and was exceptional in how they made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. The service took account of people\u2019s strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service treated people as individuals and made sure the care and treatment met patient\u2019s needs and preferences. \u003C/p\u003E\u003Cp\u003EThe service supported patients with additional or specific needs. For example, staff told us they made adjustments for neurodivergent patients, such as providing soft lighting from lamps, using fidget toys in sessions and having more face to face meetings as some patients found remote sessions more difficult. \u003C/p\u003E\u003Cp\u003EAll patients told us staff understood and supported their individual needs. One patient told us staff did not use standard or \u2018one size fits all\u2019 treatment when working with them. They told us staff were able to work with their eating disorder and neurodivergence to create an individual evidence-based treatment plan for them. Another patient found it useful to have a written summary of each session. Initially the therapist wrote the summary at the end of each appointment, and over time the patient began taking these notes themselves. \u003C/p\u003E\u003Cp\u003EThe service provided information in formats suitable for patient\u2019s needs. The service\u2019s website informed patients to contact them directly should they need any information in a different or more accessible format. The service was currently redeveloping their website to make it more inclusive and accessible. These changes included using clear and simple language, not having any pop ups or auto-play videos and having plain text on a white background. \u003C/p\u003E\u003Cp\u003EStaff supported patient\u2019s cultural needs. For example, staff spoke to us about supporting patients who wished to observe Ramadan, despite this sometimes being against medical advice. \u003C/p\u003E\u003Cp\u003EManagers had made links with interpreting services to support patients who required this service. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service always cared about and promoted the wellbeing of their staff, and was exceptional at supporting and enabling staff to always deliver person-centred care.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EAll staff told us they felt respected, supported and consistently valued by their colleagues and managers. All staff spoke very positively about working at the service and they were proud of the work of their team. \u003C/p\u003E\u003Cp\u003EThe service carried out a survey for their staff team in September 2025. Twenty staff responded to this survey. The survey found the majority of staff strongly agreed that their wellbeing was recognised and supported by the clinic. One staff member rated this a 3 out of 5, due to the fees arrangements within the service. Managers responded to this feedback to say they would review the fee structure for staff and be more transparent with how money was used within the service. \u003C/p\u003E\u003Cp\u003EThe service had regular events to come together to discuss learning, as well as social events away from the office to support team bonding. \u003C/p\u003E\u003Cp\u003EStaff told us the service supported their professional development. For example, providing training on different topics, and providing a range of supervision sessions. The service also worked with a local university, and provided training placements and supervision to trainee therapists. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on best available evidence.\u003C/p\u003E\u003Cp\u003EThis is the first assessment for this newly registered service. This key question has been rated good.\u003C/p\u003E\u003Cp\u003EThis meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003C/p\u003E\u003Cp\u003EStaff assessed the needs of all patients on admission. They developed individual treatment plans which were reviewed regularly and updated as needed. Staff provided a range of treatment and care for patients based on national guidance and best practice. Staff from different disciplines worked together as a team to benefit patients. \u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "narrative": "This service is effective",
+                "percentageScore": "79",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWe reviewed 5 patient care and treatment records. \u003C/p\u003E\u003Cp\u003EStaff completed comprehensive initial assessments of patients soon after their referral to the service. Where patients were deemed higher risk, they would have their initial assessment with the psychiatrist.\u003C/p\u003E\u003Cp\u003EFollowing their assessment, patients were offered treatment options, which included psychological therapies, dietetic support, occupational therapy or medicines. Patients told us treatment plans were specific to their needs, and created with their involvement.\u003C/p\u003E\u003Cp\u003EFeedback from people using the service was positive. Patients felt involved in their assessments and felt confident that staff understood their individual needs.\u003C/p\u003E\u003Cp\u003EWhere appropriate, staff weighed patients in the clinic and at regular intervals throughout their treatment. The clinic had 3 weighing scales. At the time of inspection, calibration records were not available. The service had since contacted the manufacturer to arrange yearly calibration of their equipment. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EPatient\u2019s signed agreements with the service before they started treatment. These forms included consent to start treatment and an understanding of the cancellation and missed appointment policy. The service collected consent to share information with GPs, other services and family members at the point of initial referral. Patients told us staff routinely asked for consent to share information with external services and family throughout their treatment. \u003C/p\u003E\u003Cp\u003EThe records we reviewed showed patients were involved in discussions around medicines and had consented to treatment. Patients told us they were able to make their own decisions around the treatment they received. Staff told us consent to continue therapeutic treatment was often implied in that the patient attended these sessions regularly. \u003C/p\u003E\u003Cp\u003EThe service did not explicitly document a patient\u2019s mental capacity. Whilst clinicians were trained in completing capacity assessments, managers told us there had been no clinical need to complete a formal capacity assessment. Staff told us if there were any concerns for a patient\u2019s capacity, they would be referred to specialist services, as they would likely need more intensive support. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service always planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service planned and delivered people\u2019s treatment with them. \u003C/p\u003E\u003Cp\u003EStaff provided a range of care and treatment interventions suitable for the patient group. The interventions were those recommended by, and were delivered in line with, guidance from the National Institute for Health and Care Excellence (NICE). These included a range of psychological therapies, dietitian input, family therapy and medication. For example, staff told us they used Maudsley Anorexia Nervosa Treatment for Adults (MANTRA) therapy for their adult patients. Clinical records demonstrated that treatment was provided in line with current guidance.\u003C/p\u003E\u003Cp\u003EAll patients were very happy with the treatment they received. One patient old us staff were very knowledgeable on their diagnosis of Avoidant Restrictive Food Intake Disorder (ARFID), which they felt other services had difficulty understanding and treating.\u003C/p\u003E\u003Cp\u003EStaff told us they kept up to date with current best practice by attending external conferences, attending training and reviewing research. Within the service, training was provided on specialist areas for other staff members. For example, there was a training session on Autism Spectrum Disorder (ASD) and how this can link with their work in treating eating disorders. Clinicians also attended clinical case discussions, where they were able to present a case, and receive support and advice from their colleagues.\u003C/p\u003E\u003Cp\u003EStaff made referrals to external specialists where required. For example, staff referred their patients for ASD assessments where deemed clinically appropriate. They also referred patients to specialist eating disorder NHS services.\u003C/p\u003E\u003Cp\u003EThe service had a number of quality improvement projects, for example, their website redevelopment to improve accessibility. The service had also recently developed their Intensive Outpatient Programme (IOP) which supported patients with 5 sessions per week, for a 6-week intensive period. The sessions involved a range of professionals, such as therapists, a doctor and a dietitian. This was implemented based on patient and clinician feedback to the service.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service worked well across teams and services to support people. They made sure people only needed to tell their story once by sharing their assessment of needs when people moved between different services.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service worked well together to support people. Staff told us there were good working relationships between all staff within the service. Patients told us the staff working with them worked well together, and all staff were kept up to date between their sessions. \u003C/p\u003E\u003Cp\u003EStaff told us they felt supported by their team members and managers. They told us there was clear communication between clinicians, via email and phone calls. When working jointly for a patient, staff were able to access each other\u2019s internal record keeping notes to keep up to date on their latest information.\u003C/p\u003E\u003Cp\u003EThe service held a weekly meeting, attended by the clinical director, clinic lead, personal assistant, and on occasions the consultant psychiatrist. This meeting had an agenda, which covered areas such as, service risk, incidents, complaints, audit results, the wait list and new assessment outcomes. Minutes for these meetings were recorded. Minutes were not shared with the wider team, however, managers shared important information in all-staff emails, individual supervision and ad-hoc staff meetings. We saw examples of emails being sent to staff, such as a reminder of the risk escalation protocol following assessments and helpful information on what to do if they have any concerns with their remote appointment platform. Staff also told us they were informed and consulted on the Intensive Outpatient Programme (IOP) prior to this going live. Staff told us they recently came together to discuss their stance on the usage of weight loss injections. \u003C/p\u003E\u003Cp\u003EThe service had effective working relationships with teams outside the organisation. For example, patient\u2019s GPs, local authority safeguarding leads, and local NHS eating disorder services. One patient told us staff had discussed their care with their previous medical team prior to their appointment. This allowed the clinicians to have up to date information on their treatment so far. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. Whilst the service did not consistently carry out formal outcome measures, the service informally monitored people\u2019s care and treatment to improve it. They ensured that patient outcomes were positive and consistent, and that they met both clinical expectations and the expectations of people themselves.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EAs a result of patient feedback the provider had streamlined and reduced the use of a range of outcome measures, introducing instead the Likert scale to ensure ongoing monitoring.\u003C/p\u003E\u003Cp\u003ESome individual clinicians told us they did use outcome measures where appropriate. For example, the Patient Health Questionnaire-9 (PHQ-9) which measures depression and the Eating Disorder Examination Questionnaire (EDE-Q).\u003C/p\u003E\u003Cp\u003EThe service did have an informal Likert scale measurement for patients to self-reflect on their recovery throughout treatment. This questionnaire asked patients to rate their thoughts and feelings from 1-10 on areas such as \u2018thoughts about my weight or shape have taken up a lot of my time or attention\u2019, \u2018I feel confident that I can cope with my eating or body image difficulties, or use strategies I\u2019ve learned\u2019, and \u2018I feel I am meeting my goals for treatment\u2019.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service supported people to manage their health and wellbeing to maximise their independence, choice and control. The service supported people to live healthier lives and where possible, reduce their future needs for care and support.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service supported people to live healthier lives. They offered advice and guidance as part of their treatment. Patients had access to dietitians within the service who supported patients with dietetic assessments, meal support programmes and healthy eating advice.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EThis is the first assessment for this newly registered service. This key question has been rated good.\u003C/p\u003E\u003Cp\u003EThis meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E\u003Cp\u003EThe service met the needs of all patients, including those with a protected characteristic. Staff referred their patients to external support where needed. They kept in good contact with all professionals involved in the care and treatment of their patients. The service treated concerns and complaints seriously, investigated them and learned lessons from the result.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "narrative": "This service is responsive",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service understood the diverse health and care needs of people, so care was joined-up, flexible and supported choice and continuity.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff worked together with other services and clinicians to meet the needs of their patients. We saw examples of staff referring patients to their GPs and local NHS specialist eating disorder services. A patient told us their therapist at the service was in regular contact with their external Attention Deficit Hyperactivity Disorder (ADHD) clinician.\u003C/p\u003E\u003Cp\u003EThe service saw around 300 patients per year. In 2025 the psychiatrist had met with 38 patients. The service did not have a wait list. Patients told us they were seen quickly for an initial assessment, often within a week. Managers told us there was sometimes a wait for specific specialist therapies or to meet with the psychiatrist. These patients were monitored in weekly managers meetings and support was offered in the meantime where needed.\u003C/p\u003E\u003Cp\u003EThe service offered appointments in the evening, as well as some appointments on Saturdays. Patients told us they found it useful to have the option to attend appointments after work.\u003C/p\u003E\u003Cp\u003EManagers reviewed the staffing needs for the service and recruited in particular areas when needed. For example, managers recently recruited a therapist who specialised in Avoidant Restrictive Food Intake Disorder (ARFID) following an increase in the number of referrals requiring this support.\u003C/p\u003E\u003Cp\u003EStaff told us when a clinician was off sick or on leave, other clinicians stepped in to cover each other\u2019s patients, to ensure patients received timely care and treatment. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure that people could access the care, support and treatment they needed.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EPatients were able to access the service in a way that met their needs, such as in person or virtually. Appointment times were flexible depending on the clinicians and the patients\u2019 availability. \u003C/p\u003E\u003Cp\u003EThe service had low waiting times to access appointments. \u003C/p\u003E\u003Cp\u003EThere was no crisis pathway at this service, and patients were directed to local community crisis services or emergency departments if needed. \u003C/p\u003E\u003Cp\u003EThe service made reasonable adjustments for patients when needed, such as using a ground floor room for appointments for those with mobility issues, being able to dim the lights for those with sensory needs and using a range of fidget toys during appointments. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. Staff and leaders actively listened to information about people who are most likely to experience inequality in experience or outcomes and tailored their care, support and treatment in response to this.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EFeedback from patients and carers was very positive. Patients told us staff treated people with respect and without discrimination. \u003C/p\u003E\u003Cp\u003EStaff within the service promoted a culture in which the people using the service felt able to give their views. Patients we spoke with said they would speak to the clinician or administrative staff if they had any concerns. \u003C/p\u003E\u003Cp\u003EThe management team was aware that their outpatient services were not suitable for complex or severe mental health conditions. They had a suitability criteria, which was reviewed when patients were referred into the service. This criteria was based on Medical Emergencies in Eating disorder (MEED) guidance. If a patient\u2019s needs could not be safely managed by the service, they would be contacted with an explanation, as well as a referral to more suitable services. \u003C/p\u003E\u003Cp\u003EThe service did not include equality, diversity, inclusion and human rights training within their mandatory training list. At the time of inspection, 17 out of 35 staff had shared completed training certificates with the service. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service made it easy for people to share feedback and ideas, or raise complaints about their care, treatment and support. They involved people in decisions about their care and told them what had changed as a result.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EPatients and carers told us they knew how to complain or raise a concern, if they needed to. The service carried out their own patient survey and found over 90% of patients described the service as responding very well, extremely well, or promptly when they had a concern. \u003C/p\u003E\u003Cp\u003EIn the last 12 months the service had not received any formal complaints. In this time, they had received 3 informal complaints. These informal complaints had not been made by patients under the care of the psychiatrist. The concerns raised were related to patients not feeling the therapist was the right fit for them and one patient had accidentally been given the wrong appointment date. The service looked into these concerns and responded to the patients with their findings. \u003C/p\u003E\u003Cp\u003EChanges were made as a result of patient feedback. For example, setting up a new referral pathway with less forms and questionnaires after some patients felt there were too many forms. They also created the Intensive Outpatient Programme (IOP) for those patients who expressed they would like more structured daily support. The service had also created a separate bill payer terms and conditions form following feedback from a carer regarding their child\u2019s missed appointments. \u003C/p\u003E\u003Cp\u003EWhen complaints or concerns were received regarding a particular clinician, there was an increase in supervision sessions and managers spoke openly and sensitively about the concerns raised. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond to any relevant changes in people\u2019s needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EPatients told us they were supported to understand their condition and were involved in planning their care needs. One patient told us the service got to know their daily activities and preferences to help with their treatment plan, for example, discussing what shops they buy food in to plan in detail their meal plan. \u003C/p\u003E\u003Cp\u003EStaff referred patients to external services to support their individual needs. For example, patients told us they had been referred for Autism Spectrum Disorder (ASD) assessments and to GPs for physical health monitoring. \u003C/p\u003E\u003Cp\u003EPatients told us there was flexibility when booking appointments, meaning they could arrange their appointments around their work or school schedules and personal events.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. People were supported to plan for important life changes, so they could make informed decisions about their future.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWhere appropriate, staff supported patients to consider longer term decisions about their care and treatment. When needed, patients were referred to NHS services where patients were able to receive longer term support. \u003C/p\u003E\u003Cp\u003EStaff ensured relevant healthcare professionals and other relevant bodies were involved in planning the care and treatment of people with complex needs. For example, staff included safeguarding services, schools, local NHS services and GPs services when needed.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service\u2019s website had clear information on what treatments were offered, which clinicians worked at the service and how much the appointments would cost. They had links to the terms and conditions of treatment, as well as the service\u2019s complaints policy.\u003C/p\u003E\u003Cp\u003EPatients received emails before their appointments with useful links and information, such as how to access their appointment and crisis support information. \u003C/p\u003E\u003Cp\u003EStaff ensured carers and families were regularly updated about the patient\u2019s progress. Patients told us staff asked permission before sharing information with their families. Carers told us they felt up to date and included in their relative\u2019s care. \u003C/p\u003E\u003Cp\u003EAt the time of inspection, information was not available in patient areas. Managers told us they did not feel it was appropriate to have service specific information in a shared building. Following the inspection the service made posters with information such as how to complain, eating disorder support lines and crisis support information, which they put in meeting rooms which were only used by this service. \u003C/p\u003E\u003Cp\u003EThe service was able to access interpreters for patients. However, this service had not yet been needed. \u003C/p\u003E\u003Cp\u003EManagers provided information in accessible formats for staff. For example, we saw examples of managers providing concise emails, with bullet points, for staff members with dyslexia or ADHD. Managers told us they had follow up calls to discuss any questions with staff who found written text formats more difficult. \u003C/p\u003E\u003Cp\u003EThe electronic record system was secure. The video platform used to have online appointments was secure, and these calls were not recorded. \u003C/p\u003E\u003Cp\u003EThe service was registered with the information commissioner\u2019s office as appropriate.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EThis is the first assessment for this newly registered service. This key question has been rated good.\u003C/p\u003E\u003Cp\u003EThis meant people were safe and protected from avoidable harm.\u003C/p\u003E\u003Cp\u003EClinic areas were clean, well furnished, and fit for purpose. Staff understood how to protect patients from abuse and the service worked well with other agencies to do so. The service used systems and processes to safely prescribe and record medicines. The service managed patient safety incidents well. However, whilst patients and carers told us they were aware of their specific plans to manage their risks and condition, not all patients had documented risk management plans. The service\u2019s clinic lead had not completed their yearly appraisal or safeguarding training. Following the inspection, the clinic lead had completed their appraisal and had completed their safeguarding training.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "narrative": "This service is safe",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service assessed and managed the risk of infection. Infection prevention and control training was not mandatory at the time of inspection. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe meeting rooms were clean, with well-maintained furnishings. There were cleaning schedules and cleaning logs in place. Around 50% of patients were seen remotely for their appointments. We observed appropriate infection prevention and control practice whilst on site.\u003C/p\u003E\u003Cp\u003EThe service completed an annual audit on infection prevention and control. The audit looked at how tidy the rooms were, if hand sanitiser was available, waste disposal and any infection related incidents. The most recent audit showed no concerns. \u003C/p\u003E\u003Cp\u003EInfection prevention and control training was not deemed mandatory for this service. Thirteen out of 35 staff had provided certificates showing that they had completed this training. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service worked with people to understand and manage risks by thinking holistically. Staff assessed and managed risks to patients and themselves well. They provided care to meet people\u2019s needs that was safe, supportive and enabled people to do the things that mattered to them.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWe reviewed the care and treatment records of 5 patients. All records contained risk assessments, which included specific risks related to eating disorders.\u003C/p\u003E\u003Cp\u003EThree records did not have recorded risk management plans. Two of those patients were deemed low risk from their risk assessment. Managers told us patients who were low risk did not need risk management plans. The service has since introduced a universal risk plan to be used for all patients, regardless of their level of risk. \u003C/p\u003E\u003Cp\u003EFollowing the inspection, the service had carried out their own clinical record audit. They reviewed 20 records and found 95% had a risk plan documented. The service did however note information was not always easy to find in their record system. They noted improvements were needed on the clarity, consistency, and ease of navigation within the patient record.\u003C/p\u003E\u003Cp\u003EPatients told us they felt involved in their care and treatment plans. Patients were aware of how to get additional support should their condition worsen. Clinic letters contained information and contact numbers for out of hours crisis support and charities. Should a patient email the service out of hours, an automatic out of office was sent with the contact details for crisis support.\u003C/p\u003E\u003Cp\u003EThere were appropriate indemnity arrangements in place to cover potential liabilities.\u003C/p\u003E\u003Cp\u003EFor online appointments, staff verified patients\u2019 identity by asking questions related to their care and treatment. They did not request or check photo identity documents before consultations, in line with NHS digital guidance for all online health services.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service had a proactive and positive culture of safety, based on openness and honesty. They listened to concerns about safety and investigated and reported safety events. Lessons were learnt to continually identify and embed good practice. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff knew what incidents to report and how to report them. Staff reported incidents to the clinical director and clinic lead. These were then documented in their service\u2019s incident log. \u003C/p\u003E\u003Cp\u003EThere had been no serious incidents in the last 12 months. There had been 9 lower-level incidents reported, such as technical issues with their online platform, a GP refused to carry out routine physical health checks and a confidential email was sent to the incorrect clinician.\u003C/p\u003E\u003Cp\u003EManagers reviewed and investigated all reported incidents. Incidents were discussed by the management team in their weekly meetings. Learning had been identified following incident investigations, for example, the service had found private physical health monitoring services to refer patients to when needed. They also created an escalation protocol, in line with Medical Emergencies in Eating disorder (MEED) guidance. This was following an incident where a higher risk patient was not escalated by a therapist for clinical director and psychiatric review. Lessons learnt were shared with the wider clinical team in all-staff emails and individual supervision sessions. We saw evidence that an email was sent to all staff explaining the high-risk patient escalation protocol.\u003C/p\u003E\u003Cp\u003EStaff told us managers were responsive to any issues they raised. They said managers were quick to investigate concerns and make improvements where possible. \u003C/p\u003E\u003Cp\u003EDuty of candour is a legal requirement, which means providers must be open and transparent with patients about their care and treatment. This includes a duty to be honest with patients if something goes wrong. Staff were aware of the need to be open and transparent, including after an incident. We saw examples of this in managers response to patient\u2019s informal complaints.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure that medicines and treatments were safe and met people\u2019s needs and preferences. They involved people in planning, including when changes happened.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff involved patients in the prescribing and reviewing of their medicines. They helped them understand how to manage their medicines safely. Patients told us the doctor explained their medicines to them before treatment started, including any side effects. We saw examples of this in patient\u2019s records.\u003C/p\u003E\u003Cp\u003EThe service had policies related to medicines in place. For example, medicines management and prescribing. \u003C/p\u003E\u003Cp\u003EThe doctor only saw patients who had consented for their GP to be contacted and updated with the prescribing plans. The service often requested for the patient\u2019s GP to carry out baseline health checks, such as blood tests and electrocardiograms (ECGs). The service had also recently created links with a private provider to assist with physical health checks when needed. \u003C/p\u003E\u003Cp\u003EAll medicines were prescribed electronically. The service did not have prescription stationary. The service used an external pharmaceutical company to dispense and deliver patient medicines. Most patients received their repeat prescriptions from their GP. \u003C/p\u003E\u003Cp\u003EThe service carried out an annual audit related to medicines. The audit showed medicines were prescribed within British National Formulary (BNF) guidance. It also showed that all medicine records had a reason for prescribing and consent to treatment documented and where medicines were prescribed off-licence the reason was documented. The audit also looked at whether a medicines review appointment had taken place. \u003C/p\u003E\u003Cp\u003EThe service did not prescribe controlled drugs. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service made sure there were enough qualified, skilled and experienced staff, who received effective support and supervision. They worked together well to provide safe care that met people\u2019s individual needs. At the time of the inspection, the clinic lead had not completed their appraisal. This has since been completed.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had 1 employed operational staff member, who worked as the clinic lead. They were also a co-director of the service. They were responsible for areas such as service development, recruitment, and managing complaints. The service also employed the service\u2019s clinical director, who was responsible for all clinical areas of care, including providing support and supervision to clinicians. A personal assistant worked for the clinic, however they were not directly employed by the service. Clinical staff were associate team members and not directly employed by the service.\u003C/p\u003E\u003Cp\u003EMost staff had completed an induction when they began working for the service. Two staff out of 35 had not completed an induction. These two staff members were long standing clinicians who had joined the service prior to the service\u2019s CQC registration. An induction process was in place, and all new staff have completed this. Inductions were made up of an operational induction provided by the clinic lead, followed by a clinical induction provided by the clinical director.\u003C/p\u003E\u003Cp\u003EThe clinic lead received weekly check in meetings, although these meetings were not documented. They had not received a formal documented appraisal. The clinic lead told us they felt well supported in their role and had regular discussions about their role and objectives. Following the inspection, a formal documented appraisal had been carried out.\u003C/p\u003E\u003Cp\u003EClinical staff received regular supervision within the service. The timescale for supervision varied depending on a number of factors, such as, if a clinician was new, if they were a junior staff member, and how many patients they were seeing at the service. The consultant psychiatrist received external supervision, which included discussions on their work at this service. Clinicians received external appraisals with their primary employer or their professional bodies.\u003C/p\u003E\u003Cp\u003EStaff had access to peer supervision within the service every 2 to 3 months, depending on demand. They also attended complex case discussions every 4 to 6 weeks.\u003C/p\u003E\u003Cp\u003EAt the time of inspection, the induction and safeguarding training was the service\u2019s mandatory training. Training in other subjects was completed externally to the service. Staff were asked to provide their training certificates in a range of areas, however not all staff had sent these. The service did keep a record of which staff sent in their certificates and when these training courses expired. Following the inspection the service was reviewing what should be deemed as mandatory. They had also booked the clinic lead onto a number of training courses, such as autism awareness training and safeguarding training.\u003C/p\u003E\u003Cp\u003ESafe recruitment practices were followed. When associate clinicians were onboarded they uploaded information, such as, professional certificates, DBS, and professional registrations. These documents were stored and reviewed by the clinic lead.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service detected and controlled potential risks in the care environment. They made sure equipment, facilities and technology supported the delivery of safe care.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service ensured their clinic was clean and well maintained. The clinic was within a larger shared building. They had 3 meeting rooms, a shared waiting area and a toilet available to their patients. The meeting rooms for patients were on the third floor. Staff told us they were able to reserve a room on the ground floor, or have remote appointments, if there were any accessibility concerns.\u003C/p\u003E\u003Cp\u003EPatients told us they felt the rooms were comfortable and appropriate. The service had received 1 informal complaint from a patient who had difficulty accessing the building outside of the building\u2019s working hours. After hours, the reception area was unmanned. The service reported they have information on how to access appointments outside of regular working hours in their appointment reminder emails.\u003C/p\u003E\u003Cp\u003EThere was a business continuity plan in place which was monitored and reviewed. This included incidents such as power failures, loss of staff and criminal activity.\u003C/p\u003E\u003Cp\u003EThe service had completed a fire risk assessment, and there were fire evacuation plans for each floor of the building. There were fire extinguishers and a fire blanket in place. Fire alarm points were checked each week. The building had an external fire safety inspection every 6 months. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service worked with people and healthcare partners to establish and maintain safe systems of care, in which safety was managed or monitored. They made sure there was continuity of care, including when people moved between different services.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThere were systems in place for processing information relating to new patients. Patients were able to be referred through a professional, such as a GP, or a self-referral. Patients were required to fill out a questionnaire as part of their referral. In consultation with clinicians, the service had recently begun a trial to accept new referrals without the need for pre-assessment questionnaires. This was following feedback from patients that there were too many questions to answer before meeting a clinician. Some clinicians had agreed to trial this new assessment process, however, at the time of inspection, patients had not yet used this pathway. Managers stated this pathway was only for patients requiring specific interventions and was not suitable for higher risk patients. \u003C/p\u003E\u003Cp\u003EThe referral process ensured that enough information was received to determine if the patient\u2019s needs could safely be met by the service. The administration team initially reviewed and signposted new referrals to clinicians based on their initial requests. The clinical director, who was a clinical director, also reviewed all new referrals in a weekly team meeting. The clinical director provided training on the escalation protocol to administration staff, which was developed in line with MEED guidance. This included looking out for key indicators such as rapid weight loss, suicidal thoughts and chest pain. Where high risk indicators were identified, referrals were immediately escalated to the clinical director and psychiatrist for urgent review. \u003C/p\u003E\u003Cp\u003EStaff involved all the necessary healthcare and social care services to ensure patients had continuity of safe care, both within the service and post-discharge. For example, involving local NHS specialist services when needed.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service worked with people to understand what being safe meant to them and the best way to achieve that. The service shared concerns quickly and appropriately. The service made referrals to local authority safeguarding services where needed. The majority of staff had completed their safeguarding training. Following the inspection, the clinic lead had completed the necessary training.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EIn the past 12 months, there had been 1 referral made to the local authority. The local authority safeguarding team found this case did not meet the threshold for their external investigation.\u003C/p\u003E\u003Cp\u003EStaff knew how to identify adults and children at risk of, or suffering, significant harm. They understood the procedures they would follow to raise a safeguarding concern. The clinical director was the safeguarding lead for the service. The staff we spoke with were aware of this and would raise any concerns with them as needed.\u003C/p\u003E\u003Cp\u003EThe service had links with external safeguarding professionals. Staff told us they had discussed safeguarding concerns with the external professionals when they needed further advice.\u003C/p\u003E\u003Cp\u003EClinical staff received their safeguarding training externally. The service requested the training certificates from all clinical staff. At the time of inspection 94% of clinical staff had completed their safeguarding children and adults training.\u003C/p\u003E\u003Cp\u003EThe administrative staff had not completed safeguarding training. This included the clinic lead and a non-employed contracted personal assistant. Following the inspection, the clinic lead, who had no face to face clinical contact with patients, had completed the appropriate safeguarding training. The personal assistant was leaving the service and managers had a plan in place to recruit a permanent employed member of staff for this role. They had a plan to ensure future administrative staff complete safeguarding training on induction. The service had an internal escalation process in place for any concerns which came from administrative communication with patients. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EThis is the first assessment for this newly registered service. This key question has been rated good.\u003C/p\u003E\u003Cp\u003EThis meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003C/p\u003E\u003Cp\u003ELeaders had the skills, knowledge and experience to perform their roles. Staff knew and understood the provider\u2019s vision and values and how they applied to the work of their team. Staff felt respected, supported and valued. Performance and risk were managed well. Teams had access to the information they needed to provide safe and effective care. However, the service did not always ensure employed staff had documented appraisals, managers did not carry out formal audits on patient care and treatment records, and operations staff had not completed safeguarding training. The service was responsive to the feedback provided at the end of the inspection and addressed most of these concerns.\u003C/p\u003E",
+                "commentaryDate": "2025-12-12",
+                "narrative": "This service is well-led",
+                "percentageScore": "75",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 4. The evidence showed an exceptional standard. The service had exceptionally inclusive leaders who understood the context in which they delivered care, treatment and support. Leaders had the skills, knowledge, experience and credibility to lead effectively. They always did so with integrity, openness and honesty.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EManagers had the skills, knowledge and experience to perform their roles. They had a deep understanding of the service they managed, and the disorders in which the service treated. Managers could explain clearly how the team was working together to provide high quality care.\u003C/p\u003E\u003Cp\u003ELeaders were visible within the service, and they were available should staff or patients need to discuss any concerns.\u003C/p\u003E\u003Cp\u003EAll staff told us managers were supportive and approachable. Staff spoke highly of the support and guidance they received from managers. \u003C/p\u003E\u003Cp\u003EThere were weekly manager team meetings, where managers were able to discuss any operational concerns and updates. Managers communicated with staff through individual supervision, all-staff emails and group learning sessions. Managers arranged team social events for staff.\u003C/p\u003E\u003Cp\u003EWhen managers were on leave there was a handover system, where formal cover was arranged for different areas, such as someone to cover the safeguarding lead role and someone to cover staff supervision. \u003C/p\u003E\u003Cp\u003ELeadership development opportunities were available for employed staff. We saw examples of development discussed with staff in their appraisal. Senior therapists provided supervision for other clinicians within the service. \u003C/p\u003E\u003Cp\u003EFollowing the initial feedback provided at the end of the inspection, managers were responsive and quick to make improvements. For example, they carried out audits, created informative posters, enrolled staff onto training courses and carried out an appraisal. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "4 - Evidence shows an exceptional standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service fostered a positive culture where people felt they could speak up and their voice would be heard.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff told us they felt supported by their colleagues and managers. The service had carried out a staff survey in September 2025 and found all staff felt happy with the support they received.\u003C/p\u003E\u003Cp\u003EManagers ensured staff were supported following incidents. Managers offered regular supervision to their staff, this included individual sessions, as well as group peer support sessions. Senior clinicians were also able to attend senior staff peer support. Staff were able to access more frequent supervision when required.\u003C/p\u003E\u003Cp\u003EThe service had a whistleblowing policy, shared on induction, and available to staff online. Whilst all staff felt able to raise concerns with managers, two staff we spoke with were not aware of the specific whistleblowing procedure for the service.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 2. The evidence showed some shortfalls. The service did not always ensure employed staff had documented appraisals, managers did not carry out formal audits on patient care and treatment records. These were however reviewed as part of staff\u2019s supervision\u003C/strong\u003E. \u003Cstrong\u003EOperations staff who had non-clinical contact with patients had not completed safeguarding training. However, the service was very responsive to the feedback provided at the end of the inspection and addressed these concerns. Managers investigated all incidents, complaints and safeguarding concerns. Learning was shared with all staff.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe findings from the other key questions demonstrated that most localised governance processes were effective in identifying issues and driving improvement. We found a small number of areas whilst on inspection where further work was needed. The service addressed the majority of these issues promptly after the inspection.\u003C/p\u003E\u003Cp\u003EThe service had a framework of what must be discussed in the weekly managers governance meetings to ensure that information such as learning from incidents and complaints was discussed. Whilst clinical staff did not attend these meetings, other than the consultant psychiatrist, information was shared with all staff via email, individual supervision sessions and team learning events.\u003C/p\u003E\u003Cp\u003EManagers investigated incidents and complaints and made changes following these reviews. For example, creating bill payer specific terms and conditions, and creating links with private physical health screening clinics.\u003C/p\u003E\u003Cp\u003EThe service raised safeguarding concerns when needed with the local authority. Managers kept track of all referrals and followed up areas as needed. Staff told us they discussed cases with the local authority to support their patients.\u003C/p\u003E\u003Cp\u003EManagers were able to manage performance issues appropriately. Managers had access to a range of information about the performance of the service, staffing and patient care.\u003C/p\u003E\u003Cp\u003ESafe recruitment practices were followed when staff first joined the service. When clinicians were onboarded they uploaded information, such as, professional certificates, DBS, and professional registrations.\u003C/p\u003E\u003Cp\u003EStaff maintained and had access to the risk register. All staff were able to escalate their concerns if needed. Their risk register noted areas such as IT failures and criminal activity.\u003C/p\u003E\u003Cp\u003EThe service had a business continuity plan in place for emergencies. This plan covered areas such as power failures and disease outbreaks.\u003C/p\u003E\u003Cp\u003EInformation governance systems included confidentiality of patient records. Staff took patient confidentiality and information security seriously. Staff could access all required policies and procedures through the service\u2019s online record system.\u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology needed to do their work. Staff said these systems worked well.\u003C/p\u003E\u003Cp\u003EHowever, whilst the service had completed audits in medicines management and infection, prevention and control, the service had not carried out a formal audit on patient\u2019s clinical records. The day after the inspection, the service had completed their clinical record audit and shared this with CQC. This audit contained areas for improvement, such as ensuring records were easier to navigate, making important information easier to find. This will be a yearly audit for the service. While the service did not carry out formal audits, managers reviewed care notes within clinical staff\u2019s supervision.\u003C/p\u003E\u003Cp\u003EThe employed clinic lead had not completed a documented appraisal. They had however received regular performance and role development discussions, which had not been formally documented. Following the inspection, managers provided evidence this had taken place. There was a plan in place for this to occur yearly, and that any new employed staff would also receive a yearly appraisal.\u003C/p\u003E\u003Cp\u003EThe service highlighted safeguarding training and induction to the service as their mandatory training. They had requested training certificates for a number of other training courses, however, as these were not mandatory, managers did not require this for staff working within the service. Following the inspection, managers informed us they were reviewing their mandatory training framework to decide which training courses should be deemed mandatory going forward. The clinic lead had not completed safeguarding training, despite having telephone and email contact with patients. Following the inspection they had completed their safeguarding training.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service focused on continuous learning, innovation and improvement across the organisation. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had a positive approach to quality improvement, and we saw a number of improvement projects that had taken place. For example, creating the fast track initial assessment referral system and the introduction of the Intensive Outpatient Programme (IOP).\u003C/p\u003E\u003Cp\u003EStaff told us they had access to attend service specific conferences. Managers had attended training courses on newer treatments within the eating disorder field and planned to offer a training session to all staff on what they had learnt. \u003C/p\u003E\u003Cp\u003EStaff had the opportunity to participate in research. For example, the service took part in the National Institute for Health and Care Research (NIHR) funded research on Attention Deficit Hyperactivity Disorder (ADHD) and eating disorder treatment. They also collaborated with a university on their research into body image interventions. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service understood their duty to collaborate and work in partnership, so services work seamlessly for people. They share information and learning with partners and collaborate for improvement.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EManagers engaged with external stakeholders and agencies, such as insurance companies and local health services. Managers had created links with external services, such as private pathology, following an incident where a GP refused to work with the team. \u003C/p\u003E\u003Cp\u003EManagers had links with similar services in different countries. They regularly met to discuss any learning from their services, or any training or research updates within their specialised field. \u003C/p\u003E\u003Cp\u003EStaff, patients and carers had the opportunity to give feedback on the service to managers, influencing its future direction.\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service had a shared vision, strategy and culture. This was based on transparency and understanding the challenges and the needs of people.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff told us about the values and ethos of the service and how they applied to the work of their team. \u003C/p\u003E\u003Cp\u003EManagers communicated the service\u2019s vision and values to the staff in supervision sessions, as well as wider team events, such as complex case discussions.\u003C/p\u003E\u003Cp\u003EStaff told us they had the time and space within this service to offer thorough and holistic support to their patient group. \u003C/p\u003E\u003Cp\u003EStaff had the opportunity to contribute to discussions about changes within the service. For example, staff told us they were asked their views on the service developing an Intensive Outpatient Programme (IOP) and offering fast track assessments with less forms for the patients. \u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EWe scored the service as 3. The evidence showed a good standard. The service valued diversity in their workforce. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff were able to work flexibly. Clinicians would keep managers updated on which days and time slots they were free to meet with patients. \u003C/p\u003E\u003Cp\u003EThe service actively recruited clinicians from different specialties and backgrounds to ensure they were able to provide diverse treatment to patients, such as having access to staff that were specialists in working with those under the age of 18 and staff with good knowledge of Autism Spectrum Disorder (ASD).\u003C/p\u003E",
+                        "commentaryDate": "2025-12-12"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

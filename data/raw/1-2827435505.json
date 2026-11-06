@@ -1,0 +1,316 @@
+{
+  "locationId": "1-2827435505",
+  "providerId": "1-102643190",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Butterworth Centre",
+  "brandId": "BD206",
+  "brandName": "BRAND Sanctuary Care Limited",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-08-05",
+  "deregistrationDate": "2023-07-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.532409,
+  "onspdLongitude": -0.174696,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "36 Circus Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW8 9SE",
+  "mainPhoneNumber": "02070551666",
+  "website": "www.sanctuary-care.co.uk/care-homes-london/butterworth-centre",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2023-01-17"
+  },
+  "lastReport": {
+    "publicationDate": "2023-03-31"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RV391",
+      "relatedLocationName": "The Butterworth Centre",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhcommunityolder",
+      "inspectionAreaName": "Community-based mental health services for older people",
+      "status": "Active (Rated)"
+    },
+    {
+      "inspectionAreaId": "mholderpeople",
+      "inspectionAreaName": "Wards for older people with mental health problems",
+      "status": "Inactive",
+      "endDate": "2023-03-31"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2020-05-08",
+      "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2020-05-08",
+          "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2020-05-08",
+          "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2020-05-08",
+          "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2020-05-08",
+          "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2020-05-08",
+          "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38"
+        }
+      ]
+    },
+    "reportDate": "2023-03-31",
+    "serviceRatings": [
+      {
+        "name": "mhcommunityolder",
+        "rating": "Good",
+        "reportDate": "2023-03-31",
+        "reportLinkId": "052885d1-7ff5-41fc-a8e3-2514caef3a5f",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2023-03-31",
+      "reportLinkId": "052885d1-7ff5-41fc-a8e3-2514caef3a5f",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2020-08-28",
+      "reportLinkId": "1cf50f98-18a9-4a18-bcc4-d2fe3b3fb8ce",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2020-05-08",
+      "reportLinkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38",
+      "serviceRatings": [
+        {
+          "name": "mholderpeople",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reportDate": "2017-10-19",
+      "reportLinkId": "b36e6045-22dc-467e-ac2f-bec5a763ab77",
+      "serviceRatings": [
+        {
+          "name": "mholderpeople",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "052885d1-7ff5-41fc-a8e3-2514caef3a5f",
+      "reportDate": "2023-03-31",
+      "firstVisitDate": "2023-01-17",
+      "reportUri": "/reports/052885d1-7ff5-41fc-a8e3-2514caef3a5f?20230331070056",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "848ba401-263c-400d-892d-a9bca6859a9e",
+      "reportDate": "2023-03-31",
+      "firstVisitDate": "2023-01-17",
+      "reportUri": "/reports/848ba401-263c-400d-892d-a9bca6859a9e?20230331070056",
+      "reportType": "CoreService"
+    },
+    {
+      "linkId": "1cf50f98-18a9-4a18-bcc4-d2fe3b3fb8ce",
+      "reportDate": "2020-08-28",
+      "firstVisitDate": "2020-07-08",
+      "reportUri": "/reports/1cf50f98-18a9-4a18-bcc4-d2fe3b3fb8ce?20210113000952",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "6ccb4c03-aa2a-4396-8da2-846d831b8f38",
+      "reportDate": "2020-05-08",
+      "firstVisitDate": "2020-02-11",
+      "reportUri": "/reports/6ccb4c03-aa2a-4396-8da2-846d831b8f38?20210113111538",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b36e6045-22dc-467e-ac2f-bec5a763ab77",
+      "reportDate": "2017-10-19",
+      "firstVisitDate": "2017-06-19",
+      "reportUri": "/reports/b36e6045-22dc-467e-ac2f-bec5a763ab77?20210116152252",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "locationId": "1-17192468492",
+  "providerId": "1-5112914030",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Stepping Stones Clinic",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2023-08-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.611943,
+  "onspdLongitude": -0.1364009,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "13 Montmorency Gardens",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N11 1FG",
+  "uprn": "207023490",
+  "mainPhoneNumber": "07944877172",
+  "website": "www.steppingstonesclinic.uk",
+  "numberOfBeds": 0,
+  "constituency": "Southgate and Wood Green",
+  "localAuthority": "Enfield",
+  "lastReport": {
+    "publicationDate": "2023-07-14"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-5409569900",
+      "relatedLocationName": "Stepping Stones Clinic",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Trudie Ina",
+          "personFamilyName": "Rossouw",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "inspectionAreaName": "Specialist community mental health services for children and young people",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2019-09-30",
+      "reportLinkId": "b539de98-cb6b-44a7-bf9d-a250f77c7044",
+      "organisationId": "1-5409569900",
+      "serviceRatings": [
+        {
+          "name": "mhchildrenandyoung",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2023-07-14",
+      "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c",
+      "serviceRatings": [
+        {
+          "name": "mhchildrenandyoung",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "261",
+      "assessmentServiceName": "Specialist community mental health services for children and young people",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-06-02 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02870",
+            "commentary": "\u003Cp\u003EWe rated the service as Good. We found no breach of regulations.  \u003C/p\u003E",
+            "commentaryDate": "2026-06-02",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EOur overall rating of caring has remained good.\u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EOur overall rating of effective has remained good. \u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EOur overall rating of responsive has remained good. \u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EOur overall rating of safe has remained good.  \u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EOur overall rating of well-led has remained good. \u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP26462",
+            "title": "Ongoing Assessment for Stepping Stones Clinic",
+            "assessmentDate": "2026-06-01",
+            "assessmentPlanStatus": "Active",
+            "name": "Specialist community mental health services for children and young people",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EDate of assessment: 24 and 25 February 2026\u003C/p\u003E\u003Cp\u003EStepping Stones Clinic provides community mental health care for children and young people. \u003C/p\u003E\u003Cp\u003EWe undertook this comprehensive assessment due to the service being newly registered with us. This service was registered with CQC on 30 August 2023 due to a change in location. \u003C/p\u003E\u003Cp\u003EThe provider first registered with the CQC in April 2020 at a different location. The service is registered to provide treatment of disease, disorder or injury. There is a registered manager in place. \u003C/p\u003E\u003Cp\u003EThe service offers treatment for general psychiatry, including attention deficit disorder, depression and addiction for children, young people and families as outpatients. The service provides support to children and young people nationally, but most were local to the area. \u003C/p\u003E\u003Cp\u003EThe service saw 2189 young people between February 2025 and January 2026. The service also worked with young people over the age of 18 where needed, to support their transition to adult services. Some non-clinical staff were based overseas and carried out administrative duties remotely; appropriate oversight arrangements were in place.\u003C/p\u003E\u003Cp\u003EIn most cases, the families of young people fund their treatment, or funding is provided by insurance companies. \u003C/p\u003E\u003Cp\u003EAt the previous inspection in July 2023 the service was rated as good overall with no breaches of regulation. Our rating of this service stayed the same. We rated the service as good. There were no breaches of regulation.\u003C/p\u003E\u003Cp\u003EStaff worked within clear systems to manage risk and safeguard young people from harm. There was a positive learning culture, with incidents and concerns reported openly and used to improve practice. Effective referral and exclusion processes helped ensure young people\u2019s needs could be safely met, and staff worked well with external agencies such as GPs and community services to maintain continuity of care.\u003C/p\u003E\u003Cp\u003EYoung people were supported by caring, skilled and knowledgeable staff who provided effective and person-centred mental health care for children and young people. The service delivered care that met people\u2019s individual needs, with a strong focus on involving young people and their families as partners in care. Feedback from young people and carers was consistently positive, and many described the service as life\u2011changing.\u003C/p\u003E\u003Cp\u003ECare and treatment was based on recognised best practice and delivered by experienced clinicians. Most outcomes for young people were positive, and carers felt well informed and supported.\u003C/p\u003E\u003Cp\u003EThe service was well led, with visible and approachable leaders who promoted an open, inclusive and supportive culture. Governance arrangements were effective, and leaders had good oversight of quality, safety and risk. \u003C/p\u003E\u003Cp\u003EHowever, we identified some\u003Cstrong\u003E areas for improvement\u003C/strong\u003E, including the need to strengthen the collection and monitoring of clinical outcome measures, ensure all non\u2011medical staff receive regular formal supervision, and improve oversight of equipment maintenance to support accurate physical health monitoring.\u003C/p\u003E",
+            "commentaryDate": "2026-06-02",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EYoung people and their families reported that staff treated them well and behaved kindly. Feedback was gathered from 18 families and carers of young people using the service. Families and carers described the service as \u201Clife\u2011changing\u201D and said they \u201Cwould be lost without them.\u201D One carer commented that the service had \u201Cchanged my life.\u201D Another carer stated they had good communication with the service.\u003C/p\u003E\u003Cp\u003EStaff were discreet and respectful when caring for young people. We observed staff describing young people in a thoughtful and respectful manner. \u003C/p\u003E\u003Cp\u003ECarers said they felt staff safe and supported even when they needed help and support outside of their appointment times.  \u003C/p\u003E\u003Cp\u003EYoung people and carers were supported to provide feedback on the service and their care. Staff actively sought feedback from young people throughout the year. Between February 2025 and January 2026, feedback was received from 139 young people and families. Survey results were largely positive: 89% were very satisfied with their assessment, 94% felt understood in their care and treatment, and 98% said they would recommend the service to friends and family. One respondent reported being very dissatisfied.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-06-02",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant people were respected and valued as individuals; and empowered as partners in their care.\u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service promoted people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff supported clients to have choice and control over their own care and to make decisions about their care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EPeople are supported to maintain relationships and networks that are important to them. Staff informed and involved families and carers appropriately. Care plans showed where staff had engaged with young peoples\u2019 families to provide them with support. Records showed staff involving families in their loved one\u2019s care and treatment. \u003C/p\u003E\u003Cp\u003EThere is a range of appropriate equipment to support and maximise people\u2019s independence and outcomes from care and treatment.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service treated young people and carers with kindness, empathy and compassion and in how they respected people\u2019s privacy and dignity. Staff always treated colleagues from other organisations with kindness and respect.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EYoung people and their families reported that staff treated them well and behaved kindly. Feedback was gathered from 18 families and carers of young people using the service. Families and carers described the service as \u201Clife\u2011changing\u201D and said they \u201Cwould be lost without them.\u201D One carer commented that the service had \u201Cchanged my life.\u201D Another carer stated they had good communication with the service.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003ECarers said that staff provided good information, advice and emotional support at the time they needed it. A carer fed back that staff provided them with help and advice when required.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff were discreet and respectful when caring for young people. We observed staff describing young people in a thoughtful and respectful manner. Staffs\u2019 ethos was to support young people with their mental health and encourage optimism in their recovery journey. Staff knew the young people well and discussed their preferences when making decisions.\u003C/p\u003E\u003Cp\u003EYoung people believed that staff would respond to their needs quickly and efficiently, especially if they are in pain, discomfort, or distress. Carers said they felt staff safe and supported even when they needed help and support outside of their appointment times. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff supported young people to understand and manage their care, treatment or condition. Young people told us that staff explained their treatment options to them as well their condition and diagnosis. \u003C/p\u003E\u003Cp\u003EYoung people and carers were supported to provide feedback on the service and their care. Staff actively sought feedback from young people throughout the year. Between February 2025 and January 2026, feedback was received from 139 young people and families. Survey results were largely positive: 89% were very satisfied with their assessment, 94% felt understood in their care and treatment, and 98% said they would recommend the service to friends and family. One respondent reported being very dissatisfied.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff directed young people to other services when appropriate and, if required, supported them to access those services. Staff shared information with young peoples\u2019 GP to provide consistency in care. Carers told us about being referred to therapy within the service and finding this very useful. \u003C/p\u003E\u003Cp\u003EStaff understood the individual needs of young people, including their personal, cultural, social and religious needs. \u003C/p\u003E\u003Cp\u003EStaff maintained the confidentiality of information about young people. Staff ensured their systems were confidential. Staff communicated with young people in a way that respected their privacy. Staff only shared information if they patient was at risk or for safety purposes. \u003C/p\u003E\u003Cp\u003EStaff said they could raise concerns about disrespectful, discriminatory or abusive behaviour or attitudes towards young people without fear of the consequences. Staff said they felt able to raise concerns with their manager.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service listened to and understood young people\u2019s needs, views and wishes. Staff responded to young people\u2019s needs in the moment and acted to minimise any discomfort, concern or distress.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EYoung peoples\u2019 needs, views, wishes and comfort were a priority and staff quickly anticipated these to avoid any preventable discomfort, concern or distress.\u003C/p\u003E\u003Cp\u003EStaff were alerted to people\u2019s needs and took time to observe, communicate and engage young people in discussions about their immediate needs. Staff responded in an appropriate way to respect their wishes. Staff issued young people and families with a welcome pack explaining the service and treatment plans during the initial assessment. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff quickly recognised when young people required urgent support and used appropriate tools and technology to respond. Carers reported that appointment frequency was increased when young people were distressed or needed more immediate support.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service treated people as individuals and made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. The service took account of people\u2019s strengths, abilities, aspirations, culture and unique backgrounds and protected characteristics.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff adjusted to support young people where needed. Staff ensured disabled people could access the premises and offering remote appointments when necessary.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe waiting area displayed a poster explaining how young people and families could give feedback. Staff also offered information on treatments, young peoples\u2019 rights, and the complaints process. However, information leaflets were limited to the English language, but staff said they arranged interpreters when required. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff ensured that young people had access to appropriate spiritual support. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service cared about and promoted the wellbeing of their staff, and supported and enabled staff to always deliver person-centred care.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff felt respected, supported and valued. Staff felt positive and proud about working for their team. The provider had recruited a clinical fellow on a limited basis to support a diverse workforce and enhance career development and satisfaction. \u003C/p\u003E\u003Cp\u003EStaff had access to support for their own physical and emotional health needs through an occupational health service. \u003C/p\u003E\u003Cp\u003EThe provider recognised staff success within the service. Staff attended away days and conferences to celebrate the team\u2019s successes and discuss best practice. \u003C/p\u003E\u003Cp\u003EStaff appraisals included conversations about career development and how it could be supported. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated effective as good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant people\u2019s outcomes were consistently good, and people\u2019s feedback confirmed this.\u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWe reviewed 8 care and treatment records during the assessment. Staff completed a comprehensive mental health assessment of young people in a timely manner at, or soon after, their referral. \u003C/p\u003E\u003Cp\u003EStaff assessed young peoples\u2019 physical health needs. Staff carried out physical health observations with clients before commencing treatment. These included blood pressure, height, and weight. This helped inform treatment plans for the client.\u003C/p\u003E\u003Cp\u003EStaff ensured that young people\u2019s assessments were personalised, holistic and recovery oriented. Staff routinely reviewed young people\u2019s care needs. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service told young people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff took all practical steps to enable young people to make their own decisions. Staff \u003C/p\u003E\u003Cp\u003Eunderstood mental capacity and worked under the principle that capacity is always assumed and where they queried a young persons\u2019 capacity this was discussed as a team.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff received and kept up to date with training in the Mental Capacity Act. At the time of inspection 100% of staff had completed this training. This training also included information on Gillick competence. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe Mental Capacity Act applies to people over the age of 16. For decisions about care and treatment in those under 16, staff referred to guidance on Gillick competence. This is a test established by case law to assist clinicians to determine whether a child of 16 years or under is competent to consent to medical examination or treatment. If a child is Gillick competent, they can give informed consent to an informal admission and treatment.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung people or carers self\u2011referred to the service. Prior to the first appointment, young people signed a consent form outlining confidentiality, record\u2011keeping, the nature and funding of the service, and consent for information sharing with relevant parties (for example parents, GPs, and schools). The form also explained that information would be shared where there were safeguarding concerns for the young person or others. Capacity to consent was reviewed at each psychiatric appointment and documented in correspondence shared with the GP.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation and current evidence-based good practice and standards. However, improvements were needed for collecting outcomes for young people.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff provided a range of care and treatment interventions suitable for young people. The interventions were those recommended by, and were delivered in line with, guidance from the National Institute for Health and Care Excellence. The team worked with young people and their families to treat mental health conditions, including depression, anxiety, ADHD and obsessive-compulsive disorder (OCD).\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe service offered a treatment pathway for children with Paediatric Autoimmune Neuropsychiatric Disorders with Streptococcal Infections (PANDAS). Children with PANDAS often experience a sudden onset of psychiatric symptoms like anxiety, tics or mood changes.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung people had access to family therapy, and staff facilitated carer support groups for family members. Parents were also offered Non\u2011Violent Resistance (NVR) training to support them in responding to violent or self\u2011destructive behaviours in a safe, structured, and non\u2011violent way. This training was delivered by the service\u2019s trained NVR coach.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff ensured that young people had good access to physical healthcare, including access to specialists when needed. We saw evidence of staff referring young people to their GP for routine physical health checks.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff took part in audits, benchmarking and quality improvement initiatives. The manager used results from audits to make improvements, by implementing and monitoring action plans. For example, improvements were made to appointment times because of patient feedback.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EHowever, more could be done to carry out clinical audits particularly with monitoring outcomes for young people and for attention deficit hyperactivity disorder (ADHD) assessments.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe team included or had access to the full range of specialists required to meet the needs of young people in the service, including consulting psychiatrists and clinical psychologists. Specialist staff such as a social worker and immunologist also provided sessional support.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff were experienced, qualified and had the right skills and knowledge to meet the needs of the patient group. The registered manager was a consultant psychiatrist with experience in CAMHS. The manager provided new staff with appropriate induction.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff at all levels had opportunities to learn, and poor performance was managed appropriately. Staff received supervision every 3 months and a yearly appraisal of their performance. Clinical staff also had weekly group supervision to discuss complex cases.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EHowever, was no formal process in place to ensure non-medical staff received adequate support, such as through regular supervision. The policy for supervising staff did not cover non-medical staff and how often they should receive supervision from their line manager.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe manager identified the learning needs of staff and provided them with opportunities to develop their skills and knowledge.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe manager ensured that staff received the necessary specialist training for their roles. For example, staff were provided with training sessions in ADHD and PANDAS.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EMental Health Act\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EAll staff had received training in the Mental Health Act. Staff had a good understanding of the Mental Health Act. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service worked well across teams and services to support young people. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff held regular and effective multidisciplinary meetings. Staff attended weekly clinical risk meetings. \u003C/p\u003E\u003Cp\u003EInformation was shared between the team to ensure continuity of care, for example when clinical tasks were delegated or when people were referred internally. For example, the medical team met with therapy staff and vice versa when they referred a patient for therapy or medical input.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe teams had effective working relationships with teams outside the organisation. Staff informed GPs about young people\u2019s care such as medicines prescribed and general health.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service routinely monitored young people\u2019s care and treatment to continuously improve it. However, improvements were needed in collating outcomes for young people and their families. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff used recognised rating scales including the Patient Health Questionnaire (PHQ-9) and Generalised Anxiety Disorder scale (GAD-7) rating scales to assess the record and severity of symptoms and treatment outcomes for young people receiving psychological therapies. \u003C/p\u003E\u003Cp\u003EHowever, staff did not routinely collect outcomes for young people. During the assessment, the manager confirmed that plans were in place to implement a system for collating patient outcomes to analyse the results through their new application that was being developed. \u003C/p\u003E\u003Cp\u003EStaff used technology to support young people effectively including online access to self-help tools. For example, young people who had thoughts of suicide and self-harm were directed to a mobile app of coping skills, designed by staff in the service. This meant young people could have ways of always reducing their distress.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EThe service supported young people to live healthier lives and where possible, reduced their future needs for care and support.\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003EStaff supported young people to live healthier lives, for example, through participation in smoking cessation schemes and mindfulness. Carers and families described receiving helpful advice on exercise and healthy living, which supported their overall wellbeing. \u003Cbr\u003E \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant people\u2019s needs were met through good organisation and delivery.\u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service understood the diverse health and care needs of people and their local communities, so care was joined-up, flexible and supported choice and continuity.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff ensured that young people had access to education and work opportunities. We saw a record where staff had helped a young person to access education opportunities. A carer described how staff referred them for education support. \u003C/p\u003E\u003Cp\u003EStaff supported young people to maintain contact with their families and carers. Records showed where staff had liaised with relatives to help support young people with their treatment like supporting them to get their prescriptions. \u003C/p\u003E\u003Cp\u003EStaff supported young people to access their chosen place of worship within the community. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service ensured young people could access the care, support and treatment they needed when they needed it.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had extended their hours to ensure young people and carers that worked or attended full time education were seen. Appointments generally ran on time, and staff kept young people informed of any delays. \u003C/p\u003E\u003Cp\u003EStaff ensured young people had access to post-discharge care. Carers said that staff gave them support even after they had finished treatment with them. \u003C/p\u003E\u003Cp\u003EStaff planned for young peoples\u2019 discharge and liaised effectively with secondary care teams and GPs. Shared care arrangements with the young person\u2019s GP were often put in place on discharge, supporting continuity of care.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EStaff thought about how they listened to information about young people who were most likely to experience inequality in experience or outcomes and used this to tailor care, support and treatment. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff within the service promoted a culture in which the people using the service felt empowered to give their views. Staff actively used feedback to provide young people and carers with tailored care, support and treatment. \u003C/p\u003E\u003Cp\u003EThe provider ensured their policies and procedures did not place vulnerable people or people with protected characteristics at a disadvantage. We saw staff recording young peoples\u2019 individual characteristics such as ethnicity, religion, disability and sexuality. \u003C/p\u003E\u003Cp\u003EStaff demonstrated an understanding of the potential issues faced by vulnerable groups, including LGBTQ\u002B young people and those from ethnic minority backgrounds. Staff received training in equality, diversity, inclusion, and human rights. The service had also recently appointed a social worker with a specialism in gender identity to enhance support for young people.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made it easy for people to share feedback and ideas, or raise complaints about their care, treatment and support. They involved people in decisions about their care and told them what had changed as a result.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EYoung people and carers knew how to raise concerns or make complaints. Carers told us they could raise concerns directly with staff and felt confident doing so. Clinic letters included information on how to complain.\u003C/p\u003E\u003Cp\u003ESince February 2025, the service had received two complaints. These were responded to within expected timescales, and where delays occurred, young people were kept informed. Complaints and resulting actions were tracked by the service manager, and young people and carers received feedback following investigation.\u003C/p\u003E\u003Cp\u003EThe service treated concerns and complaints seriously and had a clear complaints policy. The service manager investigated complaints and identified themes, which were shared at monthly team meetings and, where appropriate, through daily handovers.\u003C/p\u003E\u003Cp\u003EIdentified themes included communication between staff and parents. In response, the service amended its policy to obtain consent from both parents where appropriate.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service ensure young people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung peoples\u2019 care plans fully reflected their physical, mental, emotional and social needs, including those related to protected characteristics under the Equality Act. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung people who use services and those close to them were involved in planning and making shared decisions about their care and treatment, so it is centred around them and their needs. Young people were supported to attend family therapy sessions where required. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung people understood their condition, care and treatment options (including any associated risks and benefits) and any advice provided. The satisfaction survey results showed that young people and families felt that staff explained their care and treatment options to them.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung people received the most appropriate care and treatment for them as the service made reasonable adjustments where necessary. For example, staff met with young people at a time that was convenient for them to ensure that it did not disrupt their daily lives. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EPeople were supported to plan for important life changes, so they could have enough time to make informed decisions about their future.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWhere appropriate, staff supported young people to consider longer term decisions about their care, treatment and discharge. Staff created personalised care plans to account for the patient\u2019s needs, wishes and feelings. \u003C/p\u003E\u003Cp\u003EStaff ensured all relevant healthcare professionals and other relevant bodies were involved in planning the care and treatment of young people with complex needs. The service collaborated with other psychiatric services, addiction specialists, community mental health teams and NHS hospitals as required. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff ensured young people could access information about treatments, local services, their rights, and how to raise concerns or complaints. Information could be provided in a child\u2011friendly format. The service was developing a mobile app to allow young people to access their care plans, which was due to be launched shortly after the inspection. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EInformation governance arrangements ensured the confidentiality of patient records, and all staff had completed information governance training.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant people were safe and protected from avoidable harm.\u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service assessed and managed the risk of infection. They detected and controlled the risk of it spreading and shared concerns with appropriate agencies promptly.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe premises were clean, had good furnishings and were well-maintained. The main reception area, waiting rooms and consultant psychiatrists\u2019 room were well maintained. Young people and visitors signed in and out at the main reception. There were no clinic rooms onsite.\u003C/p\u003E\u003Cp\u003ECleaning records were up to date and demonstrated that the building was cleaned regularly. \u003C/p\u003E\u003Cp\u003EStaff adhered to infection control principles, including handwashing.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service worked with people to understand and manage risks by thinking holistically. They provided care to meet people\u2019s needs that was safe, supportive and enabled people to do the things that mattered to them.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EWe reviewed 7 risk assessments and risk management plans during the assessment. Staff completed a risk assessment on every young person during the initial stage of the assessment. Staff demonstrated a good understanding of the risks associated with mental health and young people, such as self-harm, suicidal ideation and the risks to physical health. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff understood a young persons\u2019 individual needs and the risks to them. Staff completed risk management plans relating to the individuals identified need and discussed young people who were high risk. This was recorded in a risk management tool which the manager and the consultant psychiatrist oversaw. Staff were clear about what action they took to manage a young persons\u2019 risk. For example, only offering face to face appointments for assessments and medical reviews. Staff provided additional support through regular telephone calls to check on young people and their family\u2019s welfare.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff informed young people about any risks and how to keep themselves safe. Carers described being involved in their care, including options of medication. We saw evidence of young peoples\u2019 involvement in their care records.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EFamilies of young people reported that safety plans were included in their clinic letter and was regularly reviewed with young people. They knew who to contact if concerns arose in between their appointments. \u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff only treated young people and their families who consented to sharing information with their GP. The doctor undertook regular assessments of young peoples\u2019 physical health and referred them to their GP if they identified signs and deterioration in their health.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff followed clear personal safety protocols, including for lone working. Staff made sure their diaries were up to date with appointments to ensure the team knew staff were within the building.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service had a proactive and positive culture of safety, based on openness and honesty. They listened to concerns about safety and investigated and reported safety events. Lessons were learnt to continually identify and embed good practice. \u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had a proactive and open safety culture, and staff consistently reported incidents using the provider\u2019s electronic system. In the past 12 months (period February 2025 \u2013 January 2026), 52 incidents were logged, including safeguarding concerns, young persons\u2019 distress, and self-harming incidents. The service had one serious incident in the last 12 months.\u003C/p\u003E\u003Cp\u003EStaff understood and applied the duty of candour, offering transparent explanations to young people and their families when things went wrong. \u003C/p\u003E\u003Cp\u003EStaff were debriefed and received support after an incident occurred. The manger supported staff after incidents occurred. Staff met each month to discuss incidents in team meetings and supervision.\u003C/p\u003E\u003Cp\u003ERaising concerns helped to proactively identify and manage risks. Lessons were learnt from incidents, resulting in changes that improved the care for people. Staff documented the lessons learnt on the service\u2019s incident reporting form. Staff told us about the lessons learnt from incidents, for example changing a policy. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure that medicines and treatments were safe and met people\u2019s needs, capacities and preferences. They involved young people in planning, including when changes happen.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had robust arrangements in place to ensure the safe management and control of prescription forms, in line with national guidance. Medicines were not stored or administered on site. Consultant psychiatrists were responsible for prescribing medicines and held prescription pads to prescribe controlled drugs. These were kept securely in locked cupboards at their homes when not in use. Prescriptions were issued to young people during face\u2011to\u2011face clinic appointments, and for remote appointments were posted directly to families or delivered via a community pharmacy. Copies of all prescriptions were retained in young people\u2019s electronic care records, providing clear oversight and audit trails to support safe prescribing practice.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff reconciled young peoples\u0027 medicines before they commenced treatment. The prescribing doctor ensured they received the young persons\u2019 medicines history from their GP before they were prescribed any medicines from the service. This ensured safe prescribing.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff reviewed the effects of medication on young peoples\u2019 physical health regularly and in line with NICE guidance. Carers said that staff regularly reviewed young peoples\u2019 medicines and carried out physical health checks. Carers reported that young peoples\u2019 GPs were contacted to reconcile their medicines and arrange shared care agreements with them. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThere were 58 permanent staff employed at the service. This included the registered manager, consultant psychiatrists, a clinical fellow, administrators and therapists. The service had 6 consultant and one visiting consultant working under practicing privileges. This is where a medical practitioner is granted permission to work in a private clinic in independent private practice, or within the provision of community services. The visiting consultant worked in a permanent setting for their other employers such as the NHS or other mental health services. \u003C/p\u003E\u003Cp\u003EWe reviewed the consultants\u2019 employment records. This included up-to-date documentation such as insurance, professional registration, and disclosure and barring checks. Any gaps in documentation were identified as a risk to the service. \u003C/p\u003E\u003Cp\u003EStaff completed the mandatory training relevant to their roles, achieving an overall compliance rate of 100%. \u003C/p\u003E\u003Cp\u003EThe training was appropriate for the young people using the service, including safeguarding vulnerable adults and children level 3, fire safety and breakaway training. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service detected and controlled potential risks in the care environment. They made sure equipment, facilities and technology supported the delivery of safe care. However, equipment maintenance was inconsistent.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff did regular risk assessments of the care environment. The manager conducted safety risk assessments of the premises. Environmental audits were carried out once a month by the manager. The service had an annual fire risk assessment, tested the fire alarms each month and carried out fire drills twice a year. \u003C/p\u003E\u003Cp\u003EStaff followed the service\u2019s medical emergency policy in case of an accident or urgent situation. The premises had an automated external defibrillator (AED) installed in case of an emergency. \u003C/p\u003E\u003Cp\u003EHowever, equipment maintenance was inconsistent. For example, weighing scales in one consultation room had not been calibrated, and the issue was not identified in the environmental risk assessments. This could affect the accuracy of physical health monitoring.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "2 - Evidence shows some shortfalls in the standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service worked with young people and their partners to establish and maintain safe systems of care, in which safety is managed, monitored and assured. Staff ensured continuity of care, including when people move between different services.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service had effective referral and admission processes to ensure all essential information about young people was received. Staff assessed each referral to determine whether the service could safely meet the young person\u2019s needs, using clear risk exclusion criteria as part of their risk management approach. The service did not accept young people whose needs could not be safely managed in a community setting, including those requiring hospital admission, those with a very low body mass index, forensic cases, or those with active drug or alcohol misuse. Where a referral was not appropriate, the consultant psychiatrist discussed alternative and more suitable care options with the referrer, such as specialist community services or hospital admission.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EThe administrative team were responsible for managing new referrals that came through and then uploading all the information onto the electronic system. The referral was then passed onto the duty psychiatrist to review alongside the exclusion criteria to decide whether they would accept the referral or not. \u003C/p\u003E\u003Cp\u003EThis process was overseen by the registered manager (a clinician) to ensure young people were kept safe. Once an appropriate referral was received, administrative staff arranged the individual\u2019s first appointment with a psychiatrist. Young people assessed as higher risk were able to access more urgent appointment slots with a psychiatrist. \u003C/p\u003E\u003Cp\u003EAt the time of the inspection, 38 young people were waiting to be seen by a psychiatrist. The average waiting time was just under one month. The longest recorded wait was 42 days, relating to individuals who were waiting to be booked. Other waiting times noted were 35 days and 28 days. These were attributed to a consultant psychiatrist reducing their working hours. The most recent waiting time recorded was 19 days. The registered manager monitored the waiting list regularly and ensured young people and carers were kept informed about appointment times.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EWhen a young person was not deemed appropriate for this service, they were signposted by the duty consultant psychiatrist to other services.\u003C/p\u003E\u003Cp\u003EStaff involved all the necessary healthcare and social care services to ensure young people had continuity of safe care, both within the service and post-discharge. Staff worked with GPs and community services to ensure continuity of care through shared care agreements. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service worked with young people and healthcare partners to understand what being safe meant to them and how best to achieve this. Staff focused on improving young people\u2019s lives while protecting their right to live safely, free from abuse, discrimination, avoidable harm and neglect. Safeguarding concerns were identified and shared promptly and appropriately.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff were trained in safeguarding and understood how to recognise concerns and make safeguarding alerts when required. At the time of the inspection, most staff had completed level 2 and level 3 safeguarding training for adults and children. One administrative staff member had not received safeguarding training; this was raised during the inspection, and the registered manager immediately ensured the member of staff completed the required training.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EStaff knew how to identify adults and children at risk of, or suffering, significant harm. This included working in partnership with other agencies. \u003C/p\u003E\u003Cp\u003EStaff were committed to taking immediate action to keep people safe from abuse and neglect. The consultant psychiatrist described young people who had high risks of self-harm or neglect and the support that staff had provided to keep them safe\u003C/p\u003E\u003Cp\u003EStaff had reported 13 safeguarding concerns in the last 12 months. Staff discussed this safeguarding incident and how they had worked with the local agencies to protect young people from harm. \u003C/p\u003E\u003Cp\u003EStaff could give examples of how to protect young people from harassment and discrimination, including those with protected characteristics under the Equality Act. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EAt our last assessment we rated this key question good. At this assessment the rating has remained good.\u003C/p\u003E\u003Cp\u003EThis meant the service was consistently managed and well-led. Leaders and the culture they created promoted high-quality, person-centred care.\u003C/p\u003E",
+                "commentaryDate": "2026-06-02",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation. Leaders had the skills, knowledge, experience and credibility to lead effectively. They did so with integrity, openness and honesty.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003ELeaders had the skills, knowledge and experience to perform their roles. The registered manager had worked in children\u2019s psychiatry for a number of years as a consultant psychiatrist. They could explain clearly how the teams were working to provide high quality care.\u003C/p\u003E\u003Cp\u003EThe registered manager was visible in the service and approachable for young people and staff and listened to staff views when discussing young people. \u003C/p\u003E\u003Cp\u003EStaff were very positive when speaking about the registered manager. They said that it was easy to raise concerns with them, and this created effective team working. \u003C/p\u003E\u003Cp\u003EDevelopment opportunities were available. The service manager supported staff onto bespoke courses to train them into leadership roles. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service fostered a positive culture where people felt they could speak up and their voice would be heard.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff reported low levels of stress and felt positive about the work they did. Staff felt able to raise concerns with management if they needed to, although each of the staff we spoke with did not have concerns to share. The service had a whistle blowing policy in place.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EYoung people and carers had opportunities to give feedback on the service they received in a manner that reflected their individual needs. Young people and carers could give feedback on their care through annual satisfaction surveys. Young people could access resources about their treatment through a QR code.\u003C/p\u003E\u003Cp\u003EStaff had access to the feedback from young people, carers and staff and used it to make improvements. From the recent patient survey staff had identified several areas that needed improving. This included creating clearer signage for directions to the building and parking onsite. \u003C/p\u003E\u003Cp\u003EYoung people and carers were involved in decision-making about changes to the service. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EOur findings from the other key questions demonstrated that governance processes operated effectively at team level and that performance and risk were managed well\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThere was a clear framework outlining the matters to be discussed at service-level team meetings, ensuring essential information was consistently shared. The service held monthly governance meetings where incidents, staffing, complaints and performance were reviewed and shared with staff. Relevant information, including young people\u2019s assessments and emerging risks, was discussed. Key points and actions from these meetings fed into weekly management meetings, where progress against action plans was reviewed. Incidents and audit outcomes were also shared weekly at consultant meetings, alongside discussion of the medical management audit.\u003C/p\u003E\u003Cp\u003EStaff had implemented recommendations arising from reviews of deaths, incidents, complaints and safeguarding alerts at service level. Learning from these reviews was captured through a lesson learned audit, which was shared with the whole team monthly to support learning across the service.\u003C/p\u003E\u003Cp\u003EStaff completed audits to provide assurance on the performance of the service. Staff acted on the results. The service manager completed monthly audits. These looked at health and safety, record keeping and governance.\u003C/p\u003E\u003Cp\u003EManagement of risk, issues and performance. Staff maintained and had access to the risk register and could escalate concerns when required. Risks included recruitment and retention, waiting times and caseloads. The service had plans for emergencies \u2013 for example, adverse weather or an IT fault.\u003C/p\u003E\u003Cp\u003EWhere cost improvements were taking place, they did not compromise patient care. \u003C/p\u003E\u003Cp\u003EStaff had access to the equipment and information technology needed to do their work. The information technology infrastructure, including the telephone system, worked well and helped to improve the quality of care. \u003C/p\u003E\u003Cp\u003EInformation governance systems included confidentiality of patient records. Information was kept electronically and in one format. This avoided duplication. \u003C/p\u003E\u003Cp\u003EThe manager had access to information to support them with their management role. This included information on the performance of the service, staffing and patient care. For example, HR records, supervision records, staff training data and audits. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EStaff were given the time and support opportunities for improvements and innovation and this led to changes. The service developed a mobile app for young people focused on coping skills; the app was easy to use and could be personalised to individual needs.\u003C/p\u003E\u003Cp\u003EStaff also developed an app for documenting young people\u2019s care plans, which was due to be rolled out following the inspection. This included features such as outcome monitoring, safety planning, and medication and symptom tracking.\u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service understood their duty to collaborate and work in partnership, so services worked seamlessly for people. They share information and learning with partners and collaborate for improvement.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EThe service manager and medical director engaged with external stakeholders such as commissioners. The registered manager made notifications to external bodies as needed. For example, CQC statutory notifications. \u003C/p\u003E\u003Cp\u003EYoung people and staff could meet with members of the provider\u2019s senior leadership team and commissioners to give feedback. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and understanding challenges and the needs of people and their communities.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff knew and understood the service\u2019s vision and values and how they were applied in the work of their team. Staff could explain to us how they were working together to ensure young people who needed treatment could access it effectively. The service\u2019s culture was care of the highest quality and safety.\u003C/p\u003E\u003Cp\u003EStaff had the opportunity to contribute to discussions about the strategy for their service, especially where the service was changing. For example, contributing to the service\u2019s website and its content. \u003C/p\u003E\u003Cp\u003EStaff could explain how they were working to deliver high quality care within the budgets available. The manager ensured all young people could access their prescriptions. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003E\u003Cstrong\u003EThe service valued diversity in their workforce. They work towards an inclusive and fair culture by improving equality and equity for people who work for them.\u003C/strong\u003E\u003C/p\u003E\u003Cp\u003EStaff reported that the provider promoted equality and diversity in its day-to-day work. \u003C/p\u003E\u003Cp\u003EStaff could work flexibly to account for personal circumstances such as caring responsibilities and health issues. The service manager put reasonable adjustments in place for staff members to help them carry out their role. \u003C/p\u003E\u003Cp\u003EThere were processes for providing staff with the development they needed. This included receiving training, a regular annual appraisal, supervision and peer supervision. They were also supported to attend external training, if this supported the clinician in their role. \u003C/p\u003E",
+                        "commentaryDate": "2026-06-02"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

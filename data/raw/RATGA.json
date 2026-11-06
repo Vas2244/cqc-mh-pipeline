@@ -1,0 +1,199 @@
+{
+  "locationId": "RATGA",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Sunflowers Court",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.5779939,
+  "onspdLongitude": 0.1105138,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "157 Barley Lane",
+  "postalAddressTownCity": "Ilford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG3 8XJ",
+  "uprn": "10034932271",
+  "mainPhoneNumber": "08446001200",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ilford South",
+  "localAuthority": "Redbridge",
+  "lastInspection": {
+    "date": "2022-06-21"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhcrisis",
+      "reports": [
+        {
+          "inspectionId": "INS2-12784315211",
+          "reportLinkId": "2703ab75-bd2d-4c52-80f1-65af60de5e29",
+          "providerId": "RAT",
+          "locationId": "RATGA"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "mhpsychintensive",
+      "reports": [
+        {
+          "inspectionId": "INS2-12784315211",
+          "reportLinkId": "05c29c68-b130-4381-85d1-72d68c5c6b69",
+          "providerId": "RAT",
+          "locationId": "RATGA"
+        }
+      ]
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "752d0883-fe89-4466-b3d5-204fd78296ad",
+      "reportDate": "2015-01-24",
+      "firstVisitDate": "2014-12-05",
+      "reportUri": "/reports/752d0883-fe89-4466-b3d5-204fd78296ad?20151016191357"
+    },
+    {
+      "linkId": "6518ef59-3e13-465a-a2a0-41d6912c1217",
+      "reportDate": "2014-01-14",
+      "firstVisitDate": "2013-12-10",
+      "reportUri": "/reports/6518ef59-3e13-465a-a2a0-41d6912c1217?20200129163919"
+    },
+    {
+      "linkId": "ab3283dc-8fa0-453e-bf1f-86a71ec737c0",
+      "reportDate": "2012-11-09",
+      "firstVisitDate": "2012-10-03",
+      "reportUri": "/reports/ab3283dc-8fa0-453e-bf1f-86a71ec737c0?20200129163919"
+    },
+    {
+      "linkId": "d795f332-01e9-4eae-8806-718e25624618",
+      "reportDate": "2012-08-03",
+      "firstVisitDate": "2012-06-27",
+      "reportUri": "/reports/d795f332-01e9-4eae-8806-718e25624618?20200430120000"
+    },
+    {
+      "linkId": "48c1f65c-2cce-4a38-93b8-65cdee2dd3ef",
+      "reportDate": "2012-02-15",
+      "firstVisitDate": "2011-11-10",
+      "reportUri": "/reports/48c1f65c-2cce-4a38-93b8-65cdee2dd3ef?20200430120000"
+    },
+    {
+      "linkId": "966b144e-a99a-44ca-9f73-46e9232958c3",
+      "reportDate": "2011-12-19",
+      "firstVisitDate": "2011-11-21",
+      "reportUri": "/reports/966b144e-a99a-44ca-9f73-46e9232958c3?20200430120000"
+    },
+    {
+      "linkId": "51572bf5-6514-4920-98cc-19452f2693b6",
+      "reportDate": "2011-07-25",
+      "firstVisitDate": "2011-05-31",
+      "reportUri": "/reports/51572bf5-6514-4920-98cc-19452f2693b6?20200430120000"
+    }
+  ]
+}

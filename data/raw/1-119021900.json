@@ -1,0 +1,207 @@
+{
+  "locationId": "1-119021900",
+  "providerId": "1-101726043",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "London Iryo Centre",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-12-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.580709,
+  "onspdLongitude": -0.225619,
+  "careHome": "N",
+  "inspectionDirectorate": "Primary medical services",
+  "postalAddressLine1": "234-236 Hendon Way",
+  "postalAddressLine2": "Hendon",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW4 3NE",
+  "uprn": "200209273",
+  "mainPhoneNumber": "02082027272",
+  "website": "www.iryo.com",
+  "numberOfBeds": 0,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "lastInspection": {
+    "date": "2019-12-04"
+  },
+  "lastReport": {
+    "publicationDate": "2020-02-06"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Tetsujiro",
+          "personFamilyName": "Ihara",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Dr",
+          "personGivenName": "Tetsujiro",
+          "personFamilyName": "Ihara",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Phone/online advice",
+      "description": "Remote clinical advice service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P3",
+      "name": "Out of hours"
+    },
+    {
+      "code": "P5",
+      "name": "Remote clinical advice"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    },
+    {
+      "code": "P7",
+      "primary": "true",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2020-02-06",
+      "reportLinkId": "f9262758-fbc3-4184-a457-8d623375d120",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "f9262758-fbc3-4184-a457-8d623375d120"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "f9262758-fbc3-4184-a457-8d623375d120"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "f9262758-fbc3-4184-a457-8d623375d120"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "f9262758-fbc3-4184-a457-8d623375d120"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2020-02-06",
+          "reportLinkId": "f9262758-fbc3-4184-a457-8d623375d120"
+        }
+      ]
+    },
+    "reportDate": "2020-02-06"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2018-12-27",
+      "reportLinkId": "aa1b42fe-800e-4299-bb1b-6376763d528a",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "f9262758-fbc3-4184-a457-8d623375d120",
+      "reportDate": "2020-02-06",
+      "firstVisitDate": "2019-12-04",
+      "reportUri": "/reports/f9262758-fbc3-4184-a457-8d623375d120?20210114105252",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "aa1b42fe-800e-4299-bb1b-6376763d528a",
+      "reportDate": "2018-12-27",
+      "firstVisitDate": "2018-10-12",
+      "reportUri": "/reports/aa1b42fe-800e-4299-bb1b-6376763d528a?20210116195609",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "52ea3d5c-0b4d-461f-b205-25c517e3cf33",
+      "reportDate": "2013-10-22",
+      "firstVisitDate": "2013-09-13",
+      "reportUri": "/reports/52ea3d5c-0b4d-461f-b205-25c517e3cf33?20200129163919"
+    }
+  ]
+}

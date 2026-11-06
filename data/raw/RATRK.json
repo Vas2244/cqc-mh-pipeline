@@ -1,0 +1,110 @@
+{
+  "locationId": "RATRK",
+  "providerId": "RAT",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Brookside",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-06-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.5729286,
+  "onspdLongitude": 0.1107126,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "107a Barley Lane",
+  "postalAddressLine2": "Goodmayes",
+  "postalAddressTownCity": "Ilford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG3 8XQ",
+  "uprn": "10023192719",
+  "mainPhoneNumber": "08446001200",
+  "website": "www.nelft.nhs.uk",
+  "numberOfBeds": 0,
+  "constituency": "Ilford South",
+  "localAuthority": "Redbridge",
+  "lastInspection": {
+    "date": "2016-10-27"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "mhadolescent",
+      "reports": [
+        {
+          "inspectionId": "SPL1-2466738281",
+          "reportLinkId": "6949da31-a167-420a-8f5a-d6045f05308f",
+          "providerId": "RAT",
+          "locationId": "RATRK"
+        },
+        {
+          "inspectionId": "SPL1-2978013947",
+          "reportLinkId": "34483116-9ffc-4eb8-ac18-6942c8c46962",
+          "providerId": "RAT",
+          "locationId": "RATRK"
+        },
+        {
+          "inspectionId": "SPL1-4066397840",
+          "reportLinkId": "c57ad2a4-88e2-4216-a37b-9c13d0ba47f8",
+          "providerId": "RAT",
+          "locationId": "RATRK"
+        }
+      ]
+    }
+  ]
+}

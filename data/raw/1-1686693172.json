@@ -1,0 +1,252 @@
+{
+  "locationId": "1-1686693172",
+  "providerId": "1-102642564",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Turning Point - Croydon",
+  "brandId": "BD133",
+  "brandName": "BRAND Turning Point",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-10-01",
+  "deregistrationDate": "2021-10-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.370114,
+  "onspdLongitude": -0.103547,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Lantern Hall",
+  "postalAddressLine2": "190 Church Road",
+  "postalAddressTownCity": "Croydon",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR0 1SE",
+  "uprn": "100022901676",
+  "mainPhoneNumber": "03001239288",
+  "numberOfBeds": 0,
+  "constituency": "Croydon West",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2019-08-06"
+  },
+  "lastReport": {
+    "publicationDate": "2019-10-30"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-11822615773",
+      "relatedLocationName": "Croydon Adult and YP SMS",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2019-10-30",
+      "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2019-10-30",
+          "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2019-10-30",
+          "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-10-30",
+          "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-10-30",
+          "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43"
+        },
+        {
+          "name": "Effective",
+          "rating": "Requires improvement",
+          "reportDate": "2019-10-30",
+          "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43"
+        }
+      ]
+    },
+    "reportDate": "2019-10-30",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Requires improvement",
+        "reportDate": "2019-10-30",
+        "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2018-03-14",
+      "reportLinkId": "5e1fb911-a519-470a-b32c-ffaef536641d",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-01-05",
+      "reportLinkId": "93145035-132e-41c3-bb73-6068721c7ae1",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-10-06",
+      "reportLinkId": "7fe4936e-e490-4bab-a654-7095119c9a4d",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "01e28c9a-86f4-4c68-9562-f593a4429f43",
+      "reportDate": "2019-10-30",
+      "firstVisitDate": "2019-08-05",
+      "reportUri": "/reports/01e28c9a-86f4-4c68-9562-f593a4429f43?20210115032149",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "5e1fb911-a519-470a-b32c-ffaef536641d",
+      "reportDate": "2018-03-14",
+      "firstVisitDate": "2018-01-15",
+      "reportUri": "/reports/5e1fb911-a519-470a-b32c-ffaef536641d?20210117194415",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "93145035-132e-41c3-bb73-6068721c7ae1",
+      "reportDate": "2017-01-05",
+      "firstVisitDate": "2016-11-17",
+      "reportUri": "/reports/93145035-132e-41c3-bb73-6068721c7ae1?20210121025343",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "7fe4936e-e490-4bab-a654-7095119c9a4d",
+      "reportDate": "2016-10-06",
+      "firstVisitDate": "2016-06-07",
+      "reportUri": "/reports/7fe4936e-e490-4bab-a654-7095119c9a4d?20161006002039",
+      "reportType": "Location"
+    }
+  ]
+}

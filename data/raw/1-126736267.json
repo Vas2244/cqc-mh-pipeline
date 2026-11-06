@@ -1,0 +1,1321 @@
+{
+  "locationId": "1-126736267",
+  "providerId": "1-101727003",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Bromley Road Hospital",
+  "brandId": "BD482",
+  "brandName": "BRAND Elysium Healthcare",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2010-11-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.4391603,
+  "onspdLongitude": -0.0203296,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "84-86 Bromley Road / 82 Canadian Avenue",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE6 2UR",
+  "uprn": "100021938133",
+  "mainPhoneNumber": "02086956051",
+  "website": "www.elysiumhealthcare.co.uk",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham East",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2023-11-30"
+  },
+  "lastReport": {
+    "publicationDate": "2024-05-14"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Julie Patricia",
+          "personFamilyName": "Cummins",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+      "code": "RA6",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Julie Patricia",
+          "personFamilyName": "Cummins",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": [
+        {
+          "personTitle": "Miss",
+          "personGivenName": "Julie Patricia",
+          "personFamilyName": "Cummins",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Hospitals - Mental health/capacity",
+      "description": "Hospital services for people with mental health needs, learning disabilities and problems with substance misuse"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhlongstay",
+      "inspectionAreaName": "Long stay or rehabilitation mental health wards for working age adults",
+      "status": "Active (Rated)"
+    }
+  ],
+  "historicRatings": [
+    {
+      "reportDate": "2018-12-18",
+      "reportLinkId": "4409fea2-b88b-4f79-b7a8-e1b34abe3329",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-08-18",
+      "reportLinkId": "c0c864d8-dd09-449e-b16c-c7022baa3907",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-07-21",
+      "reportLinkId": "79ae877b-e86c-4484-93db-1e74b0f3e0d8",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2024-05-14",
+      "reportLinkId": "754c58f9-b899-4e4f-ae27-c9f86de29d4f",
+      "serviceRatings": [
+        {
+          "name": "mhlongstay",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Good"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "754c58f9-b899-4e4f-ae27-c9f86de29d4f",
+      "reportDate": "2024-05-14",
+      "firstVisitDate": "2023-11-29",
+      "reportUri": "/reports/754c58f9-b899-4e4f-ae27-c9f86de29d4f?20240514070038",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "4409fea2-b88b-4f79-b7a8-e1b34abe3329",
+      "reportDate": "2018-12-18",
+      "firstVisitDate": "2018-11-07",
+      "reportUri": "/reports/4409fea2-b88b-4f79-b7a8-e1b34abe3329?20210116203439",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "c0c864d8-dd09-449e-b16c-c7022baa3907",
+      "reportDate": "2017-08-18",
+      "firstVisitDate": "2017-05-30",
+      "reportUri": "/reports/c0c864d8-dd09-449e-b16c-c7022baa3907?20210122182034",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "79ae877b-e86c-4484-93db-1e74b0f3e0d8",
+      "reportDate": "2016-07-21",
+      "firstVisitDate": "2016-02-16",
+      "reportUri": "/reports/79ae877b-e86c-4484-93db-1e74b0f3e0d8?20210123061046",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "66ee0fa1-ae97-4318-93e6-9804f9014889",
+      "reportDate": "2013-11-09",
+      "firstVisitDate": "2013-10-09",
+      "reportUri": "/reports/66ee0fa1-ae97-4318-93e6-9804f9014889?20200129163919"
+    },
+    {
+      "linkId": "12e9a76b-238b-472e-aad9-78c32c01dfe1",
+      "reportDate": "2013-04-20",
+      "firstVisitDate": "2013-02-27",
+      "reportUri": "/reports/12e9a76b-238b-472e-aad9-78c32c01dfe1?20151016191357"
+    },
+    {
+      "linkId": "64f237b1-073b-4fbc-93b7-85b531f21355",
+      "reportDate": "2012-04-30",
+      "firstVisitDate": "2011-10-24",
+      "reportUri": "/reports/64f237b1-073b-4fbc-93b7-85b531f21355?20200430120000"
+    },
+    {
+      "linkId": "e49e7264-5ae3-4f13-a5de-dadcf7f0f239",
+      "reportDate": "2012-01-11",
+      "firstVisitDate": "2011-10-24",
+      "reportUri": "/reports/e49e7264-5ae3-4f13-a5de-dadcf7f0f239?20200430120000"
+    }
+  ],
+  "assessmentServiceGroup": [
+    {
+      "assessmentServiceId": "239",
+      "assessmentServiceName": "Long stay or rehabilitation mental health wards for working age adults",
+      "status": "Active"
+    }
+  ],
+  "assessment": [
+    {
+      "assessmentPlanPublishedDateTime": "2026-09-03 00:01:00",
+      "ratings": {
+        "overall": [
+          {
+            "narrative": "The service is performing well and meeting our expectations.",
+            "rating": "Good",
+            "status": "Current",
+            "locationAssessmentPlanId": "LAP-02373",
+            "commentary": "\u003Cp\u003EBromley Road Hospital is an independent mental health hospital operated by Elysium Healthcare Limited in Catford, south London. It provides long-term high dependency rehabilitation for adults with severe and enduring mental ill health, many of whom are detained under the Mental Health Act 1983.\u003C/p\u003E\u003Cp\u003EThe service supports people to progress towards discharge to community or supported living settings through rehabilitation, therapeutic interventions and recovery-focused care. Patients may be admitted to either a treatment engaging or treatment resistant pathway, depending on their individual needs and rehabilitation goals.\u003C/p\u003E\u003Cp\u003EAt the time of assessment, the service operated across two wards:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003ECedar Ward \u2013 6 beds\u003C/li\u003E\u003Cli\u003EOlive Ward \u2013 19 beds\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EThere are two treatment pathways available at Bromley Road: treatment engaging and treatment resistant. Each pathway is based on a three-stage model of assessment, recovery and transition. The treatment resistant cohort has a greater focus on collaborative management of the patient\u2019s mental and physical health, building relationships with staff, friends and family and engaging in the local community.\u003C/p\u003E\u003Cp\u003EThe treatment engaging cohort has a greater focus on targeted interventions, increased levels of responsibility and further developing skills for independent living. The service utilises Cognitive Behavioural Therapy (CBT) and Motivational Interviewing (MI) techniques to build resilience, restore confidence, and prepare patients for a successful return to independent living.\u003C/p\u003E\u003Cp\u003EPatients had a range of diagnoses including schizophrenia, schizoaffective disorder, bipolar affective disorder and depression. Some patients also had complex physical health needs or a history of substance misuse.\u003C/p\u003E\u003Cp\u003EThe service is registered to carry out the following regulated activities:\u003C/p\u003E\u003Cul\u003E\u003Cli\u003EAssessment or medical treatment for persons detained under the Mental Health Act 1983\u003C/li\u003E\u003Cli\u003EDiagnostic and screening procedures\u003C/li\u003E\u003Cli\u003ETreatment of disease, disorder or injury\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003EThe service was last inspected in November 2024 and was rated Good overall and Good across all key questions.\u003C/p\u003E\u003Cp\u003EThere had been no registered manager in post since November 2025. During this assessment, leaders told us a new registered manager had recently been appointed and was due to start once the recruitment process was completed.\u003C/p\u003E",
+            "commentaryDate": "2026-09-03",
+            "keyQuestions": [
+              {
+                "name": "Caring",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service involved patients and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EOur rating of caring stayed the same. We rated it as good because:\u003C/p\u003E\u003Cp\u003EStaff treated people with kindness, dignity and respect. \u003C/p\u003E\u003Cp\u003EDuring the inspection, we observed positive, caring and supportive interactions between staff and patients. Patients and carers spoke positively about staff and the care they received. Carers reported good continuity of care and felt well supported during admission.\u003C/p\u003E\u003Cp\u003EPatients were involved in discussions about their care and treatment. Some people felt communication could be improved at times and would have liked more involvement in certain decisions. \u003C/p\u003E\u003Cp\u003EHowever, feedback was mostly positive. Patients generally felt respected, supported and well cared for.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is caring"
+              },
+              {
+                "name": "Effective",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that patients\u2019 care, treatment and support achieved good outcomes and promoted a good quality of life, based on the best available evidence.\u003C/p\u003E\u003Cp\u003EOur rating of effective stayed the same. We rated it as good because:\u003C/p\u003E\u003Cp\u003ECare and treatment were delivered through effective multidisciplinary team working and reflected recovery-oriented and person-centred care. Staff from a range of disciplines worked collaboratively to assess, plan and review patients\u0027 care and treatment. Positive Behaviour Support (PBS) plans were a particular strength of the service. These plans were informed by comprehensive psychological formulation, demonstrated a clear understanding of the factors influencing patients\u0027 behaviour, and reflected individuals\u0027 strengths, preferences and support needs. Patients were meaningfully involved in developing and reviewing their PBS plans.\u003C/p\u003E\u003Cp\u003EFor example, plans captured what was important to patients, their preferred coping strategies, personal goals, communication preferences, and early warning signs of distress identified by the patient. We also saw evidence that patients had contributed their views on how staff should support them during periods of increased anxiety and what interventions they found helpful or unhelpful. Plans were highly personalised, focused on improving quality of life and reducing restrictive interventions, and evidenced a genuine commitment to collaborative care planning. Staff understood and implemented PBS approaches consistently, supporting patients to achieve their recovery goals and maximise independence where possible.\u003C/p\u003E\u003Cp\u003EStaff worked collaboratively with external healthcare providers, including GPs and specialist services, to improve patient outcomes and access to care. Medical oversight was evident throughout the service and patients\u0027 physical healthcare needs were actively monitored and managed. The service had strengthened arrangements for physical healthcare since the previous assessment and had addressed the previous recommendation relating to physical health monitoring for patients receiving high-dose antipsychotic therapy.\u003C/p\u003E\u003Cp\u003EPatients prescribed high-dose antipsychotic medicines were receiving appropriate physical health monitoring in line with best practice. A dedicated physical health lead provided oversight and scrutiny of physical healthcare, supporting staff to identify, monitor and respond to patients\u0027 physical health needs. Staff demonstrated a good understanding of physical health monitoring requirements and escalation processes and were able to describe the actions they would take when concerns were identified. These improvements provided greater assurance that patients\u0027 physical health needs were being monitored effectively and managed in a timely way.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is effective"
+              },
+              {
+                "name": "Responsive",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the service met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EOur rating of responsive stayed the same. We rated it as good because:\u003C/p\u003E\u003Cp\u003EThe service was committed to supporting patients\u0027 recovery and rehabilitation and worked effectively with partner organisations to help people progress towards discharge and greater independence. Patients had access to a range of therapeutic interventions, education, vocational opportunities and activities that supported their recovery goals and enabled them to engage with their local community.\u003C/p\u003E\u003Cp\u003EFeedback from patients was generally positive. Patients told us staff were caring, supportive and helped them work towards greater independence. Some patients identified areas where they felt the service could improve, including greater choice of food, increased access to meaningful activities and clearer communication about aspects of their care and treatment. Some patients also raised concerns about the impact of night-time observations on their sleep.\u003C/p\u003E\u003Cp\u003E Leaders were aware of this feedback and had established processes to gather, review and respond to patients\u0027 views through community meetings, surveys and individual discussions. \u003C/p\u003E\u003Cp\u003EWe saw evidence that the service listened to feedback and considered opportunities for improvement. These concerns did not detract from the overall positive experiences described by most patients or the service\u0027s commitment to person-centred care and recovery-focused practice.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is responsive"
+              },
+              {
+                "name": "Safe",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EOur rating of safe stayed the same. We rated it as good because:\u003C/p\u003E\u003Cp\u003EPatients were cared for in a safe environment. All wards were safe, clean well equipped, well furnished, well maintained and fit for purpose.\u003C/p\u003E\u003Cp\u003EPatients were protected by systems and processes that supported the delivery of safe care. Medicines management arrangements were well organised and supported by appropriate monitoring and oversight. Staff demonstrated a good understanding of safeguarding responsibilities and escalation processes, with evidence of appropriate action when concerns arose. The service had addressed the previous recommendations relating to physical healthcare and medicines management. \u003C/p\u003E\u003Cp\u003EWe found that patients receiving high-dose antipsychotic medicines had an annual physical health review. Staff were using a consistent system to monitor physical health, which supported the timely identification and escalation of concerns. Governance arrangements for physical healthcare had been strengthened, with clear oversight and accountability. The provider had also formalised its out-of-hours medical cover arrangements to ensure patients could access medical support when needed.\u003C/p\u003E\u003Cp\u003EThe service had systems and processes in place to assess and manage risks to patients.\u003C/p\u003E\u003Cp\u003EWe identified some inconsistencies in the timely review of risk assessments following incidents, and some clinical documentation, including Do Not Attempt Cardiopulmonary Resuscitation (DNACPR) decisions, was not always stored in a way that made it immediately accessible to staff.\u003C/p\u003E\u003Cp\u003EHowever, staff demonstrated a clear understanding of patients\u0027 current risks, support needs and DNACPR decisions. Staff were able to describe patients\u0027 wishes and the actions required to manage identified risks safely. \u003C/p\u003E\u003Cp\u003EWe saw evidence that risk information and DNACPR decisions were shared effectively within teams and acted on appropriately. Improvements were needed in documentation and access to records. However, we found no evidence that patient safety or the quality of care had been affected.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is safe"
+              },
+              {
+                "name": "Well-led",
+                "commentary": "\u003Cp\u003EWe looked for evidence that service leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EOur rating of well led stayed the same. We rated it as good because:\u003C/p\u003E\u003Cp\u003ELeaders demonstrated a clear commitment to delivering high-quality care and driving continuous improvement. Governance and oversight processes were established across the service and supported the effective monitoring of quality, safety, patient experience and outcomes. Leaders had a good understanding of the service\u0027s strengths and the areas where further development was required.\u003C/p\u003E\u003Cp\u003EWe identified some areas where governance oversight and assurance could be strengthened, particularly in relation to the consistency of documentation, the accessibility of some clinical records and ensuring risk assessments were updated promptly following significant events. However, these issues were not widespread and did not compromise the delivery of safe care. Staff demonstrated a good understanding of patients\u0027 risks and care needs, and teams took appropriate action to manage identified concerns.\u003C/p\u003E\u003Cp\u003EOur findings demonstrated that governance processes operated effectively at team level and that performance, quality and risk were managed well. Staff had access to the information they needed to provide safe and effective care and used this information to support clinical decision-making and service improvement.\u003C/p\u003E\u003Cp\u003EStaff routinely collected and reviewed data relating to performance, safety and patient outcomes through regular audits. The service used this information to identify trends, monitor progress and drive quality improvement initiatives. Staff engaged positively with local and national quality improvement activities and demonstrated a commitment to improving patient care.\u003C/p\u003E\u003Cp\u003EManagers worked collaboratively with other health and social care providers, including the local NHS mental health trust and community partners to support coordinated care and successful discharge planning. This partnership working helped to ensure patients received joined-up care and support throughout their treatment and recovery journey.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "rating": "Good",
+                "status": "Assessed",
+                "narrative": "This service is well-led"
+              }
+            ]
+          }
+        ],
+        "asgRatings": [
+          {
+            "assessmentPlanId": "AP20510",
+            "title": "Ongoing Assessment for Bromley Road Hospital",
+            "assessmentDate": "2026-01-08",
+            "assessmentPlanStatus": "Active",
+            "name": "Long stay or rehabilitation mental health wards for working age adults",
+            "rating": "Good",
+            "status": "Current",
+            "commentary": "\u003Cp\u003EThis inspection was an unannounced, comprehensive review of the high dependency rehabilitation inpatient service at Bromley Road Hospital, on 17 and 18 March 2026. We assessed all quality statements across the five key questions: Safe, Effective, Caring, Responsive, and Well-led.\u003C/p\u003E\u003Cp\u003EDuring the inspection, we spoke with the consultant, director of governance, service manager, deputy ward manager, physical health lead, nurses, healthcare assistants, and members of the multidisciplinary team. We also spoke with 6 patients, 2 carers, reviewed 9 patients\u2019 care and treatment records, examined medication records, carried out a detailed tour of the physical environment and reviewed a range of additional documentation relating to the operation of the service.\u003C/p\u003E\u003Cp\u003EPatients received safe, effective and person-centred care from a skilled multidisciplinary team that worked collaboratively to support recovery, rehabilitation and progression towards greater independence. Staff assessed and managed risks effectively, minimised the use of restrictive practices, managed medicines safely and followed safeguarding procedures to protect patients from harm. The ward environments were clean, well maintained and supported safe care, and staffing levels were sufficient to meet patients\u0027 needs. The service had successfully recruited to nursing vacancies, which supported continuity of care and therapeutic engagement.\u003C/p\u003E\u003Cp\u003ECare and treatment were delivered in line with a recognised model of mental health rehabilitation and reflected national guidance and best practice. Patients received holistic assessments and personalised care plans that focused on recovery, independence and improving quality of life. Positive Behaviour Support (PBS) planning was a particular strength of the service. Plans were informed by detailed psychological formulation, reflected patients\u0027 strengths, preferences and goals, and demonstrated meaningful patient involvement in treatment planning. Patients had access to a range of therapeutic interventions, including psychology and occupational therapy, to support the development of daily living and independent living skills.\u003C/p\u003E\u003Cp\u003EStaff treated patients with compassion, kindness and respect and promoted dignity, choice and independence. Feedback from patients and carers was generally positive, with many describing supportive relationships with staff. Patients and, where appropriate, their families and carers were actively involved in decisions about care and treatment. The service also worked effectively with partner organisations to support discharge planning, and delays to discharge were uncommon unless clinically necessary.\u003C/p\u003E\u003Cp\u003EThe service had strengthened its approach to physical healthcare since the previous assessment and had addressed previous recommendations relating to physical health oversight and monitoring. Patients received appropriate physical health monitoring, including those prescribed high-dose antipsychotic medicines, and staff demonstrated a good understanding of physical health escalation processes. A dedicated physical health lead provided effective oversight and support to ensure patients\u0027 physical healthcare needs were identified and managed appropriately.\u003C/p\u003E\u003Cp\u003ELeadership within the service was visible and focused on continuous improvement. Governance systems supported the monitoring of quality, safety, patient experience and outcomes. Staff used data, audits and quality improvement activities to evaluate and enhance the care provided. Managers worked collaboratively with local health and social care partners, including NHS services, to promote coordinated and integrated care.\u003C/p\u003E\u003Cp\u003E While some improvements were required to strengthen documentation consistency, record accessibility and the timely updating of risk assessments following significant events, these issues were not widespread and did not impact the overall quality and safety of care provided.\u003C/p\u003E\u003Cp\u003EOverall, the service was well led and delivered safe, effective, caring and recovery-focused care that supported patients to achieve meaningful progress towards greater independence and improved quality of life.\u003C/p\u003E",
+            "commentaryDate": "2026-09-03",
+            "narrative": "The service is performing well and meeting our expectations.",
+            "overallPeopleExperience": "\u003Cp\u003EDuring the assessment, we spoke with 6 patients and 2 relatives to understand their experiences of care and treatment at the service.\u003C/p\u003E\u003Cp\u003EFeedback was mixed. Many people spoke positively about the kindness, commitment and support provided by staff. Patients and relatives described staff as caring, approachable and responsive. Several people told us staff had supported them to make progress in their recovery. One relative described the service as \u0022by far over and above any other service\u0022 their family member had experienced and said staff had helped their relative achieve a level of stability not previously seen despite many years of mental health treatment. Another relative told us they trusted the staff team and felt the service provided a safe and inclusive environment.\u003C/p\u003E\u003Cp\u003EPatients told us they had opportunities to participate in activities both on and off the ward, including cooking sessions, educational opportunities and community outings. Some patients spoke positively about access to occupational therapy and support from staff. Relatives also described examples of staff going above and beyond to support patients and families.\u003C/p\u003E\u003Cp\u003E \u003C/p\u003E\u003Cp\u003EMental Health Act and Mental Capacity Act Compliance \u003C/p\u003E\u003Cp\u003EThe service delivered care within an appropriate legal framework and had systems in place to support compliance with the Mental Health Act 1983 (MHA) and Mental Capacity Act 2005 (MCA). Staff demonstrated a good understanding of the MCA, including its five statutory principles, and were able to describe how these were applied in practice. Staff were aware of how to access internal advice and guidance in relation to the MCA and DoLS where required. They have good understanding of their responsibilities under both frameworks and were able to describe how patients\u0027 rights, consent and decision-making were considered in practice.\u003C/p\u003E\u003Cp\u003EPatients were supported to understand their legal status and rights, and staff sought consent appropriately and assessed mental capacity where required.\u003C/p\u003E\u003Cp\u003EAlthough we identified some areas where the recording and accessibility of legal documentation could be improved, including some capacity assessments and Mental Health Act records. There was no evidence that these issues adversely affected patient care, treatment or the protection of patients\u0027 rights. Staff applied the principles of the MHA and MCA appropriately and governance arrangements supported ongoing monitoring and compliance.\u003C/p\u003E\u003Cp\u003EThe provider had established systems and processes to monitor adherence to the MHA and MCA. Audit findings indicated that detention and treatment authorisation processes were generally applied lawfully and appropriately recorded.\u003C/p\u003E\u003Cp\u003ETraining in both the Mental Capacity Act and Mental Health Act was mandatory. Compliance with Mental Capacity Act training was 96% at the time of inspection, while Mental Health Act training compliance was 94.4%.\u003C/p\u003E",
+            "overallPeopleExperienceDate": "2026-09-03",
+            "keyQuestionRatings": [
+              {
+                "name": "Caring",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the hospital involved people and treated them with compassion, kindness, dignity and respect.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained the same.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "narrative": "This service is caring",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Independence, choice and control",
+                    "qualityStatementId": "17",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service promoted people\u2019s independence, so people knew their rights and had choice and control over their own care, treatment and wellbeing.\u003C/p\u003E\u003Cp\u003EThe service promoted independence through structured rehabilitation programmes, community leave, educational opportunities, self-catering initiatives and proactive discharge planning. Staff supported patients to develop the skills and confidence required for greater independence and successful transition to less restrictive settings. We saw evidence of patients making progress towards their rehabilitation goals, including increased community engagement, participation in education and vocational activities, and preparation for discharge. For example, one patient on the step-down ward was actively engaging with community housing services to secure suitable accommodation in preparation for discharge.\u003C/p\u003E\u003Cp\u003EPatients had opportunities to develop daily living skills, access community resources and participate in activities designed to support social inclusion, recovery and progression towards greater independence. Activities included education, physical activity, self-catering, community visits and therapeutic interventions tailored to individual recovery goals and interests. Following feedback from the 2025 Service User Experience Survey, My Care and Treatment, the service had taken action to expand activity provision and was working with patients and occupational therapy staff to co-produce activities aligned to individuals\u0027 recovery goals, preferences and interests.\u003C/p\u003E\u003Cp\u003EWe observed effective multidisciplinary working to promote independence and recovery. Nursing, psychology, occupational therapy and medical staff worked collaboratively to support patients\u0027 rehabilitation goals, review progress and identify opportunities to increase independence safely. This included supporting patients to develop community living skills, access meaningful occupation and progress through agreed leave arrangements.\u003C/p\u003E\u003Cp\u003EMost patients spoke positively about the support they received to develop independence and achieve their recovery goals. Patients described being encouraged to participate in activities, develop practical skills and prepare for life beyond the service. However, some patients told us they would have liked greater involvement in decisions relating to their treatment, medication and discharge planning. A small number of patients also described discussions about medication and leave arrangements that they perceived as restrictive. \u003C/p\u003E\u003Cp\u003ELeaders were aware of the importance of patient involvement and had mechanisms in place to gather feedback and identify opportunities to further strengthen collaborative decision-making and personalised care planning.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Kindness, compassion and dignity",
+                    "qualityStatementId": "15",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service always treated people with kindness, empathy and compassion and respected their privacy and dignity. Staff treated colleagues from other organisations with kindness and respect.\u003C/p\u003E\u003Cp\u003EPatients and relatives consistently described staff as caring, compassionate and respectful.\u003C/p\u003E\u003Cp\u003EStaff were discreet, respectful, and responsive when caring for patients. Staff treated people with dignity and demonstrated commitment to promoting recovery and wellbeing. We observed positive interactions throughout the inspection and relatives praised staff for the quality of support provided. \u003C/p\u003E\u003Cp\u003EPatients were generally involved in decisions relating to their care and treatment. We observed examples of collaborative clinical discussion and shared decision-making.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Responding to people\u2019s immediate needs",
+                    "qualityStatementId": "18",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service listened to and understood people\u2019s needs, views and wishes. Staff responded to people\u2019s needs in the moment and acted to minimise any discomfort, concern or distress.\u003C/p\u003E\u003Cp\u003EStaff were generally responsive when patients required support and patients described staff as available and approachable. Relatives also highlighted examples of staff going beyond expectations to support patients and families during periods of leave and transition.\u003C/p\u003E\u003Cp\u003EStaff demonstrated awareness of patients\u0027 immediate physical and mental health needs and responded appropriately when concerns arose. Medical staff were accessible and actively involved in patient care, and inspectors observed positive multidisciplinary collaboration supporting timely clinical review and escalation where required.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Treating people as individuals",
+                    "qualityStatementId": "16",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service treated people as individuals and made sure people\u2019s care, support and treatment met people\u2019s needs and preferences. They took account of people\u2019s strengths, abilities, aspirations, culture, unique backgrounds and protected characteristics.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a commitment to delivering person-centred care that recognised people\u0027s individual needs, strengths and recovery goals. Staff tailored support to the individual and used personalised interventions to promote recovery, independence and wellbeing. Care planning and therapeutic interventions reflected an understanding of patients\u0027 personal histories, preferences, strengths, protective factors and aspirations for the future.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good understanding of trauma-informed approaches and were able to describe how care and support were adapted to meet individuals\u0027 needs. Relatives told us that staff treated people as individuals and adjusted their approach in response to patients\u0027 preferences, communication styles and support requirements.\u003C/p\u003E\u003Cp\u003EPatients had access to a wide range of rehabilitation opportunities and community-based resources designed to support social inclusion, skill development and long-term recovery. These included occupational therapy-led interventions, education, self-catering opportunities, physical activity and access to the wider community. Some patients attended college courses and participated in community-based activities such as art groups, swimming, gym sessions, yoga and recreational outings. Staff supported patients to develop everyday living skills, build confidence and increase their independence through structured rehabilitation programmes, graded leave and community engagement.\u003C/p\u003E\u003Cp\u003EPatients were generally involved in decisions about their care and treatment. We saw examples of staff seeking patients\u0027 views during care planning reviews, multidisciplinary discussions and rehabilitation planning. Most patients told us they felt listened to and supported to make choices about their care. However, a small number of patients said they would have liked greater involvement in some aspects of care planning and future decision-making. \u003C/p\u003E\u003Cp\u003ELeaders were aware of the importance of patient involvement and staff described ongoing efforts to increase patient participation and ensure patients\u0027 voices were more consistently reflected within care plans and treatment reviews.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce wellbeing and enablement",
+                    "qualityStatementId": "19",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service cared about and promoted the wellbeing of their staff and supported and enabled staff to always deliver person-centred care.\u003C/p\u003E\u003Cp\u003EStaff had access to supervision, training, wellbeing initiatives and leadership support. Workforce survey results demonstrated strengths in safety culture, role clarity and recognition. Staff told us they were proud of the care they provided, felt valued by the organisation and described good morale within teams. Throughout the inspection, staff demonstrated passion and commitment to delivering high-quality patient care. Staff described supportive team relationships and an open culture where individuals felt able to share their views, raise concerns and contribute to service development.\u003C/p\u003E\u003Cp\u003EWe observed an open and constructive culture in which staff were willing to discuss practice, reflect on areas for improvement and participate in quality improvement initiatives. Leadership teams promoted staff engagement through regular supervision, team meetings, one-to-one discussions and opportunities for reflective practice.\u003C/p\u003E\u003Cp\u003EThe provider invested in workforce development and staff wellbeing. Staff had access to peer support groups, professional networks and communities of practice, which enabled them to share learning, discuss complex cases and develop their clinical skills. Staff told us these forums provided opportunities for professional support, reflective learning and the sharing of good practice across teams. Staff also described feeling well supported by managers following incidents and when managing complex patient situations, with access to supervision and debriefs to support their wellbeing and resilience.\u003C/p\u003E\u003Cp\u003EThere was evidence of ongoing service improvement initiatives designed to strengthen clinical practice and patient outcomes. For example, the service had strengthened its approach to physical healthcare through the appointment of a dedicated physical health lead, which was supported by staff training, increased oversight and improved physical health monitoring processes. In response to patient feedback, staff were also working alongside occupational therapy colleagues to co-produce a wider range of recovery-focused activities aligned to patients\u0027 interests and rehabilitation goals. These initiatives demonstrated an ongoing commitment to developing staff skills, supporting staff wellbeing and improving patient outcomes.\u003C/p\u003E\u003Cp\u003ELeadership demonstrated a supportive approach to staff development and quality improvement, and multidisciplinary collaboration was evident throughout the service. Staff worked effectively together to support rehabilitation, recovery and progression towards greater independence.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Effective",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people\u2019s care, treatment and support achieved good outcomes and promoted a good quality of life, based on the best available evidence.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained the same.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "narrative": "This service is effective",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Assessing needs",
+                    "qualityStatementId": "9",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service made sure people\u2019s care and treatment was effective by assessing and reviewing their health, care, wellbeing and communication needs with them.\u003C/p\u003E\u003Cp\u003EPatients received comprehensive multidisciplinary assessments that considered their mental health, physical health, social circumstances, rehabilitation needs and longer-term recovery goals. Assessments were person-centred and informed by Positive Behaviour Support planning and psychological formulation. The care management plans included input from a range of professionals such as General Practitioners (GPs), Occupational therapy, Dieticians, nursing, medical, Psychologists, Speech and Language therapists to meet individual needs.\u003C/p\u003E\u003Cp\u003EStaff developed holistic care plans for each patient that reflected their individual needs, strengths and preferences. Care plans addressed a broad range of areas, including mental health needs, physical healthcare, medicines management, risk management, psychological wellbeing, daily living skills, social inclusion, community access, education, vocational opportunities, and discharge planning. Records demonstrated that patients were involved in developing their care plans and, where appropriate, the views of families and carers were sought and incorporated into care planning and treatment decisions.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good understanding of patients\u0027 histories, current needs and recovery aspirations. Patients\u0027 strengths, protective factors and opportunities for developing greater independence were recognised and reflected within care planning processes. Positive Behaviour Support plans and psychological formulations provided staff with a clear understanding of the factors influencing behaviour and the strategies required to support patients effectively.\u003C/p\u003E\u003Cp\u003EThe Responsible Clinician and wider multidisciplinary team were actively involved in assessing, reviewing and planning patients\u0027 care and treatment. Multidisciplinary meetings brought together contributions from psychology, nursing, occupational therapy, medical and other allied health professionals to ensure care remained coordinated, responsive and focused on rehabilitation outcomes. This collaborative approach supported personalised care delivery and helped patients make progress towards their recovery and independence goals.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Consent to care and treatment",
+                    "qualityStatementId": "14",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service told people about their rights around consent and respected these when delivering person-centred care and treatment.\u003C/p\u003E\u003Cp\u003EThe service delivered care within an appropriate legal framework and had systems in place to support compliance with the Mental Health Act 1983 (MHA) and Mental Capacity Act 2005 (MCA). Staff demonstrated a good understanding of the principles of the MCA and were able to explain how consent, capacity and best-interest decision-making informed care and treatment. Staff also understood their responsibilities under the Mental Health Act and the Mental Health Act Code of Practice and applied these appropriately in practice.\u003C/p\u003E\u003Cp\u003EStaff had completed training relevant to their legal responsibilities, including Mental Capacity Act and Deprivation of Liberty Safeguards (DoLS) training, with compliance at 94.4% at the time of inspection. Compliance with Mental Health Act Code of Practice training was 96%, providing assurance that staff had the knowledge required to support patients\u0027 rights and legal safeguards. Staff were aware of how to access specialist advice when required.\u003C/p\u003E\u003Cp\u003EPatients were generally involved in decisions about their care and treatment. We observed examples of collaborative clinical discussions and shared decision-making. Treatment documentation was present within the records reviewed, and systems were in place to monitor compliance with both the MHA and MCA. Audit findings indicated that detention procedures and consent to treatment arrangements were applied lawfully and appropriately recorded.\u003C/p\u003E\u003Cp\u003EHowever, we identified some inconsistencies in the accessibility and traceability of legal documentation. Mental Health Act audits had identified omissions relating to capacity assessments associated with treatment decisions, Section 132 rights documentation, aspects of tribunal outcomes and detention renewal records. In some patient records, documentation relating to capacity assessments and clinical decision-making was not readily accessible. These issues related primarily to record-keeping and governance assurance rather than the application of the legislation in practice. Staff were able to describe patients\u0027 legal status, rights and relevant decision-making processes. We found no evidence that patients\u0027 rights or care had been adversely affected.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Delivering evidence-based care and treatment",
+                    "qualityStatementId": "10",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service planned and delivered people\u2019s care and treatment with them, including what was important and mattered to them. They did this in line with legislation, current evidence-based good practice and standards.\u003C/p\u003E\u003Cp\u003EThe service delivered care through a rehabilitation model supported by structured assessment, treatment and transition pathways. Patients were admitted to either a treatment-engaging or treatment-resistant pathway, enabling care and therapeutic interventions to be tailored to their individual needs, presentation and recovery goals. Progress through the service was supported by regular multidisciplinary reviews, rehabilitation planning and discharge preparation, with a clear focus on increasing independence and supporting successful transitions to less restrictive community settings.\u003C/p\u003E\u003Cp\u003EPositive Behaviour Support (PBS) planning was a notable strength of the service and formed a central component of treatment and rehabilitation planning. PBS plans were informed by comprehensive psychological assessment and formulation and reflected patients\u0027 strengths, triggers, communication needs, coping strategies and support requirements. Plans provided staff with clear guidance on proactive interventions, early warning signs of distress and personalised approaches to reducing behavioural escalation. Patients were involved in the development and review of their PBS plans, and records demonstrated efforts to ensure patients\u0027 views, preferences and goals were reflected in care planning. Staff told us that PBS plans helped them better understand individual triggers and support needs, enabling more consistent and effective care.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a commitment to using PBS plan to promote recovery, minimise restrictive practices and support positive risk-taking. Staff described how patients\u0027 risks, self-harm triggers and support needs were regularly reviewed with their primary nurse and discussed within the multidisciplinary team. Staff also reported that PBS approaches had contributed to reductions in incidents of behavioural escalation and restrictive interventions by improving staff understanding of individual needs and encouraging proactive support strategies. Audit processes demonstrated that PBS plans were completed, reviewed and embedded within wider care planning and risk management arrangements.\u003C/p\u003E\u003Cp\u003EStaff used recognised therapeutic approaches, including cognitive behavioural therapy, motivational interviewing, trauma-informed practice and formulation-led interventions, to support emotional wellbeing, behavioural understanding and recovery.\u003C/p\u003E\u003Cp\u003EThe percentage of staff that received regular supervision for permanent staff was 92% and 100% for bank staff across both wards.\u003C/p\u003E\u003Cp\u003EThe percentage of staff that had an appraisal in January and February 2026 was between 81 to 85% across both wards.\u003C/p\u003E\u003Cp\u003EWe observed effective multidisciplinary working between the Responsible Clinician, psychologist, occupational therapist, nursing staff and support workers during discussions about patients\u0027 progress, rehabilitation goals, risk management and discharge planning. This collaborative approach helped ensure treatment remained holistic, coordinated and responsive to patients\u0027 changing needs.\u003C/p\u003E\u003Cp\u003EPatients had access to education, meaningful community activities, physical healthcare support and therapeutic programmes designed to build confidence, resilience and independent living skills. Multidisciplinary reviews considered patients\u0027 progress towards rehabilitation goals, community engagement, daily living skills and readiness for discharge. This supported patients to develop greater independence and make progress towards less restrictive living arrangements and improved quality of life.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "How staff, teams and services work together",
+                    "qualityStatementId": "11",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service worked well across teams and services to support people. They made sure people only needed to tell their story once by sharing their assessment of needs when people moved between different services.\u003C/p\u003E\u003Cp\u003EMultidisciplinary working was a notable strength of the service. Psychiatry, nursing, psychology, occupational therapy and other healthcare professionals worked collaboratively to deliver holistic care and support patients\u0027 rehabilitation and recovery goals.\u003C/p\u003E\u003Cp\u003EStaff held regular and effective multidisciplinary team meetings. Multidisciplinary team (MDT) discussions demonstrated effective communication, shared decision-making and active clinical leadership. Daily meetings included discussions about individual patients, current risks, progress against treatment goals, physical health needs, external referrals and discharge planning. Staff used these meetings to review patients\u0027 progress, coordinate interventions and ensure care remained responsive to changing needs.\u003C/p\u003E\u003Cp\u003EWe observed evidence of effective partnership working with external healthcare providers to support patients\u0027 physical and mental health needs. For example, records showed timely referrals to specialist services, including dentistry for patients experiencing tooth pain, dietetic services, diabetic specialist nurses and oncology services for screening and follow-up care where required. This helped to ensure patients received coordinated and comprehensive healthcare.\u003C/p\u003E\u003Cp\u003EPatients benefited from a joined-up approach to risk management, rehabilitation and discharge planning. For example, MDT reviews considered patients\u0027 progress in developing daily living skills, community access, medication management and independent living abilities alongside their mental health recovery. \u003C/p\u003E\u003Cp\u003EDiscussions brought together contributions from nursing, psychology, occupational therapy and medical staff to identify barriers to discharge and agree actions to support progression. This collaborative approach helped ensure patients were supported to achieve greater independence and move successfully to less restrictive environments when clinically appropriate.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Monitoring and improving outcomes",
+                    "qualityStatementId": "13",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service routinely monitored people\u2019s care and treatment to continuously improve it. They ensured that outcomes were positive and consistent, and that they met both clinical expectations and the expectations of people themselves.\u003C/p\u003E\u003Cp\u003EThe service monitored patients\u0027 progress through regular care reviews, multidisciplinary team (MDT) meetings, rehabilitation milestones and governance processes. \u003C/p\u003E\u003Cp\u003EStaff provided a range of treatments and interventions based on national guidance and best practice, including psychological therapies, support with self-care, development of daily living skills, community engagement and meaningful occupation. \u003C/p\u003E\u003Cp\u003EStaff also supported patients to manage their physical health and encouraged healthier lifestyles through health promotion activities and access to specialist healthcare services.\u003C/p\u003E\u003Cp\u003EStaff used recognised outcome measures to assess and record the severity of patients\u0027 conditions and to evaluate treatment outcomes. For example, the psychology team used validated outcome measures to monitor changes in anxiety and depression symptoms and assessed the development of individual intrapersonal skills over time. Outcome measures were reviewed alongside clinical observations, risk assessments and rehabilitation goals to help inform treatment planning and measure progress.\u003C/p\u003E\u003Cp\u003EWe saw evidence of positive outcomes for patients, including increased independence, greater engagement in education and meaningful activities, progression in community access and leave arrangements, and improvements in mental health stability. MDT reviews considered patients\u0027 progress towards rehabilitation goals, identifying barriers to recovery and agreeing actions to support further development and independence.\u003C/p\u003E\u003Cp\u003ELeaders demonstrated a commitment to quality improvement and ongoing service development. \u003C/p\u003E\u003Cp\u003EStaff participated in clinical audit, benchmarking and quality improvement initiatives to evaluate the quality and effectiveness of care. The service used information from audits, outcome measures, incidents and patient feedback to identify opportunities for improvement and monitor performance. \u003C/p\u003E\u003Cp\u003EDevelopments in care planning, physical healthcare oversight and partnership working with external agencies reflected a continued focus on improving patient outcomes, enhancing rehabilitation pathways and supporting successful transitions to less restrictive environments.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Supporting people to live healthier lives",
+                    "qualityStatementId": "12",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service supported people to manage their health and wellbeing to maximise their independence, choice and control. The service supported people to live healthier lives and where possible, reduce their future needs for care and support.\u003C/p\u003E\u003Cp\u003EThe service promoted patients\u0027 physical health and wellbeing through effective monitoring arrangements, health promotion initiatives and collaborative working with external healthcare providers. Since the previous assessment, the service had strengthened its approach to physical healthcare and addressed the previous recommendation relating to the monitoring of patients receiving high-dose antipsychotic therapy (HDAT).\u003C/p\u003E\u003Cp\u003EA dedicated physical health lead provided effective oversight of physical healthcare across the service. The physical health lead monitored compliance with physical health checks, supported staff in identifying and escalating concerns, reviewed monitoring requirements and provided assurance through audit and governance processes. Staff demonstrated a good understanding of physical health monitoring and escalation procedures and were able to describe the support available from the physical health lead. These arrangements provided greater assurance that patients\u0027 physical health needs were being identified, monitored and managed appropriately.\u003C/p\u003E\u003Cp\u003ERecords showed that patients prescribed high-dose antipsychotic therapy received the required physical health monitoring, including blood tests and other relevant health checks. Staff acted appropriately when abnormal results were identified and escalated concerns to medical professionals and specialist services as required. This demonstrated that the provider had taken effective action to address the concerns identified at the previous assessment.\u003C/p\u003E\u003Cp\u003EStaff worked proactively with GPs, community healthcare teams and specialist services to ensure patients received timely access to assessment, treatment and ongoing healthcare support. We found evidence of referrals to a range of external services, including dental services for patients experiencing oral health concerns, dietetic services to support nutritional needs, diabetes specialist teams for the management of long-term health conditions and oncology services for screening and specialist follow-up. Staff maintained oversight of referrals and follow-up appointments and coordinated care across different services to ensure patients received appropriate treatment.\u003C/p\u003E\u003Cp\u003EPartnership working improved access to healthcare and supported an integrated approach to meeting patients\u2019 physical and mental health needs. Patients were encouraged to engage in health promotion, exercise and wellbeing activities, supporting recovery and positive health outcomes.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Responsive",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that the hospital met people\u2019s needs.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained the same.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "narrative": "This service is responsive",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Care provision, Integration and continuity",
+                    "qualityStatementId": "21",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service understood the diverse health and care needs of people and their local communities, so care was joined-up, flexible and supported choice and continuity.\u003C/p\u003E\u003Cp\u003EAdmission pathways, MDT working and rehabilitation planning supported continuity of care. The service worked with commissioners, community teams and external agencies to facilitate progression and discharge planning.\u003C/p\u003E\u003Cp\u003EMedical staff, psychology, nursing and wider professionals worked collaboratively to coordinate care and support people\u2019s progress through the rehabilitation pathway.\u003C/p\u003E\u003Cp\u003ESome patients and relatives reported concerns regarding communication about discharge planning and future placements. Leaders demonstrated awareness of these concerns and reflected on feedback received from family members regarding communication about proposed transfers to other services, recognising that earlier engagement with patients and their families would have supported a better experience.\u003C/p\u003E\u003Cp\u003EPatients were supported to maintain relationships that were important to them. Staff facilitated regular contact with family members and friends through visits, telephone calls, video calls and community leave where appropriate. Relatives told us they were generally kept informed about their family member\u0027s progress and were encouraged to contribute to care and discharge planning discussions.\u003C/p\u003E\u003Cp\u003EStaff supported patients to access a range of community-based activities that reflected their interests, preferences and rehabilitation goals. Examples included attending walking groups, sports activities, shopping trips, educational opportunities, cafes and social outings. These opportunities supported people to develop confidence, increase independence and maintain meaningful connections with their local communities.\u003C/p\u003E\u003Cp\u003EStaff demonstrated an awareness of patients\u0027 diverse cultural, religious and spiritual needs. Care plans included information about people\u0027s protected characteristics, personal preferences and beliefs where relevant. Patients were supported to observe religious practices, access faith leaders, celebrate cultural events, maintain important routines, and access food that reflected their cultural or religious requirements. Staff sought to provide care that respected people\u0027s identity, values and individual circumstances.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in access",
+                    "qualityStatementId": "24",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service made sure that people could access the care, support and treatment they needed when they needed it.\u003C/p\u003E\u003Cp\u003EThe service operated clear admission criteria which were consistently applied. Referral, assessment and admission processes considered individual needs and protected characteristics, and staff made reasonable adjustments where required to support equitable access to care. Patients admitted to the service were appropriate for the rehabilitation model and could be safely supported within the service environment.\u003C/p\u003E\u003Cp\u003EThe service maintained access to appropriate medical support. There was now adequate medical cover during the day and overnight, with formal arrangements in place to ensure patients could access medical advice and treatment when required. Staff told us a doctor could attend promptly in an emergency, demonstrating improved arrangements since the previous assessment\u003C/p\u003E\u003Cp\u003EPatients were able to access a range of rehabilitation opportunities designed to support recovery and community reintegration. This included community-based activities, recovery-focused programmes and opportunities to develop skills that supported greater independence and progression towards less restrictive settings.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Equity in experiences and outcomes",
+                    "qualityStatementId": "25",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. Staff and leaders actively listened to information about people who are most likely to experience inequality in experience or outcomes and tailored their care, support and treatment in response to this.\u003C/p\u003E\u003Cp\u003EStaff demonstrated an understanding of patients\u0027 individual needs, backgrounds and circumstances and adapted support accordingly. Care planning reflected patients\u0027 psychological, physical and social needs, with access to therapeutic interventions, rehabilitation activities and community opportunities tailored to individual recovery goals. Patients were able to access support that reflected their personal needs and circumstances.\u003C/p\u003E\u003Cp\u003EFeedback from patients and relatives was generally positive. Relatives described good experiences of care and spoke positively about the progress people had made during admission. Patients and carers described improvements in wellbeing, independence and progress towards rehabilitation goals, supported through structured treatment and recovery programmes. \u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Listening to and involving people",
+                    "qualityStatementId": "23",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service made it easy for people to share feedback and ideas, or raise complaints about their care, [IL1] treatment and support. They involved people in decisions about their care and told them what had changed as a result.\u003C/p\u003E\u003Cp\u003EMechanisms existed to gather patient feedback, including community meetings, ongoing engagement with patients and complaints processes. Community meetings provided patients with opportunities to raise concerns, share suggestions and contributes to decision about ward. Topics discussed included activities and community outings and leave arrangements. \u003C/p\u003E\u003Cp\u003EPatients and relatives were able to raise concerns and provide feedback about their experiences of care. Records showed that complaints were investigated and reviewed through established governance processes, and leaders demonstrated awareness of the issues raised by patients and relatives.\u003C/p\u003E\u003Cp\u003EPatients and relatives generally felt able to provide feedback and raise concerns. Patients were encouraged to contribute ideas for improvements and were provided with feedback on actions taken in response to issues raised.\u003C/p\u003E\u003Cp\u003EStaff understood the policy on complaints and knew how to handle them.\u003C/p\u003E\u003Cp\u003EComplaints were investigated and learning identified. The learning was then discussed by staff during routine staff meetings\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Person-centred Care",
+                    "qualityStatementId": "20",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service made sure people were at the centre of their care and treatment choices and they decided, in partnership with people, how to respond to any relevant changes in people\u2019s needs.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good understanding of the people they supported. They were able to describe individuals\u0027 personal histories, preferences, strengths and recovery goals. Care and support were adapted to meet people\u0027s changing needs, and patients had access to a range of therapeutic, educational and community-based opportunities that reflected their individual interests and rehabilitation objectives. Relatives told us staff understood the needs of their family members and adapted support accordingly.\u003C/p\u003E\u003Cp\u003EStaff worked flexibly with patients to support their recovery and rehabilitation goals. Patients accessed a range of opportunities including community activities, recovery-focused interventions and skills development programmes designed to support their individual progress and longer-term goals. For example, care plans included goals relating to developing independent living skills, progressing towards supported or independent accommodation, increasing unescorted community access, accessing education, voluntary work or employment opportunities, improving social and family relationships, managing medication independently, and developing the confidence and practical skills required for successful discharge. \u003C/p\u003E\u003Cp\u003EStaff supported patients to work towards these goals through personalised rehabilitation programmes, travel training, budgeting and shopping activities, vocational support and community engagement. Care and treatment remained focused on supporting people to achieve goals that were important to them.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Planning for the future",
+                    "qualityStatementId": "26",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. People were supported to plan for important life changes, so they could have enough time to make informed decisions about their future.\u003C/p\u003E\u003Cp\u003ERecovery and rehabilitation planning were embedded within multidisciplinary practice and demonstrated a commitment to supporting longer-term independence and community reintegration.\u003C/p\u003E\u003Cp\u003EThe service maintained a strong focus on recovery, rehabilitation and community discharge.\u003C/p\u003E\u003Cp\u003EPatients were supported to develop skills, engage with community resources and prepare for future transitions. They had access to rehabilitation opportunities designed to build confidence, resilience and the practical skills required for successful community living. MDT discussions and effective partnership working supported discharge planning and recovery-focused care. \u003C/p\u003E\u003Cp\u003EWe observed multidisciplinary meetings where staff reviewed patients\u0027 progress towards rehabilitation goals, discussed graduated leave arrangements and considered the support required to promote safe and successful transitions. For example, staff discussed plans for family visits involving young children, carefully considering risks, safeguarding arrangements and measures needed to support positive family contact while maintaining safety.\u003C/p\u003E\u003Cp\u003E Discussions demonstrated a person-centred approach, balancing recovery goals, family relationships and individual risks. Staff worked collaboratively to identify barriers to progress and develop plans that supported patients to achieve greater independence and move towards less restrictive environments.\u003C/p\u003E\u003Cp\u003EPatients told us they were involved in discussions about their future goals and valued opportunities to develop skills and confidence in preparation for discharge.\u003C/p\u003E\u003Cp\u003ERelatives told us staff generally supported patients to maintain important family relationships and involved them in discussions about future plans and discharge arrangements with consent.\u003C/p\u003E\u003Cp\u003EWe observed staff discussing patients\u0027 individual goals, family circumstances and community support needs during multi-disciplinary Team (MDT) meetings, demonstrating a proactive and collaborative approach to planning for future transitions.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Providing Information",
+                    "qualityStatementId": "22",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service supplied appropriate, accurate and up-to-date information in formats that were tailored to individual needs.\u003C/p\u003E\u003Cp\u003EStaff made sure patients could access information on treatment, local service, their rights and how to complain. Any information could be translated for patients into a language they understood. If needed, interpreters could be\u003C/p\u003E\u003Cp\u003Ebooked to attend meetings. Managers also made sure staff and patients could get help from interpreters or signers\u003C/p\u003E\u003Cp\u003Ewhen needed\u003C/p\u003E\u003Cp\u003EPatients told us they received a welcome pack on admission and were supported to orientate themselves to the service.\u003C/p\u003E\u003Cp\u003EThe service provided accurate, up-to-date information in formats tailored to individual needs. Patients were able to access information about their treatment, local services, and their rights.\u003C/p\u003E\u003Cp\u003EInformation governance systems were in place to maintain the confidentiality of patient records. All staff had completed training in information governance and understood their responsibilities in handling sensitive information. At the time of the\u003C/p\u003E\u003Cp\u003Eassessment, Information Governance, General Data Protection Regulation (IG, GDPR ) training compliance rate was 94.3%\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Safe",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that people were protected from abuse and avoidable harm.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained the same.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "narrative": "This service is safe",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Infection prevention and control",
+                    "qualityStatementId": "7",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service assessed and managed the risk of infection. They detected and controlled the risk of it spreading and shared concerns with appropriate agencies promptly.\u003C/p\u003E\u003Cp\u003ESystems were in place to support infection prevention and control, including outbreak management arrangements, escalation processes and governance oversight. Staff demonstrated awareness of infection control procedures and the provider had contingency arrangements for infection outbreaks and service disruption.\u003C/p\u003E\u003Cp\u003EAppropriate infection prevention and control arrangements were observed during the inspection. Clinical areas were clean and staff demonstrated awareness of infection prevention principles. Systems were in place to support safe practice.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Involving people to manage risks",
+                    "qualityStatementId": "4",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service worked with people to understand and manage risks by thinking holistically. Staff assessed and managed risks to patients and themselves well and followed best practice in anticipating, de-escalating and managing challenging behaviour.\u003C/p\u003E\u003Cp\u003EPatients were involved in aspects of treatment planning, and staff demonstrated a good understanding of positive risk-taking and recovery-oriented care. The multidisciplinary team promoted collaborative working with patients and sought to balance safety with individual independence, rehabilitation and recovery goals.\u003C/p\u003E\u003Cp\u003ERecords showed that staff completed an initial risk assessment for all patients on admission. These assessments considered both current and historical risks, including risks associated with patients\u0027 mental and physical health, previous incidents and individual vulnerabilities. Risk assessments were person-centred, reflected patients\u0027 changing needs and informed the development of risk management plans.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a good knowledge of patients\u0027 risks and the actions required to manage them safely. Risk information was routinely discussed and reviewed within the multidisciplinary team, including during ward rounds and care reviews. Staff shared key information effectively during shift handovers and team meetings to ensure continuity of care and promote patient safety. We observed that handovers included relevant information about current risks, changes in presentation, safeguarding concerns and any actions required to reduce identified risks.\u003C/p\u003E\u003Cp\u003EWe identified instances where risk assessments had not been updated promptly following significant events. This did not reflect expected standards for risk recording. However, staff demonstrated a clear understanding of patients\u2019 current risks and the measures required to manage them safely. We found no evidence that these omissions had compromised patient safety or care delivery.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning culture",
+                    "qualityStatementId": "1",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service had a proactive and positive culture of safety, based on openness and honesty. They listened to concerns about safety and investigated and reported safety events. Lessons were learnt to continually identify and embed good practice.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a positive learning culture underpinned by openness, multidisciplinary collaboration and a willingness to reflect on and improve practice. Staff demonstrated a clear understanding of incident reporting processes and safeguarding responsibilities and were able to describe how concerns were escalated and managed. \u003C/p\u003E\u003Cp\u003ELeaders actively participated in multidisciplinary discussions and there was evidence of governance and team meetings , incident reviews and quality improvement activity designed to strengthen patient care.\u003C/p\u003E\u003Cp\u003EWe observed an open culture where discussion and reflection were encouraged.\u003C/p\u003E\u003Cp\u003ELeaders demonstrated openness and transparency when responding to significant concerns, including a safeguarding incident involving inappropriate restraint. The incident was self-reported to the relevant external agencies and was subject to a comprehensive review.\u003C/p\u003E\u003Cp\u003ELearning from incidents was shared through established governance arrangements, including governance and quality meetings, multidisciplinary team meetings, staff supervision sessions and individual one-to-one discussions. \u003C/p\u003E\u003Cp\u003EManagers used these forums to review incidents, discuss lessons learned, monitor progress against action plans and reinforce expected standards of practice.\u003C/p\u003E\u003Cp\u003E Staff were able to describe learning from incidents and the changes that had been implemented as a result. This supported a culture of continuous learning and improvement across the service.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Medicines optimisation",
+                    "qualityStatementId": "8",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service made sure that medicines and treatments were safe and met people\u2019s needs, capacities and preferences. They involved people in planning, including when changes happened.\u003C/p\u003E\u003Cp\u003EMedicines were stored safely and securely, including controlled drugs. The service had a Controlled Drugs Accountable Officer, and staff were aware of who this was. There was a clear audit trail of stock checks for medicines liable to misuse, and robust systems were in place to identify and promptly remove or use medicines approaching their expiry date.\u003C/p\u003E\u003Cp\u003EClinical pharmacists provided oversight of medicines prescribed on patients\u0027 Medicines Administration Records (MARs), including clozapine prescribing requests, to support the safe and appropriate use of medicines. Staff followed established systems and processes to prescribe, administer and monitor medicines safely.\u003C/p\u003E\u003Cp\u003ESince the previous assessment, the service had strengthened its monitoring arrangements for patients receiving high-dose antipsychotic therapy (HDAT), addressing the previous recommendation relating to annual physical health monitoring. Patients prescribed HDAT received the required physical health assessments and blood monitoring, and staff took appropriate action when abnormal results were identified. Patients prescribed clozapine also received the necessary blood monitoring in line with national guidance and local protocols.\u003C/p\u003E\u003Cp\u003EThe service had effective systems to monitor physical health alongside medicines management. However, documentation relating to clinical blood monitoring was not always consistent. For example, the required frequency of blood tests for antipsychotic monitoring was recorded on some medicines charts but not others, and care records did not always clearly document the planned monitoring schedule for individual patients. Staff were nevertheless able to describe monitoring requirements and demonstrate that required tests had been completed.\u003C/p\u003E\u003Cp\u003EThe service ensured patients\u0027 behaviour was not controlled through excessive or inappropriate use of medicines. Where required (PRN) medicines were prescribed for agitation or distress, these were used appropriately. However, staff did not always consistently record the de-escalation strategies attempted before administering PRN medicines, limiting assurance that non-pharmacological interventions had been fully documented.\u003C/p\u003E\u003Cp\u003EStaff received mandatory medicines management training and told us they were also supported by additional input from the community pharmacy linked to the service. This helped ensure staff remained competent and up to date with safe medicines management practices.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe and effective staffing",
+                    "qualityStatementId": "6",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service made sure there were enough qualified, skilled and experienced staff, who received effective support, supervision and development. They worked together well to provide safe care that met people\u2019s individual needs.\u003C/p\u003E\u003Cp\u003EStaffing levels were generally sufficient to meet patients\u0027 needs. Vacancy rates remained low and recruitment processes were effective. Nursing vacancies had been filled, and leaders had recruited a substantive Registered Manager who was progressing through onboarding during the inspection. The multidisciplinary team included nurses, medical, occupational therapy, psychologist and healthcare assistants. \u003C/p\u003E\u003Cp\u003EStaff received regular supervision, appraisal and ongoing professional support and training. Supervision records demonstrated sessions that covered areas such as patient care, risk management, safeguarding, professional development, reflective practice and staff wellbeing. Staff told us they felt supported by managers and were able to seek guidance when required.\u003C/p\u003E\u003Cp\u003EMandatory training compliance met the provider\u0027s targets, and staff were up to date with training relevant to their roles. This included safeguarding adults, safe and therapeutic management of violence and aggression (STMVA), Mental Capacity Act and Mental Health Act awareness, life support, information governance, physical health monitoring and medicines management. Staff were able to describe how training informed their practice and supported safe care of patients.\u003C/p\u003E\u003Cp\u003EStaff demonstrated a strong commitment to patient care and worked collaboratively across multidisciplinary teams. Medical staff were visible and accessible on the ward. Multidisciplinary working was a consistent strength throughout the inspection. Patients and carers spoke positively about staff, describing them as supportive, approachable and caring. Staff demonstrated a good understanding of physical health escalation pathways, safeguarding responsibilities, recovery-focused practice and engaged positively with inspection activities.\u003C/p\u003E\u003Cp\u003ELeaders maintained effective oversight of staffing arrangements and workforce development through supervision, appraisal and monitor training. There was a vacancy within the psychology team. Leaders had implemented mitigation measures, including support from wider psychology services and multidisciplinary teams, and were monitoring the impact to maintain access to appropriate patient support.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe environments",
+                    "qualityStatementId": "5",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service detected and controlled potential risks in the care environment. They made sure equipment, facilities and technology supported the delivery of safe care.\u003C/p\u003E\u003Cp\u003EThe environment was generally clean, safe and appropriately maintained. Environmental risks were identified, monitored and managed through established governance systems and risk registers. Staff demonstrated a good awareness of environmental risks, including ligature risks, accessibility limitations and the absence of a dedicated de-escalation area. These factors were reflected in the service\u0027s admission and exclusion criteria to help ensure patients admitted could be safely supported within the environment.\u003C/p\u003E\u003Cp\u003EHowever, parts of the ward appeared worn out and did not consistently promote a therapeutic rehabilitation environment. Some bedrooms contained limited personalisation, which reduced opportunities for patients to create a living space that reflected their individual preferences and supported their recovery. We also identified that sightlines between male and female corridor areas had the potential to impact patients\u0027 privacy and dignity. Leaders acknowledged this concern and took immediate action during the inspection to address the risk by installing privacy screen. Staff responded positively to feedback and demonstrated a willingness to implement improvements promptly when concerns were identified.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safe systems, pathways and transitions",
+                    "qualityStatementId": "2",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service worked with people and healthcare partners to establish and maintain safe systems of care, in which safety was managed or monitored. They made sure there was continuity of care, including when people moved between different services.\u003C/p\u003E\u003Cp\u003EThe service operated within a clearly defined rehabilitation model with structured admission and exclusion criteria. Referral screening processes were robust and ensured patients admitted were suitable for the service environment and level of care.\u003C/p\u003E\u003Cp\u003EThe service referral and admission processes ensured that all essential information about the patient was received to determine if the patient\u2019s needs could safely be met. There was a clear care pathway in place from admission through to discharge. Care pathways focused on recovery, stability and progression towards community living.\u003C/p\u003E\u003Cp\u003ESystems were in place to support safe care delivery across the patient pathway and demonstrated effective multidisciplinary working throughout assessment, treatment and rehabilitation planning. Staff worked collaboratively with internal and external professionals to support continuity of care and coordinated management of patients with complex physical and mental health needs.\u003C/p\u003E\u003Cp\u003EWe saw evidence of effective partnership working to improve access to healthcare. Medical staff were involved in clinical reviews, with multidisciplinary discussions supporting ongoing care and discharge planning.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Safeguarding",
+                    "qualityStatementId": "3",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored the quality statement 3. The evidence showed a good standard. The service worked with people and healthcare partners to understand what being safe meant to them and the best way to achieve that. They concentrated on improving people\u2019s lives while protecting their right to live in safety, free from bullying, harassment, abuse, discrimination, avoidable harm and neglect. The service shared concerns quickly and appropriately.\u003C/p\u003E\u003Cp\u003EThe service had safeguarding systems in place and staff demonstrated good awareness of safeguarding responsibilities and escalation procedures. Staff understood safeguarding responsibilities and responded appropriately to concerns. Staff were able to describe safeguarding processes and examples where concerns had been appropriately escalated to relevant agencies.\u003C/p\u003E\u003Cp\u003ESafeguarding incidents were recognised, escalated and investigated, with evidence of partnership working with local authorities, commissioners and external agencies. Patients generally reported feeling safe and relatives expressed confidence in the care provided.\u003C/p\u003E\u003Cp\u003EWe reviewed examples of some incidents involving patient-to-patient conflict, unwanted physical contact and boundary concerns highlighted the need for continued vigilance, proactive risk management and strengthened relational security arrangements.\u003C/p\u003E\u003Cp\u003EStaff demonstrated awareness of safeguarding risks and recognised the importance of protecting vulnerable patients.\u003C/p\u003E\u003Cp\u003EStaff were kept up to date with mandatory training for safeguarding adults and children. Staff were kept up to date with training on the Mental Capacity Act, the Mental Health Act, and the Oliver McGowan Mandatory Training on Learning Disability and Autism.\u003C/p\u003E\u003Cp\u003EWe reviewed the service safeguarding log which included the total number of safeguarding concerns raised, immediate action taken and outcomes. We saw this included working in partnership with other agencies. At the time of the assessment, safeguarding adults and children training compliance rate was 94.3%.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "4",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              },
+              {
+                "name": "Well-led",
+                "rating": "Good",
+                "status": "Assessed",
+                "commentary": "\u003Cp\u003EThis means we looked for evidence that hospital leadership, management and governance assured high-quality, person-centred care; supported learning and innovation; and promoted an open, fair culture.\u003C/p\u003E\u003Cp\u003EAt our last assessment we rated this key question good. At this inspection, the rating has remained the same.\u003C/p\u003E",
+                "commentaryDate": "2026-09-03",
+                "narrative": "This service is well-led",
+                "percentageScore": "0",
+                "topicareas": [
+                  {
+                    "name": "Capable, compassionate and inclusive leaders",
+                    "qualityStatementId": "28",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service had inclusive leaders at all levels who understood the context in which they delivered care, treatment and support and embodied the culture and values of their workforce and organisation. Leaders had the skills, knowledge, experience and credibility to lead effectively. They did so with integrity, openness and honesty.\u003C/p\u003E\u003Cp\u003ELeadership was visible, engaged and actively involved in supporting clinical care and service development. The Responsible Clinician demonstrated strong clinical leadership and was actively involved in multidisciplinary discussions and patient care. Leaders promoted collaborative working across professional groups and demonstrated a commitment to recovery-oriented rehabilitation and patient-centred care. Staff generally spoke positively about leadership support and leaders demonstrated awareness of service challenges and improvement priorities.\u003C/p\u003E\u003Cp\u003EWe observed positive relationships between leaders and frontline staff. Leaders were actively involved in quality improvement work to support better patient outcomes.\u003C/p\u003E\u003Cp\u003ELeaders oversaw several improvement projects. These included the use of ReQoL-10 and ReQoL-20 outcome measures, improvements to care plan transitions, and the development of trauma-informed practice.\u003C/p\u003E\u003Cp\u003ELeaders also supported smoking cessation, nicotine replacement therapy (NRT), and weight management initiatives to improve patients\u0027 physical health and wellbeing.\u003C/p\u003E\u003Cp\u003EStaff were involved in these projects, and leaders monitored progress through governance and quality improvement processes. This helped ensure learning was embedded into practice.\u003C/p\u003E\u003Cp\u003EDiscussions with leaders and staff showed that learning from these projects was used to improve care planning, recovery-focused interventions, and physical healthcare support. This demonstrated a commitment to continuous improvement and better patient outcomes.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Freedom to speak up",
+                    "qualityStatementId": "29",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service fostered a positive culture where people felt they could speak up and their voice would be heard.\u003C/p\u003E\u003Cp\u003EStaff were aware of the processes available to raise concerns, including speaking with managers, incident reporting systems and Freedom to Speak Up arrangements.\u003C/p\u003E\u003Cp\u003EStaff told us they felt able to raise concerns and were confident these would be listened to and acted upon.\u003C/p\u003E\u003Cp\u003EWe observed an open culture, with staff engaging honestly with inspectors and discussing practice and service development openly.\u003C/p\u003E\u003Cp\u003EWorkforce survey results were broadly positive, however, some variation in staff experiences relating to speaking up and psychological safety suggesting not all staff were comfortable raising concerns.\u003C/p\u003E\u003Cp\u003EManagers and staff had access to feedback from patients, carers and staff and used it to make improvements. Patients had opportunities to give feedback on the service. We saw examples of these within patient community meeting minutes and surveys.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Governance, management and sustainability",
+                    "qualityStatementId": "31",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service had clear responsibilities, roles, systems of accountability and good governance. They used these to manage and deliver good quality, sustainable care, treatment and support. They acted on the best information about risk, performance and outcomes, and shared this securely with others when appropriate.\u003C/p\u003E\u003Cp\u003EThe service had established governance arrangements, including governance meetings, audits, risk management processes and organisational oversight. Leaders monitored incidents, safeguarding concerns, complaints, medicines, staffing, training, MHA and MCA compliance, patient feedback and service risks through governance forums and the service risk register.\u003C/p\u003E\u003Cp\u003ELeaders demonstrated a good understanding of the key risks facing the service and used audits to identify areas requiring improvement. These included MHA and MCA documentation, clinical record keeping and the timely updating of risk assessments. However, some concerns identified through audit processes, including Section 132 rights documentation, capacity assessments and the accessibility of clinical information, had reoccurred, indicating improvements were not always consistently embedded.\u003C/p\u003E\u003Cp\u003EAlthough governance systems were effective in identifying risks and areas for improvement, they did not always provide full assurance that actions had resulted in sustained improvements in practice. However, leaders and staff demonstrated a good understanding of patients\u0027 needs and current risks, and the impact of these concerns was primarily on governance assurance and record-keeping rather than the care people received.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Learning, improvement and innovation",
+                    "qualityStatementId": "33",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service focused on continuous learning, innovation and improvement across the organisation and local system. They encouraged creative ways of delivering equality of experience, outcome and quality of life for people. They actively contributed to safe, effective practice and research.\u003C/p\u003E\u003Cp\u003ELeaders demonstrated a strong commitment to learning and improving the service. Staff described several initiatives to improve patient experience, safety, rehabilitation, and physical health.\u003C/p\u003E\u003Cp\u003EThe service introduced ReQoL-10 and ReQoL-20 outcome measures to better understand patients\u0027 recovery, wellbeing, and quality of life. This information was used to review progress and identify additional support needs.\u003C/p\u003E\u003Cp\u003ELeaders improved care plan transitions and discharge planning to strengthen continuity of care. Staff said this supported better multidisciplinary working and more personalised planning.\u003C/p\u003E\u003Cp\u003EThe service was also developing physical health initiatives, including smoking cessation, nicotine replacement therapy (NRT), and weight management programmes. These aimed to support healthier lifestyles and improve long-term wellbeing.\u003C/p\u003E\u003Cp\u003EWe saw evidence that learning from incidents, audits, outcome measures, and patient feedback informed service development. Leaders used incident reviews, reflective practice, and multidisciplinary discussions to improve care planning, risk management, and therapeutic support.\u003C/p\u003E\u003Cp\u003ERehabilitation initiatives supported greater independence, daily living skills, and community participation. Examples included self-catering, graded leave, education, and community-based activities.\u003C/p\u003E\u003Cp\u003EPsychology staff supported service improvement through formulation-led approaches, trauma-informed practice, CBT-informed interventions, and motivational interviewing. These approaches helped staff better understand patients\u0027 needs, improve care and risk planning, and strengthen therapeutic engagement.\u003C/p\u003E\u003Cp\u003EOngoing work to improve multidisciplinary working, care planning, and rehabilitation pathways demonstrated the service\u0027s commitment to continuous improvement and better patient outcomes.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Partnerships and communities",
+                    "qualityStatementId": "32",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "1",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service understood their duty to collaborate and work in partnership, so services work seamlessly for people. They shared information and learning with partners and collaborated for improvement.\u003C/p\u003E\u003Cp\u003EThe service maintained effective partnerships with a range of external organisations, including commissioners, local authorities, advocacy services, community teams and third-sector providers. The multidisciplinary team worked collaboratively with these partners to support rehabilitation, discharge planning and continuity of care. Staff liaised with external agencies to facilitate timely access to community support, education, accommodation and other resources that would be important to patients both during admission and following discharge.\u003C/p\u003E\u003Cp\u003EPatients were supported to engage with opportunities beyond the hospital environment that reflected their individual interests, strengths and recovery goals. We saw examples of patients attending college courses, accessing community-based activities and progressing through graduated levels of leave as part of their rehabilitation. These opportunities helped patients develop confidence, practical skills and greater independence while maintaining meaningful links with their local communities.\u003C/p\u003E\u003Cp\u003EPartnership working supported patients to prepare for future transitions and longer-term recovery. Staff worked with community services and external organisations to support goals relating to independent living, education, employment, social participation and community reintegration. Care planning demonstrated a focus on developing the skills, experiences and support networks required to help patients achieve successful outcomes following discharge.\u003C/p\u003E\u003Cp\u003EStaff recognised the importance of maintaining community connections throughout admission and used community resources to reduce social isolation, promote inclusion and support patients\u0027 readiness for life outside hospital. Through collaborative working and access to community opportunities, patients were supported to build confidence, strengthen independence and progress towards their individual recovery goals.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "3",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Shared direction and culture",
+                    "qualityStatementId": "27",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service had a shared vision, strategy and culture. This was based on transparency, equity, equality and human rights, diversity and inclusion, engagement, and understanding challenges and the needs of people and their communities.\u003C/p\u003E\u003Cp\u003EThe service promoted organisational values centred on Kindness, Integrity, Teamwork and Excellence. These values had been co-produced and were understood by staff. Observations and feedback demonstrated many examples of these values being reflected in practice.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a positive organisational culture characterised by openness, professionalism and commitment to continuous improvement. Leaders and staff engaged openly throughout the inspection and we observed a constructive and non-defensive approach to feedback and discussion.\u003C/p\u003E\u003Cp\u003EThere was evidence of shared commitment to recovery-focused practice, multidisciplinary collaboration and delivering person-centred care. Staff demonstrated pride in their work and commitment to supporting patients with complex rehabilitation needs.\u003C/p\u003E\u003Cp\u003ELeadership responded positively to issues identified during inspection and demonstrated willingness to implement improvements where required\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  },
+                  {
+                    "name": "Workforce equality, diversity and inclusion",
+                    "qualityStatementId": "30",
+                    "status": "Assessed",
+                    "evidenceCategory": [
+                      {
+                        "evidenceCategoryId": "2",
+                        "commentary": "\u003Cp\u003EWe scored this quality statement 3. The evidence showed a good standard. The service valued diversity in their workforce. They worked towards an inclusive and fair culture by improving equality and equity for people who work for them.\u003C/p\u003E\u003Cp\u003EThe provider had policies and processes in place to promote equality, diversity and inclusion (EDI). Staff completed mandatory EDI training and described a diverse workforce with generally positive and respectful working relationships. Staff told us they felt valued and treated fairly, regardless of their background or protected characteristics.\u003C/p\u003E\u003Cp\u003ELeaders monitored equality data as part of recruitment and workforce processes and promoted inclusive values across the service. Staff survey findings were generally positive in relation to respect, recognition and belonging. However, there was limited service-level evidence to demonstrate how leaders routinely analysed workforce data to identify disparities between staff groups or evaluated the effectiveness of actions taken to improve workforce equity and inclusion.\u003C/p\u003E\u003Cp\u003EThe service demonstrated a commitment to delivering inclusive, person-centred care that recognised people\u0027s individual needs, preferences and recovery goals. At the time of the assessment, Diversity, Equity and Inclusion training compliance rate was 100%.\u003C/p\u003E",
+                        "commentaryDate": "2026-09-03"
+                      },
+                      {
+                        "evidenceCategoryId": "5",
+                        "commentary": "",
+                        "commentaryDate": ""
+                      }
+                    ],
+                    "qualityStatementscore": "3 - Evidence shows a good standard of care"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

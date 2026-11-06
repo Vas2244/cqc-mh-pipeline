@@ -1,0 +1,153 @@
+{
+  "locationId": "1-148558491",
+  "providerId": "1-126775082",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Compass - Enfield",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-26",
+  "deregistrationDate": "2017-10-25",
+  "dormancy": "N",
+  "onspdLatitude": 51.632548,
+  "onspdLongitude": -0.054144,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Forest Primary Care Centre, 2nd Floor",
+  "postalAddressLine2": "308a Hertford Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N9 7HD",
+  "mainPhoneNumber": "02083443180",
+  "website": "www.compass-uk.org",
+  "constituency": "Edmonton and Winchmore Hill",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2016-05-20"
+  },
+  "lastReport": {
+    "publicationDate": "2016-08-09"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-08-09",
+      "reportLinkId": "9470c031-cec3-4985-b754-01644d75fadb",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-08-09",
+          "reportLinkId": "9470c031-cec3-4985-b754-01644d75fadb"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-08-09",
+          "reportLinkId": "9470c031-cec3-4985-b754-01644d75fadb"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-04-05",
+          "reportLinkId": "589927d6-382a-40d2-b4c6-8ce22584cfd9"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-04-05",
+          "reportLinkId": "589927d6-382a-40d2-b4c6-8ce22584cfd9"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-08-09",
+          "reportLinkId": "9470c031-cec3-4985-b754-01644d75fadb"
+        }
+      ]
+    },
+    "reportDate": "2016-08-09"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2016-04-05",
+      "reportLinkId": "589927d6-382a-40d2-b4c6-8ce22584cfd9",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "9470c031-cec3-4985-b754-01644d75fadb",
+      "reportDate": "2016-08-09",
+      "firstVisitDate": "2016-05-20",
+      "reportUri": "/reports/9470c031-cec3-4985-b754-01644d75fadb?20210123021559",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "589927d6-382a-40d2-b4c6-8ce22584cfd9",
+      "reportDate": "2016-04-05",
+      "firstVisitDate": "2015-11-12",
+      "reportUri": "/reports/589927d6-382a-40d2-b4c6-8ce22584cfd9?20210123213442",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b406f04b-5bc7-427c-9a6d-b2b9369ce394",
+      "reportDate": "2014-01-08",
+      "firstVisitDate": "2013-12-04",
+      "reportUri": "/reports/b406f04b-5bc7-427c-9a6d-b2b9369ce394?20200129163919"
+    },
+    {
+      "linkId": "ab1fb65f-319f-4789-bb2a-60b637df1879",
+      "reportDate": "2013-03-01",
+      "firstVisitDate": "2013-01-31",
+      "reportUri": "/reports/ab1fb65f-319f-4789-bb2a-60b637df1879?20151016191357"
+    }
+  ]
+}

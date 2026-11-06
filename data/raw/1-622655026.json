@@ -1,0 +1,77 @@
+{
+  "locationId": "1-622655026",
+  "providerId": "1-241906670",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Caremark (Redbridge)",
+  "brandId": "BD118",
+  "brandName": "BRAND Caremark",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-02-28",
+  "deregistrationDate": "2013-12-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.610266,
+  "onspdLongitude": 0.019591,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "19B Mill Lane",
+  "postalAddressTownCity": "Woodford Green",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG8 0UN",
+  "numberOfBeds": 0,
+  "constituency": "Chingford and Woodford Green",
+  "localAuthority": "Waltham Forest",
+  "relationships": [
+    {
+      "relatedLocationId": "1-254662350",
+      "relatedLocationName": "Caremark (Redbridge)",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    }
+  ],
+  "inspectionAreas": []
+}

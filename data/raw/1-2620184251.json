@@ -1,0 +1,147 @@
+{
+  "locationId": "1-2620184251",
+  "providerId": "1-516591398",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Primary Care Recovery Service (PCRS)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-07-22",
+  "deregistrationDate": "2019-07-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.437793,
+  "onspdLongitude": -0.05413,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "55 Dartmouth Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE23 3HN",
+  "mainPhoneNumber": "02075822200",
+  "numberOfBeds": 0,
+  "constituency": "Lewisham West and East Dulwich",
+  "localAuthority": "Lewisham",
+  "lastInspection": {
+    "date": "2019-01-09"
+  },
+  "lastReport": {
+    "publicationDate": "2019-03-01"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-7150645665",
+      "relatedLocationName": "Primary Care Recovery Service (PCRS)",
+      "type": "HSCA Successor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2019-03-01",
+      "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2019-03-01",
+          "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2019-03-01",
+          "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-03-01",
+          "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-03-01",
+          "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2019-03-01",
+          "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98"
+        }
+      ]
+    },
+    "reportDate": "2019-03-01",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Good",
+        "reportDate": "2019-03-01",
+        "reportLinkId": "40491788-1875-433c-91a8-8a352eb39e98",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "40491788-1875-433c-91a8-8a352eb39e98",
+      "reportDate": "2019-03-01",
+      "firstVisitDate": "2019-01-08",
+      "reportUri": "/reports/40491788-1875-433c-91a8-8a352eb39e98?20210116134738",
+      "reportType": "Location"
+    }
+  ]
+}

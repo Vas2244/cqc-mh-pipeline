@@ -1,0 +1,158 @@
+{
+  "locationId": "1-153672682",
+  "providerId": "1-101644275",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Mitcham Park",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "odsCode": "VM15X",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-04-12",
+  "deregistrationDate": "2017-10-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.398824,
+  "onspdLongitude": -0.167774,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "3 Mitcham Park",
+  "postalAddressLine2": "Mitcham",
+  "postalAddressTownCity": "Sutton",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR4 4EN",
+  "mainPhoneNumber": "02086460975",
+  "website": "www.equinoxcare.org.uk",
+  "numberOfBeds": 8,
+  "constituency": "Mitcham and Morden",
+  "localAuthority": "Merton",
+  "lastInspection": {
+    "date": "2016-07-12"
+  },
+  "lastReport": {
+    "publicationDate": "2016-10-21"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2016-10-21",
+      "reportLinkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-21",
+          "reportLinkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-21",
+          "reportLinkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-21",
+          "reportLinkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-21",
+          "reportLinkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2016-10-21",
+          "reportLinkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791"
+        }
+      ]
+    },
+    "reportDate": "2016-10-21"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2015-05-27",
+      "reportLinkId": "c4accc1c-f2ea-4676-ba8a-edfc51b75ee3",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "0456a30a-dfc1-4658-bc4e-8c458bc40791",
+      "reportDate": "2016-10-21",
+      "firstVisitDate": "2016-07-11",
+      "reportUri": "/reports/0456a30a-dfc1-4658-bc4e-8c458bc40791?20210122012525",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "c4accc1c-f2ea-4676-ba8a-edfc51b75ee3",
+      "reportDate": "2015-05-27",
+      "firstVisitDate": "2015-01-23",
+      "reportUri": "/reports/c4accc1c-f2ea-4676-ba8a-edfc51b75ee3?20210129060845",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "4248f0ea-34d9-410e-810b-6683a350de7f",
+      "reportDate": "2013-12-17",
+      "firstVisitDate": "2013-10-14",
+      "reportUri": "/reports/4248f0ea-34d9-410e-810b-6683a350de7f?20151016191357"
+    },
+    {
+      "linkId": "dc40bc56-5da8-4524-845d-f0cb5ba7eb39",
+      "reportDate": "2013-02-27",
+      "firstVisitDate": "2013-01-30",
+      "reportUri": "/reports/dc40bc56-5da8-4524-845d-f0cb5ba7eb39?20151016191357"
+    }
+  ]
+}

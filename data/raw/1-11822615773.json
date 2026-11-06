@@ -1,0 +1,301 @@
+{
+  "locationId": "1-11822615773",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Croydon Adult and YP SMS",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2021-10-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.370114,
+  "onspdLongitude": -0.103547,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Lantern Hall",
+  "postalAddressLine2": "190 Church Road",
+  "postalAddressTownCity": "Croydon",
+  "region": "London",
+  "postalCode": "CR0 1SE",
+  "mainPhoneNumber": "07584050313",
+  "numberOfBeds": 0,
+  "constituency": "Croydon West",
+  "localAuthority": "Croydon",
+  "lastInspection": {
+    "date": "2022-11-07"
+  },
+  "lastReport": {
+    "publicationDate": "2023-01-13"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-1686693172",
+      "relatedLocationName": "Turning Point - Croydon",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mr",
+          "personGivenName": "Gareth John James",
+          "personFamilyName": "Clements",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "comsubstance",
+      "inspectionAreaName": "Community-based substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2023-01-13",
+      "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2023-01-13",
+          "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2023-01-13",
+          "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2023-01-13",
+          "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2023-01-13",
+          "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2023-01-13",
+          "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815"
+        }
+      ]
+    },
+    "reportDate": "2023-01-13",
+    "serviceRatings": [
+      {
+        "name": "comsubstance",
+        "rating": "Good",
+        "reportDate": "2023-01-13",
+        "reportLinkId": "8972c7be-3c91-4f9e-a505-482331e56815",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-10-30",
+      "reportLinkId": "01e28c9a-86f4-4c68-9562-f593a4429f43",
+      "organisationId": "1-1686693172",
+      "serviceRatings": [
+        {
+          "name": "comsubstance",
+          "rating": "Requires improvement",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Requires improvement",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2018-03-14",
+      "reportLinkId": "5e1fb911-a519-470a-b32c-ffaef536641d",
+      "organisationId": "1-1686693172",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-01-05",
+      "reportLinkId": "93145035-132e-41c3-bb73-6068721c7ae1",
+      "organisationId": "1-1686693172",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2016-10-06",
+      "reportLinkId": "7fe4936e-e490-4bab-a654-7095119c9a4d",
+      "organisationId": "1-1686693172",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "8972c7be-3c91-4f9e-a505-482331e56815",
+      "reportDate": "2023-01-13",
+      "firstVisitDate": "2022-11-01",
+      "reportUri": "/reports/8972c7be-3c91-4f9e-a505-482331e56815?20230113090050",
+      "reportType": "Location"
+    }
+  ]
+}

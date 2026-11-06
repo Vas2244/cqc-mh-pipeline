@@ -1,0 +1,55 @@
+{
+  "locationId": "1-194444669",
+  "providerId": "1-149412601",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "KCA Croydon",
+  "brandId": "BD273",
+  "brandName": "BRAND KCA (UK)",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-06-10",
+  "deregistrationDate": "2012-08-23",
+  "dormancy": "N",
+  "onspdLatitude": 51.373992,
+  "onspdLongitude": -0.104766,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "100 Church Street",
+  "postalAddressTownCity": "Croydon",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR0 1RD",
+  "mainPhoneNumber": "02086867500",
+  "website": "www.kca.org.uk",
+  "constituency": "Croydon West",
+  "localAuthority": "Croydon",
+  "relationships": [
+    {
+      "relatedLocationId": "1-479583581",
+      "relatedLocationName": "KCA Croydon",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

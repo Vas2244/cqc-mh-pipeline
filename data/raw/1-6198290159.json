@@ -1,0 +1,152 @@
+{
+  "locationId": "1-6198290159",
+  "providerId": "1-101671019",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Community Housing and Therapy",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2019-03-08",
+  "deregistrationDate": "2023-05-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.4859822,
+  "onspdLongitude": -0.1183647,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Vox Studios (WG10)",
+  "postalAddressLine2": "1-45 Durham Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE11 5JH",
+  "uprn": "100023230404",
+  "mainPhoneNumber": "02073815888",
+  "website": "www.cht.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Vauxhall and Camberwell Green",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2022-06-17"
+  },
+  "lastReport": {
+    "publicationDate": "2022-08-10"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhworkingage",
+      "inspectionAreaName": "Community-based mental health services for adults of working age",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Insufficient evidence to rate",
+      "reportDate": "2022-08-10",
+      "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Insufficient evidence to rate",
+          "reportDate": "2022-08-10",
+          "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Insufficient evidence to rate",
+          "reportDate": "2022-08-10",
+          "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b"
+        },
+        {
+          "name": "Caring",
+          "rating": "Insufficient evidence to rate",
+          "reportDate": "2022-08-10",
+          "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Insufficient evidence to rate",
+          "reportDate": "2022-08-10",
+          "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b"
+        },
+        {
+          "name": "Effective",
+          "rating": "Insufficient evidence to rate",
+          "reportDate": "2022-08-10",
+          "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b"
+        }
+      ]
+    },
+    "reportDate": "2022-08-10",
+    "serviceRatings": [
+      {
+        "name": "mhworkingage",
+        "rating": "Insufficient evidence to rate",
+        "reportDate": "2022-08-10",
+        "reportLinkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Insufficient evidence to rate"
+          },
+          {
+            "name": "Effective",
+            "rating": "Insufficient evidence to rate"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Insufficient evidence to rate"
+          },
+          {
+            "name": "Safe",
+            "rating": "Insufficient evidence to rate"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Insufficient evidence to rate"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": [
+    {
+      "linkId": "ab200ad9-7fb7-4f23-a336-59862bbbd67b",
+      "reportDate": "2022-08-10",
+      "firstVisitDate": "2022-06-08",
+      "reportUri": "/reports/ab200ad9-7fb7-4f23-a336-59862bbbd67b?20220810070322",
+      "reportType": "Location"
+    }
+  ]
+}

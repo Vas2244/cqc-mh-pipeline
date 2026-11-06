@@ -1,0 +1,170 @@
+{
+  "locationId": "1-10972098039",
+  "providerId": "1-102643442",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Priory Wimbledon Park Clinic",
+  "brandId": "BD144",
+  "brandName": "BRAND Priory Group",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2021-06-14",
+  "dormancy": "N",
+  "onspdLatitude": 51.4344464,
+  "onspdLongitude": -0.2000368,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "110 Arthur Road",
+  "postalAddressLine2": "Wimbledon Park",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW19 8AA",
+  "uprn": "48002855",
+  "website": "www.priorygroup.com",
+  "numberOfBeds": 0,
+  "constituency": "Wimbledon",
+  "localAuthority": "Merton",
+  "lastReport": {
+    "publicationDate": "2017-05-06"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-134071517",
+      "relatedLocationName": "Arthur House",
+      "type": "HSCA Predecessor",
+      "reason": "New Provider"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Mrs",
+          "personGivenName": "Alexandra Lorraine",
+          "personFamilyName": "Squire-Morrow",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Outstanding",
+      "reportDate": "2017-05-06",
+      "reportLinkId": "3fe8b9e4-e82e-4c7f-bdff-853ac0cb0a0d",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2017-05-06",
+          "reportLinkId": "3fe8b9e4-e82e-4c7f-bdff-853ac0cb0a0d",
+          "organisationId": "1-134071517"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Outstanding",
+          "reportDate": "2017-05-06",
+          "reportLinkId": "3fe8b9e4-e82e-4c7f-bdff-853ac0cb0a0d",
+          "organisationId": "1-134071517"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2017-05-06",
+          "reportLinkId": "3fe8b9e4-e82e-4c7f-bdff-853ac0cb0a0d",
+          "organisationId": "1-134071517"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Outstanding",
+          "reportDate": "2017-05-06",
+          "reportLinkId": "3fe8b9e4-e82e-4c7f-bdff-853ac0cb0a0d",
+          "organisationId": "1-134071517"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2017-05-06",
+          "reportLinkId": "3fe8b9e4-e82e-4c7f-bdff-853ac0cb0a0d",
+          "organisationId": "1-134071517"
+        }
+      ]
+    },
+    "reportDate": "2017-05-06"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2015-03-25",
+      "reportLinkId": "28bf73cd-c909-4eac-9019-9f741f13b29b",
+      "organisationId": "1-134071517",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ]
+}

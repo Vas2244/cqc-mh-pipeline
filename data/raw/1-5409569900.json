@@ -1,0 +1,226 @@
+{
+  "locationId": "1-5409569900",
+  "providerId": "1-5112914030",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Stepping Stones Clinic",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2018-07-13",
+  "deregistrationDate": "2023-08-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.623093,
+  "onspdLongitude": -0.121954,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "16 Cannon Hill",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N14 7HD",
+  "mainPhoneNumber": "02088822131",
+  "website": "www.steppingstonesclinic.uk",
+  "numberOfBeds": 0,
+  "constituency": "Southgate and Wood Green",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2023-05-17"
+  },
+  "lastReport": {
+    "publicationDate": "2023-07-14"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-17192468492",
+      "relatedLocationName": "Stepping Stones Clinic",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhchildrenandyoung",
+      "inspectionAreaName": "Specialist community mental health services for children and young people",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2023-07-14",
+      "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2023-07-14",
+          "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2023-07-14",
+          "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2023-07-14",
+          "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2023-07-14",
+          "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2023-07-14",
+          "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c"
+        }
+      ]
+    },
+    "reportDate": "2023-07-14",
+    "serviceRatings": [
+      {
+        "name": "mhchildrenandyoung",
+        "rating": "Good",
+        "reportDate": "2023-07-14",
+        "reportLinkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2019-09-30",
+      "reportLinkId": "b539de98-cb6b-44a7-bf9d-a250f77c7044",
+      "serviceRatings": [
+        {
+          "name": "mhchildrenandyoung",
+          "rating": "Good",
+          "keyQuestionRatings": [
+            {
+              "name": "Caring",
+              "rating": "Good"
+            },
+            {
+              "name": "Effective",
+              "rating": "Good"
+            },
+            {
+              "name": "Responsive",
+              "rating": "Good"
+            },
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            },
+            {
+              "name": "Well-led",
+              "rating": "Good"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          },
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "2b47c8b5-5fec-46a5-bed8-59a59c19f99c",
+      "reportDate": "2023-07-14",
+      "firstVisitDate": "2023-05-03",
+      "reportUri": "/reports/2b47c8b5-5fec-46a5-bed8-59a59c19f99c?20230714080235",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b539de98-cb6b-44a7-bf9d-a250f77c7044",
+      "reportDate": "2019-09-30",
+      "reportUri": "/reports/b539de98-cb6b-44a7-bf9d-a250f77c7044?20210115201441",
+      "reportType": "Location"
+    }
+  ]
+}

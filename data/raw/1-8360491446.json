@@ -1,0 +1,186 @@
+{
+  "locationId": "1-8360491446",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Change Grow Live - Barnet",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2020-09-15",
+  "deregistrationDate": "2024-08-16",
+  "dormancy": "N",
+  "onspdLatitude": 51.6064789,
+  "onspdLongitude": -0.2712458,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Dennis Scott Unit",
+  "postalAddressLine2": "Edgware Community Hospital",
+  "postalAddressTownCity": "Edgware",
+  "region": "London",
+  "postalCode": "HA8 0AD",
+  "uprn": "200219631",
+  "mainPhoneNumber": "03003032866",
+  "website": "www.cgl.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Hendon",
+  "localAuthority": "Barnet",
+  "lastInspection": {
+    "date": "2021-12-09"
+  },
+  "lastReport": {
+    "publicationDate": "2022-03-03"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-19879090965",
+      "relatedLocationName": "Change Grow Live Barnet",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Services for everyone"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Requires improvement",
+      "reportDate": "2022-03-03",
+      "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Requires improvement",
+          "reportDate": "2022-03-03",
+          "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Requires improvement",
+          "reportDate": "2022-03-03",
+          "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2022-03-03",
+          "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2022-03-03",
+          "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2022-03-03",
+          "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6"
+        }
+      ]
+    },
+    "reportDate": "2022-03-03",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Requires improvement",
+        "reportDate": "2022-03-03",
+        "reportLinkId": "32ab3684-7283-4d80-9b96-2364e96585c6",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Good"
+          },
+          {
+            "name": "Effective",
+            "rating": "Good"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Good"
+          },
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2021-03-11",
+      "reportLinkId": "b0b0a267-cc84-4797-b2be-ca64655695b7",
+      "serviceRatings": [
+        {
+          "name": "mhsubstance",
+          "rating": "Inspected but not rated",
+          "keyQuestionRatings": [
+            {
+              "name": "Safe",
+              "rating": "Requires improvement"
+            }
+          ]
+        }
+      ],
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Requires improvement"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "32ab3684-7283-4d80-9b96-2364e96585c6",
+      "reportDate": "2022-03-03",
+      "firstVisitDate": "2021-12-09",
+      "reportUri": "/reports/32ab3684-7283-4d80-9b96-2364e96585c6?20220303080244",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "b0b0a267-cc84-4797-b2be-ca64655695b7",
+      "reportDate": "2021-03-11",
+      "firstVisitDate": "2021-01-14",
+      "reportUri": "/reports/b0b0a267-cc84-4797-b2be-ca64655695b7?20210311080040",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "locationId": "1-2681929277",
+  "providerId": "1-127871479",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "2nd Stage House",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-06-08",
+  "deregistrationDate": "2024-01-31",
+  "dormancy": "Y",
+  "dormancyStartDate": "2021-12-01",
+  "onspdLatitude": 51.417768,
+  "onspdLongitude": -0.137861,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "13 Donnybrook Road",
+  "postalAddressLine2": "Streatham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW16 5AT",
+  "website": "www.hopeworldwide.org.uk",
+  "numberOfBeds": 0,
+  "constituency": "Streatham and Croydon North",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2017-08-24"
+  },
+  "lastReport": {
+    "publicationDate": "2017-11-08"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-1231281797",
+      "relatedLocationName": "1st Stage",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [
+    {
+      "inspectionAreaId": "mhsubstance",
+      "inspectionAreaName": "Substance misuse services",
+      "status": "Active (Not rated)"
+    }
+  ],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-11-08",
+      "reportLinkId": "50c8079a-d43f-4f89-9130-782f53e84985",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-11-08",
+          "reportLinkId": "50c8079a-d43f-4f89-9130-782f53e84985"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-11-08",
+          "reportLinkId": "50c8079a-d43f-4f89-9130-782f53e84985"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-11-08",
+          "reportLinkId": "50c8079a-d43f-4f89-9130-782f53e84985"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-11-08",
+          "reportLinkId": "50c8079a-d43f-4f89-9130-782f53e84985"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-11-08",
+          "reportLinkId": "50c8079a-d43f-4f89-9130-782f53e84985"
+        }
+      ]
+    },
+    "reportDate": "2017-11-08",
+    "serviceRatings": [
+      {
+        "name": "mhsubstance",
+        "rating": "Inspected but not rated",
+        "reportDate": "2016-10-05",
+        "reportLinkId": "598df187-5cc5-47e7-96c1-353c75ba6bb1",
+        "keyQuestionRatings": [
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    ]
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2016-10-05",
+      "reportLinkId": "598df187-5cc5-47e7-96c1-353c75ba6bb1",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "50c8079a-d43f-4f89-9130-782f53e84985",
+      "reportDate": "2017-11-08",
+      "firstVisitDate": "2017-08-22",
+      "reportUri": "/reports/50c8079a-d43f-4f89-9130-782f53e84985?20171108003515",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "598df187-5cc5-47e7-96c1-353c75ba6bb1",
+      "reportDate": "2016-10-05",
+      "firstVisitDate": "2016-05-25",
+      "reportUri": "/reports/598df187-5cc5-47e7-96c1-353c75ba6bb1?20210117194415",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "locationId": "1-109845279",
+  "providerId": "1-101697406",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Queen Ann House",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-01-24",
+  "deregistrationDate": "2016-04-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.620001,
+  "onspdLongitude": -0.110309,
+  "careHome": "Y",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "40-42 Old Park Road",
+  "postalAddressLine2": "Palmers Green",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N13 4RE",
+  "mainPhoneNumber": "02089203342",
+  "website": "www.queenanncare.com",
+  "numberOfBeds": 22,
+  "constituency": "Southgate and Wood Green",
+  "localAuthority": "Enfield",
+  "lastInspection": {
+    "date": "2013-05-17"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-2597851406",
+      "relatedLocationName": "Queen Ann House",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "S1",
+      "primary": "true",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "10cb6d49-232d-4344-a9d9-4fe34b9e071d",
+      "reportDate": "2013-06-21",
+      "firstVisitDate": "2013-05-17",
+      "reportUri": "/reports/10cb6d49-232d-4344-a9d9-4fe34b9e071d?20200129163919"
+    },
+    {
+      "linkId": "7c94199a-9a14-464b-910f-e105a2967abf",
+      "reportDate": "2013-03-16",
+      "firstVisitDate": "2013-02-06",
+      "reportUri": "/reports/7c94199a-9a14-464b-910f-e105a2967abf?20200129163919"
+    },
+    {
+      "linkId": "bc01c61a-34ef-4058-a1eb-617ad00b5742",
+      "reportDate": "2011-11-23",
+      "firstVisitDate": "2011-10-26",
+      "reportUri": "/reports/bc01c61a-34ef-4058-a1eb-617ad00b5742?20200430120000"
+    }
+  ]
+}

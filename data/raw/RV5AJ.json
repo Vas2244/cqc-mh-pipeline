@@ -1,0 +1,53 @@
+{
+  "locationId": "RV5AJ",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Killisier Avenue",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-10-25",
+  "deregistrationDate": "2014-03-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.440247,
+  "onspdLongitude": -0.128083,
+  "careHome": "Y",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "6 Killisier Avenue",
+  "postalAddressTownCity": "Streatham",
+  "postalAddressCounty": "London",
+  "region": "London",
+  "postalCode": "SW2 4NT",
+  "mainPhoneNumber": "02086712185",
+  "numberOfBeds": 0,
+  "constituency": "Streatham and Croydon North",
+  "localAuthority": "Lambeth",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

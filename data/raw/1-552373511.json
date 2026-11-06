@@ -1,0 +1,54 @@
+{
+  "locationId": "1-552373511",
+  "providerId": "1-149412601",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "YPS Greenwich",
+  "brandId": "BD273",
+  "brandName": "BRAND KCA (UK)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-01-15",
+  "deregistrationDate": "2014-01-24",
+  "dormancy": "N",
+  "onspdLatitude": 51.493529,
+  "onspdLongitude": 0.065308,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "The Point, Riverside House East",
+  "postalAddressLine2": "Woolwich High Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 6BU",
+  "numberOfBeds": 0,
+  "constituency": "Greenwich and Woolwich",
+  "localAuthority": "Greenwich",
+  "relationships": [
+    {
+      "relatedLocationId": "1-984986044",
+      "relatedLocationName": "YPS Greenwich",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}

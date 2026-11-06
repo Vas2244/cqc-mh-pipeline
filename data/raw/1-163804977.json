@@ -1,0 +1,119 @@
+{
+  "locationId": "1-163804977",
+  "providerId": "1-101649713",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Hope House",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "odsCode": "VM67K",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-03-15",
+  "deregistrationDate": "2018-11-21",
+  "dormancy": "N",
+  "onspdLatitude": 51.4668914,
+  "onspdLongitude": -0.1409621,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "52 Rectory Grove",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW4 0EB",
+  "uprn": "100021883305",
+  "mainPhoneNumber": "02076227833",
+  "website": "www.actiononaddiction.org.uk",
+  "numberOfBeds": 23,
+  "constituency": "Clapham and Brixton Hill",
+  "localAuthority": "Lambeth",
+  "lastInspection": {
+    "date": "2016-12-06"
+  },
+  "lastReport": {
+    "publicationDate": "2017-03-17"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-03-17",
+      "reportLinkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-17",
+          "reportLinkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-17",
+          "reportLinkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-17",
+          "reportLinkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-17",
+          "reportLinkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-03-17",
+          "reportLinkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec"
+        }
+      ]
+    },
+    "reportDate": "2017-03-17"
+  },
+  "reports": [
+    {
+      "linkId": "9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec",
+      "reportDate": "2017-03-17",
+      "firstVisitDate": "2016-12-06",
+      "reportUri": "/reports/9a47cb0c-d6d9-469a-8c13-dfe6e07e15ec?20210120014712",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "38c93005-2d4c-4234-a625-7ebc9d4eb21f",
+      "reportDate": "2013-08-14",
+      "firstVisitDate": "2013-07-04",
+      "reportUri": "/reports/38c93005-2d4c-4234-a625-7ebc9d4eb21f?20151016191357"
+    },
+    {
+      "linkId": "f9da872b-256d-45b0-aa54-bbf903f285ca",
+      "reportDate": "2012-11-14",
+      "firstVisitDate": "2012-09-21",
+      "reportUri": "/reports/f9da872b-256d-45b0-aa54-bbf903f285ca?20200430120000"
+    }
+  ]
+}

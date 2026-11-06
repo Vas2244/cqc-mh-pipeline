@@ -1,0 +1,64 @@
+{
+  "locationId": "RV598",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Edward Street Supported Accommodation",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-10-25",
+  "deregistrationDate": "2018-05-15",
+  "dormancy": "N",
+  "onspdLatitude": 51.480906,
+  "onspdLongitude": -0.026803,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "6-12 Edward Street",
+  "postalAddressLine2": "Deptford",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE8 5HA",
+  "mainPhoneNumber": "02032281341",
+  "numberOfBeds": 11,
+  "constituency": "Lewisham North",
+  "localAuthority": "Lewisham",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H9",
+      "primary": "true",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "S2",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": []
+}

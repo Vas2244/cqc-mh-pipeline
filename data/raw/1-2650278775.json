@@ -1,0 +1,121 @@
+{
+  "locationId": "1-2650278775",
+  "providerId": "1-516591398",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Insight Platform",
+  "onspdCcgCode": "E38000240",
+  "onspdCcgName": "NHS North Central London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-05-24",
+  "deregistrationDate": "2019-07-09",
+  "dormancy": "N",
+  "onspdLatitude": 51.60165,
+  "onspdLongitude": -0.066166,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "40 Bromley Road",
+  "postalAddressLine2": "Tottenham",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "N17 0AR",
+  "mainPhoneNumber": "02084938525",
+  "numberOfBeds": 0,
+  "constituency": "Tottenham",
+  "localAuthority": "Haringey",
+  "lastInspection": {
+    "date": "2017-02-21"
+  },
+  "lastReport": {
+    "publicationDate": "2017-04-18"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-7151212538",
+      "relatedLocationName": "Insight Platform",
+      "type": "HSCA Successor",
+      "reason": "NHS Transfer"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2017-04-18",
+      "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1"
+        },
+        {
+          "name": "Caring",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1"
+        },
+        {
+          "name": "Effective",
+          "rating": "Inspected but not rated",
+          "reportDate": "2017-04-18",
+          "reportLinkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1"
+        }
+      ]
+    },
+    "reportDate": "2017-04-18"
+  },
+  "reports": [
+    {
+      "linkId": "f0ea5256-ee07-4151-bf72-70041c0f3af1",
+      "reportDate": "2017-04-18",
+      "firstVisitDate": "2017-02-21",
+      "reportUri": "/reports/f0ea5256-ee07-4151-bf72-70041c0f3af1?20210119213341",
+      "reportType": "Location"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "locationId": "RYXX4",
+  "providerId": "RYX",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "Central London Community Healthcare NHS Trust Headquarters",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "registrationStatus": "Registered",
+  "registrationDate": "2017-05-30",
+  "dormancy": "N",
+  "onspdLatitude": 51.522838,
+  "onspdLongitude": -0.151539,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Ground Floor",
+  "postalAddressLine2": "15 Marylebone Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "NW1 5JD",
+  "mainPhoneNumber": "02077981300",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2023-10-31"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "RYXY8",
+      "relatedLocationName": "Central London Community Health Services - HQ",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Transport services, triage and medical advice provided remotely",
+      "code": "RA10",
+      "contacts": []
+    },
+    {
+      "name": "Maternity and midwifery services",
+      "code": "RA11",
+      "contacts": []
+    },
+    {
+      "name": "Family planning",
+      "code": "RA15",
+      "contacts": []
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": []
+    },
+    {
+      "name": "Surgical procedures",
+      "code": "RA7",
+      "contacts": []
+    },
+    {
+      "name": "Diagnostic and screening procedures",
+      "code": "RA8",
+      "contacts": []
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Ambulances",
+      "description": "Ambulance service"
+    },
+    {
+      "name": "Community services - Healthcare",
+      "description": "Community healthcare service"
+    },
+    {
+      "name": "Dentist",
+      "description": "Dental service"
+    },
+    {
+      "name": "Diagnosis/screening",
+      "description": "Diagnostic and/or screening service"
+    },
+    {
+      "name": "Doctors/Gps",
+      "description": "Doctors treatment service"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Long-term conditions",
+      "description": "Long term conditions services"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Phone/online advice",
+      "description": "Remote clinical advice service"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Caring for people whose rights are restricted under the Mental Health Act"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H2",
+      "name": "Acute hospital - NHS specialist"
+    },
+    {
+      "code": "H5",
+      "name": "Ambulance service"
+    },
+    {
+      "code": "H6",
+      "primary": "true",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "H9",
+      "name": "Mental health - community \u0026 residential - NHS"
+    },
+    {
+      "code": "P1",
+      "name": "Dentists"
+    },
+    {
+      "code": "P5",
+      "name": "Remote clinical advice"
+    },
+    {
+      "code": "P7",
+      "name": "Independent consulting doctors"
+    }
+  ],
+  "inspectionAreas": [],
+  "providerInspectionAreas": [
+    {
+      "inspectionAreaId": "chsadults",
+      "reports": [
+        {
+          "inspectionId": "INS2-13943849391",
+          "reportLinkId": "a9b4eb12-0dce-4a05-aa2a-3a9ae8367144",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        },
+        {
+          "inspectionId": "INS2-4551279192",
+          "reportLinkId": "aec44af6-b8ef-4001-a574-5f6654a631b8",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        },
+        {
+          "inspectionId": "SPL1-1894873407",
+          "reportLinkId": "fa20f7c4-c5fe-4922-ab6a-c8433169b00f",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chschildren",
+      "reports": [
+        {
+          "inspectionId": "INS2-4551279192",
+          "reportLinkId": "a928e71b-1b7f-42ad-bd95-9b59ef8afab7",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        },
+        {
+          "inspectionId": "INS2-7807668201",
+          "reportLinkId": "f9233838-94a9-4097-9a6c-1cadd5a1610b",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        },
+        {
+          "inspectionId": "SPL1-1894873407",
+          "reportLinkId": "d1028e06-a794-415e-85c7-252314ee2fd4",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsinpatient",
+      "reports": [
+        {
+          "inspectionId": "INS2-4551279192",
+          "reportLinkId": "c5f4666e-7455-4b2b-9bd3-5844cc7ccb71",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chslife",
+      "reports": [
+        {
+          "inspectionId": "INS2-4551279192",
+          "reportLinkId": "99da67be-05c9-4c80-9f95-636be6286744",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "chsurgent",
+      "reports": [
+        {
+          "inspectionId": "SPL1-1894873407",
+          "reportLinkId": "46652912-2d00-4e42-bc6c-dac894f3272a",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        }
+      ]
+    },
+    {
+      "inspectionAreaId": "communitysexual",
+      "reports": [
+        {
+          "inspectionId": "INS2-17595941611",
+          "reportLinkId": "c69b0c25-67dc-47c5-86ea-72dea8086136",
+          "providerId": "RYX",
+          "locationId": "RYXX4"
+        }
+      ]
+    }
+  ]
+}

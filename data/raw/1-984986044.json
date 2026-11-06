@@ -1,0 +1,103 @@
+{
+  "locationId": "1-984986044",
+  "providerId": "1-149412601",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "YPS Greenwich",
+  "brandId": "BD273",
+  "brandName": "BRAND KCA (UK)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2014-01-22",
+  "deregistrationDate": "2015-07-03",
+  "dormancy": "N",
+  "onspdLatitude": 51.489497,
+  "onspdLongitude": 0.06798,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "The Point",
+  "postalAddressLine2": "47 Woolwich New Road",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 6EW",
+  "numberOfBeds": 0,
+  "constituency": "Greenwich and Woolwich",
+  "localAuthority": "Greenwich",
+  "lastInspection": {
+    "date": "2014-02-11"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-552373511",
+      "relatedLocationName": "YPS Greenwich",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-2110758458",
+      "relatedLocationName": "YPS Greenwich",
+      "type": "HSCA Successor",
+      "reason": "Legal Entity Change"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "primary": "true",
+      "name": "Community substance misuse"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "No published rating",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    }
+  },
+  "reports": [
+    {
+      "linkId": "da4d3862-891d-4d71-8379-1fafcac18006",
+      "reportDate": "2014-03-13",
+      "firstVisitDate": "2014-02-11",
+      "reportUri": "/reports/da4d3862-891d-4d71-8379-1fafcac18006?20200129163919"
+    }
+  ]
+}

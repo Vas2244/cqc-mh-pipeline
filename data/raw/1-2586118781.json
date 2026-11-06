@@ -1,0 +1,228 @@
+{
+  "locationId": "1-2586118781",
+  "providerId": "1-101667553",
+  "organisationType": "Location",
+  "type": "Social Care Org",
+  "name": "Rainbow Medical Services Ltd",
+  "onspdCcgCode": "E38000245",
+  "onspdCcgName": "NHS South West London CCG",
+  "onspdIcbCode": "E54000031",
+  "onspdIcbName": "NHS South West London Integrated Care Board",
+  "odsCode": "VN1HF",
+  "registrationStatus": "Registered",
+  "registrationDate": "2016-05-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.415613,
+  "onspdLongitude": -0.153394,
+  "careHome": "N",
+  "inspectionDirectorate": "Adult social care",
+  "postalAddressLine1": "179-181 Streatham Road",
+  "postalAddressTownCity": "Mitcham",
+  "postalAddressCounty": "Surrey",
+  "region": "London",
+  "postalCode": "CR4 2AG",
+  "mainPhoneNumber": "02086485066",
+  "numberOfBeds": 0,
+  "constituency": "Mitcham and Morden",
+  "localAuthority": "Merton",
+  "lastInspection": {
+    "date": "2021-03-18"
+  },
+  "lastReport": {
+    "publicationDate": "2021-04-13"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-108384875",
+      "relatedLocationName": "Rainbow Medical Services",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [
+    {
+      "name": "Personal care",
+      "code": "RA1",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Chenai Noreen",
+          "personFamilyName": "Powell",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Treatment of disease, disorder or injury",
+      "code": "RA5",
+      "contacts": [
+        {
+          "personTitle": "Ms",
+          "personGivenName": "Chenai Noreen",
+          "personFamilyName": "Powell",
+          "personRoles": [
+            "Registered Manager"
+          ]
+        }
+      ]
+    }
+  ],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Hospice",
+      "description": "Hospice services"
+    },
+    {
+      "name": "Community services - Learning disabilities",
+      "description": "Community based services for people with a learning disability"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Caring for children"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H12",
+      "name": "Hospice services"
+    },
+    {
+      "code": "H8",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "S2",
+      "primary": "true",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2020-10-16",
+      "reportLinkId": "aa4ff09b-cf83-47e5-bf3e-218575ea3cd8",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2020-10-16",
+          "reportLinkId": "aa4ff09b-cf83-47e5-bf3e-218575ea3cd8"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2020-10-16",
+          "reportLinkId": "aa4ff09b-cf83-47e5-bf3e-218575ea3cd8"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2017-10-10",
+          "reportLinkId": "7b3c3716-840b-4148-a0bf-4d746e082cd9"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2017-10-10",
+          "reportLinkId": "7b3c3716-840b-4148-a0bf-4d746e082cd9"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2017-10-10",
+          "reportLinkId": "7b3c3716-840b-4148-a0bf-4d746e082cd9"
+        }
+      ]
+    },
+    "reportDate": "2020-10-16"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2021-04-13",
+      "reportLinkId": "a629ef67-2c98-4b9b-9a90-89be9e1e314b",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    },
+    {
+      "reportDate": "2017-10-10",
+      "reportLinkId": "7b3c3716-840b-4148-a0bf-4d746e082cd9",
+      "overall": {
+        "rating": "Good",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Good"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Good"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "a629ef67-2c98-4b9b-9a90-89be9e1e314b",
+      "reportDate": "2021-04-13",
+      "firstVisitDate": "2021-03-18",
+      "reportUri": "/reports/a629ef67-2c98-4b9b-9a90-89be9e1e314b?20210419120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "aa4ff09b-cf83-47e5-bf3e-218575ea3cd8",
+      "reportDate": "2020-10-16",
+      "firstVisitDate": "2020-09-23",
+      "reportUri": "/reports/aa4ff09b-cf83-47e5-bf3e-218575ea3cd8?20220727120000",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "7b3c3716-840b-4148-a0bf-4d746e082cd9",
+      "reportDate": "2017-10-10",
+      "firstVisitDate": "2017-08-16",
+      "reportUri": "/reports/7b3c3716-840b-4148-a0bf-4d746e082cd9?20211030120000",
+      "reportType": "Location"
+    }
+  ]
+}

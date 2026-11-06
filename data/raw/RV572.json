@@ -1,0 +1,53 @@
+{
+  "locationId": "RV572",
+  "providerId": "RV5",
+  "organisationType": "Location",
+  "type": "NHS Healthcare Organisation",
+  "name": "The Turrets",
+  "brandId": "Q71",
+  "brandName": "NHS England London",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2013-10-25",
+  "deregistrationDate": "2014-03-04",
+  "dormancy": "N",
+  "onspdLatitude": 51.420454,
+  "onspdLongitude": -0.125814,
+  "careHome": "Y",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "16 Streatham Common South",
+  "postalAddressTownCity": "Streatham Common",
+  "postalAddressCounty": "London",
+  "region": "London",
+  "postalCode": "SW16 3BT",
+  "mainPhoneNumber": "02032288070",
+  "numberOfBeds": 0,
+  "constituency": "Streatham and Croydon North",
+  "localAuthority": "Lambeth",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Nursing homes",
+      "description": "Care home service with nursing"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Mental health conditions"
+    }
+  ],
+  "inspectionAreas": []
+}

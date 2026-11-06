@@ -1,0 +1,167 @@
+{
+  "locationId": "1-109524228",
+  "providerId": "1-101678548",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Consensa Care Limited - Highbury Gardens",
+  "onspdCcgCode": "E38000255",
+  "onspdCcgName": "NHS North East London CCG",
+  "onspdIcbCode": "E54000029",
+  "onspdIcbName": "NHS North East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2010-11-30",
+  "deregistrationDate": "2016-05-06",
+  "dormancy": "N",
+  "onspdLatitude": 51.5607014,
+  "onspdLongitude": 0.0938936,
+  "careHome": "Y",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "67-69 Highbury Gardens",
+  "postalAddressTownCity": "Ilford",
+  "postalAddressCounty": "Essex",
+  "region": "London",
+  "postalCode": "IG3 8AF",
+  "uprn": "10023191832",
+  "mainPhoneNumber": "02085901555",
+  "website": "www.consensacare.com",
+  "numberOfBeds": 6,
+  "constituency": "Ilford South",
+  "localAuthority": "Redbridge",
+  "lastInspection": {
+    "date": "2015-01-19"
+  },
+  "lastReport": {
+    "publicationDate": "2015-06-01"
+  },
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Residential homes",
+      "description": "Care home service without nursing"
+    },
+    {
+      "name": "Rehabilitation (illness/injury)",
+      "description": "Rehabilitation services"
+    },
+    {
+      "name": "Rehabilitation (substance abuse)",
+      "description": "Residential substance misuse treatment and/or rehabilitation service"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H10",
+      "primary": "true",
+      "name": "Residential substance misuse"
+    },
+    {
+      "code": "H6",
+      "name": "Community health - NHS \u0026 Independent"
+    },
+    {
+      "code": "S1",
+      "name": "Residential social care"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Inspected but not rated",
+      "reportDate": "2015-06-01",
+      "reportLinkId": "081bb1ee-e975-4838-ae91-a4f54f7d8f9f",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Well-led",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Caring",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Responsive",
+          "rating": "No published rating"
+        },
+        {
+          "name": "Effective",
+          "rating": "No published rating"
+        }
+      ]
+    },
+    "reportDate": "2015-06-01"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2014-07-30",
+      "reportLinkId": "07077e53-72c9-466e-b5dc-04ee85b7a082",
+      "overall": {
+        "rating": "Inspected but not rated"
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "081bb1ee-e975-4838-ae91-a4f54f7d8f9f",
+      "reportDate": "2015-06-01",
+      "firstVisitDate": "2015-01-19",
+      "reportUri": "/reports/081bb1ee-e975-4838-ae91-a4f54f7d8f9f?20210125064828",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "6ce467df-25aa-46a5-ba1b-a3e692545956",
+      "reportDate": "2014-09-02",
+      "firstVisitDate": "2014-04-29",
+      "reportUri": "/reports/6ce467df-25aa-46a5-ba1b-a3e692545956?20160905120000"
+    },
+    {
+      "linkId": "07077e53-72c9-466e-b5dc-04ee85b7a082",
+      "reportDate": "2014-07-30",
+      "reportUri": "/reports/07077e53-72c9-466e-b5dc-04ee85b7a082?20210127224529",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "78f4188d-ce5e-414e-994d-4095de96f9a8",
+      "reportDate": "2013-12-31",
+      "firstVisitDate": "2013-12-04",
+      "reportUri": "/reports/78f4188d-ce5e-414e-994d-4095de96f9a8?20151016191357"
+    },
+    {
+      "linkId": "b996f4ae-6581-408d-b524-3c8cf89e2d56",
+      "reportDate": "2013-05-25",
+      "firstVisitDate": "2013-04-30",
+      "reportUri": "/reports/b996f4ae-6581-408d-b524-3c8cf89e2d56?20151016191357"
+    },
+    {
+      "linkId": "3b052bbf-5bda-406b-9931-d8fcf23a477e",
+      "reportDate": "2012-07-13",
+      "firstVisitDate": "2012-06-14",
+      "reportUri": "/reports/3b052bbf-5bda-406b-9931-d8fcf23a477e?20200430120000"
+    },
+    {
+      "linkId": "87f9292f-011e-44f4-96b5-7933348b98d4",
+      "reportDate": "2011-11-27",
+      "firstVisitDate": "2011-09-28",
+      "reportUri": "/reports/87f9292f-011e-44f4-96b5-7933348b98d4?20200430120000"
+    }
+  ]
+}

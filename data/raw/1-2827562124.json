@@ -1,0 +1,204 @@
+{
+  "locationId": "1-2827562124",
+  "providerId": "1-468267562",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Brevin Home Care",
+  "onspdCcgCode": "E38000256",
+  "onspdCcgName": "NHS North West London CCG",
+  "onspdIcbCode": "E54000071",
+  "onspdIcbName": "NHS West and North London Integrated Care Board",
+  "odsCode": "VN9F7",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2016-08-15",
+  "deregistrationDate": "2020-02-26",
+  "dormancy": "N",
+  "onspdLatitude": 51.495814,
+  "onspdLongitude": -0.145746,
+  "careHome": "N",
+  "inspectionDirectorate": "Hospitals",
+  "postalAddressLine1": "Terminal House",
+  "postalAddressLine2": "52 Grosvenor Gardens",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SW1W 0AU",
+  "numberOfBeds": 0,
+  "constituency": "Cities of London and Westminster",
+  "localAuthority": "Westminster",
+  "lastInspection": {
+    "date": "2019-04-08"
+  },
+  "lastReport": {
+    "publicationDate": "2019-05-24"
+  },
+  "relationships": [
+    {
+      "relatedLocationId": "1-8419225479",
+      "relatedLocationName": "Claimont Health Ltd",
+      "type": "HSCA Successor",
+      "reason": "Location Move"
+    },
+    {
+      "relatedLocationId": "1-923830778",
+      "relatedLocationName": "Brevin Home Care",
+      "type": "HSCA Predecessor",
+      "reason": "Location Move"
+    }
+  ],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Homecare agencies",
+      "description": "Domiciliary care service"
+    },
+    {
+      "name": "Mobile doctors",
+      "description": "Mobile doctors service"
+    },
+    {
+      "name": "Community services - Mental Health",
+      "description": "Community based services for people with mental health needs"
+    },
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Caring for adults over 65 yrs"
+    },
+    {
+      "name": "Caring for adults under 65 yrs"
+    },
+    {
+      "name": "Dementia"
+    },
+    {
+      "name": "Eating disorders"
+    },
+    {
+      "name": "Learning disabilities"
+    },
+    {
+      "name": "Mental health conditions"
+    },
+    {
+      "name": "Physical disabilities"
+    },
+    {
+      "name": "Sensory impairment"
+    },
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionCategories": [
+    {
+      "code": "H7",
+      "name": "Community substance misuse"
+    },
+    {
+      "code": "H8",
+      "primary": "true",
+      "name": "Mental health - community \u0026 hospital - independent"
+    },
+    {
+      "code": "P6",
+      "name": "Urgent care services \u0026 mobile doctors"
+    },
+    {
+      "code": "S2",
+      "name": "Community based adult social care services"
+    }
+  ],
+  "inspectionAreas": [],
+  "currentRatings": {
+    "overall": {
+      "rating": "Good",
+      "reportDate": "2019-05-24",
+      "reportLinkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2",
+      "keyQuestionRatings": [
+        {
+          "name": "Safe",
+          "rating": "Good",
+          "reportDate": "2019-05-24",
+          "reportLinkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2"
+        },
+        {
+          "name": "Well-led",
+          "rating": "Good",
+          "reportDate": "2019-05-24",
+          "reportLinkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2"
+        },
+        {
+          "name": "Caring",
+          "rating": "Good",
+          "reportDate": "2019-05-24",
+          "reportLinkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2"
+        },
+        {
+          "name": "Responsive",
+          "rating": "Good",
+          "reportDate": "2019-05-24",
+          "reportLinkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2"
+        },
+        {
+          "name": "Effective",
+          "rating": "Good",
+          "reportDate": "2019-05-24",
+          "reportLinkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2"
+        }
+      ]
+    },
+    "reportDate": "2019-05-24"
+  },
+  "historicRatings": [
+    {
+      "reportDate": "2017-03-30",
+      "reportLinkId": "fc1eebe0-69ec-4e3e-895a-6a7f28b65518",
+      "overall": {
+        "rating": "Inspected but not rated",
+        "keyQuestionRatings": [
+          {
+            "name": "Safe",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Well-led",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Caring",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Responsive",
+            "rating": "Inspected but not rated"
+          },
+          {
+            "name": "Effective",
+            "rating": "Inspected but not rated"
+          }
+        ]
+      }
+    }
+  ],
+  "reports": [
+    {
+      "linkId": "62542234-ce5d-4288-b3c8-7d15b7f4aad2",
+      "reportDate": "2019-05-24",
+      "firstVisitDate": "2019-04-08",
+      "reportUri": "/reports/62542234-ce5d-4288-b3c8-7d15b7f4aad2?20210116072242",
+      "reportType": "Location"
+    },
+    {
+      "linkId": "fc1eebe0-69ec-4e3e-895a-6a7f28b65518",
+      "reportDate": "2017-03-30",
+      "firstVisitDate": "2017-01-25",
+      "reportUri": "/reports/fc1eebe0-69ec-4e3e-895a-6a7f28b65518?20210119233108",
+      "reportType": "Location"
+    }
+  ]
+}

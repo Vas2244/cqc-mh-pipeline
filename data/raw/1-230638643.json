@@ -1,0 +1,45 @@
+{
+  "locationId": "1-230638643",
+  "providerId": "1-125892604",
+  "organisationType": "Location",
+  "type": "Independent Healthcare Org",
+  "name": "Greenwich Prescribing",
+  "brandId": "BD270",
+  "brandName": "BRAND CGL (Change Grow Live)",
+  "onspdCcgCode": "E38000244",
+  "onspdCcgName": "NHS South East London CCG",
+  "onspdIcbCode": "E54000030",
+  "onspdIcbName": "NHS South East London Integrated Care Board",
+  "registrationStatus": "Deregistered",
+  "registrationDate": "2011-07-05",
+  "deregistrationDate": "2013-03-19",
+  "dormancy": "N",
+  "onspdLatitude": 51.490405,
+  "onspdLongitude": 0.065484,
+  "careHome": "N",
+  "inspectionDirectorate": "Unspecified",
+  "postalAddressLine1": "Block P, Rooms 20-26, Island Business Centre",
+  "postalAddressLine2": "Polytechnic Street",
+  "postalAddressTownCity": "London",
+  "region": "London",
+  "postalCode": "SE18 6PF",
+  "mainPhoneNumber": "02088555872",
+  "website": "www.cri.org.uk",
+  "constituency": "Greenwich and Woolwich",
+  "localAuthority": "Greenwich",
+  "relationships": [],
+  "locationTypes": [],
+  "regulatedActivities": [],
+  "gacServiceTypes": [
+    {
+      "name": "Community services - Substance abuse",
+      "description": "Community based services for people who misuse substances"
+    }
+  ],
+  "specialisms": [
+    {
+      "name": "Substance misuse problems"
+    }
+  ],
+  "inspectionAreas": []
+}
